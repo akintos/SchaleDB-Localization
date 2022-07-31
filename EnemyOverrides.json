@@ -1,0 +1,249 @@
+[
+    {
+        "Id": 7306100,
+        "NameEn": "Hod"
+    },
+    {
+        "Id": 7306200,
+        "NameEn": "Hod"
+    },
+    {
+        "Id": 7306300,
+        "NameEn": "Hod"
+    },
+    {
+        "Id": 7306400,
+        "NameEn": "Hod"
+    },
+    {
+        "Id": 7306500,
+        "NameEn": "Hod"
+    },
+    {
+        "Id": 7306600,
+        "NameEn": "Hod"
+    },
+    {
+        "Id": 7305101,
+        "NameEn": "Perorominion",
+        "NameJp": "ペロロミニオン"
+    },
+    {
+        "Id": 7305190,
+        "NameEn": "Perorominion (Broken)",
+        "NameJp": "壊れたペロロミニオン"
+    },
+    {
+        "Id": 7305601,
+        "NameEn": "Perorominion",
+        "NameJp": "ペロロミニオン"
+    },
+    {
+        "Id": 7305690,
+        "NameEn": "Perorominion (Broken)",
+        "NameJp": "壊れたペロロミニオン"
+    },
+    {
+        "Id": 7305690,
+        "NameEn": "Perorominion (Broken)",
+        "NameJp": "壊れたペロロミニオン"
+    },
+    {
+        "Id": 7306101,
+        "NameEn": "Invader Pillar",
+        "NameJp": "インベイドピラー"
+    },
+    {
+        "Id": 7306102,
+        "NameEn": "Invader Pillar",
+        "NameJp": "インベイドピラー"
+    },
+    {
+        "Id": 7306201,
+        "NameEn": "Invader Pillar",
+        "NameJp": "インベイドピラー"
+    },
+    {
+        "Id": 7306202,
+        "NameEn": "Invader Pillar",
+        "NameJp": "インベイドピラー"
+    },
+    {
+        "Id": 7306301,
+        "NameEn": "Invader Pillar",
+        "NameJp": "インベイドピラー"
+    },
+    {
+        "Id": 7306302,
+        "NameEn": "Invader Pillar",
+        "NameJp": "インベイドピラー"
+    },
+    {
+        "Id": 7306401,
+        "NameEn": "Invader Pillar",
+        "NameJp": "インベイドピラー"
+    },
+    {
+        "Id": 7306402,
+        "NameEn": "Invader Pillar",
+        "NameJp": "インベイドピラー"
+    },
+    {
+        "Id": 7306501,
+        "NameEn": "Invader Pillar",
+        "NameJp": "インベイドピラー"
+    },
+    {
+        "Id": 7306502,
+        "NameEn": "Invader Pillar",
+        "NameJp": "インベイドピラー"
+    },
+    {
+        "Id": 7306601,
+        "NameEn": "Invader Pillar",
+        "NameJp": "インベイドピラー"
+    },
+    {
+        "Id": 7306602,
+        "NameEn": "Invader Pillar",
+        "NameJp": "インベイドピラー"
+    },
+    {
+        "Id": 7823099,
+        "NameEn": "Scarecrow",
+        "NameJp": "かかし",
+        "Icon": "EnemyInfo_Totem03_TimeAttack"
+    },
+    {
+        "Id": 7823199,
+        "NameEn": "Scarecrow",
+        "NameJp": "かかし",
+        "Icon": "EnemyInfo_Totem03_TimeAttack"
+    },
+    {
+        "Id": 7823299,
+        "NameEn": "Scarecrow",
+        "NameJp": "かかし",
+        "Icon": "EnemyInfo_Totem03_TimeAttack"
+    },
+    {
+        "Id": 7311000,
+        "NameEn": "Wakamo (Swimsuit)",
+        "NameJp": "ワカモ（水着）"
+    },    
+    {
+        "Id": 7311100,
+        "NameEn": "Wakamo (Swimsuit)",
+        "NameJp": "ワカモ（水着）"
+    },    
+    {
+        "Id": 7311200,
+        "NameEn": "Wakamo (Swimsuit)",
+        "NameJp": "ワカモ（水着）"
+    },    
+    {
+        "Id": 7310100,
+        "NameEn": "Wakamo (Hovercraft)",
+        "NameJp": "ワカモ（ホバークラフト）"
+    },
+    {
+        "Id": 7310110,
+        "NameEn": "Ampoule Missile",
+        "NameJp": "アンプルミサイル"
+    },
+    {
+        "Id": 7310120,
+        "NameEn": "Shark Missile",
+        "NameJp": "シャークミサイル"
+    },
+    {
+        "Id": 7310130,
+        "NameEn": "Missile",
+        "NameJp": "ミサイル"
+    },
+    {
+        "Id": 7310140,
+        "NameEn": "Black Missile",
+        "NameJp": "ブラックミサイル"
+    },
+    {
+        "Id": 7310150,
+        "NameEn": "Helmet Gang's Handmade Missile",
+        "NameJp": "ヘルメット団お手製ミサイル"
+    },
+    {
+        "Id": 7310160,
+        "NameEn": "Resort",
+        "NameJp": "再建中のリゾート"
+    },
+    {
+        "Id": 7310200,
+        "NameEn": "Wakamo (Hovercraft)",
+        "NameJp": "ワカモ（ホバークラフト）"
+    },
+    {
+        "Id": 7310210,
+        "NameEn": "Ampoule Missile",
+        "NameJp": "アンプルミサイル"
+    },
+    {
+        "Id": 7310220,
+        "NameEn": "Shark Missile",
+        "NameJp": "シャークミサイル"
+    },
+    {
+        "Id": 7310230,
+        "NameEn": "Missile",
+        "NameJp": "ミサイル"
+    },
+    {
+        "Id": 7310240,
+        "NameEn": "Black Missile",
+        "NameJp": "ブラックミサイル"
+    },
+    {
+        "Id": 7310250,
+        "NameEn": "Helmet Gang's Handmade Missile",
+        "NameJp": "ヘルメット団お手製ミサイル"
+    },
+    {
+        "Id": 7310260,
+        "NameEn": "Resort",
+        "NameJp": "再建中のリゾート"
+    },
+    {
+        "Id": 7310300,
+        "NameEn": "Wakamo (Hovercraft)",
+        "NameJp": "ワカモ（ホバークラフト）"
+    },
+    {
+        "Id": 7310310,
+        "NameEn": "Ampoule Missile",
+        "NameJp": "アンプルミサイル"
+    },
+    {
+        "Id": 7310320,
+        "NameEn": "Shark Missile",
+        "NameJp": "シャークミサイル"
+    },
+    {
+        "Id": 7310330,
+        "NameEn": "Missile",
+        "NameJp": "ミサイル"
+    },
+    {
+        "Id": 7310340,
+        "NameEn": "Black Missile",
+        "NameJp": "ブラックミサイル"
+    },
+    {
+        "Id": 7310350,
+        "NameEn": "Helmet Gang's Handmade Missile",
+        "NameJp": "ヘルメット団お手製ミサイル"
+    },
+    {
+        "Id": 7310360,
+        "NameEn": "Resort",
+        "NameJp": "再建中のリゾート"
+    }
+]
