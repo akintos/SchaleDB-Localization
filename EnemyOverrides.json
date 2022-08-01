@@ -112,39 +112,53 @@
         "Id": 7823099,
         "NameEn": "Scarecrow",
         "NameJp": "かかし",
+        "NameTw": "稻草人",
+        "NameCn": "稻草人",
         "Icon": "EnemyInfo_Totem03_TimeAttack"
     },
     {
         "Id": 7823199,
         "NameEn": "Scarecrow",
         "NameJp": "かかし",
+        "NameTw": "稻草人",
+        "NameCn": "稻草人",
         "Icon": "EnemyInfo_Totem03_TimeAttack"
     },
     {
         "Id": 7823299,
         "NameEn": "Scarecrow",
         "NameJp": "かかし",
+        "NameTw": "稻草人",
+        "NameCn": "稻草人",
         "Icon": "EnemyInfo_Totem03_TimeAttack"
     },
     {
         "Id": 7311000,
         "NameEn": "Wakamo (Swimsuit)",
-        "NameJp": "ワカモ（水着）"
+        "NameJp": "ワカモ（水着）",
+        "NameTw": "若藻(泳裝)",
+        "NameCn": "若藻(泳装)"
     },    
     {
         "Id": 7311100,
         "NameEn": "Wakamo (Swimsuit)",
-        "NameJp": "ワカモ（水着）"
+        "NameJp": "ワカモ（水着）",
+        "NameTw": "若藻(泳裝)",
+        "NameCn": "若藻(泳装)"
     },    
     {
         "Id": 7311200,
         "NameEn": "Wakamo (Swimsuit)",
-        "NameJp": "ワカモ（水着）"
+        "NameJp": "ワカモ（水着）",
+        "NameTw": "若藻(泳裝)",
+        "NameCn": "若藻(泳装)"
     },    
     {
         "Id": 7310100,
         "NameEn": "Wakamo (Hovercraft)",
-        "NameJp": "ワカモ（ホバークラフト）"
+        "NameJp": "ワカモ（ホバークラフト）",
+        "NameTw": "若藻(氣墊船)",
+        "NameCn": "若藻(气垫船)"
     },
     {
         "Id": 7310110,
@@ -169,7 +183,9 @@
     {
         "Id": 7310150,
         "NameEn": "Helmet Gang's Handmade Missile",
-        "NameJp": "ヘルメット団お手製ミサイル"
+        "NameJp": "ヘルメット団お手製ミサイル",
+        "NameTw": "鋼盔團的自製飛彈",
+        "NameCn": "钢盔团的自制导弹"
     },
     {
         "Id": 7310160,
@@ -179,7 +195,9 @@
     {
         "Id": 7310200,
         "NameEn": "Wakamo (Hovercraft)",
-        "NameJp": "ワカモ（ホバークラフト）"
+        "NameJp": "ワカモ（ホバークラフト）",
+        "NameTw": "若藻(氣墊船)",
+        "NameCn": "若藻(气垫船)"
     },
     {
         "Id": 7310210,
@@ -194,7 +212,9 @@
     {
         "Id": 7310230,
         "NameEn": "Missile",
-        "NameJp": "ミサイル"
+        "NameJp": "ミサイル",
+        "NameTw": "飛彈",
+        "NameCn": "导弹"
     },
     {
         "Id": 7310240,
@@ -214,7 +234,9 @@
     {
         "Id": 7310300,
         "NameEn": "Wakamo (Hovercraft)",
-        "NameJp": "ワカモ（ホバークラフト）"
+        "NameJp": "ワカモ（ホバークラフト）",
+        "NameTw": "若藻(氣墊船)",
+        "NameCn": "若藻(气垫船)"
     },
     {
         "Id": 7310310,
@@ -229,7 +251,9 @@
     {
         "Id": 7310330,
         "NameEn": "Missile",
-        "NameJp": "ミサイル"
+        "NameJp": "ミサイル",
+        "NameTw": "飛彈",
+        "NameCn": "导弹"
     },
     {
         "Id": 7310340,
@@ -239,7 +263,9 @@
     {
         "Id": 7310350,
         "NameEn": "Helmet Gang's Handmade Missile",
-        "NameJp": "ヘルメット団お手製ミサイル"
+        "NameJp": "ヘルメット団お手製ミサイル",
+        "NameTw": "鋼盔團的自製飛彈",
+        "NameCn": "钢盔团的自制导弹"
     },
     {
         "Id": 7310360,

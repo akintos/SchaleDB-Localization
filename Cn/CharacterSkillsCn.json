@@ -379,7 +379,7 @@
         {
             "SkillId": 10003200,
             "NameCn": "佩洛洛，帮帮我！",
-            "DescriptionCn": "召唤佩洛洛人偶，对圆形范围内的敌人造成攻击力<?1>伤害/\n<c:Provoke>(<?2>内)/\n佩洛洛人偶拥有日步美最大体力的160%。",
+            "DescriptionCn": "召唤佩洛洛人偶，对圆形范围内的敌人造成攻击力<?1>伤害/\n<c:Provoke>(<?2>内)/\n佩洛洛人偶拥有日富美最大体力的160%。",
             "ParametersCn": [
                 [
                     "202%",
@@ -4302,7 +4302,7 @@
         {
             "SkillId": 23004200,
             "NameCn": "雷霆登场",
-            "DescriptionCn": "召唤砲塔，砲塔拥有咏叶攻击力的<?1>。(30秒内)",
+            "DescriptionCn": "召唤砲塔，砲塔拥有歌原攻击力的<?1>。(30秒内)",
             "ParametersCn": [
                 [
                     "81.4%",
@@ -4321,7 +4321,7 @@
         {
             "SkillId": 23004300,
             "NameCn": "雷霆MK-II启动",
-            "DescriptionCn": "每30秒召唤砲塔，砲塔拥有咏叶攻击力的<?1>。(20秒内)",
+            "DescriptionCn": "每30秒召唤砲塔，砲塔拥有歌原攻击力的<?1>。(20秒内)",
             "ParametersCn": [
                 [
                     "38.2%",
@@ -5336,7 +5336,7 @@
         },
         {
             "SkillId": 10014200,
-            "NameCn": "伊树菜忍法帖！",
+            "NameCn": "泉奈忍法帖！",
             "DescriptionCn": "移动到指定位置后，<b:AttackSpeed>增加<?1>(30秒内)",
             "ParametersCn": [
                 [
@@ -5374,7 +5374,7 @@
         },
         {
             "SkillId": 10014400,
-            "NameCn": "伊树菜流忍法！针扎术！",
+            "NameCn": "泉奈流忍法！针扎术！",
             "DescriptionCn": "<b:CriticalDamage>增加<?1>",
             "ParametersCn": [
                 [
@@ -5393,7 +5393,7 @@
         },
         {
             "SkillId": 10014500,
-            "NameCn": "伊树菜流忍法！茁壮气息之术！",
+            "NameCn": "泉奈流忍法！茁壮气息之术！",
             "DescriptionCn": "使用Ex技能时<b:ATK>增加<?1>(30秒内)",
             "ParametersCn": [
                 [
@@ -5412,7 +5412,7 @@
         },
         {
             "SkillId": 10014450,
-            "NameCn": "伊树菜流忍法！针扎术！+",
+            "NameCn": "泉奈流忍法！针扎术！+",
             "DescriptionCn": "<b:CriticalDamage>增加<?1>\n追加：<b:CriticalDamage>增加<?2>",
             "ParametersCn": [
                 [
@@ -5981,7 +5981,7 @@
         },
         {
             "SkillId": 10017400,
-            "NameCn": "鬍鬚的力量！",
+            "NameCn": "胡须的力量！",
             "DescriptionCn": "<b:ATK>增加<?1>",
             "ParametersCn": [
                 [
@@ -6000,7 +6000,7 @@
         },
         {
             "SkillId": 10017500,
-            "NameCn": "这就是鬍鬚的权威！",
+            "NameCn": "这就是胡须的权威！",
             "DescriptionCn": "COST恢复力增加<?1>/\n部队中每1名赤冬学园学生额外增加<?2>(自身除外)(最多3人)",
             "ParametersCn": [
                 [
@@ -6031,7 +6031,7 @@
         },
         {
             "SkillId": 10017450,
-            "NameCn": "鬍鬚的力量！+",
+            "NameCn": "胡须的力量！+",
             "DescriptionCn": "<b:ATK>增加<?1>\n追加：<b:ATK>增加<?2>",
             "ParametersCn": [
                 [
@@ -6991,7 +6991,7 @@
         {
             "SkillId": 20005200,
             "NameCn": "十字军酱，拜託你了！",
-            "DescriptionCn": "日步美搭上十字军酱出现在战斗中，将日步美的<?1>攻击力追加在十字军酱上。(50秒内)\n十字军酱会在每20秒发动“填装2磅高爆弹！”，使圆形范围内的敌人受到<?2>攻击力的伤害。(战术支援的搭乘物不会重複登场。)",
+            "DescriptionCn": "日富美搭上十字军酱出现在战斗中，将日富美的<?1>攻击力追加在十字军酱上。(50秒内)\n十字军酱会在每20秒发动“填装2磅高爆弹！”，使圆形范围内的敌人受到<?2>攻击力的伤害。(战术支援的搭乘物不会重複登场。)",
             "ParametersCn": [
                 [
                     "19.4%",
@@ -8838,7 +8838,7 @@
         {
             "SkillId": 20009200,
             "NameCn": "肃清君1号，出击！",
-            "DescriptionCn": "洁莉诺搭乘肃清君1号投入战场，肃清君1号将额外获得洁莉诺的<?1>攻击力。（50秒内）\n肃清君1号每完成3次一般攻击，将自动发动“全数剷除！”技能，对1名敌人造成等同<?2>攻击力的伤害，同时对1名敌人及其身后扇形范围内的敌人造成等同<?3>攻击力的伤害。（战术支援载具不会重複出现）<?4>",
+            "DescriptionCn": "切里诺搭乘肃清君1号投入战场，肃清君1号将额外获得切里诺的<?1>攻击力。（50秒内）\n肃清君1号每完成3次一般攻击，将自动发动“全数剷除！”技能，对1名敌人造成等同<?2>攻击力的伤害，同时对1名敌人及其身后扇形范围内的敌人造成等同<?3>攻击力的伤害。（战术支援载具不会重複出现）<?4>",
             "ParametersCn": [
                 [
                     "9%",
@@ -8911,7 +8911,7 @@
         },
         {
             "SkillId": 20009400,
-            "NameCn": "鬍子的愤怒！",
+            "NameCn": "胡子的愤怒！",
             "DescriptionCn": "<b:ATK>增加<?1>",
             "ParametersCn": [
                 [
@@ -8930,7 +8930,7 @@
         },
         {
             "SkillId": 20009500,
-            "NameCn": "这就是鬍子的威力！",
+            "NameCn": "这就是胡子的威力！",
             "DescriptionCn": "我军<b:CriticalDamage>增加<?1>",
             "ParametersCn": [
                 [
@@ -8949,7 +8949,7 @@
         },
         {
             "SkillId": 20009450,
-            "NameCn": "鬍子的愤怒！+",
+            "NameCn": "胡子的愤怒！+",
             "DescriptionCn": "<b:ATK>增加<?1>\n追加：<b:ATK>增加<?2>",
             "ParametersCn": [
                 [
@@ -11124,7 +11124,7 @@
         },
         {
             "SkillId": 16009200,
-            "NameCn": "ミチル流忍法っ！！",
+            "NameCn": "满流忍法っ！！",
             "DescriptionCn": "Launches a firework in a straight line, dealing <?1> damage to the first enemy hit, plus an additional <?2> <d:Burn> damage every 4s for 20s.",
             "ParametersCn": [
                 [
@@ -11183,7 +11183,7 @@
         },
         {
             "SkillId": 16009500,
-            "NameCn": "ミチル流忍术、奥义！",
+            "NameCn": "满流忍术、奥义！",
             "DescriptionCn": "Increases <b:CriticalDamage> by <?1>. Effect is increased by an additional <?2> for every other Ninjutsu Research Club student in the same unit (up to a maximum of 3 times).",
             "ParametersCn": [
                 [
@@ -11245,7 +11245,7 @@
         },
         {
             "SkillId": 10040200,
-            "NameCn": "ツクヨ流、忍法……！",
+            "NameCn": "月咏流、忍法……！",
             "DescriptionCn": "Gains <b:HealByHit_Damaged> for 30s, restoring HP by <?1> of Healing each time Tsukuyo is attacked. (Effect can trigger up to a maximum of <b>100</b> times and Tsukuyo's <d:ATK> is decreased by <?2> for the effect's duration.)",
             "ParametersCn": [
                 [
@@ -12404,7 +12404,7 @@
         },
         {
             "SkillId": 10046200,
-            "NameCn": "イズナ流忍法・夏バージョン",
+            "NameCn": "泉奈流忍法・夏バージョン",
             "DescriptionCn": "Deals <?1> damage to one enemy and applies <d:ConcentratedTarget> to them for 30s.",
             "ParametersCn": [
                 [
@@ -12423,7 +12423,7 @@
         },
         {
             "SkillId": 10046300,
-            "NameCn": "イズナ流忍法！ぷくぷくの术！",
+            "NameCn": "泉奈流忍法！ぷくぷくの术！",
             "DescriptionCn": "Every 6 normal attacks, deals <?1> damage to one enemy and decreases their <d:CriticalDamageRateResist> by <?2> for 20s.",
             "ParametersCn": [
                 [
@@ -12473,7 +12473,7 @@
         },
         {
             "SkillId": 10046500,
-            "NameCn": "イズナ流忍法・夏バージョン奥义発动！",
+            "NameCn": "泉奈流忍法・夏バージョン奥义発动！",
             "DescriptionCn": "Every 25 times Izuna successfully lands a critical hit, increases <b:AttackSpeed> by <?1> for 23s.",
             "ParametersCn": [
                 [
