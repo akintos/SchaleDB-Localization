@@ -26,92 +26,110 @@
     {
         "Id": 7305101,
         "NameEn": "Perorominion",
-        "NameJp": "ペロロミニオン"
+        "NameJp": "ペロロミニオン",
+        "NameKr": "페로로 미니언"
     },
     {
         "Id": 7305190,
         "NameEn": "Perorominion (Broken)",
-        "NameJp": "壊れたペロロミニオン"
+        "NameJp": "壊れたペロロミニオン",
+        "NameKr": "부서진 페로로 미니언"
     },
     {
         "Id": 7305601,
         "NameEn": "Perorominion",
-        "NameJp": "ペロロミニオン"
+        "NameJp": "ペロロミニオン",
+        "NameKr": "페로로 미니언"
     },
     {
         "Id": 7305690,
         "NameEn": "Perorominion (Broken)",
-        "NameJp": "壊れたペロロミニオン"
+        "NameJp": "壊れたペロロミニオン",
+        "NameKr": "부서진 페로로 미니언"
     },
     {
         "Id": 7305690,
         "NameEn": "Perorominion (Broken)",
-        "NameJp": "壊れたペロロミニオン"
+        "NameJp": "壊れたペロロミニオン",
+        "NameKr": "부서진 페로로 미니언"
     },
     {
         "Id": 7306101,
         "NameEn": "Invader Pillar",
-        "NameJp": "インベイドピラー"
+        "NameJp": "インベイドピラー",
+        "NameKr": "침식 타워"
     },
     {
         "Id": 7306102,
         "NameEn": "Invader Pillar",
-        "NameJp": "インベイドピラー"
+        "NameJp": "インベイドピラー",
+        "NameKr": "침식 타워"
     },
     {
         "Id": 7306201,
         "NameEn": "Invader Pillar",
-        "NameJp": "インベイドピラー"
+        "NameJp": "インベイドピラー",
+        "NameKr": "침식 타워"
     },
     {
         "Id": 7306202,
         "NameEn": "Invader Pillar",
-        "NameJp": "インベイドピラー"
+        "NameJp": "インベイドピラー",
+        "NameKr": "침식 타워"
     },
     {
         "Id": 7306301,
         "NameEn": "Invader Pillar",
-        "NameJp": "インベイドピラー"
+        "NameJp": "インベイドピラー",
+        "NameKr": "침식 타워"
     },
     {
         "Id": 7306302,
         "NameEn": "Invader Pillar",
-        "NameJp": "インベイドピラー"
+        "NameJp": "インベイドピラー",
+        "NameKr": "침식 타워"
     },
     {
         "Id": 7306401,
         "NameEn": "Invader Pillar",
-        "NameJp": "インベイドピラー"
+        "NameJp": "インベイドピラー",
+        "NameKr": "침식 타워"
     },
     {
         "Id": 7306402,
         "NameEn": "Invader Pillar",
-        "NameJp": "インベイドピラー"
+        "NameJp": "インベイドピラー",
+        "NameKr": "침식 타워"
     },
     {
         "Id": 7306501,
         "NameEn": "Invader Pillar",
-        "NameJp": "インベイドピラー"
+        "NameJp": "インベイドピラー",
+        "NameKr": "침식 타워"
     },
     {
         "Id": 7306502,
         "NameEn": "Invader Pillar",
-        "NameJp": "インベイドピラー"
+        "NameJp": "インベイドピラー",
+        "NameKr": "침식 타워"
     },
     {
         "Id": 7306601,
         "NameEn": "Invader Pillar",
-        "NameJp": "インベイドピラー"
+        "NameJp": "インベイドピラー",
+        "NameKr": "침식 타워"
     },
     {
         "Id": 7306602,
         "NameEn": "Invader Pillar",
-        "NameJp": "インベイドピラー"
+        "NameJp": "インベイドピラー",
+        "NameKr": "침식 타워"
     },
     {
         "Id": 7823099,
         "NameEn": "Scarecrow",
         "NameJp": "かかし",
+        "NameKr": "허수아비",
         "NameTw": "稻草人",
         "NameCn": "稻草人",
         "Icon": "EnemyInfo_Totem03_TimeAttack"
@@ -120,6 +138,7 @@
         "Id": 7823199,
         "NameEn": "Scarecrow",
         "NameJp": "かかし",
+        "NameKr": "허수아비",
         "NameTw": "稻草人",
         "NameCn": "稻草人",
         "Icon": "EnemyInfo_Totem03_TimeAttack"
@@ -128,37 +147,10 @@
         "Id": 7823299,
         "NameEn": "Scarecrow",
         "NameJp": "かかし",
+        "NameKr": "허수아비",
         "NameTw": "稻草人",
         "NameCn": "稻草人",
         "Icon": "EnemyInfo_Totem03_TimeAttack"
-    },
-    {
-        "Id": 7311000,
-        "NameEn": "Wakamo (Swimsuit)",
-        "NameJp": "ワカモ（水着）",
-        "NameTw": "若藻(泳裝)",
-        "NameCn": "若藻(泳装)"
-    },    
-    {
-        "Id": 7311100,
-        "NameEn": "Wakamo (Swimsuit)",
-        "NameJp": "ワカモ（水着）",
-        "NameTw": "若藻(泳裝)",
-        "NameCn": "若藻(泳装)"
-    },    
-    {
-        "Id": 7311200,
-        "NameEn": "Wakamo (Swimsuit)",
-        "NameJp": "ワカモ（水着）",
-        "NameTw": "若藻(泳裝)",
-        "NameCn": "若藻(泳装)"
-    },    
-    {
-        "Id": 7310100,
-        "NameEn": "Wakamo (Hovercraft)",
-        "NameJp": "ワカモ（ホバークラフト）",
-        "NameTw": "若藻(氣墊船)",
-        "NameCn": "若藻(气垫船)"
     },
     {
         "Id": 7310110,
@@ -193,13 +185,6 @@
         "NameJp": "再建中のリゾート"
     },
     {
-        "Id": 7310200,
-        "NameEn": "Wakamo (Hovercraft)",
-        "NameJp": "ワカモ（ホバークラフト）",
-        "NameTw": "若藻(氣墊船)",
-        "NameCn": "若藻(气垫船)"
-    },
-    {
         "Id": 7310210,
         "NameEn": "Ampoule Missile",
         "NameJp": "アンプルミサイル"
@@ -230,13 +215,6 @@
         "Id": 7310260,
         "NameEn": "Resort",
         "NameJp": "再建中のリゾート"
-    },
-    {
-        "Id": 7310300,
-        "NameEn": "Wakamo (Hovercraft)",
-        "NameJp": "ワカモ（ホバークラフト）",
-        "NameTw": "若藻(氣墊船)",
-        "NameCn": "若藻(气垫船)"
     },
     {
         "Id": 7310310,
@@ -271,5 +249,70 @@
         "Id": 7310360,
         "NameEn": "Resort",
         "NameJp": "再建中のリゾート"
+    },
+    {
+        "Id": 7303900,
+        "NameEn": "Green Relic",
+        "NameJp": "緑色の聖遺物"
+    },
+    {
+        "Id": 7303901,
+        "NameEn": "Green Relic",
+        "NameJp": "緑色の聖遺物"
+    },
+    {
+        "Id": 7303902,
+        "NameEn": "Green Relic",
+        "NameJp": "緑色の聖遺物"
+    },
+    {
+        "Id": 7303903,
+        "NameEn": "Green Relic",
+        "NameJp": "緑色の聖遺物"
+    },
+    {
+        "Id": 7303904,
+        "NameEn": "Green Relic",
+        "NameJp": "緑色の聖遺物"
+    },
+    {
+        "Id": 7303905,
+        "NameEn": "Green Relic",
+        "NameJp": "緑色の聖遺物"
+    },
+    {
+        "Id": 7303910,
+        "NameEn": "Red Relic",
+        "NameJp": "赤色の聖遺物"
+    },
+    {
+        "Id": 7303911,
+        "NameEn": "Red Relic",
+        "NameJp": "赤色の聖遺物"
+    },
+    {
+        "Id": 7303912,
+        "NameEn": "Red Relic",
+        "NameJp": "赤色の聖遺物"
+    },
+    {
+        "Id": 7303913,
+        "NameEn": "Red Relic",
+        "NameJp": "赤色の聖遺物"
+    },
+    {
+        "Id": 7303914,
+        "NameEn": "Red Relic",
+        "NameJp": "赤色の聖遺物"
+    },
+    {
+        "Id": 7303915,
+        "NameEn": "Red Relic",
+        "NameJp": "赤色の聖遺物"
+    },
+    {
+        "Id": 7303925,
+        "NameEn": "Purple Relic",
+        "NameJp": "紫色の聖遺物"
     }
 ]
