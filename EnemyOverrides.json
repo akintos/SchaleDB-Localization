@@ -1,27 +1,39 @@
 [
     {
         "Id": 7306100,
-        "NameEn": "Hod"
+        "NameEn": "Hod",
+        "NameTw": "霍德",
+        "NameCn": "霍德"
     },
     {
         "Id": 7306200,
-        "NameEn": "Hod"
+        "NameEn": "Hod",
+        "NameTw": "霍德",
+        "NameCn": "霍德"
     },
     {
         "Id": 7306300,
-        "NameEn": "Hod"
+        "NameEn": "Hod",
+        "NameTw": "霍德",
+        "NameCn": "霍德"
     },
     {
         "Id": 7306400,
-        "NameEn": "Hod"
+        "NameEn": "Hod",
+        "NameTw": "霍德",
+        "NameCn": "霍德"
     },
     {
         "Id": 7306500,
-        "NameEn": "Hod"
+        "NameEn": "Hod",
+        "NameTw": "霍德",
+        "NameCn": "霍德"
     },
     {
         "Id": 7306600,
-        "NameEn": "Hod"
+        "NameEn": "Hod",
+        "NameTw": "霍德",
+        "NameCn": "霍德"
     },
     {
         "Id": 7305101,
@@ -165,7 +177,9 @@
     {
         "Id": 7310130,
         "NameEn": "Missile",
-        "NameJp": "ミサイル"
+        "NameJp": "ミサイル",
+        "NameTw": "飛彈",
+        "NameCn": "导弹"
     },
     {
         "Id": 7310140,
@@ -182,7 +196,9 @@
     {
         "Id": 7310160,
         "NameEn": "Resort",
-        "NameJp": "再建中のリゾート"
+        "NameJp": "再建中のリゾート",
+        "NameTw": "重建中的度假村",
+        "NameCn": "重建中的度假村"
     },
     {
         "Id": 7310210,
@@ -209,12 +225,16 @@
     {
         "Id": 7310250,
         "NameEn": "Helmet Gang's Handmade Missile",
-        "NameJp": "ヘルメット団お手製ミサイル"
+        "NameJp": "ヘルメット団お手製ミサイル",
+        "NameTw": "鋼盔團的自製飛彈",
+        "NameCn": "钢盔团的自制导弹"
     },
     {
         "Id": 7310260,
         "NameEn": "Resort",
-        "NameJp": "再建中のリゾート"
+        "NameJp": "再建中のリゾート",
+        "NameTw": "重建中的度假村",
+        "NameCn": "重建中的度假村"
     },
     {
         "Id": 7310310,
@@ -248,71 +268,99 @@
     {
         "Id": 7310360,
         "NameEn": "Resort",
-        "NameJp": "再建中のリゾート"
+        "NameJp": "再建中のリゾート",
+        "NameTw": "重建中的度假村",
+        "NameCn": "重建中的度假村"
     },
     {
         "Id": 7303900,
         "NameEn": "Green Relic",
-        "NameJp": "緑色の聖遺物"
+        "NameJp": "緑色の聖遺物",
+        "NameTw": "綠色聖遺物",
+        "NameCn": "绿色圣遗物"
     },
     {
         "Id": 7303901,
         "NameEn": "Green Relic",
-        "NameJp": "緑色の聖遺物"
+        "NameJp": "緑色の聖遺物",
+        "NameTw": "綠色聖遺物",
+        "NameCn": "绿色圣遗物"
     },
     {
         "Id": 7303902,
         "NameEn": "Green Relic",
-        "NameJp": "緑色の聖遺物"
+        "NameJp": "緑色の聖遺物",
+        "NameTw": "綠色聖遺物",
+        "NameCn": "绿色圣遗物"
     },
     {
         "Id": 7303903,
         "NameEn": "Green Relic",
-        "NameJp": "緑色の聖遺物"
+        "NameJp": "緑色の聖遺物",
+        "NameTw": "綠色聖遺物",
+        "NameCn": "绿色圣遗物"
     },
     {
         "Id": 7303904,
         "NameEn": "Green Relic",
-        "NameJp": "緑色の聖遺物"
+        "NameJp": "緑色の聖遺物",
+        "NameTw": "綠色聖遺物",
+        "NameCn": "绿色圣遗物"
     },
     {
         "Id": 7303905,
         "NameEn": "Green Relic",
-        "NameJp": "緑色の聖遺物"
+        "NameJp": "緑色の聖遺物",
+        "NameTw": "綠色聖遺物",
+        "NameCn": "绿色圣遗物"
     },
     {
         "Id": 7303910,
         "NameEn": "Red Relic",
-        "NameJp": "赤色の聖遺物"
+        "NameJp": "赤色の聖遺物",
+        "NameTw": "紅色聖遺物",
+        "NameCn": "红色圣遗物"
     },
     {
         "Id": 7303911,
         "NameEn": "Red Relic",
-        "NameJp": "赤色の聖遺物"
+        "NameJp": "赤色の聖遺物",
+        "NameTw": "紅色聖遺物",
+        "NameCn": "红色圣遗物"
     },
     {
         "Id": 7303912,
         "NameEn": "Red Relic",
-        "NameJp": "赤色の聖遺物"
+        "NameJp": "赤色の聖遺物",
+        "NameTw": "紅色聖遺物",
+        "NameCn": "红色圣遗物"
     },
     {
         "Id": 7303913,
         "NameEn": "Red Relic",
-        "NameJp": "赤色の聖遺物"
+        "NameJp": "赤色の聖遺物",
+        "NameTw": "紅色聖遺物",
+        "NameCn": "红色圣遗物"
     },
     {
         "Id": 7303914,
         "NameEn": "Red Relic",
-        "NameJp": "赤色の聖遺物"
+        "NameJp": "赤色の聖遺物",
+        "NameTw": "紅色聖遺物",
+        "NameCn": "红色圣遗物"
     },
     {
         "Id": 7303915,
         "NameEn": "Red Relic",
-        "NameJp": "赤色の聖遺物"
+        "NameJp": "赤色の聖遺物",
+        "NameTw": "紅色聖遺物",
+        "NameCn": "红色圣遗物"
     },
     {
         "Id": 7303925,
         "NameEn": "Purple Relic",
-        "NameJp": "紫色の聖遺物"
+        "NameJp": "紫色の聖遺物",
+        "NameTw": "紫色聖遺物",
+        "NameCn": "紫色圣遗物"
     }
 ]
