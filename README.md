@@ -8,6 +8,7 @@ Please use this repository to contribute any custom translations to the site. Pl
 - /data/\[lang\]/furniture.json
 - /data/\[lang\]/items.json
 - /data/\[lang\]/students.json
+- /data/\[lang\]/localization.json
 - /crafting.json
 - /stages.json
 
