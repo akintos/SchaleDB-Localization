@@ -11965,7 +11965,7 @@
         {
             "SkillId": 10044450,
             "NameCn": "待ちきれません♧+",
-            "DescriptionCn": "Increases <b:Penetration> by <?1> and <b:ATK> by <?2>.",
+            "DescriptionCn": "Increases <b:Penetration> by <?1> and <b:AttackSpeed> by <?2>.",
             "ParametersCn": [
                 [
                     "360",
