@@ -1213,7 +1213,7 @@
                 "Kr": "버프",
                 "Th": "บัฟ",
                 "Tw": "增益效果",
-                "Cn": null
+                "Cn": "增益效果"
             },
             "Debuff": {
                 "En": "Debuff",
@@ -1221,7 +1221,7 @@
                 "Kr": "디버프",
                 "Th": "ดีบัฟ",
                 "Tw": "減益效果",
-                "Cn": null
+                "Cn": "減益效果"
             },
             "CC": {
                 "En": "Crowd Control Effect",
@@ -1229,15 +1229,15 @@
                 "Kr": "군중제어 효과에",
                 "Th": "เอฟเฟกต์กดขี่",
                 "Tw": "群控效果",
-                "Cn": null
+                "Cn": "群控效果"
             },
             "Special": {
                 "En": "Status Effect",
                 "Jp": "ステータス",
                 "Kr": null,
                 "Th": "พิเศษ",
-                "Tw": null,
-                "Cn": null
+                "Tw": "狀態效果",
+                "Cn": "状态效果"
             }
         },
         "BuffName": {
@@ -1630,8 +1630,8 @@
                 "Jp": "貫通特効",
                 "Kr": "신비 특효",
                 "Th": "โบนัสความเสียหายลึกลับ",
-                "Tw": "貫穿傷害",
-                "Cn": "贯穿伤害"
+                "Tw": "神秘傷害",
+                "Cn": "神秘伤害"
             },
             "Debuff_HealEffectiveness": {
                 "En": "Recovery Boost",
@@ -1822,7 +1822,9 @@
                 "Cn": "累积伤害"
             },
             "Special_CostRegenBan": {
-                "En": "Recovery Stop"
+                "En": "Recovery Stop",
+                "Tw": "COST停止恢復",
+                "Cn": "COST停止回复"
             },
             "Special_ImmuneCC": {
                 "En": "CC Immune",
@@ -1837,232 +1839,384 @@
         },
         "BuffNameLong": {
             "Buff_AmmoCount": {
-                "En": "Mag Count Up"
+                "En": "Mag Count Up",
+                "Tw": "裝彈數提升",
+                "Cn": "载弹量提升"
             },
             "Buff_ATK": {
-                "En": "ATK Up"
+                "En": "ATK Up",
+                "Tw": "攻擊力提升",
+                "Cn": "攻击力提升"
             },
             "Buff_AttackSpeed": {
-                "En": "ATK SPD Up"
+                "En": "ATK SPD Up",
+                "Tw": "攻擊速度提升",
+                "Cn": "攻速提升"
             },
             "Buff_BlockRate": {
-                "En": "Block Rate Up"
+                "En": "Block Rate Up",
+                "Tw": "掩護成功率提升",
+                "Cn": "掩护成功率提升"
             },
             "Buff_ConcentratedTarget": {
-                "En": "Focused Assault"
+                "En": "Focused Assault",
+                "Tw": "集中攻擊",
+                "Cn": "集中攻击"
             },
             "Buff_CostChange": {
-                "En": "EX Cost Down"
+                "En": "EX Cost Down",
+                "Tw": "EX 技能費用降低",
+                "Cn": "EX 技能费用降低"
             },
             "Buff_CostRegen": {
-                "En": "Cost Recovery Up"
+                "En": "Cost Recovery Up",
+                "Tw": "COST恢復力提升",
+                "Cn": "COST回复力提升"
             },
             "Buff_CriticalChance": {
-                "En": "Crit Up"
+                "En": "Crit Up",
+                "Tw": "暴擊數值提升",
+                "Cn": "暴击值提升"
             },
             "Buff_CriticalChanceResistPoint": {
-                "En": "Crit RES Up"
+                "En": "Crit RES Up",
+                "Tw": "暴擊抵抗力提升",
+                "Cn": "暴击抵抗力提升"
             },
             "Buff_CriticalDamage": {
-                "En": "Crit DMG Up"
+                "En": "Crit DMG Up",
+                "Tw": "暴擊傷害提升",
+                "Cn": "暴击伤害提升"
             },
             "Buff_CriticalDamageRateResist": {
-                "En": "Crit DMG RES Up"
+                "En": "Crit DMG RES Up",
+                "Tw": "暴擊傷害抵抗率提升",
+                "Cn": "暴击伤害抵抗率提升"
             },
             "Buff_DamagedRatio": {
-                "En": "Incoming Damage Down"
+                "En": "Incoming Damage Down",
+                "Tw": "遭受的傷害量降低",
+                "Cn": "遭受伤害量降低"
             },
             "Buff_DEF": {
-                "En": "DEF Up"
+                "En": "DEF Up",
+                "Tw": "防禦力提升",
+                "Cn": "防御力提升"
             },
             "Buff_Dodge": {
-                "En": "Evasion Up"
+                "En": "Evasion Up",
+                "Tw": "迴避數值提升",
+                "Cn": "回避值提升"
             },
             "Buff_DotHeal": {
-                "En": "HP Regeneration"
+                "En": "HP Regeneration",
+                "Tw": "持續恢復",
+                "Cn": "持续恢复"
             },
             "Buff_EnhanceExplosionRate": {
-                "En": "Explosive Bonus DMG Up"
+                "En": "Explosive Bonus DMG Up",
+                "Tw": "爆發傷害加成提升",
+                "Cn": "爆发伤害加成提升"
             },
             "Buff_EnhancePierceRate": {
-                "En": "Piercing Bonus DMG Up"
+                "En": "Piercing Bonus DMG Up",
+                "Tw": "貫穿傷害加成提升",
+                "Cn": "贯穿伤害加成提升"
             },
             "Buff_EnhanceMysticRate": {
-                "En": "Mystic Bonus DMG Up"
+                "En": "Mystic Bonus DMG Up",
+                "Tw": "神秘傷害加成提升",
+                "Cn": "神秘伤害加成提升"
             },
             "Buff_HealByHit_Damaged": {
-                "En": "Damage Recovery"
+                "En": "Damage Recovery",
+                "Tw": "擊中恢復",
+                "Cn": "击中回复"
             },
             "Buff_HealEffectiveness": {
-                "En": "Recovery Boost Up"
+                "En": "Recovery Boost Up",
+                "Tw": "所受恢復效果強化率提升",
+                "Cn": "所受恢复效果强化率提升"
             },
             "Buff_HealPower": {
-                "En": "Healing Up"
+                "En": "Healing Up",
+                "Tw": "治癒力提升",
+                "Cn": "治疗力提升"
             },
             "Buff_HIT": {
-                "En": "Accuracy Up"
+                "En": "Accuracy Up",
+                "Tw": "命中數值提升",
+                "Cn": "命中率提升"
             },
             "Buff_MAXHP": {
-                "En": "Max HP Up"
+                "En": "Max HP Up",
+                "Tw": "最大體力提升",
+                "Cn": "最大体力提升"
             },
             "Buff_MoveSpeed": {
-                "En": "MOV SPD Up"
+                "En": "MOV SPD Up",
+                "Tw": "移動速度提升",
+                "Cn": "移速提升"
             },
             "Buff_OppressionPower": {
-                "En": "CC Power Up"
+                "En": "CC Power Up",
+                "Tw": "群控強化力提升",
+                "Cn": "群控强化力提升"
             },
             "Buff_OppressionResist": {
-                "En": "CC RES Up"
+                "En": "CC RES Up",
+                "Tw": "群控抵抗力提升",
+                "Cn": "群控抵抗力提升"
             },
             "Buff_Penetration": {
-                "En": "Defense Piercing Up"
+                "En": "Defense Piercing Up",
+                "Tw": "防禦貫穿數值提升",
+                "Cn": "防御贯穿数值提升"
             },
             "Buff_Range": {
-                "En": "Range Up"
+                "En": "Range Up",
+                "Tw": "射程增加",
+                "Cn": "射程增加"
             },
             "Buff_Shield": {
-                "En": "Barrier"
+                "En": "Barrier",
+                "Tw": "護盾",
+                "Cn": "护盾"
             },
             "Buff_Stability": {
-                "En": "Stability Up"
+                "En": "Stability Up",
+                "Tw": "安定數值提升",
+                "Cn": "稳定值提升"
             },
             "Debuff_AmmoCount": {
-                "En": "Mag Count Down"
+                "En": "Mag Count Down",
+                "Tw": "裝彈數减少",
+                "Cn": "载弹量减少"
             },
             "Debuff_ATK": {
-                "En": "ATK Down"
+                "En": "ATK Down",
+                "Tw": "攻擊力下降",
+                "Cn": "攻击力下降"
             },
             "Debuff_AttackSpeed": {
-                "En": "ATK SPD Down"
+                "En": "ATK SPD Down",
+                "Tw": "攻擊速度下降",
+                "Cn": "攻速下降"
             },
             "Debuff_BlockRate": {
-                "En": "Block Rate Down"
+                "En": "Block Rate Down",
+                "Tw": "掩護成功率下降",
+                "Cn": "掩护成功率下降"
             },
             "Debuff_Burn": {
-                "En": "Burn"
+                "En": "Burn",
+                "Tw": "燒傷",
+                "Cn": "烧伤"
             },
             "Debuff_Chill": {
-                "En": "Chill"
+                "En": "Chill",
+                "Tw": "惡寒",
+                "Cn": "恶寒"
             },
             "Debuff_ConcentratedTarget": {
-                "En": "Focused Assault"
+                "En": "Focused Assault",
+                "Tw": "集中攻擊",
+                "Cn": "集中攻击"
             },
             "Debuff_CostChange": {
-                "En": "EX Cost Up"
+                "En": "EX Cost Up",
+                "Tw": "EX 技能費用增加",
+                "Cn": "EX 技能费用增加"
             },
             "Debuff_CriticalChance": {
-                "En": "Crit Down"
+                "En": "Crit Down",
+                "Tw": "暴擊數值下降",
+                "Cn": "暴击值下降"
             },
             "Debuff_CriticalChanceResistPoint": {
-                "En": "Crit RES Down"
+                "En": "Crit RES Down",
+                "Tw": "暴擊抵抗力下降",
+                "Cn": "暴击抵抗力下降"
             },
             "Debuff_CriticalDamage": {
-                "En": "Crit DMG Down"
+                "En": "Crit DMG Down",
+                "Tw": "暴擊傷害下降",
+                "Cn": "暴击伤害下降"
             },
             "Debuff_CriticalDamageRateResist": {
-                "En": "Crit DMG RES Down"
+                "En": "Crit DMG RES Down",
+                "Tw": "暴擊傷害抵抗率下降",
+                "Cn": "暴击伤害抵抗率下降"
             },
             "Debuff_DamageByHit_Damaged": {
-                "En": "Exposed Weakness"
+                "En": "Exposed Weakness",
+                "Tw": "弱點暴露",
+                "Cn": "弱点暴露"
             },
             "Debuff_DamagedRatio": {
-                "En": "Incoming Damage Up"
+                "En": "Incoming Damage Up",
+                "Tw": "遭受的傷害量增加",
+                "Cn": "遭受的伤害量增加"
             },
             "Debuff_DEF": {
-                "En": "DEF Down"
+                "En": "DEF Down",
+                "Tw": "防禦力下降",
+                "Cn": "防御力下降"
             },
             "Debuff_Dodge": {
-                "En": "Evasion Down"
+                "En": "Evasion Down",
+                "Tw": "迴避數值下降",
+                "Cn": "回避值下降"
             },
             "Debuff_EnhanceExplosionRate": {
-                "En": "Explosive Bonus DMG Down"
+                "En": "Explosive Bonus DMG Down",
+                "Tw": "爆發傷害下降",
+                "Cn": "爆发伤害下降"
             },
             "Debuff_EnhancePierceRate": {
-                "En": "Piercing Bonus DMG Down"
+                "En": "Piercing Bonus DMG Down",
+                "Tw": "貫穿傷害下降",
+                "Cn": "贯穿伤害下降"
             },
             "Debuff_EnhanceMysticRate": {
-                "En": "Mystic Bonus DMG Down"
+                "En": "Mystic Bonus DMG Down",
+                "Tw": "神秘傷害下降",
+                "Cn": "神秘伤害下降"
             },
             "Debuff_HealEffectiveness": {
-                "En": "Recovery Boost Down"
+                "En": "Recovery Boost Down",
+                "Tw": "所受恢復效果強化率下降",
+                "Cn": "所受回复效果强化率下降"
             },
             "Debuff_HealPower": {
-                "En": "Healing Down"
+                "En": "Healing Down",
+                "Tw": "治癒力下降",
+                "Cn": "治疗力下降"
             },
             "Debuff_Hieronymus": {
-                "En": "Curse"
+                "En": "Curse",
+                "Tw": "詛咒",
+                "Cn": "诅咒"
             },
             "Debuff_HIT": {
-                "En": "Accuracy Down"
+                "En": "Accuracy Down",
+                "Tw": "命中數值下降",
+                "Cn": "准确度下降"
             },
             "Debuff_MAXHP": {
-                "En": "Max HP Down"
+                "En": "Max HP Down",
+                "Tw": "最大體力下降",
+                "Cn": "最大体力下降"
             },
             "Debuff_MoveSpeed": {
-                "En": "MOV SPD Down"
+                "En": "MOV SPD Down",
+                "Tw": "移動速度下降",
+                "Cn": "移动速度下降"
             },
             "Debuff_OppressionPower": {
-                "En": "CC Power Down"
+                "En": "CC Power Down",
+                "Tw": "群控強化力下降",
+                "Cn": "群控强化力下降"
             },
             "Debuff_OppressionResist": {
-                "En": "CC RES Down"
+                "En": "CC RES Down",
+                "Tw": "群控抵抗力下降",
+                "Cn": "群控抵抗力下降"
             },
             "Debuff_Penetration": {
-                "En": "Defense Piercing Down"
+                "En": "Defense Piercing Down",
+                "Tw": "防禦貫穿數值下降",
+                "Cn": "防御贯穿值下降"
             },
             "Debuff_Poison": {
-                "En": "Poison"
+                "En": "Poison",
+                "Tw": "中毒",
+                "Cn": "中毒"
             },
             "Debuff_Range": {
-                "En": "Range Down"
+                "En": "Range Down",
+                "Tw": "射程下降",
+                "Cn": "射程下降"
             },
             "Debuff_Stability": {
-                "En": "Stability Down"
+                "En": "Stability Down",
+                "Tw": "安定數值下降",
+                "Cn": "稳定值下降"
             },
             "Debuff_CostRegen": {
-                "En": "Cost Recovery Down"
+                "En": "Cost Recovery Down",
+                "Tw": "COST恢復力下降",
+                "Cn": "COST回复力下降"
             },
             "CC_Fear": {
-                "En": "Fear"
+                "En": "Fear",
+                "Tw": "恐懼",
+                "Cn": "恐惧"
             },
             "CC_Stunned": {
-                "En": "Stun"
+                "En": "Stun",
+                "Tw": "昏厥",
+                "Cn": "昏厥"
             },
             "CC_Provoke": {
-                "En": "Taunt"
+                "En": "Taunt",
+                "Tw": "挑釁",
+                "Cn": "挑衅"
             },
             "Special_EnergyBatteryHalf": {
-                "En": "Energy Charge"
+                "En": "Energy Charge",
+                "Tw": "能量",
+                "Cn": "能量"
             },
             "Special_FormChange": {
-                "En": "Form Change"
+                "En": "Form Change",
+                "Tw": "一般攻擊",
+                "Cn": "普通攻击"
             },
             "Special_Immortal": {
-                "En": "Immortal"
+                "En": "Immortal",
+                "Tw": "不死",
+                "Cn": "不死"
             },
             "Special_ImmuneDamage": {
-                "En": "Invulnerable"
+                "En": "Invulnerable",
+                "Tw": "免傷",
+                "Cn": "免伤"
             },
             "Special_Fury": {
-                "En": "Enraged"
+                "En": "Enraged",
+                "Tw": "憤怒",
+                "Cn": "愤怒"
             },
             "Special_Misdeed": {
-                "En": "Misdeeds"
+                "En": "Misdeeds",
+                "Tw": "惡行",
+                "Cn": "恶行"
             },
             "Special_LittleDevil": {
-                "En": "Little Devils"
+                "En": "Little Devils",
+                "Tw": "小惡魔",
+                "Cn": "小恶魔"
             },
             "Special_Accumulation": {
-                "En": "DMG Accumulation"
+                "En": "DMG Accumulation",
+                "Tw": "累積傷害",
+                "Cn": "累积伤害"
             },
             "Special_CostRegenBan": {
-                "En": "Cost Recovery Stop"
+                "En": "Cost Recovery Stop",
+                "Tw": "COST停止恢復",
+                "Cn": "COST停止回复"
             },
             "Special_ImmuneCC": {
-                "En": "CC Immunity"
+                "En": "CC Immunity",
+                "Tw": "群控免疫",
+                "Cn": "群控免疫"
             },
             "Special_SuddenDeath": {
-                "En": "Wakamo's Mark"
+                "En": "Wakamo's Mark",
+                "Tw": "若藻的印記",
+                "Cn": "若藻的印记"
             }
         },
         "BuffTooltip": {
@@ -2413,104 +2567,104 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "管理集合數據",
+                "Cn": "管理集合数据"
             },
             "navbar_settings_collection_description": {
                 "En": "Import or export your student collection data.",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "導入或導出你的學生集數據。",
+                "Cn": "导入或导出你的学生集数据。"
             },
             "collection_export_collection": {
                 "En": "Export Collection",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "導出集合",
+                "Cn": "导出集合"
             },
             "collection_import_collection": {
                 "En": "Import Collection",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "導入集合",
+                "Cn": "导入集合"
             },
             "collection_import_warning": {
                 "En": "This will overwrite your current collection",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "這會覆蓋你的當前集合",
+                "Cn": "这会覆盖你的当前集合"
             },
             "collection_export_placeholder": {
                 "En": "Click export to generate an export string from your collection",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "點擊導出以生成集合的導出字符串",
+                "Cn": "点击导出以生成集合的导出字符串"
             },
             "collection_import_placeholder": {
                 "En": "Paste export string here and click Import",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "將導出字符串粘貼與此処並點擊導入",
+                "Cn": "将导出字符串粘贴于此处并点击导入"
             },
             "collection_export": {
                 "En": "Export",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "導出",
+                "Cn": "导出"
             },
             "collection_import": {
                 "En": "Import",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "導入",
+                "Cn": "导入"
             },
             "collection_import_planner": {
                 "En": "Import from Resource Planner",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "從 Resource Planner 導入",
+                "Cn": "从 Resource Planner 导入"
             },
             "setting_off": {
                 "En": "OFF",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "関",
+                "Cn": "关"
             },
             "setting_on": {
                 "En": "ON",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "開",
+                "Cn": "开"
             },
             "setting_open": {
                 "En": "Open",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "打開",
+                "Cn": "打开"
             },
             "current_events": {
                 "En": "Current Events ({0} Server)",
@@ -2670,7 +2824,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": null
+                "Cn": "从 Justin163's Resource Planner (justin163.com/planner) 导入集合"
             },
             "student_skill_ex": {
                 "En": "EX Skill",
@@ -3533,40 +3687,40 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "เพิ่มลงในคอลเลคชั่น",
-                "Tw": null,
-                "Cn": null
+                "Tw": "添加到集合",
+                "Cn": "添加到集合"
             },
             "tooltip_collection_remove": {
                 "En": "Remove from Collection",
                 "Jp": null,
                 "Kr": null,
                 "Th": "เอาออกจากคอลเลคชั่น",
-                "Tw": null,
-                "Cn": null
+                "Tw": "從集合中移除",
+                "Cn": "从集合中移除"
             },
             "collection": {
                 "En": "Collection",
                 "Jp": null,
                 "Kr": null,
                 "Th": "คอลเลคชั่น",
-                "Tw": null,
-                "Cn": null
+                "Tw": "集合",
+                "Cn": "集合"
             },
             "collection_owned": {
                 "En": "Owned",
                 "Jp": null,
                 "Kr": null,
                 "Th": "มีแล้ว",
-                "Tw": null,
-                "Cn": null
+                "Tw": "已擁有",
+                "Cn": "已拥有"
             },
             "collection_notowned": {
                 "En": "Not Owned",
                 "Jp": null,
                 "Kr": null,
                 "Th": "ยังไม่มี",
-                "Tw": null,
-                "Cn": null
+                "Tw": "未擁有",
+                "Cn": "未拥有"
             },
             "maptile_spawn": {
                 "En": "Spawn Tile",
@@ -3661,16 +3815,16 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "พื้นลดระดับ",
-                "Tw": null,
-                "Cn": null
+                "Tw": "降低的方格",
+                "Cn": "降低的方格"
             },
             "maptile_switch_target_up": {
                 "En": "Raised Tile",
                 "Jp": null,
                 "Kr": null,
                 "Th": "พื้นยกระดับ",
-                "Tw": null,
-                "Cn": null
+                "Tw": "升高的方格",
+                "Cn": "升高的方格"
             },
             "maptile_enemy_default_msg": {
                 "En": "Click on an enemy unit on the map to view a list of enemies.",
@@ -3685,24 +3839,24 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "導入學生集成功",
+                "Cn": "导入学生集成功"
             },
             "toast_import_failure": {
                 "En": "Error importing student collection",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "導入學生集出錯",
+                "Cn": "导入学生集时出错"
             },
             "toast_import_copy": {
                 "En": "Copied import string to clipboard",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "導入字符串已複製到剪貼板",
+                "Cn": "导入字符串已复制到剪贴板"
             }
         }
     }

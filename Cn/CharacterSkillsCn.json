@@ -134,7 +134,7 @@
         {
             "SkillId": 10000350,
             "NameCn": "ノワールシュート+",
-            "DescriptionCn": "Every 25s, fires a shot that deals <?1> damage to one enemy with a 100% chance to explode for an additional <?2> damage to enemies in a circular area around the target.",
+            "DescriptionCn": "每25秒发射一颗子弹，对一个敌人造成<?1>伤害并有100%几率爆炸对目标周围圆形范围内敌方造成额外<?2>伤害",
             "ParametersCn": [
                 [
                     "156%",
@@ -379,7 +379,7 @@
         {
             "SkillId": 10003200,
             "NameCn": "佩洛洛，帮帮我！",
-            "DescriptionCn": "召唤佩洛洛人偶，对圆形范围内的敌人造成攻击力<?1>伤害/\n<c:Provoke>(<?2>内)/\n佩洛洛人偶拥有日富美最大体力的160%。",
+            "DescriptionCn": "召唤佩洛洛人偶，对圆形范围内的敌人造成攻击力<?1>伤害/\n<c:Provoke>(<?2>内)/\n佩洛洛人偶拥有日富美最大体力的160%",
             "ParametersCn": [
                 [
                     "202%",
@@ -1306,7 +1306,7 @@
         },
         {
             "SkillId": 10011200,
-            "NameCn": "坏孩子在哪裡？",
+            "NameCn": "坏孩子在哪里？",
             "DescriptionCn": "<s:FormChange>强化为153%伤害，一般攻击<b:Range>增加24.4%、<b:CriticalChance>增加<?1> 、<d:AttackSpeed>减少18.8% (30秒内)",
             "ParametersCn": [
                 [
@@ -1364,7 +1364,7 @@
         {
             "SkillId": 10011500,
             "NameCn": "梅花园的教育法",
-            "DescriptionCn": "攻击时对中型对象造成攻击力<?1>追加伤害",
+            "DescriptionCn": "攻击时对中型目标造成攻击力<?1>追加伤害",
             "ParametersCn": [
                 [
                     "50.7%",
@@ -1413,7 +1413,7 @@
         },
         {
             "SkillId": 10012200,
-            "NameCn": "衝刺&射击",
+            "NameCn": "冲刺&射击",
             "DescriptionCn": "对扇形范围内的敌人造成攻击力<?1>伤害",
             "ParametersCn": [
                 [
@@ -1640,7 +1640,7 @@
         {
             "SkillId": 10013350,
             "NameCn": "激情+",
-            "DescriptionCn": "Whenever Tsurugi defeats an enemy, restores own HP by <?1> of Healing and increases <b:AttackSpeed> by <?2> for 20s. 10s cooldown between activations.",
+            "DescriptionCn": "当鹤城消灭敌人时，以治疗力<?1>恢复自身体力并提升<?2><b:AttackSpeed>(20秒内，触发间隔10秒)",
             "ParametersCn": [
                 [
                     "126%",
@@ -2110,7 +2110,7 @@
         },
         {
             "SkillId": 13004200,
-            "NameCn": "教训人的时间到囉~♣",
+            "NameCn": "教训人的时间到咯~♣",
             "DescriptionCn": "对扇形范围内的敌人造成攻击力<?1>伤害",
             "ParametersCn": [
                 [
@@ -2168,7 +2168,7 @@
         {
             "SkillId": 13004500,
             "NameCn": "扫得清洁溜溜~♧",
-            "DescriptionCn": "攻击时对大型对象造成攻击力<?1>追加伤害",
+            "DescriptionCn": "攻击时对大型目标造成攻击力<?1>追加伤害",
             "ParametersCn": [
                 [
                     "6.7%",
@@ -2908,7 +2908,7 @@
         {
             "SkillId": 13010350,
             "NameCn": "I.F.F+",
-            "DescriptionCn": "Every 15s, deals <?1> damage to one enemy and increases <b:Dodge> by <?2> for 10s.",
+            "DescriptionCn": "每15秒对一个敌人造成<?1>伤害并提升<?2><b:Dodge> (10秒内)",
             "ParametersCn": [
                 [
                     "329%",
@@ -3102,7 +3102,7 @@
         },
         {
             "SkillId": 16001500,
-            "NameCn": "我要加速囉~",
+            "NameCn": "我要加速咯~",
             "DescriptionCn": "使用Ex技能时<b:AttackSpeed>增加<?1>(30秒内)",
             "ParametersCn": [
                 [
@@ -3171,7 +3171,7 @@
         },
         {
             "SkillId": 16002300,
-            "NameCn": "抱歉囉！",
+            "NameCn": "抱歉咯！",
             "DescriptionCn": "每35秒对扇形范围内的敌人造成攻击力<?1>伤害",
             "ParametersCn": [
                 [
@@ -3605,7 +3605,7 @@
         {
             "SkillId": 20001200,
             "NameCn": "删除对象",
-            "DescriptionCn": "对1名敌人造成攻击力<?1>伤害/\n对超大型对象造成<?2>追加伤害",
+            "DescriptionCn": "对1名敌人造成攻击力<?1>伤害/\n对超大型目标造成<?2>追加伤害",
             "ParametersCn": [
                 [
                     "687%",
@@ -4056,7 +4056,7 @@
         },
         {
             "SkillId": 23002200,
-            "NameCn": "治疗时间到囉~",
+            "NameCn": "治疗时间到咯~",
             "DescriptionCn": "让1名我军治疗力<b:DotHeal><?1>(20秒内)",
             "ParametersCn": [
                 [
@@ -4283,7 +4283,7 @@
         {
             "SkillId": 23003350,
             "NameCn": "破壊工作：プランA+",
-            "DescriptionCn": "Every 30s, decreases the <d:HealEffectiveness> of one enemy by <?1> for 15s.",
+            "DescriptionCn": "每30秒降低一个敌人<?1><d:HealEffectiveness> (15秒内)",
             "ParametersCn": [
                 [
                     "35.6%",
@@ -5444,7 +5444,7 @@
         {
             "SkillId": 23006200,
             "NameCn": "百夜堂登场！",
-            "DescriptionCn": "召唤掩蔽物/\n让圆形范围内的我军<b:HIT>增加<?1>(30秒内)/\n掩蔽物额外拥有静子最大体力的<?2>。",
+            "DescriptionCn": "召唤掩蔽物/\n让圆形范围内的我军<b:HIT>增加<?1>(30秒内)/\n掩蔽物额外拥有静子最大体力的<?2>",
             "ParametersCn": [
                 [
                     "16.3%",
@@ -5575,7 +5575,7 @@
         {
             "SkillId": 10015200,
             "NameCn": "平衡崩溃",
-            "DescriptionCn": "对直线范围内的敌人造成攻击力<?1>伤害\n根据<s:EnergyBatteryHalf>补充阶段，伤害量增加1.5倍、2倍\n<s:EnergyBatteryHalf>补充会重置。",
+            "DescriptionCn": "对直线范围内的敌人造成攻击力<?1>伤害\n根据<s:EnergyBatteryHalf>补充阶段，伤害量增加1.5倍、2倍\n<s:EnergyBatteryHalf>补充会重置",
             "ParametersCn": [
                 [
                     "311%",
@@ -5682,7 +5682,7 @@
         {
             "SkillId": 10016200,
             "NameCn": "绘画艺术",
-            "DescriptionCn": "最多轮番对5名敌人各造成攻击力<?1>伤害/\n部队中有桃井时，追加造成攻击力<?2><d:Poison>持续伤害(20秒内)",
+            "DescriptionCn": "最多轮番对5名敌人各造成攻击力<?1>伤害/\n队伍中有桃井时，追加造成攻击力<?2><d:Poison>持续伤害(20秒内)",
             "ParametersCn": [
                 [
                     "119%",
@@ -5882,7 +5882,7 @@
         {
             "SkillId": 13011500,
             "NameCn": "开发者加成：绿",
-            "DescriptionCn": "<b:ATK>增加<?1>/\n部队裡有绿时<b:ATK>增加<?2>",
+            "DescriptionCn": "<b:ATK>增加<?1>/\n绿在场时<b:ATK>增加<?2>",
             "ParametersCn": [
                 [
                     "15.1%",
@@ -6001,7 +6001,7 @@
         {
             "SkillId": 10017500,
             "NameCn": "这就是胡须的权威！",
-            "DescriptionCn": "COST恢复力增加<?1>/\n部队中每1名赤冬学园学生额外增加<?2>(自身除外)(最多3人)",
+            "DescriptionCn": "COST恢复力增加<?1>/\n队伍中每1名赤冬学园学生额外增加<?2>(自身除外)(最多3人)",
             "ParametersCn": [
                 [
                     "269",
@@ -6182,7 +6182,7 @@
         {
             "SkillId": 10018200,
             "NameCn": "游戏，开始！",
-            "DescriptionCn": "以指定对象为中心，对圆形范围内的敌人造成攻击力<?1>伤害",
+            "DescriptionCn": "以指定目标为中心，对圆形范围内的敌人造成攻击力<?1>伤害",
             "ParametersCn": [
                 [
                     "312%",
@@ -7585,7 +7585,7 @@
         },
         {
             "SkillId": 10025200,
-            "NameCn": "哪裡有坏大人？",
+            "NameCn": "哪里有坏大人？",
             "DescriptionCn": "对1个敌人造成攻击力<?1>伤害(此攻击无视<?2>敌人防御力)",
             "ParametersCn": [
                 [
@@ -7616,7 +7616,7 @@
         },
         {
             "SkillId": 10025300,
-            "NameCn": "我要打打囉！",
+            "NameCn": "我要打打咯！",
             "DescriptionCn": "每25秒对1个敌人造成攻击力<?1>伤害",
             "ParametersCn": [
                 [
@@ -7705,7 +7705,7 @@
         {
             "SkillId": 10025350,
             "NameCn": "危ないのはめっ、です！+",
-            "DescriptionCn": "Every 25s, deals <?1> damage to one enemy. This attack ignores <?2> of the enemy's DEF.",
+            "DescriptionCn": "每25秒对一个敌人造成<?1>伤害。此伤害无视敌人<?2>防御力",
             "ParametersCn": [
                 [
                     "182%",
@@ -8355,7 +8355,7 @@
         {
             "SkillId": 10028350,
             "NameCn": "楽しくやろう！+",
-            "DescriptionCn": "Every 35s, increases <b:ATK> by <?1> for 23s and generates <?2> units of skill cost.",
+            "DescriptionCn": "每35秒<b:ATK>提高<?1>并生成<?2>单位技能费用 (23秒内)",
             "ParametersCn": [
                 [
                     "25.1%",
@@ -8749,7 +8749,7 @@
         },
         {
             "SkillId": 20008300,
-            "NameCn": "补给作战B计画",
+            "NameCn": "补给作战B计划",
             "DescriptionCn": "每45秒使1名我军恢复等同<?1>治疗力的生命值",
             "ParametersCn": [
                 [
@@ -9740,7 +9740,7 @@
         {
             "SkillId": 10033300,
             "NameCn": "乱れ散る花吹雪",
-            "DescriptionCn": "Every 25s, deals <?1> damage to one enemy.",
+            "DescriptionCn": "每25秒对一个敌人造成<?1>伤害",
             "ParametersCn": [
                 [
                     "194%",
@@ -9759,7 +9759,7 @@
         {
             "SkillId": 10033400,
             "NameCn": "花开く破壊衝动",
-            "DescriptionCn": "Increases <b:ATK> by <?1>.",
+            "DescriptionCn": "<b:ATK>提高<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -9778,7 +9778,7 @@
         {
             "SkillId": 10033500,
             "NameCn": "狂い咲く闘争本能",
-            "DescriptionCn": "Deals <?1> damage as an additional hit to BOSS enemies.",
+            "DescriptionCn": "对BOSS敌人额外一击，造成额外的<?1>伤害",
             "ParametersCn": [
                 [
                     "15.6%",
@@ -9797,7 +9797,7 @@
         {
             "SkillId": 10033450,
             "NameCn": "花开く破壊衝动+",
-            "DescriptionCn": "Increases <b:ATK> by <?1> plus a further <?2>.",
+            "DescriptionCn": "<b:ATK>提高<?1>+额外<?2>",
             "ParametersCn": [
                 [
                     "436",
@@ -9828,7 +9828,7 @@
         {
             "SkillId": 16008200,
             "NameCn": "まずは甘い休息から",
-            "DescriptionCn": "Increases <b:ATK> by <?1> for 46s.",
+            "DescriptionCn": "<b:ATK>提高<?1> (46秒内)",
             "ParametersCn": [
                 [
                     "36.5%",
@@ -9842,7 +9842,7 @@
         {
             "SkillId": 16008300,
             "NameCn": "最后のひと口！",
-            "DescriptionCn": "When Fubuki's current ammo is 3 or less, consumes all remaining ammo to deal <?1> damage to one enemy and inflict <c:Stunned> for <?2>.",
+            "DescriptionCn": "When Fubuki's current ammo is 3 or less, consumes all remaining ammo to deal <?1> damage to one enemy and inflict <c:Stunned> for <?2>",
             "ParametersCn": [
                 [
                     "225%",
@@ -9873,7 +9873,7 @@
         {
             "SkillId": 16008400,
             "NameCn": "交通整理",
-            "DescriptionCn": "Increases <b:OppressionPower> by <?1>.",
+            "DescriptionCn": "<b:OppressionPower>提高<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -9892,7 +9892,7 @@
         {
             "SkillId": 16008500,
             "NameCn": "便乗させてもらおっかな",
-            "DescriptionCn": "Increases <b:ATK> by <?1> for 10s whenever an ally uses their EX skill.",
+            "DescriptionCn": "当队友使用EX技能时，<b:ATK>提高<?1> (10秒内)",
             "ParametersCn": [
                 [
                     "17.6%",
@@ -9911,7 +9911,7 @@
         {
             "SkillId": 16008450,
             "NameCn": "交通整理+",
-            "DescriptionCn": "Increases <b:CriticalChance> by <?1> and <b:OppressionPower> by <?2>.",
+            "DescriptionCn": "增加<?1><b:CriticalChance>与<?2><b:OppressionPower>",
             "ParametersCn": [
                 [
                     "100",
@@ -9942,7 +9942,7 @@
         {
             "SkillId": 20012200,
             "NameCn": "紧急出动",
-            "DescriptionCn": "Deploys Sena riding Emergency Vehicle No.11 for 50s, with an additional <?1> of Sena's <b:HealPower>. Emergency Vehicle No.11 increases the <b:ATK> of allies in a circular area around it by <?2> and continuously restores their HP by <?3> of Healing every 10s as long as they stay within range. Only one tactical support vehicle may be deployed at any given time.",
+            "DescriptionCn": "Deploys Sena riding Emergency Vehicle No.11 with an additional <?1> of Sena's <b:HealPower> (50秒内). Emergency Vehicle No.11 increases the <b:ATK> of allies in a circular area around it by <?2> and continuously restores their HP by <?3> of Healing every 10s as long as they stay within range. 任何时候场上只能存在一台战术支援(T.S.)载具",
             "ParametersCn": [
                 [
                     "16.2%",
@@ -9970,7 +9970,7 @@
         {
             "SkillId": 20012300,
             "NameCn": "エネルギー剤注入",
-            "DescriptionCn": "Every 40s, increases the <b:ATK> of the ally with the highest ATK by <?1> for 30s.",
+            "DescriptionCn": "每40秒提升拥有最高攻击力友军<?1><b:ATK> (30秒内)",
             "ParametersCn": [
                 [
                     "16.8%",
@@ -9989,7 +9989,7 @@
         {
             "SkillId": 20012400,
             "NameCn": "救急支援",
-            "DescriptionCn": "Increases <b:HealPower> by <?1>.",
+            "DescriptionCn": "<b:HealPower>增加<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -10008,7 +10008,7 @@
         {
             "SkillId": 20012500,
             "NameCn": "可及的速やかに",
-            "DescriptionCn": "Increases all allies' <b:ATK> by <?1>.",
+            "DescriptionCn": "提升全体友军<?1><b:ATK>",
             "ParametersCn": [
                 [
                     "9.1%",
@@ -10027,7 +10027,7 @@
         {
             "SkillId": 20012450,
             "NameCn": "救急支援+",
-            "DescriptionCn": "Increases <b:HealPower> by <?1> plus a further <?2>.",
+            "DescriptionCn": "<b:HealPower>增加<?1>+额外<?2>",
             "ParametersCn": [
                 [
                     "698",
@@ -10058,7 +10058,7 @@
         {
             "SkillId": 20013200,
             "NameCn": "オーバーライド",
-            "DescriptionCn": "Deals <?1> damage to one enemy. If the target is <b class='ba-col-pierce'>Heavy</b> armor type, inflicts <c:Stunned> for <?2>.",
+            "DescriptionCn": "对一个敌人造成<?1>伤害。如果目标拥有<b class='ba-col-pierce'>重型护甲</b>，附加<?2><c:Stunned>效果",
             "ParametersCn": [
                 [
                     "257%",
@@ -10079,7 +10079,7 @@
         {
             "SkillId": 20013300,
             "NameCn": "イントゥ・ザ・バックドア",
-            "DescriptionCn": "Every 30s, decreases the <d:ATK> of the enemy with the highest ATK by <?1> for 30s.",
+            "DescriptionCn": "每30秒降低拥有最高攻击力的敌人<?1><d:ATK> (30秒内)",
             "ParametersCn": [
                 [
                     "16.9%",
@@ -10098,7 +10098,7 @@
         {
             "SkillId": 20013400,
             "NameCn": "エクスプロイト",
-            "DescriptionCn": "Increases <b:CriticalDamage> by <?1>.",
+            "DescriptionCn": "<b:CriticalDamage>增加<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -10117,7 +10117,7 @@
         {
             "SkillId": 20013500,
             "NameCn": "ファイアウォール构筑",
-            "DescriptionCn": "Increases all allies' <b:OppressionPower> by <?1>.",
+            "DescriptionCn": "提升全体友军<?1><b:OppressionPower>",
             "ParametersCn": [
                 [
                     "9.1%",
@@ -10136,7 +10136,7 @@
         {
             "SkillId": 20013450,
             "NameCn": "エクスプロイト+",
-            "DescriptionCn": "Increases <b:CriticalDamage> by <?1> plus a further <?2>.",
+            "DescriptionCn": "<b:CriticalDamage>增加<?1>+额外<?2>",
             "ParametersCn": [
                 [
                     "2000",
@@ -10167,7 +10167,7 @@
         {
             "SkillId": 10034200,
             "NameCn": "お花见日和ですね",
-            "DescriptionCn": "Repositions up to 5 allies in a circular area to the selected location and increases their <b:AttackSpeed> by <?1> for 40s.",
+            "DescriptionCn": "将圆形范围内至多5名友军移动到指定位置并提升其<?1><b:AttackSpeed> (40秒内)",
             "ParametersCn": [
                 [
                     "14.7%",
@@ -10181,7 +10181,7 @@
         {
             "SkillId": 10034300,
             "NameCn": "お弁当を作ってきたんです",
-            "DescriptionCn": "Every 45s, grants <b:DotHeal> to the ally with the lowest HP, continuously restoring HP equal to <?1> of Healing every 4s for 20s. Mimori herself cannot be affected.",
+            "DescriptionCn": "每45秒赋予体力最低友军<b:DotHeal>效果，每4秒持续恢复等同于<?1>治疗力的体力 (20秒内，对三森自身无效)",
             "ParametersCn": [
                 [
                     "22.8%",
@@ -10200,7 +10200,7 @@
         {
             "SkillId": 10034400,
             "NameCn": "まだたくさんありますよ",
-            "DescriptionCn": "Increases <b:DEF> by <?1>.",
+            "DescriptionCn": "<b:DEF>增加<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -10219,7 +10219,7 @@
         {
             "SkillId": 10034500,
             "NameCn": "味见してみませんか？",
-            "DescriptionCn": "Every 35s, increases the <b:DEF> of allies in a circular area by <?1> for 23s.",
+            "DescriptionCn": "每35秒提升圆形区域内队友<?1><b:DEF> (23秒内)",
             "ParametersCn": [
                 [
                     "14.2%",
@@ -10238,7 +10238,7 @@
         {
             "SkillId": 10034450,
             "NameCn": "まだたくさんありますよ+",
-            "DescriptionCn": "Increases <b:DEF> by <?1> plus a further <?2>.",
+            "DescriptionCn": "<b:DEF>增加<?1>+额外<?2>",
             "ParametersCn": [
                 [
                     "200",
@@ -10269,7 +10269,7 @@
         {
             "SkillId": 10035200,
             "NameCn": "古书の専门家",
-            "DescriptionCn": "Reduces the <b:CostChange> of an ally's next <b>two</b> EX skills by 50% (reduction is rounded down to the nearest whole number) and increases their <b:ATK> by <?1> for 46s. Cannot target self or tactical support vehicles.",
+            "DescriptionCn": "Reduces the <b:CostChange> of an ally's next <b>two</b> EX skills by 50% (reduction is rounded down to the nearest whole number) and increases their <b:ATK> by <?1> (46秒内，不能作用于自身或T.S.载具)",
             "ParametersCn": [
                 [
                     "10%",
@@ -10283,7 +10283,7 @@
         {
             "SkillId": 10035300,
             "NameCn": "伝授されていく知识",
-            "DescriptionCn": "Every 40s, increases the <b:CriticalChance> of nearby allies by <?1> for 33s.",
+            "DescriptionCn": "每40秒提升附近友军<?1><b:CriticalChance> (33秒内)",
             "ParametersCn": [
                 [
                     "13.6%",
@@ -10302,7 +10302,7 @@
         {
             "SkillId": 10035400,
             "NameCn": "専门家の知见",
-            "DescriptionCn": "Increases <b:CriticalChance> by <?1>.",
+            "DescriptionCn": "<b:CriticalChance>增加<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -10320,8 +10320,8 @@
         },
         {
             "SkillId": 10035500,
-            "NameCn": "神経过敏",
-            "DescriptionCn": "Increases <b:AttackSpeed> by <?1> for 20s after Ui uses her EX skill.",
+            "NameCn": "神经过敏",
+            "DescriptionCn": "忧使用EX技能后，<b:AttackSpeed>增加<?1> (20秒内)",
             "ParametersCn": [
                 [
                     "24.2%",
@@ -10340,7 +10340,7 @@
         {
             "SkillId": 10035450,
             "NameCn": "専门家の知见+",
-            "DescriptionCn": "Increases <b:CriticalChance> by <?1> plus a further <?2>.",
+            "DescriptionCn": "<b:CriticalChance>增加<?1>+额外<?2>",
             "ParametersCn": [
                 [
                     "100",
@@ -10371,7 +10371,7 @@
         {
             "SkillId": 10036200,
             "NameCn": "最终手段",
-            "DescriptionCn": "Deals <?1> damage to enemies in 5 circular areas.",
+            "DescriptionCn": "对5个圆形范围内的敌人造成<?1>伤害",
             "ParametersCn": [
                 [
                     "250%",
@@ -10385,7 +10385,7 @@
         {
             "SkillId": 10036300,
             "NameCn": "まずはお话を……！",
-            "DescriptionCn": "Every 20s, deals <?1> damage to the enemy with the highest HP.",
+            "DescriptionCn": "每20秒对体力最高的敌人造成<?1>伤害",
             "ParametersCn": [
                 [
                     "223%",
@@ -10404,7 +10404,7 @@
         {
             "SkillId": 10036400,
             "NameCn": "思いがけない展开",
-            "DescriptionCn": "Increases <b:CriticalDamage> by <?1>.",
+            "DescriptionCn": "<b:CriticalDamage>增加<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -10423,7 +10423,7 @@
         {
             "SkillId": 10036500,
             "NameCn": "力仕事はお任せを！",
-            "DescriptionCn": "Deals <?1> damage as an additional hit to <b>medium</b> sized enemies.",
+            "DescriptionCn": "对<b>medium</b>体型敌人额外一击，造成额外的<?1>伤害",
             "ParametersCn": [
                 [
                     "21.8%",
@@ -10442,7 +10442,7 @@
         {
             "SkillId": 10036450,
             "NameCn": "思いがけない展开+",
-            "DescriptionCn": "Increases <b:CriticalDamage> by <?1> plus a further <?2>.",
+            "DescriptionCn": "<b:CriticalDamage>增加<?1>+额外<?2>",
             "ParametersCn": [
                 [
                     "2000",
@@ -10472,8 +10472,8 @@
         },
         {
             "SkillId": 10037200,
-            "NameCn": "革命的突撃！",
-            "DescriptionCn": "Deals <?1> damage to enemies in an arc-shaped area and decreases their <d:HealEffectiveness> by <?2> for 30s.",
+            "NameCn": "革命的突击！",
+            "DescriptionCn": "对弧形范围内的敌人造成<?1>伤害并降低其<?2><d:HealEffectiveness> (30秒内)",
             "ParametersCn": [
                 [
                     "335%",
@@ -10494,7 +10494,7 @@
         {
             "SkillId": 10037300,
             "NameCn": "退いてなるものか！",
-            "DescriptionCn": "When Marina's HP falls below 20%, she becomes <s:Immortal> for <?1> once per battle.",
+            "DescriptionCn": "玛利娜体力低于20%时获得<?1><s:Immortal>状态，每场战斗仅触发一次",
             "ParametersCn": [
                 [
                     "12s",
@@ -10513,7 +10513,7 @@
         {
             "SkillId": 10037400,
             "NameCn": "これは后退ではない！",
-            "DescriptionCn": "Increases <b:Dodge> by <?1>.",
+            "DescriptionCn": "<b:Dodge>增加<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -10532,7 +10532,7 @@
         {
             "SkillId": 10037500,
             "NameCn": "决断力",
-            "DescriptionCn": "Increases <b:Dodge> by <?1> for the duration of Marina's EX skill.",
+            "DescriptionCn": "玛利娜EX技能持续时间内<b:Dodge>增加<?1>",
             "ParametersCn": [
                 [
                     "20.1%",
@@ -10551,7 +10551,7 @@
         {
             "SkillId": 10037450,
             "NameCn": "これは后退ではない！+",
-            "DescriptionCn": "Increases <b:MAXHP> by <?1> and <b:Dodge> by <?2>.",
+            "DescriptionCn": "增加<?1><b:MAXHP>与<?2><b:Dodge>",
             "ParametersCn": [
                 [
                     "4343",
@@ -10582,7 +10582,7 @@
         {
             "SkillId": 10038200,
             "NameCn": "自走式闪光ドローン",
-            "DescriptionCn": "Deals <?1> damage to one enemy and inflicts <c:Stunned> for <?2>.",
+            "DescriptionCn": "对一个敌人造成<?1>伤害并附加<?2><c:Stunned>效果",
             "ParametersCn": [
                 [
                     "340%",
@@ -10603,7 +10603,7 @@
         {
             "SkillId": 10038300,
             "NameCn": "クレイモア",
-            "DescriptionCn": "Every 40s, deploys a claymore that explodes into 5 fragments spread across a fan-shaped area in front of it, each fragment deals <?1> damage.",
+            "DescriptionCn": "每40秒部署一个阔剑地雷，地雷会爆裂为5个碎片并向前方扇形区域扩散，每碎片造成<?1>伤害",
             "ParametersCn": [
                 [
                     "84%",
@@ -10622,7 +10622,7 @@
         {
             "SkillId": 10038400,
             "NameCn": "特殊防弾プレート",
-            "DescriptionCn": "Increases <b:MAXHP> by <?1>.",
+            "DescriptionCn": "<b:MAXHP>增加<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -10641,7 +10641,7 @@
         {
             "SkillId": 10038500,
             "NameCn": "搅乱作戦",
-            "DescriptionCn": "Decreases <b:DamagedRatio> by <?1> for 16s after Miyako uses her EX skill.",
+            "DescriptionCn": "在宫子使用EX技能后降低<?1><b:DamagedRatio> (16秒内)",
             "ParametersCn": [
                 [
                     "19%",
@@ -10660,7 +10660,7 @@
         {
             "SkillId": 10038450,
             "NameCn": "特殊防弾プレート+",
-            "DescriptionCn": "Increases <b:DEF> by <?1> and <b:MAXHP> by <?2>.",
+            "DescriptionCn": "增加<?1><b:DEF>与<?2><b:MAXHP>",
             "ParametersCn": [
                 [
                     "200",
@@ -10690,8 +10690,8 @@
         },
         {
             "SkillId": 20014200,
-            "NameCn": "支援射撃、开始！",
-            "DescriptionCn": "Deals <?1> damage to enemies in a circular area and inflicts <c:Stunned> for <?2>.",
+            "NameCn": "支援射击、开始！",
+            "DescriptionCn": "对圆形范围内的敌人造成<?1>伤害并附加<?2><c:Stunned>效果",
             "ParametersCn": [
                 [
                     "416%",
@@ -10711,8 +10711,8 @@
         },
         {
             "SkillId": 20014300,
-            "NameCn": "制圧射撃",
-            "DescriptionCn": "Every 35s, deals <?1> damage to one enemy, plus an additional <?2> <d:Burn> damage every 4s for 20s.",
+            "NameCn": "制圧射击",
+            "DescriptionCn": "每35秒对一个敌人造成<?1>伤害，每4秒造成额外<?2><d:Burn>伤害 (20秒内)",
             "ParametersCn": [
                 [
                     "185%",
@@ -10743,7 +10743,7 @@
         {
             "SkillId": 20014400,
             "NameCn": "准备万端",
-            "DescriptionCn": "Increases <b:ATK> by <?1>.",
+            "DescriptionCn": "<b:ATK>提高<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -10762,7 +10762,7 @@
         {
             "SkillId": 20014500,
             "NameCn": "ポイントマンの先导",
-            "DescriptionCn": "Increases all allies' <b:ATK> by <?1>.",
+            "DescriptionCn": "提升全体友军<?1><b:ATK>",
             "ParametersCn": [
                 [
                     "9.1%",
@@ -10781,7 +10781,7 @@
         {
             "SkillId": 20014450,
             "NameCn": "准备万端+",
-            "DescriptionCn": "Increases <b:ATK> by <?1> plus a further <?2>.",
+            "DescriptionCn": "<b:ATK>提高<?1>+额外<?2>",
             "ParametersCn": [
                 [
                     "346",
@@ -10812,7 +10812,7 @@
         {
             "SkillId": 10039200,
             "NameCn": "小心者の観测",
-            "DescriptionCn": "Inflicts <d:DamageByHit_Damaged> to one enemy for 10s. Each time an ally attacks the enemy inflicted with this debuff, deals additional damage equal to <?1> of Miyu's ATK. (This additional damage cannot critically hit and can trigger up to a maximum of <b>120</b> times)",
+            "DescriptionCn": "对一个敌人赋予<d:DamageByHit_Damaged> (10秒内)。友军攻击带有此减益效果的敌人时造成等同于美游<?1>攻击力的额外伤害 (此额外伤害不能暴击，最高叠加到<b>120</b>倍)",
             "ParametersCn": [
                 [
                     "15.8%",
@@ -10825,8 +10825,8 @@
         },
         {
             "SkillId": 10039300,
-            "NameCn": "予期せぬ角度からの一撃",
-            "DescriptionCn": "Every 5 normal attacks, deals <?1> damage to one enemy.",
+            "NameCn": "予期せぬ角度からの一击",
+            "DescriptionCn": "每5次常规攻击对一个敌人造成<?1>伤害",
             "ParametersCn": [
                 [
                     "148%",
@@ -10845,7 +10845,7 @@
         {
             "SkillId": 10039400,
             "NameCn": "深呼吸",
-            "DescriptionCn": "Increases <b:CriticalDamage> by <?1>.",
+            "DescriptionCn": "<b:CriticalDamage>增加<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -10863,8 +10863,8 @@
         },
         {
             "SkillId": 10039500,
-            "NameCn": "狙撃用の特殊弾",
-            "DescriptionCn": "Whenever Miyu reloads, increases <b:CriticalDamage> by <?1> for 13s.",
+            "NameCn": "狙击用の特殊弾",
+            "DescriptionCn": "美游换弹时，<b:CriticalDamage>增加<?1> (13秒内)",
             "ParametersCn": [
                 [
                     "18.9%",
@@ -10883,7 +10883,7 @@
         {
             "SkillId": 10039450,
             "NameCn": "深呼吸+",
-            "DescriptionCn": "Increases <b:AttackSpeed> by <?1> and <b:CriticalDamage> by <?2>.",
+            "DescriptionCn": "增加<?1><b:AttackSpeed>与<?2><b:CriticalDamage>",
             "ParametersCn": [
                 [
                     "1400",
@@ -10928,7 +10928,7 @@
         {
             "SkillId": 20015300,
             "NameCn": "カブトムシシールド！",
-            "DescriptionCn": "Every 40s, increases the <b:DEF> of the ally with the highest DEF by <?1> for 33s.",
+            "DescriptionCn": "每40秒提升防御力最高友军<?1><b:DEF> (33秒内)",
             "ParametersCn": [
                 [
                     "15.8%",
@@ -10947,7 +10947,7 @@
         {
             "SkillId": 20015400,
             "NameCn": "癒しの波动、とりゃぁっ！",
-            "DescriptionCn": "Increases <b:HealPower> by <?1>.",
+            "DescriptionCn": "<b:HealPower>增加<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -10966,7 +10966,7 @@
         {
             "SkillId": 20015500,
             "NameCn": "まだまだ顽张れるよ！",
-            "DescriptionCn": "Increases all allies' <b:MAXHP> by <?1>.",
+            "DescriptionCn": "提升全体友军<?1><b:MAXHP>",
             "ParametersCn": [
                 [
                     "9.1%",
@@ -10985,7 +10985,7 @@
         {
             "SkillId": 20015450,
             "NameCn": "癒しの波动、とりゃぁっ！+",
-            "DescriptionCn": "Increases <b:HealPower> by <?1> plus a further <?2>.",
+            "DescriptionCn": "<b:HealPower>增加<?1>+额外<?2>",
             "ParametersCn": [
                 [
                     "678",
@@ -11016,7 +11016,7 @@
         {
             "SkillId": 20016200,
             "NameCn": "行きますよ、虎丸",
-            "DescriptionCn": "Deploys Iroha riding Toramaru for 55s, with an additional <?1> of Iroha's <b:ATK>. Every 15s, Toramaru activates the skill \"Main Cannon, Aim, Fire!\", firing a shell that deals <?2> damage to one enemy and splits, dealing the same damage to up to 2 nearby enemies. Only one tactical support vehicle may be deployed at any given time.",
+            "DescriptionCn": "伊吕波乘着虎丸入场，虎丸拥有伊吕波<?1><b:ATK>(55秒内)。每15秒虎丸触发技能\"Main Cannon, Aim, Fire!\"发射一颗炮弹，炮弹对一个敌人造成<?2>伤害并爆裂，对邻近的2名敌人造成等量伤害。任何时候场上只能存在一台战术支援(T.S.)载具",
             "ParametersCn": [
                 [
                     "11.2%",
@@ -11037,7 +11037,7 @@
         {
             "SkillId": 20016300,
             "NameCn": "めんどくさいですね……",
-            "DescriptionCn": "Every 40s, fires shells at up to 4 enemies, each shell dealing <?1> damage to enemies in a circular area around the target.",
+            "DescriptionCn": "每40秒对至多4个敌人发射炮弹，每颗炮弹对目标圆形范围内的敌人造成<?1>伤害",
             "ParametersCn": [
                 [
                     "43.8%",
@@ -11056,7 +11056,7 @@
         {
             "SkillId": 20016400,
             "NameCn": "仕方ありません",
-            "DescriptionCn": "Increases <b:ATK> by <?1>.",
+            "DescriptionCn": "<b:ATK>提高<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -11075,7 +11075,7 @@
         {
             "SkillId": 20016500,
             "NameCn": "しっかりしてください",
-            "DescriptionCn": "Increases all allies' <b:ATK> by <?1>.",
+            "DescriptionCn": "提升全体友军<?1><b:ATK>",
             "ParametersCn": [
                 [
                     "9.1%",
@@ -11094,7 +11094,7 @@
         {
             "SkillId": 20016450,
             "NameCn": "仕方ありません+",
-            "DescriptionCn": "Increases <b:ATK> by <?1> plus a further <?2>.",
+            "DescriptionCn": "<b:ATK>提高<?1>+额外<?2>",
             "ParametersCn": [
                 [
                     "330",
@@ -11125,7 +11125,7 @@
         {
             "SkillId": 16009200,
             "NameCn": "满流忍法っ！！",
-            "DescriptionCn": "Launches a firework in a straight line, dealing <?1> damage to the first enemy hit, plus an additional <?2> <d:Burn> damage every 4s for 20s.",
+            "DescriptionCn": "在一条直线上发射一个烟花，对击中的第一个敌人造成<?1>伤害并每4秒附加额外的<?2><d:Burn>伤害 (20秒内)",
             "ParametersCn": [
                 [
                     "501%",
@@ -11146,7 +11146,7 @@
         {
             "SkillId": 16009300,
             "NameCn": "捌け、地狱忍魔刀！",
-            "DescriptionCn": "Every 30s, increases <b:ATK> by <?1> for 20s.",
+            "DescriptionCn": "每30秒<b:ATK>提高<?1> (20秒内)",
             "ParametersCn": [
                 [
                     "21.4%",
@@ -11165,7 +11165,7 @@
         {
             "SkillId": 16009400,
             "NameCn": "见て见て、自作の忍术！",
-            "DescriptionCn": "Increases <b:CriticalDamage> by <?1>.",
+            "DescriptionCn": "<b:CriticalDamage>增加<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -11184,7 +11184,7 @@
         {
             "SkillId": 16009500,
             "NameCn": "满流忍术、奥义！",
-            "DescriptionCn": "Increases <b:CriticalDamage> by <?1>. Effect is increased by an additional <?2> for every other Ninjutsu Research Club student in the same unit (up to a maximum of 3 times).",
+            "DescriptionCn": "<b:CriticalDamage>增加<?1> Effect is increased by an additional <?2> for every other Ninjutsu Research Club student in the same unit (up to a maximum of 3 times).",
             "ParametersCn": [
                 [
                     "8.4%",
@@ -11215,7 +11215,7 @@
         {
             "SkillId": 16009450,
             "NameCn": "见て见て、自作の忍术！+",
-            "DescriptionCn": "Increases <b:ATK> by <?1> and <b:CriticalDamage> by <?2>.",
+            "DescriptionCn": "提高<?1><b:ATK>与<?2><b:CriticalDamage>",
             "ParametersCn": [
                 [
                     "332",
@@ -11246,7 +11246,7 @@
         {
             "SkillId": 10040200,
             "NameCn": "月咏流、忍法……！",
-            "DescriptionCn": "Gains <b:HealByHit_Damaged> for 30s, restoring HP by <?1> of Healing each time Tsukuyo is attacked. (Effect can trigger up to a maximum of <b>100</b> times and Tsukuyo's <d:ATK> is decreased by <?2> for the effect's duration.)",
+            "DescriptionCn": "获得<b:HealByHit_Damaged> (30秒内)，当月咏被攻击时以<?1>治疗力恢复体力。(此效果最高叠加到<b>100</b>倍，期间月咏<d:ATK>下降<?2>)",
             "ParametersCn": [
                 [
                     "7%",
@@ -11267,7 +11267,7 @@
         {
             "SkillId": 10040300,
             "NameCn": "たくさん、练习しましたので……！",
-            "DescriptionCn": "Every 7 normal attacks, deals <?1> damage to one enemy. If the enemy is <b>medium</b> sized, decreases their <d:DEF> by <?2> for 20s.",
+            "DescriptionCn": "每7次常规攻击对一个敌人造成<?1>伤害。如果为<b>medium</b>体型敌人，降低其<?2><d:DEF> (20秒内)",
             "ParametersCn": [
                 [
                     "418%",
@@ -11298,7 +11298,7 @@
         {
             "SkillId": 10040400,
             "NameCn": "生まれ持った素质",
-            "DescriptionCn": "Increases <b:MAXHP> by <?1>.",
+            "DescriptionCn": "<b:MAXHP>增加<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -11336,7 +11336,7 @@
         {
             "SkillId": 10040450,
             "NameCn": "生まれ持った素质+",
-            "DescriptionCn": "Increases <b:MAXHP> by <?1> plus a further <?2>.",
+            "DescriptionCn": "<b:MAXHP>增加<?1>+额外<?2>",
             "ParametersCn": [
                 [
                     "4356",
@@ -11367,7 +11367,7 @@
         {
             "SkillId": 10041200,
             "NameCn": "虚しい世界",
-            "DescriptionCn": "Creates 7 points that continuously deal <?1> damage to enemies in a circular area around them every 4s for 48s. If this skill is used again before the duration expires, the previously created points will disappear.",
+            "DescriptionCn": "Creates 7 points that continuously deal <?1> damage to enemies in a circular area around them every 4s (48秒内) If this skill is used again before the duration expires, the previously created points will disappear.",
             "ParametersCn": [
                 [
                     "7.5%",
@@ -11381,7 +11381,7 @@
         {
             "SkillId": 10041300,
             "NameCn": "早く终わらせたい",
-            "DescriptionCn": "Every 50s, increases <b:ATK> by <?1> for 40s.",
+            "DescriptionCn": "每50秒<b:ATK>提高<?1> (40秒内)",
             "ParametersCn": [
                 [
                     "19.5%",
@@ -11400,7 +11400,7 @@
         {
             "SkillId": 10041400,
             "NameCn": "无意味な技术",
-            "DescriptionCn": "Increases <b:ATK> by <?1>.",
+            "DescriptionCn": "<b:ATK>提高<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -11486,7 +11486,7 @@
         {
             "SkillId": 10041450,
             "NameCn": "无意味な技术+",
-            "DescriptionCn": "Increases <b:ATK> by <?1> plus a further <?2>.",
+            "DescriptionCn": "<b:ATK>提高<?1>+额外<?2>",
             "ParametersCn": [
                 [
                     "659",
@@ -11517,7 +11517,7 @@
         {
             "SkillId": 20017200,
             "NameCn": "い、今支援します！",
-            "DescriptionCn": "Fires a bullet in a straight line that deals <?1> damage to the first enemy it hits and decreases their <d:DEF> by <?2> if there are fewer than 3 Arius students in the same unit, or <?3> if there are 3 or more for 30s.",
+            "DescriptionCn": "Fires a bullet in a straight line that deals <?1> damage to the first enemy it hits and decreases their <d:DEF> by <?2> if there are fewer than 3 Arius students in the same unit, or <?3> if there are 3 or more (30秒内)",
             "ParametersCn": [
                 [
                     "207%",
@@ -11545,7 +11545,7 @@
         {
             "SkillId": 20017300,
             "NameCn": "い、痛くなりますよ！",
-            "DescriptionCn": "Every 40s, deals <?1> damage to one enemy and decreases their <d:DEF> by <?2> for 30s.",
+            "DescriptionCn": "每40秒对一个敌人造成<?1>伤害。and decreases their <d:DEF> by <?2> (30秒内)",
             "ParametersCn": [
                 [
                     "255%",
@@ -11576,7 +11576,7 @@
         {
             "SkillId": 20017400,
             "NameCn": "雑志に书いてありました",
-            "DescriptionCn": "Increases <b:CriticalDamage> by <?1>.",
+            "DescriptionCn": "<b:CriticalDamage>增加<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -11595,7 +11595,7 @@
         {
             "SkillId": 20017500,
             "NameCn": "付録の力です",
-            "DescriptionCn": "Increases all allies' <b:ATK> by <?1>.",
+            "DescriptionCn": "提升全体友军<?1><b:ATK>",
             "ParametersCn": [
                 [
                     "9.1%",
@@ -11614,7 +11614,7 @@
         {
             "SkillId": 20017450,
             "NameCn": "雑志に书いてありました+",
-            "DescriptionCn": "Increases <b:CriticalDamage> by <?1> plus a further <?2>.",
+            "DescriptionCn": "<b:CriticalDamage>增加<?1>+额外<?2>",
             "ParametersCn": [
                 [
                     "2000",
@@ -11645,7 +11645,7 @@
         {
             "SkillId": 10042200,
             "NameCn": "これも私の力……？",
-            "DescriptionCn": "Continuously restores the HP of allies in a circular area around Atsuko by <?1> of Healing every 5s for 30s.",
+            "DescriptionCn": "每5秒，持续以<?1>治疗力恢复亚津子周围圆形范围内友军体力 (30秒内)",
             "ParametersCn": [
                 [
                     "28.4%",
@@ -11659,7 +11659,7 @@
         {
             "SkillId": 10042300,
             "NameCn": "隠れるよ",
-            "DescriptionCn": "Every 30s, creates a smokescreen at Atsuko's location that increases the <b:Dodge> of allies inside it by <?1> for 20s.",
+            "DescriptionCn": "每30秒在亚津子的位置制造一个提升友军<?1><b:Dodge>的烟幕 (20秒内)",
             "ParametersCn": [
                 [
                     "20.5%",
@@ -11678,7 +11678,7 @@
         {
             "SkillId": 10042400,
             "NameCn": "教えられた事",
-            "DescriptionCn": "Increases <b:Dodge> by <?1>.",
+            "DescriptionCn": "<b:Dodge>增加<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -11697,7 +11697,7 @@
         {
             "SkillId": 10042500,
             "NameCn": "痛いのは惯れてる",
-            "DescriptionCn": "Increases <b:Dodge> by <?1> when under 30% HP.",
+            "DescriptionCn": "自身体力低于30%时，<b:Dodge>增加<?1>",
             "ParametersCn": [
                 [
                     "24.2%",
@@ -11716,7 +11716,7 @@
         {
             "SkillId": 10042450,
             "NameCn": "教えられた事+",
-            "DescriptionCn": "Increases <b:HealPower> by <?1> and <b:Dodge> by <?2>.",
+            "DescriptionCn": "增加<?1><b:HealPower>与<?2><b:Dodge>",
             "ParametersCn": [
                 [
                     "606",
@@ -11747,7 +11747,7 @@
         {
             "SkillId": 10043200,
             "NameCn": "秘色の花占い",
-            "DescriptionCn": "Deals <?1> damage to one enemy. Each hit inflicts <c:Stunned> for <?2> with the final hit inflicting <c:Stunned> for <?3>. (Total 6 hits)",
+            "DescriptionCn": "对一个敌人造成<?1>伤害。 Each hit inflicts <c:Stunned> for <?2> with the final hit inflicting <c:Stunned> for <?3>. (Total 6 hits)",
             "ParametersCn": [
                 [
                     "565%",
@@ -11775,7 +11775,7 @@
         {
             "SkillId": 10043300,
             "NameCn": "ただ、あなた様のため",
-            "DescriptionCn": "Every 60s, gains one level of the following effect (max. level 3). Increases <b:ATK> by <?1>/<?2>/<?3> but also increases <d:DamagedRatio> by 9.6%/19.2%/28.9% at level <b>1</b>/<b>2</b>/<b>3</b>.",
+            "DescriptionCn": "每60秒获得以下效果的一个等级 (最高等级 3)。<b:ATK>提高<?1>/<?2>/<?3>但同时<d:DamagedRatio>增加9.6%/19.2%/28.9%于等级<b>1</b>/<b>2</b>/<b>3</b>",
             "ParametersCn": [
                 [
                     "21.7%",
@@ -11818,7 +11818,7 @@
         {
             "SkillId": 10043400,
             "NameCn": "あふれ出す恋心",
-            "DescriptionCn": "Increases <b:ATK> by <?1>.",
+            "DescriptionCn": "<b:ATK>提高<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -11837,7 +11837,7 @@
         {
             "SkillId": 10043500,
             "NameCn": "真夏の情热",
-            "DescriptionCn": "Deals <?1> damage as an additional hit to enemies that have less than 30% HP.",
+            "DescriptionCn": "对体力低于30%的敌人额外一击，造成额外的<?1>伤害",
             "ParametersCn": [
                 [
                     "51.6%",
@@ -11856,7 +11856,7 @@
         {
             "SkillId": 10043450,
             "NameCn": "あふれ出す恋心+",
-            "DescriptionCn": "Increases <b:ATK> by <?1> plus a further <?2>.",
+            "DescriptionCn": "<b:ATK>提高<?1>+额外<?2>",
             "ParametersCn": [
                 [
                     "442",
@@ -11887,7 +11887,7 @@
         {
             "SkillId": 10044200,
             "NameCn": "凉しくな～れ♧",
-            "DescriptionCn": "Immediately reloads, deals <?1> damage to one enemy and augments <s:FormChange> to ignore attack delay <?2> times. Effect ends after consuming <b>100</b> ammo.",
+            "DescriptionCn": "立刻换弹，对一个敌人造成<?1>伤害，并增强<s:FormChange>以无视<?2>次攻击延迟。消耗<b>100</b>弹药后效果消失",
             "ParametersCn": [
                 [
                     "695%",
@@ -11908,7 +11908,7 @@
         {
             "SkillId": 10044300,
             "NameCn": "みんなで楽しく！",
-            "DescriptionCn": "Every 40s, increases the <b:AttackSpeed> of allies in a circular area by <?1> for 30s.",
+            "DescriptionCn": "每40秒提升圆形区域内队友<?1><b:AttackSpeed> (30秒内)",
             "ParametersCn": [
                 [
                     "11.4%",
@@ -11927,7 +11927,7 @@
         {
             "SkillId": 10044400,
             "NameCn": "待ちきれません♧",
-            "DescriptionCn": "Increases <b:AttackSpeed> by <?1>.",
+            "DescriptionCn": "<b:AttackSpeed>增加<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -11946,7 +11946,7 @@
         {
             "SkillId": 10044500,
             "NameCn": "冷たいですよ～！",
-            "DescriptionCn": "Deals <?1> damage as an additional hit to enemies while Nonomi's <s:FormChange> is augmented.",
+            "DescriptionCn": "当野宫的<s:FormChange>被增强，对敌人额外一击，造成额外的<?1>伤害",
             "ParametersCn": [
                 [
                     "10.9%",
@@ -11965,7 +11965,7 @@
         {
             "SkillId": 10044450,
             "NameCn": "待ちきれません♧+",
-            "DescriptionCn": "Increases <b:Penetration> by <?1> and <b:AttackSpeed> by <?2>.",
+            "DescriptionCn": "增加<?1><b:Penetration>与<?2><b:ATK>",
             "ParametersCn": [
                 [
                     "360",
@@ -11995,8 +11995,8 @@
         },
         {
             "SkillId": 26007200,
-            "NameCn": "雨云号、出撃します！",
-            "DescriptionCn": "Deploys Ayane riding Rain Cloud for 30s, with an additional <?1> of Ayane's <b:ATK> and <?2> of Ayane's <b:CriticalChance>. Every 12s, Rain Cloud activates the skill \"Downpour Missile\", dealing <?3> damage to one enemy. This attack ignores <?4> of the enemy's DEF. Only one tactical support vehicle may be deployed at any given time.",
+            "NameCn": "雨云号、出击します！",
+            "DescriptionCn": "茜乘着雨云号入场，雨云号拥有茜<?1><b:ATK>与<?2><b:CriticalChance>(30秒内)。每12秒雨云号触发\"Downpour Missile\"技能，对一个敌人造成<?3>伤害。此攻击无视敌人<?4>防御力。任何时候场上只能存在一台战术支援(T.S.)载具",
             "ParametersCn": [
                 [
                     "12.5%",
@@ -12031,7 +12031,7 @@
         {
             "SkillId": 26007300,
             "NameCn": "空からの支援",
-            "DescriptionCn": "Every 30s, deals <?1> damage to one enemy. This attack ignores <?2> of the enemy's DEF.",
+            "DescriptionCn": "每30秒对一个敌人造成<?1>伤害。此伤害无视敌人<?2>防御力",
             "ParametersCn": [
                 [
                     "148%",
@@ -12062,7 +12062,7 @@
         {
             "SkillId": 26007400,
             "NameCn": "自动照准",
-            "DescriptionCn": "Increases <b:CriticalChance> by <?1>.",
+            "DescriptionCn": "<b:CriticalChance>增加<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -12081,7 +12081,7 @@
         {
             "SkillId": 26007500,
             "NameCn": "戦况把握",
-            "DescriptionCn": "Increases all allies' <b:CriticalDamage> by <?1>.",
+            "DescriptionCn": "提升全体友军<?1><b:CriticalDamage>",
             "ParametersCn": [
                 [
                     "9.1%",
@@ -12100,7 +12100,7 @@
         {
             "SkillId": 26007450,
             "NameCn": "自动照准+",
-            "DescriptionCn": "Increases <b:CriticalChance> by <?1> plus a further <?2>.",
+            "DescriptionCn": "<b:CriticalChance>增加<?1>+额外<?2>",
             "ParametersCn": [
                 [
                     "100",
@@ -12131,7 +12131,7 @@
         {
             "SkillId": 10045200,
             "NameCn": "水上支援",
-            "DescriptionCn": "Increases <b:ATK> by <?1> and <b:EnhanceExplosionRate> by <?2> of all allies within a circular area around Hoshino as long as they stay within range. Effect lasts for 50s.",
+            "DescriptionCn": "提高<?1><b:ATK>并提高在星野身边圆形范围内的全部友军<?2><b:EnhanceExplosionRate> (50秒内)",
             "ParametersCn": [
                 [
                     "26.5%",
@@ -12161,8 +12161,8 @@
         },
         {
             "SkillId": 10045300,
-            "NameCn": "水上袭撃",
-            "DescriptionCn": "Every 40s, deals <?1> damage to one enemy and restores own HP by <?2> of Healing.",
+            "NameCn": "水上袭击",
+            "DescriptionCn": "每40秒对一个敌人造成<?1>伤害并以<?2>治疗力恢复自身体力",
             "ParametersCn": [
                 [
                     "283%",
@@ -12193,7 +12193,7 @@
         {
             "SkillId": 10045400,
             "NameCn": "猛暑耐久",
-            "DescriptionCn": "Increases <b:DEF> by <?1> and <b:ATK> by <?2>.",
+            "DescriptionCn": "增加<?1><b:DEF>与<?2><b:ATK>",
             "ParametersCn": [
                 [
                     "11.2%",
@@ -12224,7 +12224,7 @@
         {
             "SkillId": 10045500,
             "NameCn": "浜辺の楽しさ",
-            "DescriptionCn": "Increases <b:CostRegen> by <?1> for the duration of Hoshino's EX skill.",
+            "DescriptionCn": "星野EX技能持续时间内<b:CostRegen>增加<?1>",
             "ParametersCn": [
                 [
                     "360",
@@ -12243,7 +12243,7 @@
         {
             "SkillId": 10045450,
             "NameCn": "猛暑耐久+",
-            "DescriptionCn": "Increases <b:DEF> by <?1> plus a further <?3> and <b:ATK> by <?2> plus a further <?4>.",
+            "DescriptionCn": "<b:DEF>增加<?1>+额外<?3>，<b:ATK>增加<?2>+额外<?4>",
             "ParametersCn": [
                 [
                     "160",
@@ -12317,7 +12317,7 @@
         {
             "SkillId": 26008300,
             "NameCn": "暑いですか？",
-            "DescriptionCn": "Every 45s, increases the <b:CriticalDamage> of the ally with the highest Crit DMG by <?1> for 36s.",
+            "DescriptionCn": "每45秒提升暴击伤害最高的友军<?1><b:CriticalDamage> (36秒内)",
             "ParametersCn": [
                 [
                     "20.8%",
@@ -12336,7 +12336,7 @@
         {
             "SkillId": 26008400,
             "NameCn": "売上高増加中！",
-            "DescriptionCn": "Increases <b:HealPower> by <?1>.",
+            "DescriptionCn": "<b:HealPower>增加<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -12355,7 +12355,7 @@
         {
             "SkillId": 26008500,
             "NameCn": "顽张ってください！にゃんにゃん！",
-            "DescriptionCn": "Increases all allies' <b:ATK> by <?1>.",
+            "DescriptionCn": "提升全体友军<?1><b:ATK>",
             "ParametersCn": [
                 [
                     "9.1%",
@@ -12374,7 +12374,7 @@
         {
             "SkillId": 26008450,
             "NameCn": "売上高増加中！+",
-            "DescriptionCn": "Increases <b:HealPower> by <?1> plus a further <?2>.",
+            "DescriptionCn": "<b:HealPower>增加<?1>+额外<?2>",
             "ParametersCn": [
                 [
                     "702",
@@ -12405,7 +12405,7 @@
         {
             "SkillId": 10046200,
             "NameCn": "泉奈流忍法・夏バージョン",
-            "DescriptionCn": "Deals <?1> damage to one enemy and applies <d:ConcentratedTarget> to them for 30s.",
+            "DescriptionCn": "对一个敌人造成<?1>伤害并附加<d:ConcentratedTarget> (30秒内)",
             "ParametersCn": [
                 [
                     "423%",
@@ -12424,7 +12424,7 @@
         {
             "SkillId": 10046300,
             "NameCn": "泉奈流忍法！ぷくぷくの术！",
-            "DescriptionCn": "Every 6 normal attacks, deals <?1> damage to one enemy and decreases their <d:CriticalDamageRateResist> by <?2> for 20s.",
+            "DescriptionCn": "每6次常规攻击对一个敌人造成<?1>伤害并降低其<?2><d:CriticalDamageRateResist> (20秒内)",
             "ParametersCn": [
                 [
                     "418%",
@@ -12455,7 +12455,7 @@
         {
             "SkillId": 10046400,
             "NameCn": "主殿！夏です！",
-            "DescriptionCn": "Increases <b:AttackSpeed> by <?1>.",
+            "DescriptionCn": "<b:AttackSpeed>增加<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -12474,7 +12474,7 @@
         {
             "SkillId": 10046500,
             "NameCn": "泉奈流忍法・夏バージョン奥义発动！",
-            "DescriptionCn": "Every 25 times Izuna successfully lands a critical hit, increases <b:AttackSpeed> by <?1> for 23s.",
+            "DescriptionCn": "Every 25 times Izuna successfully lands a critical hit, <b:AttackSpeed>增加<?1> (23秒内)",
             "ParametersCn": [
                 [
                     "16.2%",
@@ -12493,7 +12493,7 @@
         {
             "SkillId": 10046450,
             "NameCn": "主殿！夏です！+",
-            "DescriptionCn": "Increases <b:CriticalDamage> by <?1> and <b:AttackSpeed> by <?2>.",
+            "DescriptionCn": "增加<?1><b:CriticalDamage>与<?2><b:AttackSpeed>",
             "ParametersCn": [
                 [
                     "2000",
@@ -12524,7 +12524,7 @@
         {
             "SkillId": 10047200,
             "NameCn": "夏の海辺、ふぃ～ば～",
-            "DescriptionCn": "Fires 3 grenades that target up to 3 different enemies. Each grenade deals <?1> damage and inflicts <c:Stunned> for <?2> to the target and enemies in a circular area around them. If the target is already inflicted with a crowd-control effect, deals <?3> damage and inflicts <c:Stunned> for <?4> instead.",
+            "DescriptionCn": "对3个不同敌人丢出3颗手雷。每颗手雷对周围圆形范围内的敌人造成<?1>伤害并附加<?2><c:Stunned>效果。如果目标已被赋予群控效果，对其造成<?3>伤害并附加<?4><c:Stunned>",
             "ParametersCn": [
                 [
                     "232%",
@@ -12579,7 +12579,7 @@
         {
             "SkillId": 10047300,
             "NameCn": "びーちぼーる、しゅ～と～",
-            "DescriptionCn": "Every 50s, deals <?1> damage to one enemy and inflicts <c:Stunned> for <?2>.",
+            "DescriptionCn": "每50秒对一个敌人造成<?1>伤害并附加<?2><c:Stunned>效果",
             "ParametersCn": [
                 [
                     "282%",
@@ -12610,7 +12610,7 @@
         {
             "SkillId": 10047400,
             "NameCn": "散歩、准备OK～",
-            "DescriptionCn": "Increases <b:ATK> by <?1>.",
+            "DescriptionCn": "<b:ATK>提高<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -12629,7 +12629,7 @@
         {
             "SkillId": 10047500,
             "NameCn": "ブルブル～寒いかも～？",
-            "DescriptionCn": "Chise's EX skill deals an additional <?1> <d:Chill> damage to targets hit every 4s for 20s.",
+            "DescriptionCn": "千世的EX技能每4秒对目标造成额外的<?1><d:Chill>伤害 (20秒内)",
             "ParametersCn": [
                 [
                     "30%",
@@ -12648,7 +12648,7 @@
         {
             "SkillId": 10047450,
             "NameCn": "散歩、准备OK～+",
-            "DescriptionCn": "Increases <b:ATK> by <?1> plus a further <?2>.",
+            "DescriptionCn": "<b:ATK>提高<?1>+额外<?2>",
             "ParametersCn": [
                 [
                     "272",
