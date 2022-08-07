@@ -1,0 +1,354 @@
+{
+    "DataList": [
+        {
+            "Key": 3106664702,
+            "Th": "D.U.ロストハイウェイ西地区",
+            "Comment": "Campaign 18-1 Normal"
+        },
+        {
+            "Key": 1576649077,
+            "Th": "D.U.ロストハイウェイ交差点",
+            "Comment": "Campaign 18-2 Normal"
+        },
+        {
+            "Key": 32554047,
+            "Th": "捨てられた開発区域",
+            "Comment": "Campaign 18-3 Normal"
+        },
+        {
+            "Key": 3375265651,
+            "Th": "D.U.ロストハイウェイ東地区",
+            "Comment": "Campaign 18-4 Normal"
+        },
+        {
+            "Key": 205151099,
+            "Th": "旧第56業務地区",
+            "Comment": "Campaign 18-5 Normal"
+        },
+        {
+            "Key": 394021502,
+            "Th": "ロストハイウェイ第1区域",
+            "Comment": "Campaign 18-1 Hard"
+        },
+        {
+            "Key": 1986280806,
+            "Th": "ロストハイウェイ第2区域",
+            "Comment": "Campaign 18-2 Hard"
+        },
+        {
+            "Key": 3067685631,
+            "Th": "ロストハイウェイ第3区域",
+            "Comment": "Campaign 18-3 Hard"
+        },
+        {
+            "Key": 1403690722,
+            "Th": "雪原地区第1エリア",
+            "Comment": "Campaign 19-1 Normal"
+        },
+        {
+            "Key": 1548693340,
+            "Th": "雪原鉄道・上り",
+            "Comment": "Campaign 19-2 Normal"
+        },
+        {
+            "Key": 474872459,
+            "Th": "雪原地区第2エリア",
+            "Comment": "Campaign 19-3 Normal"
+        },
+        {
+            "Key": 497154583,
+            "Th": "北麓中央線",
+            "Comment": "Campaign 19-4 Normal"
+        },
+        {
+            "Key": 941545665,
+            "Th": "雪原地区第3エリア",
+            "Comment": "Campaign 19-5 Normal"
+        },
+        {
+            "Key": 277214140,
+            "Th": "新雪本線",
+            "Comment": "Campaign 19-1 Hard"
+        },
+        {
+            "Key": 1091014716,
+            "Th": "陽依山",
+            "Comment": "Campaign 19-2 Hard"
+        },
+        {
+            "Key": 3843190524,
+            "Th": "明霧山",
+            "Comment": "Campaign 19-3 Hard"
+        },
+        {
+            "Key": 403734002,
+            "Th": "トリニティの聖堂・入口付近",
+            "Comment": "Event 812-1 Quest"
+        },
+        {
+            "Key": 2408895044,
+            "Th": "礼拝堂入口",
+            "Comment": "Event 812-2 Quest"
+        },
+        {
+            "Key": 4023626677,
+            "Th": "第1礼拝堂",
+            "Comment": "Event 812-3 Quest"
+        },
+        {
+            "Key": 4273407934,
+            "Th": "第2礼拝堂",
+            "Comment": "Event 812-4 Quest"
+        },
+        {
+            "Key": 2656524513,
+            "Th": "第3礼拝堂",
+            "Comment": "Event 812-5 Quest"
+        },
+        {
+            "Key": 3787976617,
+            "Th": "第1講堂",
+            "Comment": "Event 812-6 Quest"
+        },
+        {
+            "Key": 1844023991,
+            "Th": "第2講堂",
+            "Comment": "Event 812-7 Quest"
+        },
+        {
+            "Key": 2438826981,
+            "Th": "物品保管室",
+            "Comment": "Event 812-8 Quest"
+        },
+        {
+            "Key": 928235490,
+            "Th": "懺悔室付近",
+            "Comment": "Event 812-9 Quest"
+        },
+        {
+            "Key": 3314167040,
+            "Th": "シスターたちの休憩室付近",
+            "Comment": "Event 812-10 Quest"
+        },
+        {
+            "Key": 29093243,
+            "Th": "シスターたちの待機所付近",
+            "Comment": "Event 812-11 Quest"
+        },
+        {
+            "Key": 1600972202,
+            "Th": "トリニティ大聖堂・出口付近",
+            "Comment": "Event 812-12 Quest"
+        },
+        {
+            "Key": 3546874558,
+            "Th": "トリニティ大聖堂・入口付近",
+            "Comment": "Event 812-1 Challenge"
+        },
+        {
+            "Key": 1356674000,
+            "Th": "聖堂の遺跡・中央",
+            "Comment": "Event 812-2 Challenge"
+        },
+        {
+            "Key": 1400743065,
+            "Th": "聖堂の遺跡・礼拝堂付近",
+            "Comment": "Event 812-3 Challenge"
+        },
+        {
+            "Key": 2792172299,
+            "Th": "聖堂の遺跡・講堂",
+            "Comment": "Event 812-4 Challenge"
+        },
+        {
+            "Key": 253241911,
+            "Th": "聖堂の遺跡・出口付近",
+            "Comment": "Event 812-5 Challenge"
+        },
+        {
+            "Key": 2025482854,
+            "Th": "舞台「THE・カマボコ」正面口",
+            "Comment": "Event 813-1 Quest"
+        },
+        {
+            "Key": 2901059984,
+            "Th": "舞台「THE・カマボコ」裏手口",
+            "Comment": "Event 813-2 Quest"
+        },
+        {
+            "Key": 3293107064,
+            "Th": "時代劇展示通り・其の壱",
+            "Comment": "Event 813-3 Quest"
+        },
+        {
+            "Key": 899632120,
+            "Th": "時代劇展示通り・其の肆",
+            "Comment": "Event 813-4 Quest"
+        },
+        {
+            "Key": 3391417199,
+            "Th": "ムシクイーン大会第2会場",
+            "Comment": "Event 813-5 Quest"
+        },
+        {
+            "Key": 1305907421,
+            "Th": "渦巻映画村・屋台通り",
+            "Comment": "Event 813-6 Quest"
+        },
+        {
+            "Key": 83831020,
+            "Th": "ムシクイーン大会第3会場",
+            "Comment": "Event 813-7 Quest"
+        },
+        {
+            "Key": 423865505,
+            "Th": "ムシクイーン大会決勝ステージ",
+            "Comment": "Event 813-8 Quest"
+        },
+        {
+            "Key": 2130283883,
+            "Th": "渦巻映画村・お土産売り場前",
+            "Comment": "Event 813-9 Quest"
+        },
+        {
+            "Key": 3547523642,
+            "Th": "渦巻映画村・撮影所前",
+            "Comment": "Event 813-10 Quest"
+        },
+        {
+            "Key": 3961105500,
+            "Th": "「柴犬ワン蔵」監督記念館",
+            "Comment": "Event 813-11 Quest"
+        },
+        {
+            "Key": 4152676632,
+            "Th": "百鬼夜行連合学院・チラシ通り",
+            "Comment": "Event 813-12 Quest"
+        },
+        {
+            "Key": 453513,
+            "Th": "茶屋「渦巻」前庭",
+            "Comment": "Event 813-1 Challenge"
+        },
+        {
+            "Key": 2004596183,
+            "Th": "渦巻映画村・第1撮影所",
+            "Comment": "Event 813-2 Challenge"
+        },
+        {
+            "Key": 2869506335,
+            "Th": "舞台「和楽姫」正面口",
+            "Comment": "Event 813-3 Challenge"
+        },
+        {
+            "Key": 2848081325,
+            "Th": "渦巻映画村・第7撮影所",
+            "Comment": "Event 813-4 Challenge"
+        },
+        {
+            "Key": 1950851073,
+            "Th": "舞台「和楽姫」舞台裏",
+            "Comment": "Event 813-5 Challenge"
+        },
+        {
+            "Key": 68779473,
+            "Th": "リゾート指定海水浴場入口",
+            "Comment": "Event 814-1 Quest"
+        },
+        {
+            "Key": 2231964632,
+            "Th": "リゾート指定海水浴場",
+            "Comment": "Event 814-2 Quest"
+        },
+        {
+            "Key": 2499866369,
+            "Th": "リゾート遊歩道入口",
+            "Comment": "Event 814-3 Quest"
+        },
+        {
+            "Key": 2089998472,
+            "Th": "リゾート遊歩道",
+            "Comment": "Event 814-4 Quest"
+        },
+        {
+            "Key": 917400140,
+            "Th": "シエスタ海岸入口",
+            "Comment": "Event 814-5 Quest"
+        },
+        {
+            "Key": 1380584522,
+            "Th": "シエスタ海岸",
+            "Comment": "Event 814-6 Quest"
+        },
+        {
+            "Key": 1533999410,
+            "Th": "鸚鵡滝入口",
+            "Comment": "Event 814-7 Quest"
+        },
+        {
+            "Key": 1925336460,
+            "Th": "鸚鵡滝",
+            "Comment": "Event 814-8 Quest"
+        },
+        {
+            "Key": 751375685,
+            "Th": "トワイライト海岸",
+            "Comment": "Event 814-9 Quest"
+        },
+        {
+            "Key": 2991838395,
+            "Th": "トワイライト海水浴場",
+            "Comment": "Event 814-10 Quest"
+        },
+        {
+            "Key": 3870703814,
+            "Th": "清流の橋入口",
+            "Comment": "Event 814-11 Quest"
+        },
+        {
+            "Key": 2058621940,
+            "Th": "清流の橋",
+            "Comment": "Event 814-12 Quest"
+        },
+        {
+            "Key": 988440711,
+            "Th": "放置された海岸",
+            "Comment": "Event 814-1 Challenge"
+        },
+        {
+            "Key": 2705191376,
+            "Th": "朽ち果てた肝試しコース",
+            "Comment": "Event 814-2 Challenge"
+        },
+        {
+            "Key": 1481015930,
+            "Th": "朽ち果てた肝試しコース出口",
+            "Comment": "Event 814-3 Challenge"
+        },
+        {
+            "Key": 310263153,
+            "Th": "潮風海岸",
+            "Comment": "Event 814-4 Challenge"
+        },
+        {
+            "Key": 582221788,
+            "Th": "潮風海岸出口",
+            "Comment": "Event 814-5 Challenge"
+        },
+        {
+            "Key": 686853734,
+            "Th": "水没した廃墟第1区域",
+            "Comment": "Event 701-9 Quest"
+        },
+        {
+            "Key": 1941427758,
+            "Th": "水没した廃墟第2区域",
+            "Comment": "Event 701-10 Quest"
+        },
+        {
+            "Key": 310980935,
+            "Th": "廃墟水没地区未確認区域",
+            "Comment": "Event 701-1 Challenge"
+        }
+    ]
+}

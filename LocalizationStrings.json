@@ -2163,7 +2163,7 @@
                 "En": "Decreases the amount of damage dealt by attacks."
             },
             "Debuff_AttackSpeed": {
-                "En": "Decreases the speed of Normal Attacks and reloads, and reduces attack delay."
+                "En": "Decreases the speed of Normal Attacks and reloads, and increases attack delay."
             },
             "Debuff_BlockRate": {
                 "En": "Decreases the chance of successfully blocking attacks when taking cover."
@@ -3044,7 +3044,7 @@
                 "En": "Unlocks after reaching relationship rank {0} with {1}",
                 "Jp": "{1}との絆ランク{0}になると獲得できる。",
                 "Kr": null,
-                "Th": "ปลดล็อคหลังจากระดับสายใยของ {1} ถึงระดับ {0}"
+                "Th": "ปลดล็อคหลังจากระดับสายใยของ {1} ถึงระดับ {0}",
                 "Tw": "{1}羈絆等級達成{0}後解鎖",
                 "Cn": "{1}羁绊等级达到{0}后解锁"
             },
@@ -3644,7 +3644,7 @@
                 "En": "Lowered Switch Tile",
                 "Jp": null,
                 "Kr": null,
-                "Th": "พื้นสวิทช์ลดระดับ"
+                "Th": "พื้นสวิทช์ลดระดับ",
                 "Tw": null,
                 "Cn": null
             },
