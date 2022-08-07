@@ -1213,7 +1213,7 @@
                 "Kr": "버프",
                 "Th": "บัฟ",
                 "Tw": "增益效果",
-                "Cn": "增益效果"
+                "Cn": null
             },
             "Debuff": {
                 "En": "Debuff",
@@ -1221,7 +1221,7 @@
                 "Kr": "디버프",
                 "Th": "ดีบัฟ",
                 "Tw": "減益效果",
-                "Cn": "減益效果"
+                "Cn": null
             },
             "CC": {
                 "En": "Crowd Control Effect",
@@ -1229,15 +1229,15 @@
                 "Kr": "군중제어 효과에",
                 "Th": "เอฟเฟกต์กดขี่",
                 "Tw": "群控效果",
-                "Cn": "群控效果"
+                "Cn": null
             },
             "Special": {
                 "En": "Status Effect",
                 "Jp": "ステータス",
                 "Kr": null,
                 "Th": "พิเศษ",
-                "Tw": "狀態效果",
-                "Cn": "状态效果"
+                "Tw": null,
+                "Cn": null
             }
         },
         "BuffName": {
@@ -1389,7 +1389,7 @@
                 "En": "Damage Recovery",
                 "Jp": "回復をする効果",
                 "Kr": "피격 시 치유력의",
-                "Th": "ฟื้นฟูเมื่อสร้างความเสียหาย",
+                "Th": "ฟื้นฟูเมื่อได้รับความเสียหาย",
                 "Tw": "擊中恢復",
                 "Cn": "击中回复"
             },
@@ -1630,8 +1630,8 @@
                 "Jp": "貫通特効",
                 "Kr": "신비 특효",
                 "Th": "โบนัสความเสียหายลึกลับ",
-                "Tw": "神秘傷害",
-                "Cn": "神秘伤害"
+                "Tw": "貫穿傷害",
+                "Cn": "贯穿伤害"
             },
             "Debuff_HealEffectiveness": {
                 "En": "Recovery Boost",
@@ -1822,9 +1822,7 @@
                 "Cn": "累积伤害"
             },
             "Special_CostRegenBan": {
-                "En": "Recovery Stop",
-                "Tw": "COST停止恢復",
-                "Cn": "COST停止回复"
+                "En": "Recovery Stop"
             },
             "Special_ImmuneCC": {
                 "En": "CC Immune",
@@ -1840,613 +1838,606 @@
         "BuffNameLong": {
             "Buff_AmmoCount": {
                 "En": "Mag Count Up",
-                "Tw": "裝彈數提升",
-                "Cn": "载弹量提升"
+                "Th": "จำนวนกระสุนเพิ่มขึ้น"
             },
             "Buff_ATK": {
                 "En": "ATK Up",
-                "Tw": "攻擊力提升",
-                "Cn": "攻击力提升"
+                "Th": "ค่าโจมตีเพิ่มขึ้น"
             },
             "Buff_AttackSpeed": {
                 "En": "ATK SPD Up",
-                "Tw": "攻擊速度提升",
-                "Cn": "攻速提升"
+                "Th": "ความเร็วโจมตีเพิ่มขึ้น"
             },
             "Buff_BlockRate": {
                 "En": "Block Rate Up",
-                "Tw": "掩護成功率提升",
-                "Cn": "掩护成功率提升"
+                "Th": "อัตรากำบังสำเร็จเพิ่มขึ้น"
             },
             "Buff_ConcentratedTarget": {
-                "En": "Focused Assault",
-                "Tw": "集中攻擊",
-                "Cn": "集中攻击"
+                "En": "Focused Assault"
             },
             "Buff_CostChange": {
                 "En": "EX Cost Down",
-                "Tw": "EX 技能費用降低",
-                "Cn": "EX 技能费用降低"
+                "Th": "สกิล Ex Cost ลดลง"
             },
             "Buff_CostRegen": {
                 "En": "Cost Recovery Up",
-                "Tw": "COST恢復力提升",
-                "Cn": "COST回复力提升"
+                "Th": "ค่าฟื้นฟู Cost เพิ่มขึ้น"
             },
             "Buff_CriticalChance": {
                 "En": "Crit Up",
-                "Tw": "暴擊數值提升",
-                "Cn": "暴击值提升"
+                "Th": "ค่าคริเพิ่มขึ้น"
             },
             "Buff_CriticalChanceResistPoint": {
                 "En": "Crit RES Up",
-                "Tw": "暴擊抵抗力提升",
-                "Cn": "暴击抵抗力提升"
+                "Th": "ค่าต้านทานคริเพิ่มขึ้น"
             },
             "Buff_CriticalDamage": {
                 "En": "Crit DMG Up",
-                "Tw": "暴擊傷害提升",
-                "Cn": "暴击伤害提升"
+                "Th": "ความเสียหายคริเพิ่มขึ้น"
             },
             "Buff_CriticalDamageRateResist": {
                 "En": "Crit DMG RES Up",
-                "Tw": "暴擊傷害抵抗率提升",
-                "Cn": "暴击伤害抵抗率提升"
+                "Th": "อัตราต้านทานความเสียหายคริเพิ่มขึ้น"
             },
             "Buff_DamagedRatio": {
                 "En": "Incoming Damage Down",
-                "Tw": "遭受的傷害量降低",
-                "Cn": "遭受伤害量降低"
+                "Th": "ความเสียหายที่ได้รับลดลง"
             },
             "Buff_DEF": {
                 "En": "DEF Up",
-                "Tw": "防禦力提升",
-                "Cn": "防御力提升"
+                "Th": "ค่าป้องกันเพิ่มขึ้น"
             },
             "Buff_Dodge": {
                 "En": "Evasion Up",
-                "Tw": "迴避數值提升",
-                "Cn": "回避值提升"
+                "Th": "ค่าหลบหลีกเพิ่มขึ้น"
             },
             "Buff_DotHeal": {
                 "En": "HP Regeneration",
-                "Tw": "持續恢復",
-                "Cn": "持续恢复"
+                "Th": "ฟื้นฟู HP ต่อเนื่อง"
             },
             "Buff_EnhanceExplosionRate": {
                 "En": "Explosive Bonus DMG Up",
-                "Tw": "爆發傷害加成提升",
-                "Cn": "爆发伤害加成提升"
+                "Th": "ความเสียหายประเภทระเบิดเพิ่มขึ้น"
             },
             "Buff_EnhancePierceRate": {
                 "En": "Piercing Bonus DMG Up",
-                "Tw": "貫穿傷害加成提升",
-                "Cn": "贯穿伤害加成提升"
+                "Th": "ความเสียหายประเภทเจาะเกราะเพิ่มขึ้น"
             },
             "Buff_EnhanceMysticRate": {
                 "En": "Mystic Bonus DMG Up",
-                "Tw": "神秘傷害加成提升",
-                "Cn": "神秘伤害加成提升"
+                "Th": "ความเสียหายประเภทลึกลับเพิ่มขึ้น"
             },
             "Buff_HealByHit_Damaged": {
                 "En": "Damage Recovery",
-                "Tw": "擊中恢復",
-                "Cn": "击中回复"
+                "Th": "ฟื้นฟูเมื่อได้รับความเสียหาย"
             },
             "Buff_HealEffectiveness": {
                 "En": "Recovery Boost Up",
-                "Tw": "所受恢復效果強化率提升",
-                "Cn": "所受恢复效果强化率提升"
+                "Th": "อัตราเร่งการฟื้นฟูเพิ่มขึ้น"
             },
             "Buff_HealPower": {
                 "En": "Healing Up",
-                "Tw": "治癒力提升",
-                "Cn": "治疗力提升"
+                "Th": "ค่ารักษาเพิ่มขึ้น"
             },
             "Buff_HIT": {
                 "En": "Accuracy Up",
-                "Tw": "命中數值提升",
-                "Cn": "命中率提升"
+                "Th": "ค่าความแม่นยำเพิ่มขึ้น"
             },
             "Buff_MAXHP": {
                 "En": "Max HP Up",
-                "Tw": "最大體力提升",
-                "Cn": "最大体力提升"
+                "Th": "HP สูงสุดเพิ่มขึ้น"
             },
             "Buff_MoveSpeed": {
                 "En": "MOV SPD Up",
-                "Tw": "移動速度提升",
-                "Cn": "移速提升"
+                "Th": "ความเร็วเคลื่อนที่เพิ่มขึ้น"
             },
             "Buff_OppressionPower": {
                 "En": "CC Power Up",
-                "Tw": "群控強化力提升",
-                "Cn": "群控强化力提升"
+                "Th": "ประสิทธิภาพกดขี่เพิ่มขึ้น"
             },
             "Buff_OppressionResist": {
                 "En": "CC RES Up",
-                "Tw": "群控抵抗力提升",
-                "Cn": "群控抵抗力提升"
+                "Th": "ต้านทานการกดขี่เพิ่มขึ้น"
             },
             "Buff_Penetration": {
                 "En": "Defense Piercing Up",
-                "Tw": "防禦貫穿數值提升",
-                "Cn": "防御贯穿数值提升"
+                "Th": "ค่าเจาะเกราะเพิ่มขึ้น"
             },
             "Buff_Range": {
                 "En": "Range Up",
-                "Tw": "射程增加",
-                "Cn": "射程增加"
+                "Th": "ระยะโจมตีเพิ่มขึ้น"
             },
             "Buff_Shield": {
                 "En": "Barrier",
-                "Tw": "護盾",
-                "Cn": "护盾"
+                "Th": "บาเรีย"
             },
             "Buff_Stability": {
                 "En": "Stability Up",
-                "Tw": "安定數值提升",
-                "Cn": "稳定值提升"
+                "Th": "ค่าความเสถียรเพิ่มขึ้น"
             },
             "Debuff_AmmoCount": {
                 "En": "Mag Count Down",
-                "Tw": "裝彈數减少",
-                "Cn": "载弹量减少"
+                "Th": "จำนวนกระสุนลดลง"
             },
             "Debuff_ATK": {
                 "En": "ATK Down",
-                "Tw": "攻擊力下降",
-                "Cn": "攻击力下降"
+                "Th": "ค่าโจมตีลดลง"
             },
             "Debuff_AttackSpeed": {
                 "En": "ATK SPD Down",
-                "Tw": "攻擊速度下降",
-                "Cn": "攻速下降"
+                "Th": "ความเร็วโจมตีลดลง"
             },
             "Debuff_BlockRate": {
                 "En": "Block Rate Down",
-                "Tw": "掩護成功率下降",
-                "Cn": "掩护成功率下降"
+                "Th": "อัตรากำบังสำเร็จลดลง"
             },
             "Debuff_Burn": {
                 "En": "Burn",
-                "Tw": "燒傷",
-                "Cn": "烧伤"
+                "Th": "เผาไหม้"
             },
             "Debuff_Chill": {
                 "En": "Chill",
-                "Tw": "惡寒",
-                "Cn": "恶寒"
+                "Th": "หนาวสั่น"
             },
             "Debuff_ConcentratedTarget": {
-                "En": "Focused Assault",
-                "Tw": "集中攻擊",
-                "Cn": "集中攻击"
+                "En": "Focused Assault"
             },
             "Debuff_CostChange": {
                 "En": "EX Cost Up",
-                "Tw": "EX 技能費用增加",
-                "Cn": "EX 技能费用增加"
+                "Th": "สกิล Ex Cost เพิ่มขึ้น"
             },
             "Debuff_CriticalChance": {
                 "En": "Crit Down",
-                "Tw": "暴擊數值下降",
-                "Cn": "暴击值下降"
+                "Th": "ค่าคริลดลง"
             },
             "Debuff_CriticalChanceResistPoint": {
                 "En": "Crit RES Down",
-                "Tw": "暴擊抵抗力下降",
-                "Cn": "暴击抵抗力下降"
+                "Th": "ค่าต้านทานคริลดลง"
             },
             "Debuff_CriticalDamage": {
                 "En": "Crit DMG Down",
-                "Tw": "暴擊傷害下降",
-                "Cn": "暴击伤害下降"
+                "Th": "ความเสียหายคริลดลง"
             },
             "Debuff_CriticalDamageRateResist": {
                 "En": "Crit DMG RES Down",
-                "Tw": "暴擊傷害抵抗率下降",
-                "Cn": "暴击伤害抵抗率下降"
+                "Th": "อัตราต้านทานความเสียหายคริลดลง"
             },
             "Debuff_DamageByHit_Damaged": {
                 "En": "Exposed Weakness",
-                "Tw": "弱點暴露",
-                "Cn": "弱点暴露"
+                "Th": "เผยจุดอ่อน"
             },
             "Debuff_DamagedRatio": {
                 "En": "Incoming Damage Up",
-                "Tw": "遭受的傷害量增加",
-                "Cn": "遭受的伤害量增加"
+                "Th": "ความเสียหายที่ได้รับเพิ่มขึ้น"
             },
             "Debuff_DEF": {
                 "En": "DEF Down",
-                "Tw": "防禦力下降",
-                "Cn": "防御力下降"
+                "Th": "ค่าป้องกันลดลง"
             },
             "Debuff_Dodge": {
                 "En": "Evasion Down",
-                "Tw": "迴避數值下降",
-                "Cn": "回避值下降"
+                "Th": "ค่าหลบหลีกลดลง"
             },
             "Debuff_EnhanceExplosionRate": {
                 "En": "Explosive Bonus DMG Down",
-                "Tw": "爆發傷害下降",
-                "Cn": "爆发伤害下降"
+                "Th": "ความเสียหายประเภทระเบิดลดลง"
             },
             "Debuff_EnhancePierceRate": {
                 "En": "Piercing Bonus DMG Down",
-                "Tw": "貫穿傷害下降",
-                "Cn": "贯穿伤害下降"
+                "Th": "ความเสียหายประเภทเจาะเกราะลดลง"
             },
             "Debuff_EnhanceMysticRate": {
                 "En": "Mystic Bonus DMG Down",
-                "Tw": "神秘傷害下降",
-                "Cn": "神秘伤害下降"
+                "Th": "ความเสียหายประเภทลึกลับลดลง"
             },
             "Debuff_HealEffectiveness": {
                 "En": "Recovery Boost Down",
-                "Tw": "所受恢復效果強化率下降",
-                "Cn": "所受回复效果强化率下降"
+                "Th": "อัตราเร่งการฟื้นฟูลดลง"
             },
             "Debuff_HealPower": {
                 "En": "Healing Down",
-                "Tw": "治癒力下降",
-                "Cn": "治疗力下降"
+                "Th": "ค่ารักษาลดลง"
             },
             "Debuff_Hieronymus": {
                 "En": "Curse",
-                "Tw": "詛咒",
-                "Cn": "诅咒"
+                "En": "คำสาป"
             },
             "Debuff_HIT": {
                 "En": "Accuracy Down",
-                "Tw": "命中數值下降",
-                "Cn": "准确度下降"
+                "Th": "ค่าความแม่นยำลดลง"
             },
             "Debuff_MAXHP": {
                 "En": "Max HP Down",
-                "Tw": "最大體力下降",
-                "Cn": "最大体力下降"
+                "Th": "HP สูงสุดลดลง"
             },
             "Debuff_MoveSpeed": {
                 "En": "MOV SPD Down",
-                "Tw": "移動速度下降",
-                "Cn": "移动速度下降"
+                "Th": "ความเร็วเคลื่อนที่ลดลง"
             },
             "Debuff_OppressionPower": {
                 "En": "CC Power Down",
-                "Tw": "群控強化力下降",
-                "Cn": "群控强化力下降"
+                "Th": "ประสิทธิภาพกดขี่ลดลง"
             },
             "Debuff_OppressionResist": {
                 "En": "CC RES Down",
-                "Tw": "群控抵抗力下降",
-                "Cn": "群控抵抗力下降"
+                "Th": "ต้านทานการกดขี่ลดลง"
             },
             "Debuff_Penetration": {
                 "En": "Defense Piercing Down",
-                "Tw": "防禦貫穿數值下降",
-                "Cn": "防御贯穿值下降"
+                "Th": "ค่าเจาะเกราะลดลง"
             },
             "Debuff_Poison": {
                 "En": "Poison",
-                "Tw": "中毒",
-                "Cn": "中毒"
+                "Th": "พิษ"
             },
             "Debuff_Range": {
                 "En": "Range Down",
-                "Tw": "射程下降",
-                "Cn": "射程下降"
+                "Th": "ระยะโจมตีลดลง"
             },
             "Debuff_Stability": {
                 "En": "Stability Down",
-                "Tw": "安定數值下降",
-                "Cn": "稳定值下降"
+                "Th": "ค่าความเสถียรลดลง"
             },
             "Debuff_CostRegen": {
                 "En": "Cost Recovery Down",
-                "Tw": "COST恢復力下降",
-                "Cn": "COST回复力下降"
+                "Th": "ค่าฟื้นฟู Cost ลดลง"
             },
             "CC_Fear": {
                 "En": "Fear",
-                "Tw": "恐懼",
-                "Cn": "恐惧"
+                "Th": "กลัว"
             },
             "CC_Stunned": {
                 "En": "Stun",
-                "Tw": "昏厥",
-                "Cn": "昏厥"
+                "Th": "หมดสติ"
             },
             "CC_Provoke": {
                 "En": "Taunt",
-                "Tw": "挑釁",
-                "Cn": "挑衅"
+                "Th": "ยั่วยุ"
             },
             "Special_EnergyBatteryHalf": {
                 "En": "Energy Charge",
-                "Tw": "能量",
-                "Cn": "能量"
+                "Th": "ชาร์จ"
             },
             "Special_FormChange": {
                 "En": "Form Change",
-                "Tw": "一般攻擊",
-                "Cn": "普通攻击"
+                "Th": "เปลี่ยนรูปแบบการโจมตี"
             },
             "Special_Immortal": {
                 "En": "Immortal",
-                "Tw": "不死",
-                "Cn": "不死"
+                "Th": "อมตะ"
             },
             "Special_ImmuneDamage": {
-                "En": "Invulnerable",
-                "Tw": "免傷",
-                "Cn": "免伤"
+                "En": "Invulnerable"
             },
             "Special_Fury": {
                 "En": "Enraged",
-                "Tw": "憤怒",
-                "Cn": "愤怒"
+                "Th": "โกรธ"
             },
             "Special_Misdeed": {
                 "En": "Misdeeds",
-                "Tw": "惡行",
-                "Cn": "恶行"
+                "Th": "ความชั่วร้าย"
             },
             "Special_LittleDevil": {
                 "En": "Little Devils",
-                "Tw": "小惡魔",
-                "Cn": "小恶魔"
+                "Th": "ปีศาจน้อย"
             },
             "Special_Accumulation": {
-                "En": "DMG Accumulation",
-                "Tw": "累積傷害",
-                "Cn": "累积伤害"
+                "En": "DMG Accumulation"
             },
             "Special_CostRegenBan": {
-                "En": "Cost Recovery Stop",
-                "Tw": "COST停止恢復",
-                "Cn": "COST停止回复"
+                "En": "Cost Recovery Stop"
             },
             "Special_ImmuneCC": {
-                "En": "CC Immunity",
-                "Tw": "群控免疫",
-                "Cn": "群控免疫"
+                "En": "CC Immunity"
             },
             "Special_SuddenDeath": {
-                "En": "Wakamo's Mark",
-                "Tw": "若藻的印記",
-                "Cn": "若藻的印记"
+                "En": "Wakamo's Mark"
             }
         },
         "BuffTooltip": {
             "Buff_AmmoCount": {
-                "En": "Increases the maximum amount of weapon ammunition used by Normal Attacks."
+                "En": "Increases the maximum amount of weapon ammunition used by Normal Attacks.",
+                "Th": "เพิ่มจำนวนกระสุนสูงสุดของอาวุธในการโจมตีปกติ"
             },
             "Buff_ATK": {
-                "En": "Increases the amount of damage dealt by attacks."
+                "En": "Increases the amount of damage dealt by attacks.",
+                "Th": "เพิ่มความเสียหายของการโจมตี"
             },
             "Buff_AttackSpeed": {
-                "En": "Increases the speed of Normal Attacks and reloads, and reduces attack delay."
+                "En": "Increases the speed of Normal Attacks and reloads, and reduces attack delay.",
+                "Th": "เพิ่มความเร็วในการโจมตี, รีโหลดและลดดีเลย์ในการโจมตี"
             },
             "Buff_BlockRate": {
-                "En": "Increases the chance of successfully blocking attacks when taking cover."
+                "En": "Increases the chance of successfully blocking attacks when taking cover.",
+                "Th": "เพิ่มโอกาสกำบังสำเร็จเมื่ออยู่ในกำบัง"
             },
             "Buff_ConcentratedTarget": {
-                "En": "Becomes the priority target of enemies' attacks."
+                "En": "Becomes the priority target of enemies' attacks.",
+                "Th": "เป็นเป้าหมายหลักในการโจมตีของศัตรู"
             },
             "Buff_CostChange": {
-                "En": "Reduces the amount of skill cost required for using the EX Skill."
+                "En": "Reduces the amount of skill cost required for using the EX Skill.",
+                "Th": "ลดจำนวน Cost ที่ต้องการในการใช้สกิล Ex"
             },
             "Buff_CostRegen": {
-                "En": "Increases the rate at which skill cost is recovered."
+                "En": "Increases the rate at which skill cost is recovered.",
+                "Th": "เพิ่มความเร็วในการฟื้นฟู Cost"
             },
             "Buff_CriticalChance": {
-                "En": "Increases the chance of landing a critical hit when attacking."
+                "En": "Increases the chance of landing a critical hit when attacking.",
+                "Th": "เพิ่มโอกาสโจมตีติดคริติคอล"
             },
             "Buff_CriticalChanceResistPoint": {
-                "En": "Decerases the chance of receiving a critical hit when being attacked."
+                "En": "Decerases the chance of receiving a critical hit when being attacked.",
+                "Th": "ลดโอกาสถูกโจมตีติดคริติคอล"
             },
             "Buff_CriticalDamage": {
-                "En": "Increases the damage dealt by critical hits."
+                "En": "Increases the damage dealt by critical hits.,
+                "Th": "เพิ่มความเสียหายของการโจมตีคริติคอล"
             },
             "Buff_CriticalDamageRateResist": {
-                "En": "Decreases the damage received from critical hits."
+                "En": "Decreases the damage received from critical hits.",
+                "Th": "ลดความเสียหายของการถูกโจมตีคริติคอล"
             },
             "Buff_DamagedRatio": {
-                "En": "Decreases all incoming damage by a percentage amount."
+                "En": "Decreases all incoming damage by a percentage amount.",
+                "Th": "ลดความเสียหายที่ได้รับลงเป็นเปอร์เซ็นต์"
             },
             "Buff_DEF": {
-                "En": "Decreases the damage received from attacks."
+                "En": "Decreases the damage received from attacks.",
+                "Th": "ลดความเสียหายเมื่อถูกโจมตี"
             },
             "Buff_Dodge": {
-                "En": "Increases the chance of successfully evading attacks."
+                "En": "Increases the chance of successfully evading attacks.",
+                "Th": "เพิ่มโอกาสหลบหลีกการโจมตีได้สำเร็จ"
             },
             "Buff_DotHeal": {
-                "En": "Continuously restores HP at set intervals."
+                "En": "Continuously restores HP at set intervals.",
+                "Th": "ฟื้นฟู HP ช้าๆ เป็นเวลาต่อเนื่อง"
             },
             "Buff_EnhanceExplosionRate": {
-                "En": "Increases the bonus damage dealt by Explosive type attacks against Light Armor targets."
+                "En": "Increases the bonus damage dealt by Explosive type attacks against Light Armor targets.",
+                "Th": "เพิ่มความเสียหายของการโจมตีประเภทระเบิดที่มีต่อเป้าหมายเกราะเบา"
             },
             "Buff_EnhancePierceRate": {
-                "En": "Increases the bonus damage dealt by Piercing type attacks against Heavy Armor targets."
+                "En": "Increases the bonus damage dealt by Piercing type attacks against Heavy Armor targets.",
+                "Th": "เพิ่มความเสียหายของการโจมตีประเภทเจาะเกราะที่มีต่อเป้าหมายเกราะหนัก"
             },
             "Buff_EnhanceMysticRate": {
-                "En": "Increases the bonus damage dealt by Mystic type attacks against Special Armor targets."
+                "En": "Increases the bonus damage dealt by Mystic type attacks against Special Armor targets.",
+                "Th": "เพิ่มความเสียหายของการโจมตีประเภทลึกลับที่มีต่อเป้าหมายเกราะพิเศษ"
             },
             "Buff_HealByHit_Damaged": {
-                "En": "Restores HP each time damage is taken from an attack."
+                "En": "Restores HP each time damage is taken from an attack.",
+                "Th": "ฟื้นฟู HP ทุกครั้งที่ได้รับความเสียหายจากการโจมตี"
             },
             "Buff_HealEffectiveness": {
-                "En": "Increases the amount of HP restored from healing abilities."
+                "En": "Increases the amount of HP restored from healing abilities.",
+                "Th": "เพิ่มจำนวน HP ที่ฟื้นฟูจากความสามารถรักษา"
             },
             "Buff_HealPower": {
-                "En": "Increases the amount of HP restored by healing abilities, and damage absorbed by barrier abilities."
+                "En": "Increases the amount of HP restored by healing abilities, and damage absorbed by barrier abilities.",
+                "Th": "เพิ่มจำนวน HP ที่ฟื้นฟูจากความสามารถรักษาและความเสียหายที่ความสามารถบาเรียดูดซับได้"
             },
             "Buff_HIT": {
-                "En": "Decreases the chance of missing when attacking."
+                "En": "Decreases the chance of missing when attacking.",
+                "Th": "ลดโอกาสที่จะโจมตีไม่โดนเป้าหมายลง"
             },
             "Buff_MAXHP": {
-                "En": "Increases maximum HP."
+                "En": "Increases maximum HP.",
+                "Th": "เพิ่มจำนวน HP สูงสุด"
             },
             "Buff_MoveSpeed": {
-                "En": "Increases movement speed."
+                "En": "Increases movement speed.",
+                "Th": "เพิ่มความเร็วเคลื่อนที่"
             },
             "Buff_OppressionPower": {
-                "En": "Increases the chance of successfully inflicting Crowd Control effects."
+                "En": "Increases the chance of successfully inflicting Crowd Control effects.",
+                "Th": "เพิ่มโอกาสในการส่งผลเอฟเฟคกดขี่สำเร็จ"
             },
             "Buff_OppressionResist": {
-                "En": "Decreases the chance of being inflicting with Crowd Control effects."
+                "En": "Decreases the chance of being inflicting with Crowd Control effects.",
+                "Th": "ลดโอกาสในการได้รับผลจากเอฟเฟคกดขี่"
             },
             "Buff_Penetration": {
-                "En": "Increases the amount of enemy defense that will be ignored by attacks."
+                "En": "Increases the amount of enemy defense that will be ignored by attacks.",
+                "Th": "เพิ่มจำนวนค่าป้องกันที่จะไม่สนใจในการโจมตี"
             },
             "Buff_Range": {
-                "En": "Increases the distance from which Normal Attacks can be performed."
+                "En": "Increases the distance from which Normal Attacks can be performed.",
+                "Th": "เพิ่มระยะในการการโจมตีปกติ"
             },
             "Buff_Shield": {
-                "En": "Absorbs a set amount of damage."
+                "En": "Absorbs a set amount of damage.",
+                "Th": "ดูดซับความเสียหายที่ได้รับเป็นจำนวนหนึ่ง"
             },
             "Buff_Stability": {
-                "En": "Increases the minimum damage dealt by attacks due to random damage variance."
+                "En": "Increases the minimum damage dealt by attacks due to random damage variance.",
+                "Th": "เพิ่มความเสียหายขั้นต่ำที่สามารถทำได้ในการโจมตี"
             },
             "Debuff_AmmoCount": {
-                "En": "Decreases the maximum amount of weapon ammunition used by Normal Attacks."
+                "En": "Decreases the maximum amount of weapon ammunition used by Normal Attacks.",
+                "Th": "ลดจำนวนกระสุนสูงสุดของอาวุธในการโจมตีปกติ"
             },
             "Debuff_ATK": {
-                "En": "Decreases the amount of damage dealt by attacks."
+                "En": "Decreases the amount of damage dealt by attacks.",
+                "Th": "ลดความเสียหายของการโจมตี"
             },
             "Debuff_AttackSpeed": {
-                "En": "Decreases the speed of Normal Attacks and reloads, and increases attack delay."
+                "En": "Decreases the speed of Normal Attacks and reloads, and increases attack delay.",
+                "Th": "ลดความเร็วการโจมตี, รีโหลดและเพิ่มดีเลย์ในการโจมตี"
             },
             "Debuff_BlockRate": {
-                "En": "Decreases the chance of successfully blocking attacks when taking cover."
+                "En": "Decreases the chance of successfully blocking attacks when taking cover.",
+                "Th": "ลดโอกาสกำบังสำเร็จเมื่ออยู่ในกำบัง"
             },
             "Debuff_Burn": {
-                "En": "Continuously receives Burn damage at set intervals. This damage cannot critically hit."
+                "En": "Continuously receives Burn damage at set intervals. This damage cannot critically hit.",
+                "Th": "ได้รับความเสียหายเผาไหม้ต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้"
             },
             "Debuff_Chill": {
-                "En": "Continuously receives Chill damage at set intervals. This damage cannot critically hit."
+                "En": "Continuously receives Chill damage at set intervals. This damage cannot critically hit.",
+                "Th": "ได้รับความเสียหายหนาวสั่นต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้"
             },
             "Debuff_ConcentratedTarget": {
-                "En": "Becomes the priority target of enemies' attacks."
+                "En": "Becomes the priority target of enemies' attacks.",
+                "Th": "เป็นเป้าหมายหลักในการโจมตีของศัตรู"
             },
             "Debuff_CostChange": {
-                "En": "Increases the amount of skill cost required for using the EX Skill."
+                "En": "Increases the amount of skill cost required for using the EX Skill.",
+                "Th": "เพิ่มจำนวน Cost ที่ต้องการในการใช้สกิล Ex"
             },
             "Debuff_CostRegen": {
-                "En": "Decreases the rate at which skill cost is recovered."
+                "En": "Decreases the rate at which skill cost is recovered.",
+                "Th": "ลดความเร็วในการฟื้นฟู Cost"
             },
             "Debuff_CriticalChance": {
-                "En": "Decreases the chance of landing a critical hit when attacking."
+                "En": "Decreases the chance of landing a critical hit when attacking.",
+                "Th": "ลดโอกาสโจมตีติดคริติคอล"
             },
             "Debuff_CriticalChanceResistPoint": {
-                "En": "Increases the chance of receiving a critical hit when being attacked."
+                "En": "Increases the chance of receiving a critical hit when being attacked.",
+                "Th": "เพิ่มโอกาสถูกโจมตีติดคริติคอล"
             },
             "Debuff_CriticalDamage": {
-                "En": "Decreases the damage dealt by critical hits."
+                "En": "Decreases the damage dealt by critical hits.",
+                "Th": "ลดความเสียหายของการโจมตีคริติคอล"
             },
             "Debuff_CriticalDamageRateResist": {
-                "En": "Increases the damage received from critical hits."
+                "En": "Increases the damage received from critical hits.",
+                "Th": "เพิ่มความเสียหายของการถูกโจมตีคริติคอล"
             },
             "Debuff_DamageByHit_Damaged": {
-                "En": "Receives additional damage when being attacked."
+                "En": "Receives additional damage when being attacked.",
+                "Th": "ได้รับความเสียหายเพิ่มเติมเมื่อถูกโจมตี"
             },
             "Debuff_DamagedRatio": {
-                "En": "Increases all incoming damage by a percentage amount."
+                "En": "Increases all incoming damage by a percentage amount.",
+                "Th": "เพิ่มความเสียหายที่ได้รับขึ้นเป็นเปอร์เซ็นต์"
             },
             "Debuff_DEF": {
-                "En": "Increases the damage received from attacks."
+                "En": "Increases the damage received from attacks.",
+                "Th": "เพิ่มความเสียหายเมื่อถูกโจมตี"
             },
             "Debuff_Dodge": {
-                "En": "Decreases the chance of successfully evading attacks."
+                "En": "Decreases the chance of successfully evading attacks.",
+                "Th": "ลดโอกาสหลบหลีกการโจมตีได้สำเร็จ"
             },
             "Debuff_EnhanceExplosionRate": {
-                "En": "Decreases the bonus damage dealt by Explosive type attacks against Light Armor targets."
+                "En": "Decreases the bonus damage dealt by Explosive type attacks against Light Armor targets.",
+                "Th": "ลดความเสียหายของการโจมตีประเภทระเบิดที่มีต่อเป้าหมายเกราะเบา"
             },
             "Debuff_EnhancePierceRate": {
-                "En": "Decreases the bonus damage dealt by Piercing type attacks against Heavy Armor targets."
+                "En": "Decreases the bonus damage dealt by Piercing type attacks against Heavy Armor targets.",
+                "Th": "ลดความเสียหายของการโจมตีประเภทเจาะเกราะที่มีต่อเป้าหมายเกราะหนัก"
             },
             "Debuff_EnhanceMysticRate": {
-                "En": "Decreases the bonus damage dealt by Mystic type attacks against Special Armor targets."
+                "En": "Decreases the bonus damage dealt by Mystic type attacks against Special Armor targets.",
+                "Th": "ลดความเสียหายของการโจมตีประเภทลึกลับที่มีต่อเป้าหมายเกราะพิเศษ"
             },
             "Debuff_HealEffectiveness": {
-                "En": "Decreases the amount of HP restored from healing abilities."
+                "En": "Decreases the amount of HP restored from healing abilities.",
+                "Th": "ลดจำนวน HP ที่ฟื้นฟูจากความสามารถรักษา"
             },
             "Debuff_HealPower": {
-                "En": "Decreases the amount of HP restored by healing abilities, and damage absorbed by barrier abilities."
+                "En": "Decreases the amount of HP restored by healing abilities, and damage absorbed by barrier abilities.",
+                "Th": "ลดจำนวน HP ที่ฟื้นฟูจากความสามารถรักษาและความเสียหายที่ความสามารถบาเรียดูดซับได้"
             },
             "Debuff_Hieronymus": {
-                "En": "Inflicts continuous damage over time. Inflicts a large amount of damage in a circular area around the target if this debuff is not removed before it expires. This debuff can only be removed by healing the afflicted to 100% HP."
+                "En": "Inflicts continuous damage over time. Inflicts a large amount of damage in a circular area around the target if this debuff is not removed before it expires. This debuff can only be removed by healing the afflicted to 100% HP.",
+                "Th": "สร้างความเสียหายอย่างต่อเนื่อง<br>สร้างความเสียหายรุนแรงในรัศมีวงกลมรอบเป้าหมายหากดีบัฟไม่ถูกล้างออกก่อนระยะเวลาดีบัฟจบลง<br>ดีบัฟสามารถถูกล้างออกด้วยการรักษาเป้าหมายให้ HP เป็น 100%"
             },
             "Debuff_HIT": {
-                "En": "Increases the chance of missing when attacking."
+                "En": "Increases the chance of missing when attacking.",
+                "Th": "เพิ่มโอกาสที่จะโจมตีไม่โดนเป้าหมายขึ้น"
             },
             "Debuff_MAXHP": {
-                "En": "Decreases maximum HP."
+                "En": "Decreases maximum HP.",
+                "Th": "ลดจำนวน HP สูงสุด"
             },
             "Debuff_MoveSpeed": {
-                "En": "Decreases movement speed."
+                "En": "Decreases movement speed.",
+                "Th": "ลดความเร็วเคลื่อนที่"
             },
             "Debuff_OppressionPower": {
-                "En": "Decreases the chance of successfully inflicting Crowd Control effects."
+                "En": "Decreases the chance of successfully inflicting Crowd Control effects.",
+                "Th": "ลดโอกาสในการส่งผลเอฟเฟคกดขี่สำเร็จ"
             },
             "Debuff_OppressionResist": {
-                "En": "Increases the chance of being inflicting with Crowd Control effects."
+                "En": "Increases the chance of being inflicting with Crowd Control effects.",
+                "Th": "เพิ่มโอกาสในการได้รับผลจากเอฟเฟคกดขี่"
             },
             "Debuff_Penetration": {
-                "En": "Decreases the amount of enemy defense that will be ignored by attacks."
+                "En": "Decreases the amount of enemy defense that will be ignored by attacks.",
+                "Th": "ลดจำนวนค่าป้องกันที่จะไม่สนใจในการโจมตี"
             },
             "Debuff_Poison": {
-                "En": "Continuously receives poison damage at set intervals. This damage cannot critically hit."
+                "En": "Continuously receives poison damage at set intervals. This damage cannot critically hit.",
+                "Th": "ได้รับความเสียหายพิษต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้"
             },
             "Debuff_Range": {
-                "En": "Decreases the distance from which Normal Attacks can be performed."
+                "En": "Decreases the distance from which Normal Attacks can be performed.",
+                "Th": "ลดระยะในการการโจมตีปกติ"
             },
             "Debuff_Stability": {
-                "En": "Decreases the minimum damage dealt by attacks due to random damage variance."
+                "En": "Decreases the minimum damage dealt by attacks due to random damage variance.",
+                "Th": "ลดความเสียหายขั้นต่ำที่สามารถทำได้ในการโจมตี"
             },
             "CC_Fear": {
-                "En": "Unable to act and will slowly move away from whoever inflicted fear on them. Also interrupts any active skills."
+                "En": "Unable to act and will slowly move away from whoever inflicted fear on them. Also interrupts any active skills.",
+                "Th": "ไม่สามารถตอบสนองได้และจะค่อยๆ เคลื่อนที่ออกจากคนที่ส่งผลเอฟเฟคกลัว นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก"
             },
             "CC_Stunned": {
-                "En": "Unable to act and interrupts any active skills."
+                "En": "Unable to act and interrupts any active skills.",
+                "Th": "ไม่สามารถตอบสนองได้ นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก"
             },
             "CC_Provoke": {
-                "En": "Forced to attack whoever inflicted taunt on them. Also interrupts any active skills."
+                "En": "Forced to attack whoever inflicted taunt on them. Also interrupts any active skills.",
+                "Th": "ถูกบังคับให้โจมตีใส่คนที่ส่งผลเอฟเฟคยั่วยุ นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก"
             },
             "Special_EnergyBatteryHalf": {
-                "En": "Increases the effectiveness of Aris's EX and Sub skills by 1.5&times; (half) or 2&times; (full).\nCharge level resets to empty after EX skill use."
+                "En": "Increases the effectiveness of Aris's EX and Sub skills by 1.5&times; (half) or 2&times; (full).\nCharge level resets to empty after EX skill use.",
+                "Th": "เพิ่มประสิทธิภาพสกิล Ex และสกิลเสริมของอาริสึขึ้น 1.5&times; (ครึ่งหนึ่ง) หรือ 2&times; (เต็ม)\nระดับการชาร์จจะถูกรีเซ็ทเป็น 0 หลังการใช้งานสกิล Ex"
             },
             "Special_FormChange": {
-                "En": "Augments Normal Attacks."
+                "En": "Augments Normal Attacks.",
+                "Th": "เปลี่ยนรูปแบบของการโจมตีปกติ"
             },
             "Special_Immortal": {
-                "En": "Able to survive lethal damage with 1 HP for the duration of the effect."
+                "En": "Able to survive lethal damage with 1 HP for the duration of the effect.",
+                "Th": "เมื่อได้รับความเสียหายถึงตาย, จะเหลือ HP ไว้ 1 จนกว่าระยะเวลาของเอฟเฟคจะหมดลง"
             },
             "Special_ImmuneDamage": {
-                "En": "Immune to all damage."
+                "En": "Immune to all damage.",
+                "Th": "ไม่ได้รับความเสียหายใดๆ"
             },
             "Special_Fury": {
-                "En": "Increases the damage dealt by Neru's EX Skill."
+                "En": "Increases the damage dealt by Neru's EX Skill.",
+                "Th": "เพิ่มความเสียหายที่ทำได้จากสกิล Ex ของเนรุ"
             },
             "Special_Misdeed": {
-                "En": "Decreases DEF with each stack held and generates skill cost when Aru (New Year) uses her EX Skill."
+                "En": "Decreases DEF with each stack held and generates skill cost when Aru (New Year) uses her EX Skill.",
+                "Th": "ลดค่าป้องกันต่อจำนวนที่ถือครองและคืนค่าใช้สกิลให้เมื่ออารุ (ปีใหม่) ใช้สกิล Ex"
             },
             "Special_LittleDevil": {
-                "En": "Increases Crit DMG with each stack held and increases the damage dealt by Mutuski (New Year)'s Basic Skill when at 6 stacks."
+                "En": "Increases Crit DMG with each stack held and increases the damage dealt by Mutuski (New Year)'s Basic Skill when at 6 stacks.",
+                "Th": "เพิ่มความเสียหายคริติคอลต่อจำนวนที่ถือครองและเพิ่มความเสียหายที่ทำได้จากสกิลพื้นฐานของมุทซึกิ (ปีใหม่) เมื่อซ้อนทับถึง 6 ชั้น"
             },
             "Special_Accumulation": {
-                "En": "All damage dealt to this target for the duration of the effect will be accumulated and dealt again as an additional hit once this expires."
+                "En": "All damage dealt to this target for the duration of the effect will be accumulated and dealt again as an additional hit once this expires.",
+                "Th": "ทุกความเสียหายที่ทำใส่เป้าหมายในระยะเวลาของเอฟเฟคนี้จะถูกนับรวมและเปลี่ยนเป็นความเสียหายเพิ่มเติมใส่เป้าหมายอีกครั้งเมื่อระยะเวลาของเอฟเฟคนี้จบลง"
             },
             "Special_CostRegenBan": {
-                "En": "Cost Recovery is reduced to 0."
+                "En": "Cost Recovery is reduced to 0.",
+                "Th": "อัตราการฟื้นฟูค่า Cost ถูกลดลงเป็น 0"
             },
             "Special_ImmuneCC": {
-                "En": "Immune to all Crowd Control effects."
+                "En": "Immune to all Crowd Control effects.",
+                "Th": "ไม่ได้รับผลจากเอฟเฟคกดขี่ใดๆ"
             },
             "Special_SuddenDeath": {
-                "En": "A stack of 5 will deal lethal damage to the character."
+                "En": "A stack of 5 will deal lethal damage to the character.",
+                "Th": "เมื่อซ้อนทับครบ 5 ชั้น, สร้างความเสียหายที่จะสังหารเป้าหมายทันที"
             }
         },
         "ui": {
@@ -2567,104 +2558,104 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": "管理集合數據",
-                "Cn": "管理集合数据"
+                "Tw": null,
+                "Cn": null
             },
             "navbar_settings_collection_description": {
                 "En": "Import or export your student collection data.",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": "導入或導出你的學生集數據。",
-                "Cn": "导入或导出你的学生集数据。"
+                "Tw": null,
+                "Cn": null
             },
             "collection_export_collection": {
                 "En": "Export Collection",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": "導出集合",
-                "Cn": "导出集合"
+                "Tw": null,
+                "Cn": null
             },
             "collection_import_collection": {
                 "En": "Import Collection",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": "導入集合",
-                "Cn": "导入集合"
+                "Tw": null,
+                "Cn": null
             },
             "collection_import_warning": {
                 "En": "This will overwrite your current collection",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": "這會覆蓋你的當前集合",
-                "Cn": "这会覆盖你的当前集合"
+                "Tw": null,
+                "Cn": null
             },
             "collection_export_placeholder": {
                 "En": "Click export to generate an export string from your collection",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": "點擊導出以生成集合的導出字符串",
-                "Cn": "点击导出以生成集合的导出字符串"
+                "Tw": null,
+                "Cn": null
             },
             "collection_import_placeholder": {
                 "En": "Paste export string here and click Import",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": "將導出字符串粘貼與此処並點擊導入",
-                "Cn": "将导出字符串粘贴于此处并点击导入"
+                "Tw": null,
+                "Cn": null
             },
             "collection_export": {
                 "En": "Export",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": "導出",
-                "Cn": "导出"
+                "Tw": null,
+                "Cn": null
             },
             "collection_import": {
                 "En": "Import",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": "導入",
-                "Cn": "导入"
+                "Tw": null,
+                "Cn": null
             },
             "collection_import_planner": {
                 "En": "Import from Resource Planner",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": "從 Resource Planner 導入",
-                "Cn": "从 Resource Planner 导入"
+                "Tw": null,
+                "Cn": null
             },
             "setting_off": {
                 "En": "OFF",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": "関",
-                "Cn": "关"
+                "Tw": null,
+                "Cn": null
             },
             "setting_on": {
                 "En": "ON",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": "開",
-                "Cn": "开"
+                "Tw": null,
+                "Cn": null
             },
             "setting_open": {
                 "En": "Open",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": "打開",
-                "Cn": "打开"
+                "Tw": null,
+                "Cn": null
             },
             "current_events": {
                 "En": "Current Events ({0} Server)",
@@ -2824,7 +2815,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": "从 Justin163's Resource Planner (justin163.com/planner) 导入集合"
+                "Cn": null
             },
             "student_skill_ex": {
                 "En": "EX Skill",
@@ -3687,40 +3678,40 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "เพิ่มลงในคอลเลคชั่น",
-                "Tw": "添加到集合",
-                "Cn": "添加到集合"
+                "Tw": null,
+                "Cn": null
             },
             "tooltip_collection_remove": {
                 "En": "Remove from Collection",
                 "Jp": null,
                 "Kr": null,
                 "Th": "เอาออกจากคอลเลคชั่น",
-                "Tw": "從集合中移除",
-                "Cn": "从集合中移除"
+                "Tw": null,
+                "Cn": null
             },
             "collection": {
                 "En": "Collection",
                 "Jp": null,
                 "Kr": null,
                 "Th": "คอลเลคชั่น",
-                "Tw": "集合",
-                "Cn": "集合"
+                "Tw": null,
+                "Cn": null
             },
             "collection_owned": {
                 "En": "Owned",
                 "Jp": null,
                 "Kr": null,
                 "Th": "มีแล้ว",
-                "Tw": "已擁有",
-                "Cn": "已拥有"
+                "Tw": null,
+                "Cn": null
             },
             "collection_notowned": {
                 "En": "Not Owned",
                 "Jp": null,
                 "Kr": null,
                 "Th": "ยังไม่มี",
-                "Tw": "未擁有",
-                "Cn": "未拥有"
+                "Tw": null,
+                "Cn": null
             },
             "maptile_spawn": {
                 "En": "Spawn Tile",
@@ -3815,16 +3806,16 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "พื้นลดระดับ",
-                "Tw": "降低的方格",
-                "Cn": "降低的方格"
+                "Tw": null,
+                "Cn": null
             },
             "maptile_switch_target_up": {
                 "En": "Raised Tile",
                 "Jp": null,
                 "Kr": null,
                 "Th": "พื้นยกระดับ",
-                "Tw": "升高的方格",
-                "Cn": "升高的方格"
+                "Tw": null,
+                "Cn": null
             },
             "maptile_enemy_default_msg": {
                 "En": "Click on an enemy unit on the map to view a list of enemies.",
@@ -3839,24 +3830,24 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": "導入學生集成功",
-                "Cn": "导入学生集成功"
+                "Tw": null,
+                "Cn": null
             },
             "toast_import_failure": {
                 "En": "Error importing student collection",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": "導入學生集出錯",
-                "Cn": "导入学生集时出错"
+                "Tw": null,
+                "Cn": null
             },
             "toast_import_copy": {
                 "En": "Copied import string to clipboard",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": "導入字符串已複製到剪貼板",
-                "Cn": "导入字符串已复制到剪贴板"
+                "Tw": null,
+                "Cn": null
             }
         }
     }
