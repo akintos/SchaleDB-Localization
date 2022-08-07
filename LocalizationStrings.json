@@ -2172,7 +2172,7 @@
                 "Th": "ลดโอกาสถูกโจมตีติดคริติคอล"
             },
             "Buff_CriticalDamage": {
-                "En": "Increases the damage dealt by critical hits.,
+                "En": "Increases the damage dealt by critical hits.",
                 "Th": "เพิ่มความเสียหายของการโจมตีคริติคอล"
             },
             "Buff_CriticalDamageRateResist": {
