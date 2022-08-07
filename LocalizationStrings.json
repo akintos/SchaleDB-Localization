@@ -299,12 +299,13 @@
             },
             "Shugyobu": {
                 "ScenarioKey": 4030183534,
-                "Cn": "修行部"
+                "Cn": "修行部",
+                "Th": "ชมรมฝึกฝน"
             },
             "Endanbou": {
                 "ScenarioKey": 221007527,
                 "Cn": "锻炼屋",
-                "Th": "ชมรมออกกำลังกาย"
+                "Th": "ชมรมวิจัยศาสตร์การปรุงยา"
             },
             "TheSeminar": {
                 "ScenarioKey": 994952503,
@@ -314,7 +315,7 @@
             "TrainingClub": {
                 "ScenarioKey": 2933916540,
                 "Cn": "训练部",
-                "Th": "ชมรมฝึกฝน"
+                "Th": "ชมรมออกกำลังกาย"
             },
             "TrinityVigilance": {
                 "ScenarioKey": 276390250,
