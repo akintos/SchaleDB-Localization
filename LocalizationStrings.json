@@ -2500,7 +2500,7 @@
             },
             "Debuff_Hieronymus": {
                 "En": "Inflicts continuous damage over time. Inflicts a large amount of damage in a circular area around the target if this debuff is not removed before it expires. This debuff can only be removed by healing the afflicted to 100% HP.",
-                "Th": "สร้างความเสียหายอย่างต่อเนื่อง<br>สร้างความเสียหายรุนแรงในรัศมีวงกลมรอบเป้าหมายหากดีบัฟไม่ถูกล้างออกก่อนระยะเวลาดีบัฟจบลง<br>ดีบัฟสามารถถูกล้างออกด้วยการรักษาเป้าหมายให้ HP เป็น 100%"
+                "Th": "สร้างความเสียหายอย่างต่อเนื่อง<br>สร้างความเสียหายรุนแรงในรัศมีรอบเป้าหมายหากดีบัฟไม่ถูกล้างออกก่อนระยะเวลาดีบัฟจบลง<br>ดีบัฟสามารถถูกล้างออกด้วยการรักษาเป้าหมายให้ HP เป็น 100%"
             },
             "Debuff_HIT": {
                 "En": "Increases the chance of missing when attacking.",
@@ -2600,7 +2600,7 @@
                 "En": "Home",
                 "Jp": "トップ",
                 "Kr": null,
-                "Th": "บ้าน",
+                "Th": "หน้าหลัก",
                 "Tw": "首頁",
                 "Cn": "首页"
             },
@@ -2672,7 +2672,7 @@
                 "En": "Depending on the server selected, some content may not be translated.",
                 "Jp": "選択されたサーバーによっては、一部のコンテンツが翻訳されていない場合があります。",
                 "Kr": null,
-                "Th": null,
+                "Th": "ข้อมูลบางอย่างอาจจะยังไม่ได้รับการแปลอย่างสมบูรณ์, ขึ้นอยู่กับเซิร์ฟเวอร์ของเกมที่เลือก",
                 "Tw": "基於所選擇的服務器，部分內容可能未翻譯。",
                 "Cn": "内容翻译完成度基于所选择的服务器。"
             },
@@ -2840,7 +2840,7 @@
                 "En": "Ends in <b>{0} days, {1} hours and {2} minutes</b>.",
                 "Jp": null,
                 "Kr": null,
-                "Th": "สิ้นสุดในอีก <b>{0} วัน, {1} ชั่วโมง and {2} นาที</b>",
+                "Th": "สิ้นสุดในอีก <b>{0} วัน, {1} ชั่วโมง {2} นาที</b>",
                 "Tw": "<b>{0}天{1}小時{2}分鐘</b>後結束",
                 "Cn": "<b>{0}天{1}小时{2}分钟</b>后结束"
             },
@@ -2856,7 +2856,7 @@
                 "En": "Attributes",
                 "Jp": "ステータス",
                 "Kr": "스탯 정보",
-                "Th": "อธิบาย",
+                "Th": "ค่าสถานะ",
                 "Tw": "屬性資訊",
                 "Cn": "属性信息"
             },
@@ -3056,7 +3056,7 @@
                 "En": "Deals <b>2&times;</b> damage to {0} armor targets.<br>Deals <b>0.5&times;</b> damage to {1} armor targets.<br>Deals <b>0.5&times;</b> damage to <b>Structures</b>.",
                 "Jp": "{0}に<b>2倍</b>のダメージを与える。<br>{1}に<b>0.5倍</b>のダメージを与える。<br>構造物に<b>0.5倍</b>のダメージを与える。",
                 "Kr": null,
-                "Th": "สร้างความเสียหาย <b>2&times;</b> ให้กับเป้าหมายประเภท {0}<br>สร้างความเสียหาย <b>0.5&times;</b> ให้กับเป้าหมายประเภท {1}<br>สร้างความเสียหาย <b>0.5&times;</b> ให้กับเป้าหมายประเภท <b>สิ่งก่อสร้าง</b>",
+                "Th": "สร้างความเสียหาย <b>2&times;</b> ให้กับเป้าหมายประเภท{0}<br>สร้างความเสียหาย <b>0.5&times;</b> ให้กับเป้าหมายประเภท{1}<br>สร้างความเสียหาย <b>0.5&times;</b> ให้กับเป้าหมายประเภท<b>สิ่งก่อสร้าง</b>",
                 "Tw": "對{0}目標造成<b>2倍</b>傷害。<br>對{1}目標造成<b>0.5倍</b>傷害。<br>對<b class='ba-col-siege'>構造物</b>造成<b>0.5倍</b>傷害。",
                 "Cn": "对{0}目标造成<b>2倍</b>伤害。<br>对{1}目标造成<b>0.5倍</b>伤害。<br>对<b class='ba-col-siege'>构造物</b>造成<b>0.5倍</b>伤害。"
             },
@@ -3064,7 +3064,7 @@
                 "En": "Deals <b>1&times;</b> damage to <b class='ba-col-explosion'>Light</b>, <b class='ba-col-pierce'>Heavy</b> and <b class='ba-col-mystic'>Special</b> armor targets.<br>Deals <b>0.5&times;</b> damage to <b class='ba-col-siege'>Structures</b>.",
                 "Jp": "すべての防御タイプに<b>1倍</b>のダメージを与える<br>構造物に<b>0.5倍</b>のダメージを与える。",
                 "Kr": null,
-                "Th": "สร้างความเสียหาย <b>1&times;</b> ให้กับเป้าหมายประเภท <b class='ba-col-explosion'>Light</b>, <b class='ba-col-pierce'>Heavy</b> and <b class='ba-col-mystic'>Special</b>.<br>สร้างความเสียหาย <b>0.5&times;</b> ให้กับเป้าหมายประเภท <b class='ba-col-siege'>Structures</b>",
+                "Th": "สร้างความเสียหาย <b>1&times;</b> ให้กับเป้าหมายประเภท<b class='ba-col-explosion'>เกราะเบา</b>, <b class='ba-col-pierce'>เกราะหนัก</b>และ<b class='ba-col-mystic'>เกราะพิเศษ</b>.<br>สร้างความเสียหาย <b>0.5&times;</b> ให้กับเป้าหมายประเภท<b class='ba-col-siege'>สิ่งก่อสร้าง</b>",
                 "Tw": "對<b class='ba-col-explosion'>輕裝甲</b>、<b class='ba-col-pierce'>重裝甲</b>與<b class='ba-col-mystic'>神秘裝甲</b>目標造成<b>1倍</b>傷害。<br>對<b class='ba-col-siege'>構造物</b>造成<b>0.5倍</b>傷害。",
                 "Cn": "对<b class='ba-col-explosion'>轻装甲</b>、<b class='ba-col-pierce'>重装甲</b>与<b class='ba-col-mystic'>神秘装甲</b>目标造成<b>1倍</b>伤害。<br>对<b class='ba-col-siege'>构造物</b>造成<b>0.5倍</b>伤害。"
             },
@@ -3072,7 +3072,7 @@
                 "En": "Receives <b>2&times;</b> damage from {0} attacks.<br>Receives <b>0.5&times;</b> damage from {1} attacks.",
                 "Jp": "{0}攻撃から<b>2倍</b>のダメージを受ける。<br>{1}攻撃から<b>0.5倍</b>のダメージを受ける。",
                 "Kr": null,
-                "Th": "ได้รับความเสียหาย <b>2&times;</b> จากการโจมตีประเภท {0}<br>ได้รับความเสียหาย <b>0.5&times;</b> จากการโจมตีประเภท {1}",
+                "Th": "ได้รับความเสียหาย <b>2&times;</b> จากการโจมตีประเภท{0}<br>ได้รับความเสียหาย <b>0.5&times;</b> จากการโจมตีประเภท{1}",
                 "Tw": "承受<b>2倍</b>{0}攻擊傷害。<br>承受<b>0.5倍</b>{1}攻擊傷害。",
                 "Cn": "承受<b>2倍</b>{0}攻击伤害。<br>承受<b>0.5倍</b>{1}攻击伤害。"
             },
@@ -3080,7 +3080,7 @@
                 "En": "Receives <b>1&times;</b> damage from <b class='ba-col-explosion'>Explosive</b>, <b class='ba-col-pierce'>Piercing</b> and <b class='ba-col-mystic'>Mystic</b> attacks.",
                 "Jp": null,
                 "Kr": null,
-                "Th": "ได้รับความเสียหาย <b>1&times;</b> จากการโจมตีประเภท <b class='ba-col-explosion'>Explosive</b>, <b class='ba-col-pierce'>Piercing</b> and <b class='ba-col-mystic'>Mystic</b>",
+                "Th": "ได้รับความเสียหาย <b>1&times;</b> จากการโจมตีประเภท<b class='ba-col-explosion'>ระเบิด</b>, <b class='ba-col-pierce'>เจาะเกราะ</b>และ<b class='ba-col-mystic'>ลึกลับ</b>",
                 "Tw": "承受<b>1倍</b><b class='ba-col-explosion'>爆炸</b>、<b class='ba-col-pierce'>貫穿</b>與<b class='ba-col-mystic'>神秘</b>攻擊傷害。",
                 "Cn": "承受<b>1倍</b><b class='ba-col-explosion'>爆发</b>、<b class='ba-col-pierce'>贯穿</b>与<b class='ba-col-mystic'>神秘</b>攻击伤害。"
             },
@@ -3344,7 +3344,7 @@
                 "En": "Unlocks after reaching relationship rank {0} with {1}",
                 "Jp": "{1}との絆ランク{0}になると獲得できる。",
                 "Kr": null,
-                "Th": "ปลดล็อคหลังจากระดับสายใยของ {1} ถึงระดับ {0}",
+                "Th": "ปลดล็อคหลังจากระดับสายใยของ{1}ถึงระดับ {0}",
                 "Tw": "{1}羈絆等級達成{0}後解鎖",
                 "Cn": "{1}羁绊等级达到{0}后解锁"
             },
@@ -3360,7 +3360,7 @@
                 "En": "Deals <b>{0}&times;</b> damage in <b>{1}</b> terrain.\nBlock rate when taking cover <b>+{2}%</b>.\nChance to ignore block when attacking <b>+{2}%</b>",
                 "Jp": "{1}では<b>{0}倍</b>のダメージを与える。\n隠れている時、遮蔽成功値を<b>{2}%</b>増加。\n遮蔽貫通値を<b>{2}%</b>増加。",
                 "Kr": null,
-                "Th": "สร้างความเสียหาย <b>{0}&times;</b> ในพื้นที่ <b>{1}</b>.\nอัตรากำบังสำเร็จเมื่ออยู่ในกำบัง <b>+{2}%</b>.\nอัตราไม่สนใจกำบังศัตรูเมื่อโจมตี <b>+{2}%</b>",
+                "Th": "สร้างความเสียหาย <b>{0}&times;</b> ในพื้นที่<b>{1}</b>.\nอัตรากำบังสำเร็จเมื่ออยู่ในกำบัง <b>+{2}%</b>.\nอัตราไม่สนใจกำบังศัตรูเมื่อโจมตี <b>+{2}%</b>",
                 "Tw": "在<b>{1}</b>地形造成<b>{0}倍</b>傷害。\n尋找掩體時掩護成功率<b>+{2}%</b>。\n攻擊時破防概率<b>增加{2}%</b>。",
                 "Cn": "在<b>{1}</b>地形造成<b>{0}倍</b>伤害。\n寻找掩体时掩护成功率<b>+{2}%</b>。\n攻击时破防概率<b>增加{2}%</b>。"
             },
@@ -3400,7 +3400,7 @@
                 "En": "Rec.",
                 "Jp": "おすすめ",
                 "Kr": "추천",
-                "Th": "แนะนำ",
+                "Th": "เลเวลแนะนำ",
                 "Tw": "推薦",
                 "Cn": "推荐"
             },
