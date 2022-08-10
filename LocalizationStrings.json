@@ -1024,6 +1024,20 @@
                 "Cn": "争夺战"
             }
         },
+        "TimeAttackStage": {
+            "Shooting": {
+                "EtcKey": 1223379449,
+                "En": "Shooting Drill"
+            },
+            "Defense": {
+                "EtcKey": 546386169,
+                "En": "Defense Drill"
+            },
+            "Destruction": {
+                "EtcKey": 1467902802,
+                "En": "Breakthrough Drill"
+            }
+        },
         "ConquestMap": {
             "815": {
                 "CodeKey": 3551476547,
