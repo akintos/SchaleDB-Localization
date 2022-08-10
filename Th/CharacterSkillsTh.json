@@ -345,7 +345,7 @@
             },
             {
                 "SkillId": 16008400,
-                "NameTh": "ควบคุมจารจร",
+                "NameTh": "ควบคุมจราจร",
                 "DescriptionTh": "เพิ่ม<b:OppressionPower> <?1>",
                 "ParametersTh": [
                     [
@@ -383,7 +383,7 @@
             },
             {
                 "SkillId": 16008450,
-                "NameTh": "ควบคุมจารจร+",
+                "NameTh": "ควบคุมจราจร+",
                 "DescriptionTh": "เพิ่ม<b:CriticalChance> <?1>/\nเพิ่ม<b:OppressionPower>เพิ่มเติม <?2>",
                 "ParametersTh": [
                     [
