@@ -2306,30 +2306,37 @@
         "BuffTooltip": {
             "Buff_AmmoCount": {
                 "En": "Increases the maximum amount of weapon ammunition used by Normal Attacks.",
+                "Cn": "提升普通攻击武器载弹量",
                 "Th": "เพิ่มจำนวนกระสุนสูงสุดของอาวุธในการโจมตีปกติ"
             },
             "Buff_ATK": {
                 "En": "Increases the amount of damage dealt by attacks.",
+                "Cn": "提升攻击造成的伤害",
                 "Th": "เพิ่มความเสียหายของการโจมตี"
             },
             "Buff_AttackSpeed": {
                 "En": "Increases the speed of Normal Attacks and reloads, and reduces attack delay.",
+                "Cn": "提升普通攻击与换弹速度，同时降低攻击延迟",
                 "Th": "เพิ่มความเร็วในการโจมตี, รีโหลดและลดดีเลย์ในการโจมตี"
             },
             "Buff_BlockRate": {
                 "En": "Increases the chance of successfully blocking attacks when taking cover.",
+                "Cn": "提升掩蔽时阻挡攻击概率",
                 "Th": "เพิ่มโอกาสกำบังสำเร็จเมื่ออยู่ในกำบัง"
             },
             "Buff_ConcentratedTarget": {
                 "En": "Becomes the priority target of enemies' attacks.",
+                "Cn": "成为敌方优先攻击的目标",
                 "Th": "เป็นเป้าหมายหลักในการโจมตีของศัตรู"
             },
             "Buff_CostChange": {
                 "En": "Reduces the amount of skill cost required for using the EX Skill.",
+                "Cn": "降低使用EX技能所需技能COST",
                 "Th": "ลดจำนวน Cost ที่ต้องการในการใช้สกิล Ex"
             },
             "Buff_CostRegen": {
                 "En": "Increases the rate at which skill cost is recovered.",
+                "Cn": "提升技能COST回复速率",
                 "Th": "เพิ่มความเร็วในการฟื้นฟู Cost"
             },
             "Buff_CriticalChance": {
@@ -2342,26 +2349,32 @@
             },
             "Buff_CriticalDamage": {
                 "En": "Increases the damage dealt by critical hits.",
+                "Cn": "提升暴击造成的伤害",
                 "Th": "เพิ่มความเสียหายของการโจมตีคริติคอล"
             },
             "Buff_CriticalDamageRateResist": {
                 "En": "Decreases the damage received from critical hits.",
+                "Cn": "减少受到的暴击伤害",
                 "Th": "ลดความเสียหายของการถูกโจมตีคริติคอล"
             },
             "Buff_DamagedRatio": {
                 "En": "Decreases all incoming damage by a percentage amount.",
+                "Cn": "以一定百分比减少受到的全部伤害",
                 "Th": "ลดความเสียหายที่ได้รับลงเป็นเปอร์เซ็นต์"
             },
             "Buff_DEF": {
                 "En": "Decreases the damage received from attacks.",
+                "Cn": "减少受到的伤害",
                 "Th": "ลดความเสียหายเมื่อถูกโจมตี"
             },
             "Buff_Dodge": {
                 "En": "Increases the chance of successfully evading attacks.",
+                "Cn": "躲避攻击几率提升",
                 "Th": "เพิ่มโอกาสหลบหลีกการโจมตีได้สำเร็จ"
             },
             "Buff_DotHeal": {
                 "En": "Continuously restores HP at set intervals.",
+                "Cn": "以一定时间间隔持续回复体力",
                 "Th": "ฟื้นฟู HP ช้าๆ เป็นเวลาต่อเนื่อง"
             },
             "Buff_EnhanceExplosionRate": {
@@ -2394,10 +2407,12 @@
             },
             "Buff_MAXHP": {
                 "En": "Increases maximum HP.",
+                "Cn": "最大体力提升",
                 "Th": "เพิ่มจำนวน HP สูงสุด"
             },
             "Buff_MoveSpeed": {
                 "En": "Increases movement speed.",
+                "Cn": "移动速度提升",
                 "Th": "เพิ่มความเร็วเคลื่อนที่"
             },
             "Buff_OppressionPower": {
@@ -2418,6 +2433,7 @@
             },
             "Buff_Shield": {
                 "En": "Absorbs a set amount of damage.",
+                "Cn": "吸收一定量伤害",
                 "Th": "ดูดซับความเสียหายที่ได้รับเป็นจำนวนหนึ่ง"
             },
             "Buff_Stability": {
@@ -2522,10 +2538,12 @@
             },
             "Debuff_MAXHP": {
                 "En": "Decreases maximum HP.",
+                "Cn": "最大体力下降",
                 "Th": "ลดจำนวน HP สูงสุด"
             },
             "Debuff_MoveSpeed": {
                 "En": "Decreases movement speed.",
+                "Cn": "移动速度下降",
                 "Th": "ลดความเร็วเคลื่อนที่"
             },
             "Debuff_OppressionPower": {
@@ -2578,10 +2596,12 @@
             },
             "Special_ImmuneDamage": {
                 "En": "Immune to all damage.",
+                "Cn": "免疫所有伤害",
                 "Th": "ไม่ได้รับความเสียหายใดๆ"
             },
             "Special_Fury": {
                 "En": "Increases the damage dealt by Neru's EX Skill.",
+                "Cn": "尼禄EX技能造成的伤害提升",
                 "Th": "เพิ่มความเสียหายที่ทำได้จากสกิล Ex ของเนรุ"
             },
             "Special_Misdeed": {
@@ -2598,10 +2618,12 @@
             },
             "Special_CostRegenBan": {
                 "En": "Cost Recovery is reduced to 0.",
+                "Cn": "COST回复力降低为0",
                 "Th": "อัตราการฟื้นฟูค่า Cost ถูกลดลงเป็น 0"
             },
             "Special_ImmuneCC": {
                 "En": "Immune to all Crowd Control effects.",
+                "Cn": "免疫所有群控效果",
                 "Th": "ไม่ได้รับผลจากเอฟเฟคกดขี่ใดๆ"
             },
             "Special_SuddenDeath": {
@@ -2983,7 +3005,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
+                "Tw": "從 Justin163's Resource Planner (justin163.com/planner) 導入集合",
                 "Cn": "从 Justin163's Resource Planner (justin163.com/planner) 导入集合"
             },
             "student_skill_ex": {
