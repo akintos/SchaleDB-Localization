@@ -13,7 +13,7 @@
         {
             "Id": "BinahExSkill02",
             "DescriptionEn": "Deals <?1> damage to 4 enemies.",
-            "Parameters": [
+            "ParametersEn": [
                 [
                     "200%",
                     "200%",
@@ -124,7 +124,43 @@
                 ]
             ],
             "DescriptionJp": "敵に対して、攻撃力の<?1>分のダメージ\nATGが高いほど、ダメージが増加",
+            "ParametersJp": [
+                [
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "900%"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\n特定の爆弾による攻撃が当たった場合、その敵の<d:MoveSpeed>を80%減少（40秒間）"
+                ]
+            ],
             "DescriptionKr": "적에게 공격력 <?1> 대미지\nATG가 높을수록 더 강한 대미지를 준다.",
+            "ParametersKr": [
+                [
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "900%"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\n일부 폭탄에 피격 시 <d:MoveSpeed> 80% 감소(40초간)"
+                ]
+            ],
             "DescriptionTh": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรู\nATG ยิ่งสูงยิ่งทำความเสียหายรุนแรงขึ้น",
             "DescriptionTw": "對敵人造成攻擊力<?1>傷害\nATG越高造成的傷害越猛烈。",
             "NameCn": "哐哐哐哐哐哐哐！(白)",
@@ -132,7 +168,7 @@
         },
         {
             "Id": "ShiroEx04",
-            "DescriptionEn": "Summons a rolling bomb that deals <?1> damage to enemies in a straight line.<?2>\nThe bomb deals 300% damage to obstacles in its path. If an obstacle is hit but not destroyed, the bomb will bounce in the opposite direction towards Shiro, increasing her groggy gauge by a significant amount<?3>.",
+            "DescriptionEn": "Summons a rolling bomb that deals <?1> damage to enemies in a straight line.\nThe bomb deals 300% damage to obstacles in its path. If an obstacle is hit but not destroyed, the bomb will bounce in the opposite direction towards Shiro, increasing her groggy gauge by a significant amount.<?2>",
             "ParametersEn": [
                 [
                     "600%",
@@ -148,7 +184,18 @@
                     "",
                     "",
                     "",
-                    "\nIf an enemy with decreased <d:MoveSpeed> is hit, deals an additional <b>600,000</b> damage."
+                    "\nIf an enemy with decreased <d:MoveSpeed> is hit, deals an additional <b>600,000</b> damage.\nIf Shiro is hit, also increases her <d:DamagedRatio> by 50% for 40s."
+                ]
+            ],
+            "DescriptionJp": "敵に対して、攻撃力の<?1>分のダメージを与える爆弾を召喚\n遮蔽物に対しては攻撃力の300%分のダメージを与え、その遮蔽物が破壊されなかった場合、反対方向に跳ね返ります。<?2>",
+            "ParametersJp": [
+                [
+                    "600%",
+                    "600%",
+                    "600%",
+                    "600%",
+                    "600%",
+                    "1500%"
                 ],
                 [
                     "",
@@ -156,11 +203,28 @@
                     "",
                     "",
                     "",
-                    " and increases <d:DamagedRatio> by 50% for 40s"
+                    "\n<d:MoveSpeed>が減少している敵に命中した場合、<b>600000</b>の追加ダメージ\nシロ自身が跳ね返りの攻撃を受けた場合、<d:DamagedRatio>が50%増加（40秒間）"
                 ]
             ],
-            "DescriptionJp": "敵に対して、攻撃力の<?1>分のダメージを与える爆弾を召喚\n遮蔽物に対しては攻撃力の300%分のダメージを与え、その遮蔽物が破壊されなかった場合、反対方向に跳ね返ります。",
-            "DescriptionKr": "공격력 <?1> 대미지를 입히는 폭탄 소환,\n엄폐물에게는 공격력 300% 대미지를 입히고, 엄폐물이 파괴되지 않으면 반대 방향으로 튕겨져 나온다.",
+            "DescriptionKr": "공격력 <?1> 대미지를 입히는 폭탄 소환,\n엄폐물에게는 공격력 300% 대미지를 입히고, 엄폐물이 파괴되지 않으면 반대 방향으로 튕겨져 나온다.<?2>",
+            "ParametersKr": [
+                [
+                    "600%",
+                    "600%",
+                    "600%",
+                    "600%",
+                    "600%",
+                    "1500%"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\n<d:MoveSpeed>가 감소된 적은 <b>600000</b>만큼 추가 대미지\n시로 자신이 피격되면 <d:DamagedRatio> 50% 증가(40초간)"
+                ]
+            ],
             "DescriptionTh": "เรียกป้อมปืนที่สร้างความเสียหาย <?1> ของค่าโจมตี\nสร้างความเสียหาย 300% ของค่าโจมตีกับวัตถุกำบัง ถ้าวัตถุกำบังไม่ถูกทำลายจะกระเด็นไปในทิศทางตรงข้าม",
             "DescriptionTw": "召喚可造成攻擊力<?1>傷害的炸彈。\n對掩蔽物造成攻擊力300%傷害後，如果掩蔽物沒被破壞會往反方向濺出。",
             "NameCn": "滚动吧！！(白)",
@@ -168,7 +232,7 @@
         },
         {
             "Id": "KuroEx01",
-            "DescriptionEn": "Summons theme park rides that deals <?1> damage to enemies in a straight line.<?2>\nIf Kuro is hit by this attack herself, increases Kuro's groggy gauge by a significant amount<?3>.",
+            "DescriptionEn": "Summons theme park rides that deals <?1> damage to enemies in a straight line.\nIf Kuro is hit by this attack herself, increases Kuro's groggy gauge by a significant amount.<?2>",
             "ParametersEn": [
                 [
                     "400%",
@@ -184,7 +248,18 @@
                     "",
                     "",
                     "",
-                    "\nIf an enemy with decreased <d:MoveSpeed> is hit, deals an additional <b>600,000</b> damage."
+                    "\nIf an enemy with decreased <d:MoveSpeed> is hit, deals an additional <b>600,000</b> damage.\nIf Kuro is hit, also increases <d:DamagedRatio> by 50% for 40s."
+                ]
+            ],
+            "DescriptionJp": "敵に対して、攻撃力の<?1>分のダメージ/\nATGが高いほど、ダメージが増加<?2>",
+            "ParametersJp": [
+                [
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "500%"
                 ],
                 [
                     "",
@@ -192,11 +267,28 @@
                     "",
                     "",
                     "",
-                    " and increases <d:DamagedRatio> by 50% for 40s"
+                    "\n<d:MoveSpeed>が減少している敵に命中した場合、<b>600000</b>の追加ダメージ\nクロ自身がこの攻撃を受けた場合、<d:DamagedRatio>が50%増加（40秒間）"
                 ]
             ],
-            "DescriptionJp": "敵に対して、攻撃力の<?1>分のダメージ/\nATGが高いほど、ダメージが増加",
-            "DescriptionKr": "적에게 공격력 <?1> 대미지\nATG가 높을수록 더 강한 대미지를 준다.",
+            "DescriptionKr": "적에게 공격력 <?1> 대미지\nATG가 높을수록 더 강한 대미지를 준다.<?2>",
+            "ParametersKr": [
+                [
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "500%"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\n<d:MoveSpeed>가 감소된 적은 <b>600000</b>만큼 추가 대미지\n쿠로 자신이 피격되면 <d:DamagedRatio> 50% 증가(40초간)"
+                ]
+            ],
             "DescriptionTh": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรู\nATG ยิ่งสูงยิ่งทำความเสียหายรุนแรงขึ้น",
             "DescriptionTw": "對敵人造成攻擊力<?1>傷害\nATG越高造成的傷害越猛烈。",
             "NameCn": "突击-！！！(黑)",
@@ -247,8 +339,28 @@
                     "\nAlso increases the <b:HealEffectiveness> of the curse target by <b>3,000</b> for 10s."
                 ]
             ],
-            "DescriptionJp": "敵1人に対して、<d:Hieronymus>を付与。\n<d:Hieronymus>は攻撃力の20%分の持続ダメージを付与、10秒後に爆発し円形範囲内の敵に対して、攻撃力の325%分のダメージを与えた後、解除されます。\n<d:Hieronymus>が付与された敵のHPが100%だった場合、あるいは100%まで回復した場合にも、<d:Hieronymus>は解除されます。",
-            "DescriptionKr": "적 1인에게 <d:Hieronymus> 부여\n저주는 공격력의 20%만큼 지속 대미지를 주며 10초 후 폭발하여 \n원형 범위 내 적에게 공격력의 325% 만큼 대미지를 주고 사라진다.\n저주에 걸린 대상의 체력이 100%가 되면 저주는 즉시 사라진다.",
+            "DescriptionJp": "敵1人に対して、<d:Hieronymus>を付与。\n<d:Hieronymus>は攻撃力の20%分の持続ダメージを付与、10秒後に爆発し円形範囲内の敵に対して、攻撃力の325%分のダメージを与えた後、解除されます。\n<d:Hieronymus>が付与された敵のHPが100%だった場合、あるいは100%まで回復した場合にも、<d:Hieronymus>は解除されます。<?2>",
+            "ParametersJp": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\nさらに<d:Hieronymus>の敵の<b:HealEffectiveness>を<b>3000</b>増加。（10秒間）"
+                ]
+            ],
+            "DescriptionKr": "적 1인에게 <d:Hieronymus>를 부여\n저주는 공격력의 20%만큼 지속 대미지를 주며 10초 후 폭발하여 \n원형 범위 내 적에게 공격력의 325% 만큼 대미지를 주고 사라진다.\n저주에 걸린 대상의 체력이 100%가 되면 저주는 즉시 사라진다.<?2>",
+            "ParametersKr": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\n추가로 <d:Hieronymus> 대상의 <b:HealEffectiveness>이 3000 만큼 증가한다. (10초간)"
+                ]
+            ],
             "DescriptionTh": "สาปศัตรู 1 เป้าหมาย\n<d:Hieronymus>สร้างความเสียหายต่อเนื่อง 20% ของค่าโจมตีและระเบิดใน 10 วินาทีต่อมา \nสร้างความเสียหาย 325% ของค่าโจมตีให้กับศัตรูในรัศมีและหายไป\nถ้าเป้าหมายที่ถูกสาปมี HP เต็ม 100% <d:Hieronymus>จะหายไปทันที",
             "DescriptionTw": "賦予1名敵人<d:Hieronymus>，\n<d:Hieronymus>會造成攻擊力20%的持續傷害，10秒後爆炸， \n對圓形範圍內的敵人造成攻擊力325%的傷害後消失不見。\n受<d:Hieronymus>對象的體力為100%時，<d:Hieronymus>會立即消失。",
             "NameCn": "圣经武加大译本",
@@ -266,7 +378,7 @@
         },
         {
             "Id": "HieronymusEx04",
-            "DescriptionEn": "Every 10s, deals <?1> damage to all enemies. If Hieronymus's ATG gauge is full, deals damage to each enemy equal to 1000% of their Max HP.<?2>",
+            "DescriptionEn": "Every 10s, deals <?1> damage to all enemies.<?2>",
             "ParametersEn": [
                 [
                     "40%",
@@ -277,16 +389,52 @@
                     "30%"
                 ],
                 [
-                    "",
-                    "",
-                    "",
-                    "",
-                    "",
-                    "\nAlso increases all enemies' <b:HealEffectiveness> by <b>2,000</b> while making them <s:Immortal> for 10s. "
+                    "\nWhen Hieronymus's ATG gauge is full, deals damage to each enemy equal to 1000% of their Max HP.",
+                    "\nWhen Hieronymus's ATG gauge is full, deals damage to each enemy equal to 1000% of their Max HP.",
+                    "\nWhen Hieronymus's ATG gauge is full, deals damage to each enemy equal to 1000% of their Max HP.",
+                    "\nWhen Hieronymus's ATG gauge is full, deals damage to each enemy equal to 1000% of their Max HP.",
+                    "\nWhen Hieronymus's ATG gauge is full, deals damage to each enemy equal to 1000% of their Max HP.",
+                    "\nWhen Hieronymus's ATG gauge is full, makes all enemies <s:Immortal> for 10s and then deals damage to each enemy equal to 1000% of their Max HP.\nAlso increases all enemies' <b:HealEffectiveness> by <b>2,000</b> for 10s."
                 ]
             ],
-            "DescriptionJp": "10秒毎に、全ての敵に対して攻撃力の<?1>分のダメージ/\nATGの値がMAXの場合、全ての敵に対して、敵の最大HPの1000%分のダメージ",
-            "DescriptionKr": "10초마다 모든 적에게 공격력의 <?1> 만큼 대미지\nATG가 가득 찰 경우 모든 적 대상 최대 체력 1000% 만큼의 대미지를 준다.",
+            "DescriptionJp": "10秒毎に、全ての敵に対して攻撃力の<?1>分のダメージ/<?2>",
+            "ParametersJp": [
+                [
+                    "40%",
+                    "40%",
+                    "40%",
+                    "40%",
+                    "40%",
+                    "30%"
+                ],
+                [
+                    "\nATGの値がMAXの場合、全ての敵に対して、敵の最大HPの1000%分のダメージ",
+                    "\nATGの値がMAXの場合、全ての敵に対して、敵の最大HPの1000%分のダメージ",
+                    "\nATGの値がMAXの場合、全ての敵に対して、敵の最大HPの1000%分のダメージ",
+                    "\nATGの値がMAXの場合、全ての敵に対して、敵の最大HPの1000%分のダメージ",
+                    "\nATGの値がMAXの場合、全ての敵に対して、敵の最大HPの1000%分のダメージ",
+                    "\nATGの値がMAXの場合、全ての敵に対して、<s:Immortal>を付与（10秒間）\nさらにHPの1000%分のダメージを付与、\n<b:HealEffectiveness>を2000増加。（10秒間）"
+                ]
+            ],
+            "DescriptionKr": "10초마다 모든 적에게 공격력의 <?1> 만큼 대미지<?2>",
+            "ParametersKr": [
+                [
+                    "40%",
+                    "40%",
+                    "40%",
+                    "40%",
+                    "40%",
+                    "30%"
+                ],
+                [
+                    "\nATG가 가득 찰 경우 모든 적 대상 최대 체력 1000% 만큼의 대미지를 준다.",
+                    "\nATG가 가득 찰 경우 모든 적 대상 최대 체력 1000% 만큼의 대미지를 준다.",
+                    "\nATG가 가득 찰 경우 모든 적 대상 최대 체력 1000% 만큼의 대미지를 준다.",
+                    "\nATG가 가득 찰 경우 모든 적 대상 최대 체력 1000% 만큼의 대미지를 준다.",
+                    "\nATG가 가득 찰 경우 모든 적 대상 최대 체력 1000% 만큼의 대미지를 준다.",
+                    "\nATG가 가득 찰 경우 모든 적 대상에게 <s:Immortal> (10초간)\n추가로 최대 체력 1000% 만큼의 대미지를 주며\n<b:HealEffectiveness>을 2000 만큼 증가한다. (10초간)"
+                ]
+            ],
             "DescriptionTh": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูทั้งหมดทุก 10 วินาที\nหาก ATG เต็มจะสร้างความเสียหาย 1000% ของค่า HP สูงสุดให้กับศัตรูทั้งหมด",
             "DescriptionTw": "每10秒對所有敵人造成攻擊力<?1>的傷害\nATG充滿時，對所有敵人造成最大體力1000%的傷害。",
             "NameCn": "沙漠的苦行",
@@ -367,7 +515,7 @@
             "NameEn": "Unholy Light (Relic)",
             "DescriptionEn": "When the purple relic's HP reaches 0%, increases the <b:ATK> of all students by <b>25%</b> but decreases their <d:HealEffectiveness> by <b>7,000</b> and decreases Hieronymus's <d:DEF> by <b>1,500</b>.\nDuring this effect, students under the effect of <d:Hieronymus> have their <b:HealEffectiveness> increased by a further <b>4,000</b> for 10s.\nThe purple relic cannot be targeted by normal attacks or basic skills.",
             "DescriptionJp": "聖遺物のHPが0%になるとスキル発動。\n紫色の聖遺物の場合、全てのストライカー、スペシャル生徒の<b:ATK>を25%増加し\n<d:HealEffectiveness>を7000減少。\nさらにヒエロニムスの<d:DEF>を1500減少。\n発動後、<d:Hieronymus>になった生徒の<b:HealEffectiveness>を4000増加（10秒間）\n（紫色の聖遺物は通常攻撃、ノーマルスキルのターゲットになりません）",
-            "DescriptionKr": "성유물 체력이 0% 가 되면 스킬 발동\n자색 성유물: 모든 스트라이커, 스페셜 학생의 <b:ATK>이 25% 증가하고\n<d:HealEffectiveness>이 7000 만큼 감소한다.\n추가로 예로니무스의 <d:DEF>이 1500 만큼 감소한다.\n이후 <d:Hieronymus> 받는 아군의 <b:HealEffectiveness>이 4000 만큼 증가한다. (10초간)\n(자색 성유물은 일반 공격, 기본 스킬의 타겟이 되지 않습니다.)",
+            "DescriptionKr": "성유물 체력이 0% 가 되면 스킬 발동\n자색 성유물: 모든 스트라이커, 스페셜 학생의 <b:ATK>이 25% 증가하고\n<d:HealEffectiveness>이 7000 만큼 감소한다.\n추가로 예로니무스의 <d:DEF>이 1500 만큼 감소한다.\n이후 <d:Hieronymus>를 받는 아군의 <b:HealEffectiveness>이 4000 만큼 증가한다. (10초간)\n(자색 성유물은 일반 공격, 기본 스킬의 타겟이 되지 않습니다.)",
             "DescriptionTh": null,
             "DescriptionTw": null,
             "NameCn": null,
@@ -396,9 +544,9 @@
         {
             "Id": "KaitenFxMk0ExSkill03",
             "DescriptionEn": "<b>Left Arm (green)</b>: Decreases <b:DamagedRatio> by 50%. This buff is removed after taking 10 hits from any EX skill.",
-            "DescriptionJp": "左腕（グリーン）：被ダメージ量を50%減少\n生徒たちの攻撃系Exスキルによって攻撃を合計10回当てることで即時解除が可能です。",
-            "DescriptionKr": "왼팔(그린): 받는 대미지량 50% 감소\nEx 스킬로 10회 타격 시 즉시 해제",
-            "DescriptionTh": "แขนซ้าย (กรีน): ลดค่าความเสียหายที่ได้รับ 50%\nยกเลิกทันทีเมื่อโจมตีด้วยสกิล EX 10 ครั้ง",
+            "DescriptionJp": "左腕（グリーン）：<b:DamagedRatio>を50%減少\n生徒たちの攻撃系Exスキルによって攻撃を合計10回当てることで即時解除が可能です。",
+            "DescriptionKr": "왼팔(그린): <b:DamagedRatio> 50% 감소\nEx 스킬로 10회 타격 시 즉시 해제",
+            "DescriptionTh": "แขนซ้าย (กรีน): ลดค่า<b:DamagedRatio> 50%\nยกเลิกทันทีเมื่อโจมตีด้วยสกิล EX 10 ครั้ง",
             "DescriptionTw": "左手臂(綠色)：使受到的傷害量減少50%\n用Ex技能打擊10次時立即解除",
             "NameCn": "无限回转・巨大锅盖盾牌",
             "DescriptionCn": "左手臂(绿色)：使受到的伤害量减少50%\n用Ex技能打击10次时立即解除"
@@ -434,7 +582,7 @@
                     "",
                     "",
                     "",
-                    " and KAITEN FX Mk.0's EX skills will also decrease enemies' <d:HealEffectiveness> by <b>80%</b> for <b>30s</b>"
+                    " and KAITEN FX Mk.0's EX skills will also decrease enemies' <d:HealEffectiveness> by 80% for 30s"
                 ],
                 [
                     "70,000",
@@ -445,8 +593,44 @@
                     "3,500,000"
                 ]
             ],
-            "DescriptionJp": "20秒毎に右腕（ピンク）、胸部（レッド）、左腕（グリーン）の順にパーツが活性化。\nパーツが活性化すると、右腕（ピンク）：攻撃力を50%増加\n胸部（レッド）：Exスキルの攻撃時、相手に気絶状態を付与（5秒間）\n左腕（グリーン）：防御力を1000増加\nパーツが活性化している状態で一定のダメージが蓄積されると、そのパーツは破壊されもう活性化できなくなります。\nまた、破壊されたパーツのスキルは、その後発動することができなくなります。",
-            "DescriptionKr": "20초마다 오른팔(핑크), 가슴(레드), 왼팔(그린) 순서로 부위가 활성화된다.\n오른팔(핑크): 공격력 50% 증가\n가슴(레드): Ex 스킬 공격 시 대상 기절 (5초간)\n왼팔(그린): 방어력 1000 증가\n부위 활성화 시 일정 대미지 이상을 입힐 경우 해당 부위는 파괴되고 더 이상 활성화되지 않는다.\n파괴된 부위의 스킬은 사용하지 않는다.",
+            "DescriptionJp": "20秒毎に右腕（ピンク）、胸部（レッド）、左腕（グリーン）の順にパーツが活性化。\nパーツが活性化すると、右腕（ピンク）：攻撃力を50%増加\n胸部（レッド）：Exスキルの攻撃時、相手に気絶状態を付与（5秒間）\n左腕（グリーン）：防御力を1000増加<?1>\nパーツが活性化している状態で<?2>のダメージが蓄積されると、そのパーツは破壊されもう活性化できなくなります。\nまた、破壊されたパーツのスキルは、その後発動することができなくなります。",
+            "ParametersJp": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "、さらにExスキルの攻撃時、敵の<d:HealEffectiveness>を80%減少（30秒間）"
+                ],
+                [
+                    "70000",
+                    "157500",
+                    "350000",
+                    "595000",
+                    "2500000",
+                    "3500000"
+                ]
+            ],
+            "DescriptionKr": "20초마다 오른팔(핑크), 가슴(레드), 왼팔(그린) 순서로 부위가 활성화된다.\n오른팔(핑크): 공격력 50% 증가\n가슴(레드): Ex 스킬 공격 시 대상 기절 (5초간)\n왼팔(그린): 방어력 1000 증가<?1>\n부위 활성화 시 일정 대미지 이상을 입힐 경우 해당 부위는 파괴되고 더 이상 활성화되지 않는다.\n파괴된 부위의 스킬은 사용하지 않는다.",
+            "ParametersKr": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ", Ex 스킬 공격 시 대상 <d:HealEffectiveness> 80% 감소(30초간)"
+                ],
+                [
+                    "70000",
+                    "157500",
+                    "350000",
+                    "595000",
+                    "2500000",
+                    "3500000"
+                ]
+            ],
             "DescriptionTh": "เปิดใช้งานแขนขวา (พิงค์), หน้าอก (เรด) และแขนซ้าย (กรีน) แต่ละส่วนทุก 20 วินาที ตามลำดับ\nแขนขวา (พิงค์): เพิ่มค่าโจมตี 50%\nหน้าอก (เรด): เมื่อใช้สกิล EX โจมตีจะทำให้เป้าหมายหมดสติ (เป็นเวลา 5 วินาที)\nแขนซ้าย (กรีน): เพิ่มค่าป้องกัน 1000\nถ้าส่วนที่เปิดใช้งานได้รับความเสียหายเกินกว่าที่กำหนด ส่วนนั้นจะถูกทำลาย และไม่สามารถใช้งานได้อีก\nสกิลของส่วนที่ถูกทำลายจะใช้งานไม่ได้",
             "DescriptionTw": "每20秒依序啟動右手臂(粉紅色)、胸部(紅色)、左手臂(綠色)。\n右手臂(粉紅色)：攻擊力增加50%\n胸部(紅色)：用Ex技能攻擊時，使對象昏厥(5秒內)\n左手臂(綠色)：防禦力增加1000\n啟動部位時，如受到一定以上的傷害，該部位將會被破壞，且無法再次啟動。\n無法使用被破壞部位的技能。",
             "NameCn": "无限燃烧的热烈之心",
@@ -480,8 +664,28 @@
                     "\nIf the defense reduction debuff is not removed before the end of the skill's duration, deals 250% damage to enemies in a fan-shaped area."
                 ]
             ],
-            "DescriptionJp": "敵1人に対して、攻撃力の90%分の持続ダメージを付与（10秒間）/\nさらに<d:DEF>を9999減少（60秒間）",
-            "DescriptionKr": "적 1인에게 공격력 90% 지속 대미지(10초간)/\n<d:DEF> 9999 감소(60초간)",
+            "DescriptionJp": "敵1人に対して、攻撃力の90%分の持続ダメージを付与（10秒間）/\nさらに<d:DEF>を9999減少（60秒間）<?1>",
+            "ParametersJp": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\nスキル終了時、防御力の減少効果が残っている場合、扇形範囲内の敵に対して、攻撃力の250%分のダメージ"
+                ]
+            ],
+            "DescriptionKr": "적 1인에게 공격력 90% 지속 대미지(10초간)/\n<d:DEF> 9999 감소(60초간)<?1>",
+            "ParametersKr": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\n스킬이 종료될 때 방어력 감소가 남아있으면 부채꼴범위에 공격력 250% 대미지"
+                ]
+            ],
             "DescriptionTh": "สร้างความเสียหายต่อเนื่อง 90% ของค่าโจมตีกับศัตรู 1 เป้าหมาย (เป็นเวลา 10 วินาที) /\nลด<d:DEF> 9999 (เป็นเวลา 60 วินาที)",
             "DescriptionTw": "對1名敵人造成等同90%攻擊力的持續傷害（10秒內）\n<d:DEF>減少9999（60秒內）",
             "NameCn": "白热光线",
@@ -518,8 +722,44 @@
                     "\nAlso summons glowing Perorominions which when knocked down, deal 200,000 damage to other Perorominions in a circular area around it."
                 ]
             ],
-            "DescriptionJp": "大きなペロロミニオンを召喚。大きなペロロミニオンはその被ダメージの100%分がペロロジラにも与えられ、HPが50％以下になると転倒します",
-            "DescriptionKr": "입은 피해의 100%를 페로로지라에게 전달하는 빅 페로로 미니언을 소환/\n빅 페로로 미니언은 체력이 50% 이하가 되면 넘어집니다.",
+            "DescriptionJp": "大きなペロロミニオン<?1>を召喚。大きなペロロミニオン<?1>はその被ダメージの100%分がペロロジラにも与えられ、HPが50％以下になると転倒します<?2>",
+            "ParametersJp": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "と輝く大きなペロロミニオン"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\n輝く大きなペロロミニオンは転倒すると、円型範囲内のペロロたちに対してダメージを与えます。"
+                ]
+            ],
+            "DescriptionKr": "입은 피해의 100%를 페로로지라에게 전달하는 빅 페로로 미니언<?1>을 소환/\n빅 페로로 미니언<?1>은 체력이 50% 이하가 되면 넘어집니다.<?2>",
+            "ParametersKr": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "과 반짝이는 빅 페로로 미니언"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\n반짝이는 빅 페로로 미니언은 넘어지면서 원형 범위의 페로로들에게 피해를 줍니다."
+                ]
+            ],
             "DescriptionTh": "เรียกลูกสมุนบิ๊กเพโรโร่มาสร้างความเสียหาย 100% ของความเสียหายที่ได้รับ /\nลูกสมุนบิ๊กเพโรโร่จะล้มลงถ้ามี HP ต่ำกว่า 50%",
             "DescriptionTw": "以100%所受傷害召喚傳送給佩洛洛吉拉的巨大佩洛洛士兵\n巨大佩洛洛士兵的體力低於50%時將自動倒地。",
             "NameCn": "召唤士兵",
@@ -556,11 +796,31 @@
                     "",
                     "",
                     "",
-                    " three times and expands invader pillars' area of effect by one stage"
+                    " that expands 3 times"
                 ]
             ],
-            "DescriptionJp": "円形範囲内の敵に対して、攻撃力の150%分のダメージ",
-            "DescriptionKr": "원형 범위 내 적에게 공격력 150% 만큼 대미지",
+            "DescriptionJp": "<?1>攻撃力の150%分のダメージ",
+            "ParametersJp": [
+                [
+                    "円形範囲内の敵に対して、",
+                    "円形範囲内の敵に対して、",
+                    "円形範囲内の敵に対して、",
+                    "円形範囲内の敵に対して、",
+                    "円形範囲内の敵に対して、",
+                    "円形範囲が拡大しながら計3回爆発し、合計で敵に対して"
+                ]
+            ],
+            "DescriptionKr": "<?1> 적에게 공격력 150% 만큼 대미지",
+            "ParametersKr": [
+                [
+                    "원형 범위 내",
+                    "원형 범위 내",
+                    "원형 범위 내",
+                    "원형 범위 내",
+                    "원형 범위 내",
+                    "원형 범위가 점점 넓어지며 총 3번 폭발하여"
+                ]
+            ],
             "DescriptionTh": null,
             "DescriptionTw": null,
             "NameCn": null,
@@ -651,7 +911,7 @@
                     "（CC強化力が高いほど時間量がより多く適用されます）"
                 ]
             ],
-            "DescriptionKr": "호드,침식타워는 군중제어 효과는 받지 않지만 시간은 누적됩니다. <?2>\n호드: 6초 누적 시 <d:DamagedRatio> 300% 증가(30초간), 그로기 게이지 증가, ATG 감소\n침식 타워: 6초 누적 시 <d:DamagedRatio> 300% 증가(30초간), 침식범위 1단계 감소 ",
+            "DescriptionKr": "호드,침식타워는 군중제어 효과는 받지 않지만 시간은 누적됩니다. <?2>\n호드: <?1> 누적 시 <d:DamagedRatio> 300% 증가(30초간), 그로기 게이지 증가, ATG 감소\n침식 타워: <?1> 누적 시 <d:DamagedRatio> 300% 증가(30초간), 침식범위 1단계 감소 ",
             "ParametersKr": [
                 [
                     "6초",

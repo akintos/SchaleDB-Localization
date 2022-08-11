@@ -1,0 +1,826 @@
+{
+    "DataList": [
+        {
+            "Key": 2742824586,
+            "NameEn": "Total Assault Rare Coin",
+            "DescriptionEn": "This rare coin can be spent at the Total Assault Shop."
+        },
+        {
+            "Key": 1668372693,
+            "NameEn": "Joint Firing Drill Coin",
+            "DescriptionEn": "This coin can be spent at the Joint Firing Drill Shop."
+        },
+        {
+            "Key": 3987418957,
+            "NameEn": "Bounty Coin",
+            "DescriptionEn": "This coin can be spent at the Bounty Shop."
+        },
+        {
+            "Key": 3360596941,
+            "NameEn": "Secret Tech Sheet Fragment",
+            "DescriptionEn": "A fragment of Tech Notes containing tactical secrets. Can be restored using the tailor-made function of the Crafting Chamber."
+        },
+        {
+            "Key": 471603600,
+            "NameEn": "Lesser Tailor Stone",
+            "DescriptionEn": "A stone required for operating the tailor-made function of the Crafting Chamber."
+        },
+        {
+            "Key": 1792884876,
+            "NameEn": "Normal Tailor Stone",
+            "DescriptionEn": "A stone required for operating the tailor-made function of the Crafting Chamber."
+        },
+        {
+            "Key": 2951854574,
+            "NameEn": "Advanced Tailor Stone",
+            "DescriptionEn": "A stone required for operating the tailor-made function of the Crafting Chamber."
+        },
+        {
+            "Key": 3331695516,
+            "NameEn": "Superior Tailor Stone",
+            "DescriptionEn": "A stone required for operating the tailor-made function of the Crafting Chamber."
+        },
+        {
+            "Key": 1157572539,
+            "NameEn": "Disc Pendant Piece",
+            "DescriptionEn": "A broken-off Disc Pendant piece. Used in various crafted items and enhancements."
+        },
+        {
+            "Key": 3035593625,
+            "NameEn": "Broken Disc Pendant",
+            "DescriptionEn": "A Disc Pendant broken beyond repair. Used in various crafted items and enhancements."
+        },
+        {
+            "Key": 1608213624,
+            "NameEn": "Restored Disc Pendant",
+            "DescriptionEn": "A Disc Pendant in the process of being restored by putting various pieces together. Used in various crafted items and enhancements."
+        },
+        {
+            "Key": 2689897740,
+            "NameEn": "Intact Disc Pendant",
+            "DescriptionEn": "An intact Disc Pendant. Used in various crafted items and enhancements."
+        },
+        {
+            "Key": 481204051,
+            "NameEn": "Mystery Stone Piece",
+            "DescriptionEn": "A broken-off Mystery Stone piece. Used in various crafted items and enhancements."
+        },
+        {
+            "Key": 2995021343,
+            "NameEn": "Broken Mystery Stone",
+            "DescriptionEn": "A Mystery Stone broken beyond repair. Used in various crafted items and enhancements."
+        },
+        {
+            "Key": 2163708171,
+            "NameEn": "Incomplete Mystery Stone",
+            "DescriptionEn": "A Mystery Stone that has been restored, but is still not quite the right shape. Used in various crafted items and enhancements."
+        },
+        {
+            "Key": 4215214925,
+            "NameEn": "Intact Mystery Stone",
+            "DescriptionEn": "An intact Mystery Stone. Used in various crafted items and enhancements."
+        },
+        {
+            "Key": 1912394354,
+            "NameEn": "Advanced Tactical Training Blu-ray (Arius)"
+        },
+        {
+            "Key": 237084781,
+            "NameEn": "Voodoo Doll",
+            "DescriptionEn": "A cursed doll that seems to be filled with strong emotions such as grudges. It seems to be easy to use as a needlestick, and is very popular among the students of the handicraft club."
+        },
+        {
+            "Key": 2415212758,
+            "NameEn": "Gothic Wristwatch",
+            "DescriptionEn": "A wristwatch designed in a gothic style. Although it looks good with classical clothes, it's difficult to read the time from if you are not accustomed to it."
+        },
+        {
+            "Key": 1964406377,
+            "NameEn": "Punk Choker",
+            "DescriptionEn": "A punk-style choker with sharp spikes. Wearing it around your neck makes it a little harder to nod your head."
+        },
+        {
+            "Key": 1058203923,
+            "NameEn": "Voodoo Doll Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Key": 2625452827,
+            "NameEn": "Gothic Wristwatch Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Key": 3028364897,
+            "NameEn": "Punk Choker Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Key": 835357934,
+            "NameEn": "Bucket Hat",
+            "DescriptionEn": "A large bucket hat that hides the upper part of the face. When combined with a mask, it minimizes exposure of the face and provides excellent UV protection."
+        },
+        {
+            "Key": 1332723028,
+            "NameEn": "Arm Covers",
+            "DescriptionEn": "Arm covers for students who seek both UV protection and fashion at the same time. Recommended for the changing seasons."
+        },
+        {
+            "Key": 134212594,
+            "NameEn": "Casual Sneakers",
+            "DescriptionEn": "Sneakers with a simple design. Lightweight and well-fitting, they are favored by many students."
+        },
+        {
+            "Key": 1637503010,
+            "NameEn": "Street Bag",
+            "DescriptionEn": "This street bag combines a casual atmosphere with practicality. It is a favorite of many students because of its ample storage capacity."
+        },
+        {
+            "Key": 589220143,
+            "NameEn": "Street Badge",
+            "DescriptionEn": "A new badge from the street fashion brand Triple Step. The boldness of the company name printed large in the center suggests the confidence of the creator."
+        },
+        {
+            "Key": 1353993108,
+            "NameEn": "Calligraphy Hairpin",
+            "DescriptionEn": "A hairpin designed with letters. The string of letters itself has no meaning, but the design is somehow exciting."
+        },
+        {
+            "Key": 1472344616,
+            "NameEn": "Bucket Hat Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Key": 3926402710,
+            "NameEn": "Arm Covers Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Key": 1101051979,
+            "NameEn": "Casual Sneakers Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Key": 3313108412,
+            "NameEn": "Street Bag Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Key": 498575224,
+            "NameEn": "Street Badge Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Key": 828687381,
+            "NameEn": "Calligraphy Hairpin Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Key": 2268377851,
+            "NameEn": "Purple",
+            "DescriptionEn": "This can create cafe furniture. (Bed)"
+        },
+        {
+            "Key": 2172125438,
+            "NameEn": "Military Outdoor Set",
+            "DescriptionEn": "This can create cafe furniture. (Military theme)"
+        },
+        {
+            "Key": 3134605023,
+            "NameEn": "Arius",
+            "DescriptionEn": "This can create useful items for Arius students."
+        },
+        {
+            "Key": 4111910421,
+            "NameEn": "Beachside Set",
+            "DescriptionEn": "This can create cafe furniture. (Beachside theme)."
+        },
+        {
+            "Key": 2853680747,
+            "NameEn": "Jade Plant",
+            "DescriptionEn": "This can create water play gifts."
+        },
+        {
+            "Key": 2715884359,
+            "NameEn": "Diamond",
+            "DescriptionEn": "This can create Secret Tech Sheet fragments."
+        },
+        {
+            "Key": 4011844930,
+            "NameEn": "Mystical",
+            "DescriptionEn": "This can create Students' Eleph."
+        },
+        {
+            "Key": 3274758309,
+            "NameEn": "Shiny",
+            "DescriptionEn": "This can create high-grade substances."
+        },
+        {
+            "Key": 323195948,
+            "NameEn": "Radiant",
+            "DescriptionEn": "This can create the highest grade substances."
+        },
+        {
+            "Key": 2675345777,
+            "NameEn": "Silver",
+            "DescriptionEn": "This can create Advanced grade or higher Activity Reports."
+        },
+        {
+            "Key": 256200118,
+            "NameEn": "Gold",
+            "DescriptionEn": "This can create Advanced grade or higher Artifacts."
+        },
+        {
+            "Key": 66628586,
+            "NameEn": "Platinum",
+            "DescriptionEn": "This can create Advanced grade or higher Tech Notes. Low chance of creating a Secret Tech Sheet fragment."
+        },
+        {
+            "Key": 2339912570,
+            "NameEn": "Copper",
+            "DescriptionEn": "This can create Advanced grade or higher Tactical Training Blu-rays."
+        },
+        {
+            "Key": 3373914538,
+            "NameEn": "Weapon Parts",
+            "DescriptionEn": "Can create Chromium or Titanium Weapon Parts to enhance unique weapons."
+        },
+        {
+            "Key": 1493375985,
+            "NameEn": "Hyakkiyako",
+            "DescriptionEn": "This can create useful items for Hyakkiyako students."
+        },
+        {
+            "Key": 1835596279,
+            "NameEn": "Hyakkiyako",
+            "DescriptionEn": "This can create useful items for Hyakkiyako students. Low chance of creating a Hyakkiyako student's Eleph."
+        },
+        {
+            "Key": 1384455690,
+            "NameEn": "Red Winter",
+            "DescriptionEn": "This can create useful items for Red Winter students. Low chance of creating a Red Winter student's Eleph."
+        },
+        {
+            "Key": 279062403,
+            "NameEn": "Trinity",
+            "DescriptionEn": "This can create useful items for Trinity students. Low chance of creating a Trinity student's Eleph."
+        },
+        {
+            "Key": 3397674168,
+            "NameEn": "Gehenna",
+            "DescriptionEn": "This can create useful items for Gehenna students. Low chance of creating a Gehenna student's Eleph."
+        },
+        {
+            "Key": 88974004,
+            "NameEn": "Abydos",
+            "DescriptionEn": "This can create useful items for Abydos students. Low chance of creating a Abydos student's Eleph."
+        },
+        {
+            "Key": 1315220770,
+            "NameEn": "Millennium",
+            "DescriptionEn": "This can create useful items for Millennium students. Low chance of creating a Millennium student's Eleph."
+        },
+        {
+            "Key": 3348630443,
+            "NameEn": "Shanhaijing",
+            "DescriptionEn": "This can create useful items for Shanhaijing students. Low chance of creating a Shanhaijing student's Eleph."
+        },
+        {
+            "Key": 773557141,
+            "NameEn": "Valkyrie",
+            "DescriptionEn": "This can create useful items for Valkyrie students. Low chance of creating a Valkyrie student's Eleph."
+        },
+        {
+            "Key": 3255046810,
+            "NameEn": "Arius",
+            "DescriptionEn": "This can create useful items for Arius students. Low chance of creating a Arius student's Eleph."
+        },
+        {
+            "Key": 2557268547,
+            "NameEn": "Colorful",
+            "DescriptionEn": "This can create ★2 or higher cafe furniture."
+        },
+        {
+            "Key": 134253664,
+            "NameEn": "Flower",
+            "DescriptionEn": "This can create gifts for students. Low chance of creating a high grade gift."
+        },
+        {
+            "Key": 4229601365,
+            "NameEn": "Wealth",
+            "DescriptionEn": "This can generate Credit Points."
+        },
+        {
+            "Key": 3893098426,
+            "NameEn": "Valkyrie Student (SG)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3463482352,
+            "NameEn": "Valkyrie Student (SG)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1978638021,
+            "NameEn": "Brazen Valkyrie Student",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 941601017,
+            "NameEn": "Valkyrie Student (AR)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 647329751,
+            "NameEn": "Valkyrie Student (AR)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 2430377033,
+            "NameEn": "Cautious Valkyrie Student",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1145957639,
+            "NameEn": "Valkyrie Student (SR)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3278461543,
+            "NameEn": "Valkyrie Student (SR)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1804051115,
+            "NameEn": "Heartless Valkyrie Student",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 2088433857,
+            "NameEn": "Plasma Field Generator",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1889860996,
+            "NameEn": "Repair Material Storage Device",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 2265070121,
+            "NameEn": "Black Tortoise Guard Cannon (GL)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 565033751,
+            "NameEn": "Black Tortoise Guard Cannon (GL)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 2968343551,
+            "NameEn": "Enhanced Black Tortoise Guard Cannon",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 107804354,
+            "NameEn": "Black Tortoise Automaton (AR)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1686470132,
+            "NameEn": "Black Tortoise Automaton (AR)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3169060710,
+            "NameEn": "Swift Black Tortoise Automaton",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 897470222,
+            "NameEn": "Black Tortoise Automaton (RL)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 4185236585,
+            "NameEn": "Black Tortoise Automaton (RL)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 2319690941,
+            "NameEn": "Aggressive Black Tortoise Automaton",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3065279660,
+            "NameEn": "Wandering Automaton (HG)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 530192616,
+            "NameEn": "Wandering Automaton (HG)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 2176136249,
+            "NameEn": "Intelligent Wandering Automaton",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 2239644269,
+            "NameEn": "Wandering Automaton (AR)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 2867230247,
+            "NameEn": "Wandering Automaton (SR)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3229531885,
+            "NameEn": "Wandering Automaton (SR)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3844343905,
+            "NameEn": "Calm Wandering Hippie Automaton",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 4075218664,
+            "NameEn": "KAITEN FX Mk.1",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 351767517,
+            "NameEn": "Wakamo's Stolen Armored Car",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3304619023,
+            "NameEn": "Valkyrie Armored Car",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3347602667,
+            "NameEn": "Barbara",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 4083438849,
+            "NameEn": "Enhanced Mass-Produced Excavator",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3125999702,
+            "NameEn": "Menacing Usagibot",
+            "DescriptionEn": "(X)"
+        },
+        {
+            "Key": 2410773051,
+            "NameEn": "Menacing Usagibot",
+            "DescriptionEn": "(X)"
+        },
+        {
+            "Key": 3628874867,
+            "NameEn": "Swift Menacing Usagibot",
+            "DescriptionEn": "(X)"
+        },
+        {
+            "Key": 3454663281,
+            "NameEn": "Wakamo (Swimsuit)"
+        },
+        {
+            "Key": 3373551151,
+            "NameEn": "Wakamo (Hovercraft)"
+        },
+        {
+            "Key": 353398518,
+            "NameEn": "Sena",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 812696890,
+            "NameEn": "Chihiro",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1346138214,
+            "NameEn": "Ui",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1429448621,
+            "NameEn": "Hinata",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1654110647,
+            "NameEn": "Marina",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 291853015,
+            "NameEn": "Iroha",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 56611997,
+            "NameEn": "Michiru",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3246505250,
+            "NameEn": "Tsukuyo",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3965888098,
+            "NameEn": "Misaki",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3622415203,
+            "NameEn": "Hiyori",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 2174828845,
+            "NameEn": "Atsuko",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1226834211,
+            "NameEn": "Wakamo (Swimsuit)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 117208396,
+            "NameEn": "Nonomi (Swimsuit)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 2334626882,
+            "NameEn": "Ayane (Swimsuit)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 2792135596,
+            "NameEn": "Saori",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3029793039,
+            "NameEn": "Miyu",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1337581931,
+            "NameEn": "Miyako",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 139127560,
+            "NameEn": "Saki",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3142644764,
+            "NameEn": "Fubuki",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 2018843988,
+            "NameEn": "Mimori",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3654729417,
+            "NameEn": "Kaede",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 2263862263,
+            "NameEn": "Misaki",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 7950013,
+            "NameEn": "Saori",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 7950022,
+            "NameEn": "Atsuko",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 7950033,
+            "NameEn": "Mika",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1439265600,
+            "NameEn": "Wakamo",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3774427157,
+            "NameEn": "Hoshino (Swimsuit)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1713001141,
+            "NameEn": "Shizuko (Swimsuit)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 2822611259,
+            "NameEn": "Izuna (Swimsuit)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 2546195895,
+            "NameEn": "Chise (Swimsuit)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1311123432,
+            "NameEn": "Light Sweeper",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 788278798,
+            "NameEn": "Modded Light Sweeper",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1752696916,
+            "NameEn": "Enhanced Light Sweeper",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 2750692678,
+            "NameEn": "Mutant Sweeper",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1831169941,
+            "NameEn": "Modded Mutant Sweeper",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 853908496,
+            "NameEn": "Enhanced Mutant Sweeper",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 2446565376,
+            "NameEn": "Daytime Nero",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3659789479,
+            "NameEn": "Rabu",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3855921683,
+            "NameEn": "Kether Type.V",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 4278118474,
+            "NameEn": "Kether Type.C",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1926925201,
+            "NameEn": "Kether Type.E",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 493517636,
+            "NameEn": "Perorodzilla",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1461448158,
+            "NameEn": "Perorodzilla",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1527396238,
+            "NameEn": "Binah",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3123977530,
+            "NameEn": "Chesed",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 990306261,
+            "NameEn": "Exercise Terrain (Outdoor)",
+            "DescriptionEn": "This exercise will take place in <b>outdoor</b> terrain."
+        },
+        {
+            "Key": 1329507091,
+            "NameEn": "Exercise Terrain (Indoor)",
+            "DescriptionEn": "This exercise will take place in <b>indoor</b> terrain."
+        },
+        {
+            "Key": 3938056289,
+            "NameEn": "Exercise Terrain (Street)",
+            "DescriptionEn": "This exercise will take place in <b>street</b> terrain."
+        },
+        {
+            "Key": 2060888564,
+            "NameEn": "Enemy Defense Type (Light Armor)",
+            "DescriptionEn": "Enemies' defense type will be <b class='ba-col-explosion'>Light Armor</b>."
+        },
+        {
+            "Key": 2060888564,
+            "NameEn": "Enemy Defense Type (Light Armor)",
+            "DescriptionEn": "Enemies' defense type will be <b class='ba-col-explosion'>Light Armor</b>."
+        },
+        {
+            "Key": 2075498290,
+            "NameEn": "Enemy Defense Type (Heavy Armor)",
+            "DescriptionEn": "Enemies' defense type will be <b class='ba-col-pierce'>Heavy Armor</b>."
+        },
+        {
+            "Key": 2570956929,
+            "NameEn": "Enemy Defense Type (Special Armor)",
+            "DescriptionEn": "Enemies' defense type will be <b class='ba-col-mystic'>Special Armor</b>."
+        },
+        {
+            "Key": 983164925,
+            "NameEn": "Decreased Ally Attack Speed",
+            "DescriptionEn": "All allies' <d:AttackSpeed> is decreased by 75%."
+        },
+        {
+            "Key": 3257931121,
+            "NameEn": "Increased Enemy Evasion",
+            "DescriptionEn": "All enemies' <b:Dodge> is increased by 1000%."
+        },
+        {
+            "Key": 2503860611,
+            "NameEn": "Decreased Ally Defense",
+            "DescriptionEn": "All allies' <d:DEF> is decreased by 90%."
+        },
+        {
+            "Key": 3301214750,
+            "NameEn": "Enemies Explode on Defeat",
+            "DescriptionEn": "When an enemy is defeated, they deal <b>100%</b> damage to allies in a circular area around them."
+        },
+        {
+            "Key": 648270201,
+            "NameEn": "Decreased SR Ally Attack",
+            "DescriptionEn": "Decreases <d:ATK> for all allies who use SR type weapons by 90%."
+        },
+        {
+            "Key": 2856565282,
+            "NameEn": "Increased Enemy Accuracy",
+            "DescriptionEn": "All enemies' <b:HIT> is increased by <b>1,500</b>."
+        },
+        {
+            "Key": 1949095289,
+            "NameEn": "Increased Ally Critical Rate",
+            "DescriptionEn": "All allies' <b:CriticalChance> is increased by <b>2,000</b>."
+        },
+        {
+            "Key": 1428571194,
+            "NameEn": "Ally Cost Recovery Decreases after using EX Skills",
+            "DescriptionEn": "Decreases all allies' <d:CostRegen> by <b>60</b> each time an ally uses their EX skill. Effect lasts until the end of battle."
+        },
+        {
+            "Key": 3009801818,
+            "NameEn": "Decreased MT/AR Ally Attack",
+            "DescriptionEn": "Decreases <d:ATK> for all allies who use MT or AR type weapons by 90%."
+        },
+        {
+            "Key": 2490399639,
+            "NameEn": "Additional Damage when inflicting CC",
+            "DescriptionEn": "Enemies have <b>100,000</b> increased <b:MAXHP>. Enemies receive an additional <b>120,000</b> damage whenever they are inflicted with a Crowd Control effect."
+        },
+        {
+            "Key": 719379007,
+            "NameEn": "Scarecrow HP Damage over Time",
+            "DescriptionEn": "The Scarecrow will receive damage equal to 2% of its Max HP every 1s."
+        },
+        {
+            "Key": 773473613,
+            "NameEn": "All Roles Formation",
+            "DescriptionEn": "If a unit contains at least one Support, Dealer, Tank, Healer and T.S. student, increases the <b:CostRegen> of all allies by <b>700</b>."
+        },
+        {
+            "Key": 3091509634,
+            "NameEn": "The Elite Few",
+            "DescriptionEn": "Increases all allies' <b:ATK> by 500%/200%/100%/50% and <b:CostRegen> by 7,000/2,800/1,400/700 if there are only 1/2/3/4 students in the unit."
+        },
+        {
+            "Key": 3334829467,
+            "NameEn": "Enemy Continuous Healing",
+            "DescriptionEn": "All enemies restore 50% of their Max HP every 30s"
+        }
+    ]
+}

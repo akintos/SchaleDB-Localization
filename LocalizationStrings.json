@@ -962,7 +962,7 @@
                 "Th": "อีเวนท์"
             },
             "Raid": {
-                "PrefabKey": 2527278271,
+                "PrefabKey": 540256256,
                 "Cn": "总力战",
                 "Th": "เรดบอส"
             },
@@ -1667,7 +1667,7 @@
             "Debuff_Hieronymus": {
                 "En": "Curse",
                 "Jp": "呪い状態",
-                "Kr": "저주를",
+                "Kr": "저주",
                 "Th": "คำสาป",
                 "Tw": "詛咒",
                 "Cn": "诅咒"
@@ -3791,6 +3791,14 @@
                 "Th": "ใช้เพื่อเพิ่มดาวนักเรียนดังต่อไปนี้",
                 "Tw": "用于解锁以下学生",
                 "Cn": "用于解锁以下学生"
+            },
+            "item_obtainedfrom_stage": {
+                "En": "Obtained from the following stages",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             },
             "item_artifact_box": {
                 "En": "Contains one of the following artifacts:",

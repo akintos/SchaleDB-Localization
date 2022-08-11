@@ -1,0 +1,94 @@
+{
+    "DataList": [
+        {
+            "Key": 2060888564,
+            "Force": true,
+            "DescriptionJp": "敵の防御タイプは「<b class='ba-col-explosion'>軽装備</b>」です。"
+        },
+        {
+            "Key": 2060888564,
+            "Force": true,
+            "DescriptionJp": "敵の防御タイプは「<b class='ba-col-explosion'>軽装備</b>」です。"
+        },
+        {
+            "Key": 2075498290,
+            "Force": true,
+            "DescriptionJp": "敵の防御タイプは「<b class='ba-col-pierce'>重装甲</b>」です。"
+        },
+        {
+            "Key": 2570956929,
+            "Force": true,
+            "DescriptionJp": "敵の防御タイプは「<b class='ba-col-mystic'>特殊装甲</b>」です。"
+        },
+        {
+            "Key": 983164925,
+            "Force": true,
+            "DescriptionJp": "味方の<d:AttackSpeed>を75%減少。"
+        },
+        {
+            "Key": 3257931121,
+            "Force": true,
+            "DescriptionJp": "敵の<b:Dodge>を1000%増加。"
+        },
+        {
+            "Key": 2503860611,
+            "Force": true,
+            "DescriptionJp": "味方の<d:DEF>を90%減少。"
+        },
+        {
+            "Key": 3301214750,
+            "Force": true,
+            "DescriptionJp": "敵を倒した時、その位置を中心として円形の範囲内の味方に攻撃力の100%分のダメージが与えられます。"
+        },
+        {
+            "Key": 648270201,
+            "Force": true,
+            "DescriptionJp": "SRの武器を使用する味方生徒の<d:ATK>を90%減少。"
+        },
+        {
+            "Key": 2856565282,
+            "Force": true,
+            "DescriptionJp": "敵の<b:HIT>を1500増加。"
+        },
+        {
+            "Key": 1949095289,
+            "Force": true,
+            "DescriptionJp": "味方の<b:CriticalChance>を2000増加。"
+        },
+        {
+            "Key": 1428571194,
+            "Force": true,
+            "DescriptionJp": "EXスキルの使用時、味方の<d:CostRegen>を60減少。"
+        },
+        {
+            "Key": 3009801818,
+            "Force": true,
+            "DescriptionJp": "武器種がMTもしくはARの味方の<d:ATK>を90%減少。"
+        },
+        {
+            "Key": 2490399639,
+            "Force": true,
+            "DescriptionJp": "敵の<b:MAXHP>を<b>100000</b>増加する代わりに、CC効果が敵に作用するたびに<b>120000</b>の追加ダメージを与えられます。"
+        },
+        {
+            "Key": 719379007,
+            "Force": true,
+            "DescriptionJp": "かかしのHPが1秒毎に、2%減少していきます。"
+        },
+        {
+            "Key": 773473613,
+            "Force": true,
+            "DescriptionJp": "部隊にサポーター、アタッカー、タンク、ヒーラー、T.Sをそれぞれ1人以上編成すると、味方の<b:CostRegen>を<b>700</b>増加。"
+        },
+        {
+            "Key": 3091509634,
+            "Force": true,
+            "DescriptionJp": "編成した生徒数によって攻撃力とコスト回復速度が変化します。編成した生徒数が少ないほど、より多くの数値が増加します。（最大4人まで）"
+        },
+        {
+            "Key": 3334829467,
+            "Force": true,
+            "DescriptionJp": "敵が一定時間毎に体力を回復します。"
+        }
+    ]
+}
