@@ -165,7 +165,7 @@
         {
             "SkillId": 10001200,
             "NameCn": "不屈的意志",
-            "DescriptionCn": "<b:DotHeal>治疗力的<?1> + 失去体力的3.4%(20秒内)",
+            "DescriptionCn": "<b:DotHeal>治愈力的<?1> + 失去体力的3.4%(20秒内)",
             "ParametersCn": [
                 [
                     "8.6%",
@@ -636,7 +636,7 @@
         {
             "SkillId": 10005300,
             "NameCn": "急救",
-            "DescriptionCn": "体力低于30%以下时，治疗力<?1><b:DotHeal>(20秒内)\n(每场战斗1次)",
+            "DescriptionCn": "体力低于30%以下时，治愈力<?1><b:DotHeal>(20秒内)\n(每场战斗1次)",
             "ParametersCn": [
                 [
                     "100%",
@@ -674,7 +674,7 @@
         {
             "SkillId": 10005500,
             "NameCn": "镇压精通",
-            "DescriptionCn": "使用Ex技能中，赋予治疗力<?1><b:Shield>",
+            "DescriptionCn": "使用Ex技能中，赋予治愈力<?1><b:Shield>",
             "ParametersCn": [
                 [
                     "108%",
@@ -1069,7 +1069,7 @@
         {
             "SkillId": 10009200,
             "NameCn": "起司巧克力汉堡～",
-            "DescriptionCn": "恢复治疗力的<?1><?2>",
+            "DescriptionCn": "恢复治愈力的<?1><?2>",
             "ParametersCn": [
                 [
                     "145%",
@@ -1552,7 +1552,7 @@
         {
             "SkillId": 10013300,
             "NameCn": "激情",
-            "DescriptionCn": "消灭敌人时，恢复治疗力<?1>(冷却时间10秒)",
+            "DescriptionCn": "消灭敌人时，恢复治愈力<?1>(冷却时间10秒)",
             "ParametersCn": [
                 [
                     "116%",
@@ -1640,7 +1640,7 @@
         {
             "SkillId": 10013350,
             "NameCn": "激情+",
-            "DescriptionCn": "当鹤城消灭敌人时，以治疗力<?1>恢复自身体力并提升<?2><b:AttackSpeed>(20秒内，触发间隔10秒)",
+            "DescriptionCn": "当鹤城消灭敌人时，以治愈力<?1>恢复自身体力并提升<?2><b:AttackSpeed>(20秒内，触发间隔10秒)",
             "ParametersCn": [
                 [
                     "126%",
@@ -2701,7 +2701,7 @@
         {
             "SkillId": 13009300,
             "NameCn": "睡眠就是补药",
-            "DescriptionCn": "体力低于30%以下时，恢复治疗力<?1>\n(每场战斗1次)",
+            "DescriptionCn": "体力低于30%以下时，恢复治愈力<?1>\n(每场战斗1次)",
             "ParametersCn": [
                 [
                     "349%",
@@ -2789,7 +2789,7 @@
         {
             "SkillId": 13010200,
             "NameCn": "Q.E.D",
-            "DescriptionCn": "赋予治疗力<?1><b:Shield>(<?2>内)",
+            "DescriptionCn": "赋予治愈力<?1><b:Shield>(<?2>内)",
             "ParametersCn": [
                 [
                     "190%",
@@ -2858,7 +2858,7 @@
         {
             "SkillId": 13010500,
             "NameCn": "快速心算",
-            "DescriptionCn": "掩蔽时恢复治疗力<?1>(冷却时间10秒)",
+            "DescriptionCn": "掩蔽时恢复治愈力<?1>(冷却时间10秒)",
             "ParametersCn": [
                 [
                     "75%",
@@ -3153,7 +3153,7 @@
         {
             "SkillId": 16002200,
             "NameCn": "解答箱",
-            "DescriptionCn": "把圆形范围内的4名我军移动到指定位置后，赋予治疗力<?1>的<b:Shield>",
+            "DescriptionCn": "把圆形范围内的4名我军移动到指定位置后，赋予治愈力<?1>的<b:Shield>",
             "ParametersCn": [
                 [
                     "175%",
@@ -3410,7 +3410,7 @@
         {
             "SkillId": 16004300,
             "NameCn": "再次燃烧！",
-            "DescriptionCn": "体力低于20%以下时，恢复治疗力<?1>\n(每场战斗1次)",
+            "DescriptionCn": "体力低于20%以下时，恢复治愈力<?1>\n(每场战斗1次)",
             "ParametersCn": [
                 [
                     "355%",
@@ -3950,7 +3950,7 @@
         {
             "SkillId": 23001200,
             "NameCn": "供餐时间！",
-            "DescriptionCn": "把圆形范围内的4名我军移动到指定地点后，恢复治疗力<?1>",
+            "DescriptionCn": "把圆形范围内的4名我军移动到指定地点后，恢复治愈力<?1>",
             "ParametersCn": [
                 [
                     "109%",
@@ -4057,7 +4057,7 @@
         {
             "SkillId": 23002200,
             "NameCn": "治疗时间到咯~",
-            "DescriptionCn": "让1名我军治疗力<b:DotHeal><?1>(20秒内)",
+            "DescriptionCn": "让1名我军治愈力<b:DotHeal><?1>(20秒内)",
             "ParametersCn": [
                 [
                     "54.1%",
@@ -4409,7 +4409,7 @@
         {
             "SkillId": 23005200,
             "NameCn": "急速快递：战斗支援品",
-            "DescriptionCn": "让圆形范围内的我军治疗力恢复<?1>",
+            "DescriptionCn": "让圆形范围内的我军治愈力恢复<?1>",
             "ParametersCn": [
                 [
                     "118%",
@@ -4516,7 +4516,7 @@
         {
             "SkillId": 26000200,
             "NameCn": "执行战术治疗",
-            "DescriptionCn": "恢复1名我军治疗力<?1><?2>",
+            "DescriptionCn": "恢复1名我军治愈力<?1><?2>",
             "ParametersCn": [
                 [
                     "195%",
@@ -4861,7 +4861,7 @@
         {
             "SkillId": 26003200,
             "NameCn": "集中治疗组合A",
-            "DescriptionCn": "把1名我军移动到指定位置后，恢复治疗力<?1>",
+            "DescriptionCn": "把1名我军移动到指定位置后，恢复治愈力<?1>",
             "ParametersCn": [
                 [
                     "120%",
@@ -4880,7 +4880,7 @@
         {
             "SkillId": 26003300,
             "NameCn": "紧急救援组合B",
-            "DescriptionCn": "每35秒恢复1名我军治疗力<?1>",
+            "DescriptionCn": "每35秒恢复1名我军治愈力<?1>",
             "ParametersCn": [
                 [
                     "94%",
@@ -4999,7 +4999,7 @@
         {
             "SkillId": 26004300,
             "NameCn": "心灵粮食",
-            "DescriptionCn": "每35秒赋予1名体力低落的我军治疗力<?1><b:Shield>(16秒内)",
+            "DescriptionCn": "每35秒赋予1名体力低落的我军治愈力<?1><b:Shield>(16秒内)",
             "ParametersCn": [
                 [
                     "119%",
@@ -5713,7 +5713,7 @@
         {
             "SkillId": 10016300,
             "NameCn": "艺术琢磨",
-            "DescriptionCn": "每25秒，除了自己以外，让1名体力低落的我军治疗力恢复<?1>",
+            "DescriptionCn": "每25秒，除了自己以外，让1名体力低落的我军治愈力恢复<?1>",
             "ParametersCn": [
                 [
                     "77.5%",
@@ -6408,7 +6408,7 @@
         {
             "SkillId": 23007200,
             "NameCn": "开始来一场禁忌的胡闹吧？",
-            "DescriptionCn": "让圆形范围内的我军治疗力<b:DotHeal><?1>(连续8秒)",
+            "DescriptionCn": "让圆形范围内的我军治愈力<b:DotHeal><?1>(连续8秒)",
             "ParametersCn": [
                 [
                     "26.9%",
@@ -6515,7 +6515,7 @@
         {
             "SkillId": 10020200,
             "NameCn": "神圣的手榴弹",
-            "DescriptionCn": "恢复圆形范围内的我军治疗力<?1>，对敌人造成攻击力<?2>伤害",
+            "DescriptionCn": "恢复圆形范围内的我军治愈力<?1>，对敌人造成攻击力<?2>伤害",
             "ParametersCn": [
                 [
                     "101%",
@@ -6546,7 +6546,7 @@
         {
             "SkillId": 10020300,
             "NameCn": "我会治癒你的！",
-            "DescriptionCn": "对自身除外的体力低于50%以下的我军恢复<?1>治疗力(冷却时间20秒)",
+            "DescriptionCn": "对自身除外的体力低于50%以下的我军恢复<?1>治愈力(冷却时间20秒)",
             "ParametersCn": [
                 [
                     "80.8%",
@@ -7974,7 +7974,7 @@
         {
             "SkillId": 10026200,
             "NameCn": "给我站住！",
-            "DescriptionCn": "移动至指定位置后，生成具有<?1>治疗力效果的<b:Shield>（20秒内）\n对圆形范围内的敌人造成等同<?2>攻击力的伤害<?3>",
+            "DescriptionCn": "移动至指定位置后，生成具有<?1>治愈力效果的<b:Shield>（20秒内）\n对圆形范围内的敌人造成等同<?2>攻击力的伤害<?3>",
             "ParametersCn": [
                 [
                     "276%",
@@ -8386,7 +8386,7 @@
         {
             "SkillId": 10029200,
             "NameCn": "终极武器",
-            "DescriptionCn": "治疗力恢复<?1>\n解除1个减益效果",
+            "DescriptionCn": "治愈力恢复<?1>\n解除1个减益效果",
             "ParametersCn": [
                 [
                     "178%",
@@ -8493,7 +8493,7 @@
         {
             "SkillId": 23008200,
             "NameCn": "神圣庇护",
-            "DescriptionCn": "为1名我军生成具有<?1>治疗力效果的<b:Shield>（20秒内）\n解除1个减益效果",
+            "DescriptionCn": "为1名我军生成具有<?1>治愈力效果的<b:Shield>（20秒内）\n解除1个减益效果",
             "ParametersCn": [
                 [
                     "172%",
@@ -8600,7 +8600,7 @@
         {
             "SkillId": 20007200,
             "NameCn": "将每一秒珍藏于心！",
-            "DescriptionCn": "使圆形范围内的我军恢复等同<?1>治疗力的生命值\n初音跳舞时（26秒内），圆形范围内的我军攻击力将增加<?2>",
+            "DescriptionCn": "使圆形范围内的我军恢复等同<?1>治愈力的生命值\n初音跳舞时（26秒内），圆形范围内的我军攻击力将增加<?2>",
             "ParametersCn": [
                 [
                     "111%",
@@ -8750,7 +8750,7 @@
         {
             "SkillId": 20008300,
             "NameCn": "补给作战B计划",
-            "DescriptionCn": "每45秒使1名我军恢复等同<?1>治疗力的生命值",
+            "DescriptionCn": "每45秒使1名我军恢复等同<?1>治愈力的生命值",
             "ParametersCn": [
                 [
                     "129%",
@@ -9038,7 +9038,7 @@
         {
             "SkillId": 10030500,
             "NameCn": "救护组的慎重",
-            "DescriptionCn": "使用Ex技能时，将生成具有<?1>治疗力效果的<b:Shield>（30秒内）",
+            "DescriptionCn": "使用Ex技能时，将生成具有<?1>治愈力效果的<b:Shield>（30秒内）",
             "ParametersCn": [
                 [
                     "108%",
@@ -9207,7 +9207,7 @@
         {
             "SkillId": 20010200,
             "NameCn": "227号温泉浴场开张！",
-            "DescriptionCn": "和香(温泉)登场。和香(温泉)每3秒将以自己为中心，对圆形范围内体力值最低的1名我军投掷零食（32秒内）\n温泉馒头：恢复等同<?1>治疗力的生命值\n温泉饼：恢复等同<?2>治疗力的生命值\n原味牛奶：恢复等同<?3>治疗力的生命值 ",
+            "DescriptionCn": "和香(温泉)登场。和香(温泉)每3秒将以自己为中心，对圆形范围内体力值最低的1名我军投掷零食（32秒内）\n温泉馒头：恢复等同<?1>治愈力的生命值\n温泉饼：恢复等同<?2>治愈力的生命值\n原味牛奶：恢复等同<?3>治愈力的生命值 ",
             "ParametersCn": [
                 [
                     "20.3%",
@@ -10181,7 +10181,7 @@
         {
             "SkillId": 10034300,
             "NameCn": "お弁当を作ってきたんです",
-            "DescriptionCn": "每45秒赋予体力最低友军<b:DotHeal>效果，每4秒持续恢复等同于<?1>治疗力的体力 (20秒内，对三森自身无效)",
+            "DescriptionCn": "每45秒赋予体力最低友军<b:DotHeal>效果，每4秒持续恢复等同于<?1>治愈力的体力 (20秒内，对三森自身无效)",
             "ParametersCn": [
                 [
                     "22.8%",
@@ -11246,7 +11246,7 @@
         {
             "SkillId": 10040200,
             "NameCn": "月咏流、忍法……！",
-            "DescriptionCn": "获得<b:HealByHit_Damaged> (30秒内)，当月咏被攻击时以<?1>治疗力恢复体力。(此效果最高叠加到<b>100</b>倍，期间月咏<d:ATK>下降<?2>)",
+            "DescriptionCn": "获得<b:HealByHit_Damaged> (30秒内)，当月咏被攻击时以<?1>治愈力恢复体力。(此效果最高叠加到<b>100</b>倍，期间月咏<d:ATK>下降<?2>)",
             "ParametersCn": [
                 [
                     "7%",
@@ -11645,7 +11645,7 @@
         {
             "SkillId": 10042200,
             "NameCn": "これも私の力……？",
-            "DescriptionCn": "每5秒，持续以<?1>治疗力恢复亚津子周围圆形范围内友军体力 (30秒内)",
+            "DescriptionCn": "每5秒，持续以<?1>治愈力恢复亚津子周围圆形范围内友军体力 (30秒内)",
             "ParametersCn": [
                 [
                     "28.4%",
@@ -12162,7 +12162,7 @@
         {
             "SkillId": 10045300,
             "NameCn": "水上袭击",
-            "DescriptionCn": "每40秒对一个敌人造成<?1>伤害并以<?2>治疗力恢复自身体力",
+            "DescriptionCn": "每40秒对一个敌人造成<?1>伤害并以<?2>治愈力恢复自身体力",
             "ParametersCn": [
                 [
                     "283%",

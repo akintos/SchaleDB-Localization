@@ -440,7 +440,7 @@
             },
             "HealPower": {
                 "CodeKey": 2769113597,
-                "Cn": "治疗力",
+                "Cn": "治愈力",
                 "Th": "ค่ารักษา"
             },
             "AccuracyPoint": {
@@ -1422,7 +1422,7 @@
                 "Kr": "치유력",
                 "Th": "ค่ารักษา",
                 "Tw": "治癒力",
-                "Cn": "治疗力"
+                "Cn": "治愈力"
             },
             "Buff_HIT": {
                 "En": "Accuracy",
@@ -1662,7 +1662,7 @@
                 "Kr": "치유력",
                 "Th": "ค่ารักษา",
                 "Tw": "治癒力",
-                "Cn": "治疗力"
+                "Cn": "治愈力"
             },
             "Debuff_Hieronymus": {
                 "En": "Curse",
@@ -1976,7 +1976,7 @@
                 "En": "Healing Up",
                 "Th": "ค่ารักษาเพิ่มขึ้น",
                 "Tw": "治癒力提升",
-                "Cn": "治疗力提升"
+                "Cn": "治愈力提升"
             },
             "Buff_HIT": {
                 "En": "Accuracy Up",
@@ -2155,7 +2155,7 @@
                 "En": "Healing Down",
                 "Th": "ค่ารักษาลดลง",
                 "Tw": "治癒力下降",
-                "Cn": "治疗力下降"
+                "Cn": "治愈力下降"
             },
             "Debuff_Hieronymus": {
                 "En": "Curse",
@@ -3797,8 +3797,8 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "從以下場景獲得",
+                "Cn": "从以下场景获得"
             },
             "item_artifact_box": {
                 "En": "Contains one of the following artifacts:",
