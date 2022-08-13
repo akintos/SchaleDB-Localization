@@ -1814,7 +1814,7 @@
                 "Cn": "愤怒"
             },
             "Special_Misdeed": {
-                "En": "Misdeed",
+                "En": "Evil Deed",
                 "Jp": "「悪行」",
                 "Kr": "악행",
                 "Th": "ความชั่ว",
@@ -1822,7 +1822,7 @@
                 "Cn": "恶行"
             },
             "Special_LittleDevil": {
-                "En": "Little Devil",
+                "En": "Imp",
                 "Jp": "「小悪魔」",
                 "Kr": "소악마",
                 "Th": "ปีศาจน้อย",
@@ -1848,6 +1848,8 @@
             },
             "Special_SuddenDeath": {
                 "En": "Wakamo's Mark",
+                "Jp": "ワカモの刻印",
+                "Kr": "와카모의 각인이",
                 "Tw": "若藻的印記",
                 "Cn": "若藻的印记"
             }
@@ -2271,13 +2273,13 @@
                 "Cn": "愤怒"
             },
             "Special_Misdeed": {
-                "En": "Misdeeds",
+                "En": "Evil Deeds",
                 "Th": "ความชั่วร้าย",
                 "Tw": "惡行",
                 "Cn": "恶行"
             },
             "Special_LittleDevil": {
-                "En": "Little Devils",
+                "En": "Imps",
                 "Th": "ปีศาจน้อย",
                 "Tw": "小惡魔",
                 "Cn": "小恶魔"
@@ -2299,6 +2301,8 @@
             },
             "Special_SuddenDeath": {
                 "En": "Wakamo's Mark",
+                "Jp": "ワカモの刻印",
+                "Kr": "와카모의 각인이",
                 "Tw": "若藻的印記",
                 "Cn": "若藻的印记"
             }

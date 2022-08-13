@@ -4264,7 +4264,7 @@
         },
         {
             "SkillId": 10033500,
-            "NameEn": "Full Bloom Fighting Instinct",
+            "NameEn": "Full Bloom Instinct",
             "DescriptionEn": "Deals <?1> damage as an additional hit to BOSS enemies.",
             "ParametersEn": [
                 [
@@ -4313,7 +4313,7 @@
         },
         {
             "SkillId": 16008500,
-            "NameEn": "Don't Mind If I Do",
+            "NameEn": "Free Ride",
             "DescriptionEn": "Increases <b:ATK> by <?1> for 10s whenever an ally uses their EX skill.",
             "ParametersEn": [
                 [
@@ -4445,7 +4445,7 @@
         },
         {
             "SkillId": 10034200,
-            "NameEn": "Let's Watch The Cherry Blossom!",
+            "NameEn": "Cherry Blossom Viewing",
             "DescriptionEn": "Repositions up to 5 allies in a circular area to the selected location and increases their <b:AttackSpeed> by <?1> for 40s.",
             "ParametersEn": [ ["14.7%", "16.9%", "21.3%", "23.5%", "28%"] ]
         },
@@ -4561,7 +4561,7 @@
         },
         {
             "SkillId": 10036400,
-            "NameEn": "Twist Of Fate",
+            "NameEn": "Twist of Fate",
             "DescriptionEn": "Increases <b:CriticalDamage> by <?1>.",
             "ParametersEn": [
                 [
@@ -4572,7 +4572,7 @@
         },
         {
             "SkillId": 10036500,
-            "NameEn": "Leave The Heavy Lifting To Me!",
+            "NameEn": "Leave the Heavy Lifting to Me!",
             "DescriptionEn": "Deals <?1> damage as an additional hit to <b>medium</b> sized enemies.",
             "ParametersEn": [
                 [
@@ -4583,7 +4583,7 @@
         },
         {
             "SkillId": 10036450,
-            "NameEn": "Twist Of Fate+",
+            "NameEn": "Twist of Fate+",
             "DescriptionEn": "Increases <b:CriticalDamage> by <?1> plus a further <?2>.",
             "ParametersEn": [
                 ["2000", "2100", "2200", "2600", "2700", "2800", "3200", "3300", "3400", "3800"],
@@ -4595,7 +4595,7 @@
         },
         {
             "SkillId": 10037200,
-            "NameEn": "For The Revolution!",
+            "NameEn": "Revolutionary Charge",
             "DescriptionEn": "Deals <?1> damage to enemies in an arc-shaped area and decreases their <d:HealEffectiveness> by <?2> for 30s.",
             "ParametersEn": [
                 [ "335%" , "385%" , "485%" , "536%" , "636%"  ],
@@ -4604,7 +4604,7 @@
         },
         {
             "SkillId": 10037300,
-            "NameEn": "I Will Never Surrender!",
+            "NameEn": "I Won't Back Down!",
             "DescriptionEn": "When Marina's HP falls below 20%, she becomes <s:Immortal> for <?1> once per battle.",
             "ParametersEn": [
                 [
@@ -4649,7 +4649,7 @@
         },
         {
             "SkillId": 10038200,
-            "NameEn": "Flash Drone",
+            "NameEn": "Deploy Flash Drone",
             "DescriptionEn": "Deals <?1> damage to one enemy and inflicts <c:Stunned> for <?2>.",
             "ParametersEn": [
                 [ "340%", "392%", "443%", "494%", "545%" ],
@@ -4677,7 +4677,7 @@
         },
         {
             "SkillId": 10038500,
-            "NameEn": "Disruption Tactics",
+            "NameEn": "Disruption",
             "DescriptionEn": "Decreases <b:DamagedRatio> by <?1> for 16s after Miyako uses her EX skill.",
             "ParametersEn": [
                 [
@@ -4729,7 +4729,7 @@
         },
         {
             "SkillId": 20014500,
-            "NameEn": "Pointman's Leadership",
+            "NameEn": "Point Man's Lead",
             "DescriptionEn": "Increases all allies' <b:ATK> by <?1>.",
             "ParametersEn": [
                 [
@@ -4806,7 +4806,7 @@
         },
         {
             "SkillId": 20015300,
-            "NameEn": "Beetle Shell",
+            "NameEn": "Beetle Shield",
             "DescriptionEn": "Every 40s, increases the <b:DEF> of the ally with the highest DEF by <?1> for 33s.",
             "ParametersEn": [
                 [
@@ -4851,8 +4851,8 @@
         },
         {
             "SkillId": 20016200,
-            "NameEn": "Time To Go, Toramaru",
-            "DescriptionEn": "Deploys Iroha riding Toramaru for 55s, with an additional <?1> of Iroha's <b:ATK>. Every 15s, Toramaru activates the skill \"Main Cannon, Aim, Fire!\", firing a shell that deals <?2> damage to one enemy and splits, dealing the same damage to up to 2 nearby enemies. Only one tactical support vehicle may be deployed at any given time.",
+            "NameEn": "Time to go, Toramaru",
+            "DescriptionEn": "Deploys Iroha riding Toramaru for 55s, with an additional <?1> of Iroha's <b:ATK>. Every 15s, Toramaru activates the skill \"Main Cannon, Aim, Fire!\", firing a shell that deals <?2> damage to one enemy and splits, dealing the same damage to up to 2 nearby enemies (up to 2 times). Only one tactical support vehicle may be deployed at any given time.",
             "ParametersEn": [
                 [ "11.2%", "15.5%", "22.9%", "28.8%", "38.5%" ],
                 [ "279%" , "293%" , "307%" , "363%" , "377%"  ]
@@ -4984,7 +4984,7 @@
         },
         {
             "SkillId": 10040400,
-            "NameEn": "Natural Talent",
+            "NameEn": "Natural Ability",
             "DescriptionEn": "Increases <b:MAXHP> by <?1>.",
             "ParametersEn": [
                 [
@@ -5034,7 +5034,7 @@
         },
         {
             "SkillId": 10041400,
-            "NameEn": "Meaningless Technology",
+            "NameEn": "Meaningless Technique",
             "DescriptionEn": "Increases <b:ATK> by <?1>.",
             "ParametersEn": [
                 [
@@ -5057,7 +5057,7 @@
         },
         {
             "SkillId": 10041450,
-            "NameEn": "Meaningless Technology+",
+            "NameEn": "Meaningless Technique+",
             "DescriptionEn": "Increases <b:ATK> by <?1> plus a further <?2>.",
             "ParametersEn": [
                 ["659", "692", "725", "857", "890", "923", "1055", "1088", "1120", "1252"],
@@ -5088,7 +5088,7 @@
         },
         {
             "SkillId": 20017400,
-            "NameEn": "Magazine Teachings",
+            "NameEn": "Magazine Lore",
             "DescriptionEn": "Increases <b:CriticalDamage> by <?1>.",
             "ParametersEn": [
                 [
@@ -5110,7 +5110,7 @@
         },
         {
             "SkillId": 20017450,
-            "NameEn": "Magazine Teachings+",
+            "NameEn": "Magazine Lore+",
             "DescriptionEn": "Increases <b:CriticalDamage> by <?1> plus a further <?2>.",
             "ParametersEn": [
                 ["2000", "2100", "2200", "2600", "2700", "2800", "3200", "3300", "3400", "3800"],
@@ -5202,7 +5202,7 @@
         },
         {
             "SkillId": 10043400,
-            "NameEn": "Overflowing Love",
+            "NameEn": "Uncontrollable Love",
             "DescriptionEn": "Increases <b:ATK> by <?1>.",
             "ParametersEn": [
                 [
@@ -5224,7 +5224,7 @@
         },
         {
             "SkillId": 10043450,
-            "NameEn": "Overflowing Love+",
+            "NameEn": "Uncontrollable Love+",
             "DescriptionEn": "Increases <b:ATK> by <?1> plus a further <?2>.",
             "ParametersEn": [
                 ["442", "464", "486", "575", "597", "619", "707", "729", "751", "840"],
@@ -5580,7 +5580,7 @@
         },
         {
             "SkillId": 10048300,
-            "NameEn": "Immediate Fire",
+            "NameEn": "Swift Shooting",
             "DescriptionEn": "Every 25s, increases <b:CriticalDamage> by <?1> for 16s and deals <?2> damage to one enemy. This attack always deals critical damage.",
             "ParametersEn": [
                 [
@@ -5592,7 +5592,7 @@
         },
         {
             "SkillId": 10048400,
-            "NameEn": "Harsh Training",
+            "NameEn": "Performance Training",
             "DescriptionEn": "Increases <b:CriticalDamage> by <?1>.",
             "ParametersEn": [
                 [
@@ -5615,7 +5615,7 @@
         },
         {
             "SkillId": 10048450,
-            "NameEn": "Harsh Training+",
+            "NameEn": "Performance Training+",
             "DescriptionEn": "Increases <b:AttackSpeed> by <?1> and <b:CriticalDamage> by <?2>.",
             "ParametersEn": [
                 ["1400", "1470", "1540", "1820", "1890", "1960", "2240", "2310", "2380", "2660"],
