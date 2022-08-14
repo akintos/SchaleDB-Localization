@@ -43,10 +43,11 @@
         {
             "Id": "BinahInsanePassive01",
             "NameEn": "Raging Sandstorm",
+            "NameTh": "พายุทรายเกรี้ยวกราด",
             "DescriptionEn": "Decreases all enemies' <d:HIT> by 20% and <d:Stability> by 50%. This debuff cannot be removed.",
             "DescriptionJp": "全ての敵に対して、<d:HIT>を20%減少、<d:Stability>を50%減少",
             "DescriptionKr": "모든 적에게 <d:HIT> 20% 감소, <d:Stability> 50% 감소",
-            "DescriptionTh": null,
+            "DescriptionTh": "ลด<d:HIT> 20% และ<d:Stability> 50% เอฟเฟคนี้ไม่สามารถถูกลบล้างได้",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -66,7 +67,16 @@
             ],
             "DescriptionJp": "機械兵を召喚\n機械兵が存在する間、ATGの値が徐々に貯まっていく",
             "DescriptionKr": "기계 병사를 소환.\n병사가 소환되어 있는 동안 ATG가 서서히 차오른다.",
-            "DescriptionTh": "เรียกทหารจักรกล\nขณะที่เรียกทหารนี้ออกมา ATG จะเพิ่มขึ้นต่อเนื่อง",
+            "DescriptionTh": "เรียกทหารจักรกล\nขณะที่เรียกทหารนี้ออกมา ATG จะเพิ่มขึ้นต่อเนื่อง <?1>",
+            "ParametersTh": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "หากทหารจักรกลถูกทำลายจะเรียกหุ่นดูดฝุ่นออกมา"
+                ]
             "DescriptionTw": "召喚機械士兵。\n在士兵被召喚出的期間內，ATG會慢慢上升。",
             "NameCn": "我听到王座的呼唤",
             "DescriptionCn": "召唤机械士兵。\n在士兵被召唤出的期间内，ATG会慢慢上升。"
@@ -161,7 +171,25 @@
                     "\n일부 폭탄에 피격 시 <d:MoveSpeed> 80% 감소(40초간)"
                 ]
             ],
-            "DescriptionTh": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรู\nATG ยิ่งสูงยิ่งทำความเสียหายรุนแรงขึ้น",
+            "DescriptionTh": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรู\nATG ยิ่งสูงยิ่งทำความเสียหายรุนแรงขึ้น<?2>",
+            "ParametersTh": [
+                [
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "900%"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\nระเบิดน้ำแข็งจะลด<d:MoveSpeed> ของศัตรูในรัศมี 80% (เป็นเวลา 40 วินาที)"
+                ]
+            ],   
             "DescriptionTw": "對敵人造成攻擊力<?1>傷害\nATG越高造成的傷害越猛烈。",
             "NameCn": "哐哐哐哐哐哐哐！(白)",
             "DescriptionCn": "对敌人造成攻击力<?1>伤害\nATG越高造成的伤害越猛烈。"
@@ -225,7 +253,25 @@
                     "\n<d:MoveSpeed>가 감소된 적은 <b>600000</b>만큼 추가 대미지\n시로 자신이 피격되면 <d:DamagedRatio> 50% 증가(40초간)"
                 ]
             ],
-            "DescriptionTh": "เรียกป้อมปืนที่สร้างความเสียหาย <?1> ของค่าโจมตี\nสร้างความเสียหาย 300% ของค่าโจมตีกับวัตถุกำบัง ถ้าวัตถุกำบังไม่ถูกทำลายจะกระเด็นไปในทิศทางตรงข้าม",
+            "DescriptionTh": "เรียกลูกบอลที่สร้างความเสียหาย <?1> ของค่าโจมตี\nสร้างความเสียหาย 300% ของค่าโจมตีกับวัตถุกำบัง ถ้าวัตถุกำบังไม่ถูกทำลายจะกระเด็นไปในทิศทางตรงข้าม<?2>",
+            "ParametersTh": [
+                [
+                    "600%",
+                    "600%",
+                    "600%",
+                    "600%",
+                    "600%",
+                    "1500%"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\nหากเป้าหมายที่ถูกลด<d:MoveSpeed>ได้รับความเสียหายจากสกิลนี้ สร้างความเสียหายเพิ่มเติม <b>600,000</b>\nหากชิโระได้ความเสียหายจากสกิลนี้ เพิ่ม<d:DamagedRatio> 50% (เป็นเวลา 40 วินาที)"
+                ]
+            ],    
             "DescriptionTw": "召喚可造成攻擊力<?1>傷害的炸彈。\n對掩蔽物造成攻擊力300%傷害後，如果掩蔽物沒被破壞會往反方向濺出。",
             "NameCn": "滚动吧！！(白)",
             "DescriptionCn": "召唤可造成攻击力<?1>伤害的炸弹。\n对掩蔽物造成攻击力300%伤害后，如果掩蔽物没被破坏会往反方向溅出。"
@@ -289,7 +335,25 @@
                     "\n<d:MoveSpeed>가 감소된 적은 <b>600000</b>만큼 추가 대미지\n쿠로 자신이 피격되면 <d:DamagedRatio> 50% 증가(40초간)"
                 ]
             ],
-            "DescriptionTh": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรู\nATG ยิ่งสูงยิ่งทำความเสียหายรุนแรงขึ้น",
+            "DescriptionTh": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรู\nATG ยิ่งสูงยิ่งทำความเสียหายรุนแรงขึ้น<?2>",
+            "ParametersTh": [
+                [
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "500%"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\nหากเป้าหมายที่ถูกลด<d:MoveSpeed>ได้รับความเสียหายจากสกิลนี้ สร้างความเสียหายเพิ่มเติม <b>600,000</b>\nหากคุโระได้ความเสียหายจากสกิลนี้ เพิ่ม<d:DamagedRatio> 50% (เป็นเวลา 40 วินาที)"
+                ]
+            ],    
             "DescriptionTw": "對敵人造成攻擊力<?1>傷害\nATG越高造成的傷害越猛烈。",
             "NameCn": "突击-！！！(黑)",
             "DescriptionCn": "对敌人造成攻击力<?1>伤害\nATG越高造成的伤害越猛烈。"
@@ -297,10 +361,11 @@
         {
             "Id": "KuroInasneEx10",
             "NameEn": "Apathy Syndrome (Kuro)",
+            "NameTh": "เฉื่อยชาไร้ความรู้สึก (คุโระ)",
             "DescriptionEn": "Deals 100% damage to enemies and decreases their <d:MoveSpeed> by 80% for 40s.",
             "DescriptionJp": "敵に対して、攻撃力の100%分のダメージ\nさらにその敵の<d:MoveSpeed>を80%減少（40秒間）",
             "DescriptionKr": "적에게 공격력 100% 대미지\n<d:MoveSpeed> 80%감소(40초간)",
-            "DescriptionTh": null,
+            "DescriptionTh": "สร้างความเสียหาย 100% ของค่าโจมตีให้กับศัตรู\nลด<d:MoveSpeed> 80% (เป็นเวลา 40 วินาที)",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -308,10 +373,11 @@
         {
             "Id": "ShiroKuroPassive01",
             "NameEn": "Horror of Slumpia",
+            "NameTh": "ความน่าสะพรึงกลัวของสลัมเพีย",
             "DescriptionEn": "Decreases all enemies' <d:HealEffectiveness> by 80%. This debuff cannot be removed.",
             "DescriptionJp": "全ての敵の<d:HealEffectiveness>を80%減少",
             "DescriptionKr": "모든 적 <d:HealEffectiveness> 80% 감소",
-            "DescriptionTh": null,
+            "DescriptionTh": "ลด<d:HealEffectiveness>ของฝ่ายศัตรู 80% เอฟเฟคนี้ไม่สามารถถูกลบล้างได้",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -361,7 +427,17 @@
                     "\n추가로 <d:Hieronymus> 대상의 <b:HealEffectiveness>이 3000 만큼 증가한다. (10초간)"
                 ]
             ],
-            "DescriptionTh": "สาปศัตรู 1 เป้าหมาย\n<d:Hieronymus>สร้างความเสียหายต่อเนื่อง 20% ของค่าโจมตีและระเบิดใน 10 วินาทีต่อมา \nสร้างความเสียหาย 325% ของค่าโจมตีให้กับศัตรูในรัศมีและหายไป\nถ้าเป้าหมายที่ถูกสาปมี HP เต็ม 100% <d:Hieronymus>จะหายไปทันที",
+            "DescriptionTh": "สาปศัตรู 1 เป้าหมาย\n<d:Hieronymus>สร้างความเสียหายต่อเนื่อง 20% ของค่าโจมตีและระเบิดใน 10 วินาทีต่อมา \nสร้างความเสียหาย 325% ของค่าโจมตีให้กับศัตรูในรัศมีและหายไป\nถ้าเป้าหมายที่ถูกสาปมี HP เต็ม 100% <d:Hieronymus>จะหายไปทันที<?2>",
+            "ParametersTh": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\nเพิ่ม<b:HealEffectiveness> <b>3,000</b> ให้กับศัตรูที่ถูกสาป (เป็นเวลา 10 วินาที)"
+                ]
+            ],   
             "DescriptionTw": "賦予1名敵人<d:Hieronymus>，\n<d:Hieronymus>會造成攻擊力20%的持續傷害，10秒後爆炸， \n對圓形範圍內的敵人造成攻擊力325%的傷害後消失不見。\n受<d:Hieronymus>對象的體力為100%時，<d:Hieronymus>會立即消失。",
             "NameCn": "圣经武加大译本",
             "DescriptionCn": "赋予1名敌人<d:Hieronymus>，\n<d:Hieronymus>会造成攻击力20%的持续伤害，10秒后爆炸， \n对圆形范围内的敌人造成攻击力325%的伤害后消失不见。\n受<d:Hieronymus>对象的体力为100%时，<d:Hieronymus>会立即消失。"
@@ -435,7 +511,25 @@
                     "\nATG가 가득 찰 경우 모든 적 대상에게 <s:Immortal> (10초간)\n추가로 최대 체력 1000% 만큼의 대미지를 주며\n<b:HealEffectiveness>을 2000 만큼 증가한다. (10초간)"
                 ]
             ],
-            "DescriptionTh": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูทั้งหมดทุก 10 วินาที\nหาก ATG เต็มจะสร้างความเสียหาย 1000% ของค่า HP สูงสุดให้กับศัตรูทั้งหมด",
+            "DescriptionTh": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูทั้งหมดทุก 10 วินาที<?2>",
+            "ParametersTh": [
+                [
+                    "40%",
+                    "40%",
+                    "40%",
+                    "40%",
+                    "40%",
+                    "30%"
+                ],
+                [
+                    "\nหาก ATG เต็มจะสร้างความเสียหาย 1000% ของค่า HP สูงสุดให้กับศัตรูทั้งหมด",
+                    "\nหาก ATG เต็มจะสร้างความเสียหาย 1000% ของค่า HP สูงสุดให้กับศัตรูทั้งหมด",
+                    "\nหาก ATG เต็มจะสร้างความเสียหาย 1000% ของค่า HP สูงสุดให้กับศัตรูทั้งหมด",
+                    "\nหาก ATG เต็มจะสร้างความเสียหาย 1000% ของค่า HP สูงสุดให้กับศัตรูทั้งหมด",
+                    "\nหาก ATG เต็มจะสร้างความเสียหาย 1000% ของค่า HP สูงสุดให้กับศัตรูทั้งหมด",
+                    "\nหาก ATG เต็มจะทำให้ศัตรูทั้งหมด<s:Immortal> (เป็นเวลา 10 วินาที)\nสร้างความเสียหาย 1000% ของค่า HP สูงสุดให้กับศัตรูทั้งหมด\nเพิ่ม<b:HealEffectiveness>ให้กับศัตรู <b>2,000</b> (เป็นเวลา 10 วินาที)"
+                ]
+            ],    
             "DescriptionTw": "每10秒對所有敵人造成攻擊力<?1>的傷害\nATG充滿時，對所有敵人造成最大體力1000%的傷害。",
             "NameCn": "沙漠的苦行",
             "DescriptionCn": "每10秒对所有敌人造成攻击力<?1>的伤害\nATG充满时，对所有敌人造成最大体力1000%的伤害。"
@@ -513,10 +607,11 @@
         {
             "Id": "HieronymusInsanePassive02",
             "NameEn": "Unholy Light (Relic)",
+            "NameTh": "แสงชั่วร้าย (เรลิก)",
             "DescriptionEn": "When the purple relic's HP reaches 0%, increases the <b:ATK> of all students by <b>25%</b> but decreases their <d:HealEffectiveness> by <b>7,000</b> and decreases Hieronymus's <d:DEF> by <b>1,500</b>.\nDuring this effect, students under the effect of <d:Hieronymus> have their <b:HealEffectiveness> increased by a further <b>4,000</b> for 10s.\nThe purple relic cannot be targeted by normal attacks or basic skills.",
             "DescriptionJp": "聖遺物のHPが0%になるとスキル発動。\n紫色の聖遺物の場合、全てのストライカー、スペシャル生徒の<b:ATK>を25%増加し\n<d:HealEffectiveness>を7000減少。\nさらにヒエロニムスの<d:DEF>を1500減少。\n発動後、<d:Hieronymus>になった生徒の<b:HealEffectiveness>を4000増加（10秒間）\n（紫色の聖遺物は通常攻撃、ノーマルスキルのターゲットになりません）",
             "DescriptionKr": "성유물 체력이 0% 가 되면 스킬 발동\n자색 성유물: 모든 스트라이커, 스페셜 학생의 <b:ATK>이 25% 증가하고\n<d:HealEffectiveness>이 7000 만큼 감소한다.\n추가로 예로니무스의 <d:DEF>이 1500 만큼 감소한다.\n이후 <d:Hieronymus>를 받는 아군의 <b:HealEffectiveness>이 4000 만큼 증가한다. (10초간)\n(자색 성유물은 일반 공격, 기본 스킬의 타겟이 되지 않습니다.)",
-            "DescriptionTh": null,
+            "DescriptionTh": "เมื่อ HP ของเรลิกม่วงเหลือ 0% เพิ่ม<b:ATK> ของฝ่ายเรา <b>25%</b>\nลด<d:HealEffectiveness> 7000\nลด<d:DEF>ของไฮโรนีมัสลง 1500\nเป้าหมายที่มี<d:Hieronymus> จะได้รับ<b:HealEffectiveness> เพิ่ม 4000 (เป็นเวลา 10 วินาที)\nเรลิกม่วงจะไม่ถูกเล็งโดยการโจมตีปกติและสกิลพื้นฐาน",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -564,10 +659,11 @@
         {
             "Id": "KaitenFxMk0InsaneExSkill05",
             "NameEn": "Infinite Cycle - Mega Egg Overcharge",
+            "NameTh": "แข้งไข่หวานโอเวอร์ชารจ์ไม่ยั้ง",
             "DescriptionEn": "<b>Feet (yellow)</b>: Increases <b:ATK> by <b>4,000</b> for 30s.",
             "DescriptionJp": "足（イエロー）：<b:ATK>を4000増加（30秒間）",
             "DescriptionKr": "다리(옐로): 자신 <b:ATK> 4000 증가 (30초간)",
-            "DescriptionTh": null,
+            "DescriptionTh": "ขา (เยลโล่ว): เพิ่ม<b:ATK> <b>4,000</b> (เป็นเวลา 30 วินาที)",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -631,7 +727,25 @@
                     "3500000"
                 ]
             ],
-            "DescriptionTh": "เปิดใช้งานแขนขวา (พิงค์), หน้าอก (เรด) และแขนซ้าย (กรีน) แต่ละส่วนทุก 20 วินาที ตามลำดับ\nแขนขวา (พิงค์): เพิ่มค่าโจมตี 50%\nหน้าอก (เรด): เมื่อใช้สกิล EX โจมตีจะทำให้เป้าหมายหมดสติ (เป็นเวลา 5 วินาที)\nแขนซ้าย (กรีน): เพิ่มค่าป้องกัน 1000\nถ้าส่วนที่เปิดใช้งานได้รับความเสียหายเกินกว่าที่กำหนด ส่วนนั้นจะถูกทำลาย และไม่สามารถใช้งานได้อีก\nสกิลของส่วนที่ถูกทำลายจะใช้งานไม่ได้",
+            "DescriptionTh": "เปิดใช้งานแขนขวา (พิงค์), หน้าอก (เรด) และแขนซ้าย (กรีน) แต่ละส่วนทุก 20 วินาที ตามลำดับ\nแขนขวา (พิงค์): เพิ่ม<b:ATK> 50%\nหน้าอก (เรด): เมื่อใช้สกิล EX โจมตีจะทำให้เป้าหมาย<c:Stunned> (เป็นเวลา 5 วินาที)\nแขนซ้าย (กรีน): เพิ่ม<b:DEF> 1000<?1>\nถ้าส่วนที่เปิดใช้งานได้รับความเสียหายเกินกว่า <?2> ส่วนนั้นจะถูกทำลาย และไม่สามารถใช้งานได้อีก\nสกิลของส่วนที่ถูกทำลายจะใช้งานไม่ได้",
+            "ParametersTh": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    " และเมื่อใช้สกิลEX โจมตีจะลด<d:HealEffectiveness>ของเป้าหมายลง 80% (เป็นเวลา 30 วินาที)"
+                ],
+                [
+                    "70,000",
+                    "157,500",
+                    "350,000",
+                    "595,000",
+                    "2,500,000",
+                    "3,500,000"
+                ]
+            ],    
             "DescriptionTw": "每20秒依序啟動右手臂(粉紅色)、胸部(紅色)、左手臂(綠色)。\n右手臂(粉紅色)：攻擊力增加50%\n胸部(紅色)：用Ex技能攻擊時，使對象昏厥(5秒內)\n左手臂(綠色)：防禦力增加1000\n啟動部位時，如受到一定以上的傷害，該部位將會被破壞，且無法再次啟動。\n無法使用被破壞部位的技能。",
             "NameCn": "无限燃烧的热烈之心",
             "DescriptionCn": "每20秒依序启动右手臂(粉红色)、胸部(红色)、左手臂(绿色)。\n右手臂(粉红色)：攻击力增加50%\n胸部(红色)：用Ex技能攻击时，使对象昏厥(5秒内)\n左手臂(绿色)：防御力增加1000\n启动部位时，如受到一定以上的伤害，该部位将会被破坏，且无法再次启动。\n无法使用被破坏部位的技能。"
@@ -645,7 +759,7 @@
             "NameKr": "카이텐 포즈!",
             "DescriptionKr": null,
             "NameTh": "ไคเทนโพสต์!",
-            "DescriptionTh": null,
+            "DescriptionTh": "ไคเทนเจอร์แต่ละคนจะผลัดกันใช้สกิล EX ของตัวเองเป็นระยะ\n<b>เรดสายบ้าบิ่น</b>: <c:Provoke>ศัตรูในรัศมี (เป็นเวลา 10 วินาที)\n<b>แบล็คสายสุขุม</b>: สร้างความเสียหาย <b>300%</b> ของค่าโจมตีให้กับศัตรู 1 เป้าหมายและเพิ่ม<d:DamagedRatio> 50% (เป็นเวลา 5 วินาที)\n<b>กรีนสายชิล</b>: สร้างความเสียหาย <b>350%</b> ของค่าโจมตีให้กับศัตรูในพื้นที่รูปทรงกรวย\n<b>เยลโล่วสายไฟแรง</b>: สร้างความเสียหาย <b>500%</b> ของค่าโจมตีให้กับศัตรู 1 เป้าหมาย\n<b>พิงค์สายจริงใจ</b> : เพิ่ม<b:ATK> ให้กับฝ่ายเราในรัศมี <b>6%</b> (เป็นเวลา 15 วินาที)",
             "NameTw": "迴轉之力！",
             "DescriptionTw": null,
             "NameCn": "回转之力！",
@@ -686,7 +800,17 @@
                     "\n스킬이 종료될 때 방어력 감소가 남아있으면 부채꼴범위에 공격력 250% 대미지"
                 ]
             ],
-            "DescriptionTh": "สร้างความเสียหายต่อเนื่อง 90% ของค่าโจมตีกับศัตรู 1 เป้าหมาย (เป็นเวลา 10 วินาที) /\nลด<d:DEF> 9999 (เป็นเวลา 60 วินาที)",
+            "DescriptionTh": "สร้างความเสียหายต่อเนื่อง 90% ของค่าโจมตีกับศัตรู 1 เป้าหมาย (เป็นเวลา 10 วินาที) /\nลด<d:DEF> 9999 (เป็นเวลา 60 วินาที) <?1>",
+            "ParametersTh": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\nหากเอฟเฟคนี้ไม่ถูกลบล้างจนหมดระยะเวลาของเอฟเฟค สร้างความเสียหาย 250% ของค่าโจมตีให้กับศัตรูในพื้นที่รูปทรงกรวย"
+                ]
+            ],    
             "DescriptionTw": "對1名敵人造成等同90%攻擊力的持續傷害（10秒內）\n<d:DEF>減少9999（60秒內）",
             "NameCn": "白热光线",
             "DescriptionCn": "对1名敌人造成等同90%攻击力的持续伤害（10秒内）\n<d:DEF>减少9999（60秒内）"
@@ -760,7 +884,25 @@
                     "\n반짝이는 빅 페로로 미니언은 넘어지면서 원형 범위의 페로로들에게 피해를 줍니다."
                 ]
             ],
-            "DescriptionTh": "เรียกลูกสมุนบิ๊กเพโรโร่มาสร้างความเสียหาย 100% ของความเสียหายที่ได้รับ /\nลูกสมุนบิ๊กเพโรโร่จะล้มลงถ้ามี HP ต่ำกว่า 50%",
+            "DescriptionTh": "เรียกลูกสมุนบิ๊กเพโรโร่<?1>มาสร้างความเสียหาย 100% ของความเสียหายที่ได้รับ /\nลูกสมุนบิ๊กเพโรโร่จะล้มลงถ้ามี HP ต่ำกว่า 50%<?2>",
+            "ParametersTh": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "ที่มี<b:MAXHP> เพิ่ม 110%",
+                    "และลูกสมุนบิ๊กเพโรโร่เรืองแสงที่มี<b:MAXHP> เพิ่ม 100% (เพิ่มได้สูงสุด 3 ชั้น) "
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\nเมื่อลูกสมุนบิ๊กเพโรโร่เรืองแสงล้มลง สร้างความเสียหาย 200,000 ให้กับลูกสมุนบิ๊กเพโรโร่ตัวอื่นในรัศมี"
+                ]
+            ],    
             "DescriptionTw": "以100%所受傷害召喚傳送給佩洛洛吉拉的巨大佩洛洛士兵\n巨大佩洛洛士兵的體力低於50%時將自動倒地。",
             "NameCn": "召唤士兵",
             "DescriptionCn": "以100%所受伤害召唤传送给佩洛洛吉拉的巨大佩洛洛士兵\n巨大佩洛洛士兵的体力低于50%时将自动倒地。"
@@ -788,6 +930,7 @@
         {
             "Id": "HODEx01",
             "NameEn": "Type I Destruction",
+            "NameTh": "การทำลายล้าง รูปแบบ I",
             "DescriptionEn": "Deals 150% damage to enemies in a circular area<?1>.",
             "ParametersEn": [
                 [
@@ -821,7 +964,17 @@
                     "원형 범위가 점점 넓어지며 총 3번 폭발하여"
                 ]
             ],
-            "DescriptionTh": null,
+            "DescriptionTh": "สร้างความเสียหาย 150% ของค่าโจมตีให้กับศัตรูในรัศมี<?1>",
+            "ParametersTh": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    " ขอบเขตรัศมีจะขยายขึ้นเรื่อยๆ สูงสุด 3 ขั้น"
+                ]
+            ],
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -829,10 +982,11 @@
         {
             "Id": "HODEx02",
             "NameEn": "Type II Destruction",
+            "NameTh": "การทำลายล้าง รูปแบบ II",
             "DescriptionEn": "Deals 200% damage to enemies in a straight line.",
             "DescriptionJp": "直線範囲内の敵に対して、攻撃力の200%分のダメージ",
             "DescriptionKr": "직선 범위 내 적에게 공격력 200% 만큼 대미지",
-            "DescriptionTh": null,
+            "DescriptionTh": "สร้างความเสียหาย 200% ของค่าโจมตีให้กับศัตรูในแนวเส้นตรง",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -840,10 +994,11 @@
         {
             "Id": "HODEx03",
             "NameEn": "Generate Invader Pillar",
+            "NameTh": "สร้างเสาอินเวเดอร์",
             "DescriptionEn": "Summons an Invader Pillar, decreasing the <d:CostRegen> of enemies and allies by <b>350</b> in a circular area around it and forcing nearby defense turrets to attack enemies instead of Hod. The pillar's area of effect expands every 15s.",
             "DescriptionJp": "インベイドピラーを召喚。インベイドピラーは15秒毎に、侵食範囲を拡大していきます。\n侵食範囲内に入った敵の<d:CostRegen>を350減少。侵食範囲内に入ったフィールドターレットは、ホドではなく敵を攻撃するようになります。",
             "DescriptionKr": "침식 타워를 소환합니다. 침식 타워는 15초마다 침식 범위를 넓혀갑니다. \n침식 범위 내에 들어온 적은 <d:CostRegen>이 350 감소합니다. 침식 범위 내에 들어온 방어 포탑은 아군을 공격합니다.",
-            "DescriptionTh": null,
+            "DescriptionTh": "เรียกเสาอินเวเดอร์ออกมา โดยรัศมีทำการของเสาจะเพิ่มขึ้นทุก 15 วินาที\nลด<d:CostRegen>ของทุกเป้าหมายที่อยู่ในรัศมี <b>350</b> หากมีป้อมปืนอยู่ในรัศมีจะเปลี่ยนเป้าหมายของป้อมปืนให้โจมตีศัตรูแทนตัวของฮ็อด",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -851,10 +1006,11 @@
         {
             "Id": "HODEx04",
             "NameEn": "Energy Overload",
+            "NameTh": "โอเวอร์โหลดเอเนอร์จี้",
             "DescriptionEn": "Deals 150% damage to all enemies. If Hod's HP is less than 50%, deals 300% damage and destroys all defense turrets.",
             "DescriptionJp": "敵全体に対して、攻撃力の150%分のダメージ\nホドのHPが50%以下の場合は、敵全体に対して攻撃力の300%分のダメージ、さらにフィールドターレットを全て破壊します。",
             "DescriptionKr": "적 전체에게 공격력 150% 만큼 대미지\n호드의 체력이 50% 이하일 경우 적 전체에게 공격력 300% 만큼 대미지,방어 포탑 모두 파괴",
-            "DescriptionTh": null,
+            "DescriptionTh": "สร้างความเสียหาย 150% ของค่าโจมตีให้กับศัตรู\nสร้างความเสียหาย 300% ของค่าโจมตีให้กับศัตรูและทำลายป้อมปืนทั้งหมดหาก HP ของฮ็อดต่ำกว่า 50%",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -862,10 +1018,11 @@
         {
             "Id": "HODEx05",
             "NameEn": "Brilliant Glory",
+            "NameTh": "เกียรติยศอันรุ่งโรจน์",
             "DescriptionEn": "Deals 740% damage to all enemies and increases Hod's <b:ATK> by 50% until the end of battle. Effect stacks up to 99 times.",
             "DescriptionJp": "敵全体に対して、攻撃力の740%分のダメージ\nExスキル「栄光の輝き」を使用する毎に、ホドの<b:ATK>を50%増加（最大で99回分まで効果が重複）",
             "DescriptionKr": "적 전체에게 공격력 740% 대미지\n영광의 빛 스킬 사용 시 마다 호드의 <b:ATK> 50% 증가 (최대 99회 까지 중첩)",
-            "DescriptionTh": null,
+            "DescriptionTh": "สร้างความเสียหาย 740% ของค่าโจมตีให้กับศัตรู\nเพิ่ม<b:ATK> 50% จนกว่าการต่อสู้จะจบลง (ทับซ้อนได้สูงสุด 99 ชั้น)",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -873,6 +1030,7 @@
         {
             "Id": "HODPassive01",
             "NameEn": "Hidden Glory",
+            "NameTh": "เบื้องหลังแห่งเกียรติยศ",
             "DescriptionEn": "Hod and all summoned Invader Pillars are immune to the effects of crowd-control. However, crowd-control abilities will fill their circular <b>stun gauge</b> proportional to the duration of the effect that would be inflicted.<?2>\nOnce the stun gauge reaches a total equivalent to <?1> of crowd-control duration, inflicts the following effects:\n<b>Hod</b>: Increases <d:DamagedRatio> by 300% for 30s and decrease Hod's ATG gauge.\n<b>Invader Pillar</b>: Increases <d:DamagedRatio> by 300% for 30s and reduce the pillar's area of effect by 1 stage.",
             "ParametersEn": [
                 [
@@ -931,7 +1089,25 @@
                 ]
             ],
             
-            "DescriptionTh": null,
+            "DescriptionTh": "ฮ็อดและเสาอินเวเดอร์จะไม่ได้รับผลของเอฟเฟคกดขี่ แต่ระยะเวลาของเอฟเฟคกดขี่ที่ได้รับจะถูกนำไปเพิ่มเกจพิเศษแทน<?2>\nเมื่อเกจพิเศษมีระยะเวลาของเอฟเฟคกดขี่ครบ <?1> จะส่งผลต่อไปนี้\nฮ็อด : เพิ่ม<d:DamagedRatio> 300%, เพิ่มเกจมึนงงและลด ATG ของฮ็อดลง\nเสาอินเวเดอร์ : เพิ่ม<d:DamagedRatio> 300% และลดรัศมีที่ส่งผลลง 1 ขั้น",
+            "ParametersTh": [
+                [
+                    "6 วินาที",
+                    "7 วินาที",
+                    "8 วินาที",
+                    "9 วินาที",
+                    "10 วินาที",
+                    "15 วินาที"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    " ยิ่งเรามีประสิทธิภาพกดขี่สูงเท่าไหร่, เอฟเฟคกดขี่ที่ใช้ก็จะยิ่งเพิ่มเกจพิเศษเยอะขึ้นไปด้วย"
+                ]
+            ],
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -939,10 +1115,11 @@
         {
             "Id": "HODPassive02",
             "NameEn": "In The Shadow of Honor",
+            "NameTh": "ใต้เงาแห่งเกียรติยศ",
             "DescriptionEn": "Hod and all summoned Invader Pillars have 400% increased Crit RES.\nInvader Pillars are also immune to the effects of <d:ConcentratedTarget>.",
             "DescriptionJp": "ホドとインベイドピラーの会心抵抗値を400%増加。\nインベイドピラーは<d:ConcentratedTarget>を無効化します。",
             "DescriptionKr": "호드, 침식타워의 치명 저항력이 400% 증가합니다.\n침식타워는 <d:ConcentratedTarget> 효과에 면역입니다.",
-            "DescriptionTh": null,
+            "DescriptionTh": "ฮ็อดและเสาอินเวเดอร์จะมีค่าต้านทานคริเพิ่ม 400%\nเสาอินเวเดอร์จะไม่ได้รับผลจากการถูกเอฟเฟค<d:ConcentratedTarget>หมายหัว",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
