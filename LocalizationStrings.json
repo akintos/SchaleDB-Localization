@@ -2072,6 +2072,7 @@
             },
             "Debuff_ConcentratedTarget": {
                 "En": "Focused Assault",
+                "Th": "หมายหัว",
                 "Tw": "集中攻擊",
                 "Cn": "集中攻击"
             },
@@ -2618,7 +2619,7 @@
             },
             "Special_Accumulation": {
                 "En": "All damage dealt to this target for the duration of the effect will be accumulated and dealt again as an additional hit once this expires.",
-                "Th": "ทุกความเสียหายที่ทำใส่เป้าหมายในระยะเวลาของเอฟเฟคนี้จะถูกนับรวมและเปลี่ยนเป็นความเสียหายเพิ่มเติมใส่เป้าหมายอีกครั้งเมื่อระยะเวลาของเอฟเฟคนี้จบลง"
+                "Th": "ทุกความเสียหายที่ทำใส่เป้าหมายในระยะเวลาของเอฟเฟคนี้จะถูกนับรวมและเปลี่ยนเป็นความเสียหายลึกลับเพิ่มเติมใส่เป้าหมายอีกครั้งเมื่อระยะเวลาของเอฟเฟคนี้จบลง"
             },
             "Special_CostRegenBan": {
                 "En": "Cost Recovery is reduced to 0.",
@@ -3800,7 +3801,7 @@
                 "En": "Obtained from the following stages",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ได้รับจากด่านดังต่อไปนี้",
                 "Tw": "從以下場景獲得",
                 "Cn": "从以下场景获得"
             },
