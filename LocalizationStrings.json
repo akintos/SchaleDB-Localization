@@ -805,6 +805,14 @@
                 "CodeKey": 296834738,
                 "Cn": "手表",
                 "Th": "นาฬิกา"
+            },
+            "Artifact": {
+                "En": "Artifact",
+                "Jp": "オーパーツ",
+                "Kr": "오파츠를",
+                "Tw": "歐帕茲",
+                "Cn": "歐帕茲",
+                "Th": "วัตถุหลงยุค"
             }
         },
         "EnemyTags": {
@@ -2639,8 +2647,8 @@
         "ui": {
             "navbar_home": {
                 "En": "Home",
-                "Jp": "トップ",
-                "Kr": null,
+                "Jp": "ホーム",
+                "Kr": "홈페이지",
                 "Th": "หน้าหลัก",
                 "Tw": "首頁",
                 "Cn": "首页"
@@ -2764,6 +2772,14 @@
                 "Th": null,
                 "Tw": "導入或導出你的學生集數據。",
                 "Cn": "导入或导出你的学生集数据。"
+            },
+            "search": {
+                "En": "Search",
+                "Jp": "検索",
+                "Kr": "검색",
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             },
             "collection_export_collection": {
                 "En": "Export Collection",
@@ -3236,14 +3252,6 @@
                 "Th": "รายชื่อนักเรียน",
                 "Tw": "學生清單",
                 "Cn": "学生名单"
-            },
-            "student_search_textbox_placeholder": {
-                "En": "Filter by name",
-                "Jp": "名前フィルター",
-                "Kr": "필터",
-                "Th": "ประเภท",
-                "Tw": "過濾器",
-                "Cn": "过滤器"
             },
             "student_search_filters": {
                 "En": "Filters",
@@ -3804,6 +3812,14 @@
                 "Th": "ได้รับจากด่านดังต่อไปนี้",
                 "Tw": "從以下場景獲得",
                 "Cn": "从以下场景获得"
+            },
+            "item_randombox_tier": {
+                "En": "Random {0} {1}",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             },
             "item_artifact_box": {
                 "En": "Contains one of the following artifacts:",
