@@ -2778,8 +2778,8 @@
                 "Jp": "検索",
                 "Kr": "검색",
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "檢索",
+                "Cn": "搜索"
             },
             "collection_export_collection": {
                 "En": "Export Collection",
@@ -3818,8 +3818,8 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "隨機 {0} {1}",
+                "Cn": "随机 {0} {1}"
             },
             "item_artifact_box": {
                 "En": "Contains one of the following artifacts:",
@@ -4010,16 +4010,16 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "พื้นสวิทช์ลดระดับ",
-                "Tw": null,
-                "Cn": null
+                "Tw": "降低的切換方格",
+                "Cn": "降低的切换方格"
             },
             "maptile_switch_up": {
                 "En": "Raised Switch Tile",
                 "Jp": null,
                 "Kr": null,
                 "Th": "พื้นสวิทช์ยกระดับ",
-                "Tw": null,
-                "Cn": null
+                "Tw": "升高的切換方格",
+                "Cn": "升高的切换方格"
             },
             "maptile_switch_target_down": {
                 "En": "Lowered Tile",
