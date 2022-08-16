@@ -770,7 +770,7 @@
         {
             "SkillId": 13001200,
             "NameEn": "You Might Get a Boo-Boo!",
-            "DescriptionEn": "Creates a circular zone that continuously deals <?1> damage every 1s to enemies in a circular area at the selected location for 10s.",
+            "DescriptionEn": "Creates a circular zone that continuously deals <?1> damage to enemies inside it every 1s for 10s.",
             "ParametersEn": [ ["56%", "64.5%", "81.2%", "89.6%", "106%"] ]
         },
         {
@@ -1618,7 +1618,7 @@
         {
             "SkillId": 20002200,
             "NameEn": "Voila, My Masterpiece!",
-            "DescriptionEn": "Creates a circular zone that continuously deals <?1> damage every 1s to enemies in a circular area at the selected location for 8s.",
+            "DescriptionEn": "Creates a circular zone that continuously deals <?1> damage to enemies inside it every 1s for 8s.",
             "ParametersEn": [ ["126%", "145%", "182%", "201%", "239%"] ]
         },
         {

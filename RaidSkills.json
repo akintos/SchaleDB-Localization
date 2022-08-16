@@ -690,7 +690,7 @@
                     "3,500,000"
                 ]
             ],
-            "DescriptionJp": "20秒毎に右腕（ピンク）、胸部（レッド）、左腕（グリーン）の順にパーツが活性化。\nパーツが活性化すると、右腕（ピンク）：攻撃力を50%増加\n胸部（レッド）：Exスキルの攻撃時、相手に気絶状態を付与（5秒間）\n左腕（グリーン）：防御力を1000増加<?1>\nパーツが活性化している状態で<?2>のダメージが蓄積されると、そのパーツは破壊されもう活性化できなくなります。\nまた、破壊されたパーツのスキルは、その後発動することができなくなります。",
+            "DescriptionJp": "20秒毎に右腕（ピンク）、胸部（レッド）、左腕（グリーン）の順にパーツが活性化。\nパーツが活性化すると、右腕（ピンク）：<b:ATK>を50%増加\n胸部（レッド）：Exスキルの攻撃時、相手に<c:Stunned>を付与（5秒間）\n左腕（グリーン）：<b:DEF>を1000増加<?1>\nパーツが活性化している状態で<?2>のダメージが蓄積されると、そのパーツは破壊されもう活性化できなくなります。\nまた、破壊されたパーツのスキルは、その後発動することができなくなります。",
             "ParametersJp": [
                 [
                     "",
@@ -709,7 +709,7 @@
                     "3500000"
                 ]
             ],
-            "DescriptionKr": "20초마다 오른팔(핑크), 가슴(레드), 왼팔(그린) 순서로 부위가 활성화된다.\n오른팔(핑크): 공격력 50% 증가\n가슴(레드): Ex 스킬 공격 시 대상 기절 (5초간)\n왼팔(그린): 방어력 1000 증가<?1>\n부위 활성화 시 일정 대미지 이상을 입힐 경우 해당 부위는 파괴되고 더 이상 활성화되지 않는다.\n파괴된 부위의 스킬은 사용하지 않는다.",
+            "DescriptionKr": "20초마다 오른팔(핑크), 가슴(레드), 왼팔(그린) 순서로 부위가 활성화된다.\n오른팔(핑크): <b:ATK> 50% 증가\n가슴(레드): Ex 스킬 공격 시 대상 <c:Stunned> (5초간)\n왼팔(그린): <b:DEF> 1000 증가<?1>\n부위 활성화 시 일정 대미지 이상을 입힐 경우 해당 부위는 파괴되고 더 이상 활성화되지 않는다.\n파괴된 부위의 스킬은 사용하지 않는다.",
             "ParametersKr": [
                 [
                     "",
@@ -754,9 +754,9 @@
         {
             "Id": "KaitengerExSkill01",
             "NameEn": "Kaiten Pose!",
-            "DescriptionEn": "Each Kaitenger will periodically activate their personal EX Skill:\n<b>Red of Zealousness!</b>: Inflicts <c:Provoke> on all nearby enemies and prevents them from activating EX skills for 10s.\n<b>Black of Shrewdness!</b>: Deals <b>300%</b> damage to one enemy and increases their <d:DamagedRatio> by <b>50%</b>.\n<b>Green of Weekend OT</b>: Deals <b>350%</b> damage to enemies in a fan-shaped area.\n<b>Yellow of Passion!</b>: Deals <b>500%</b> damage to one enemy.\n<b>Pink of Pure Heart!</b>: Increases all nearby allies' <b:ATK> by <b>6%</b> for 15s.",
+            "DescriptionEn": "Each Kaitenger will periodically activate their personal EX Skill:\n<b>Red of Zealousness!</b>: Inflicts <c:Provoke> on all nearby enemies for 10s.\n<b>Black of Shrewdness!</b>: Deals <b>300%</b> damage to one enemy and increases their <d:DamagedRatio> by <b>50%</b> for 5s.\n<b>Green of Weekend OT</b>: Deals <b>350%</b> damage to enemies in a fan-shaped area.\n<b>Yellow of Passion!</b>: Deals <b>500%</b> damage to one enemy.\n<b>Pink of Pure Heart!</b>: Increases all nearby allies' <b:ATK> by <b>6%</b> for 15s.",
             "NameJp": "カイテンポーズ！",
-            "DescriptionJp": "Each Kaitenger will periodically activate their personal EX Skill:\n<b>Red of Zealousness!</b>: Inflicts <c:Provoke> on all nearby enemies and prevents them from activating EX skills for 10s.\n<b>Black of Shrewdness!</b>: Deals <b>300%</b> damage to one enemy and increases their <d:DamagedRatio> by <b>50%</b>.\n<b>Green of Weekend OT</b>: Deals <b>350%</b> damage to enemies in a fan-shaped area.\n<b>Yellow of Passion!</b>: Deals <b>500%</b> damage to one enemy.\n<b>Pink of Pure Heart!</b>: Increases all nearby allies' <b:ATK> by <b>6%</b> for 15s.",
+            "DescriptionJp": "Each Kaitenger will periodically activate their personal EX Skill:\n<b>Red of Zealousness!</b>: Inflicts <c:Provoke> on all nearby enemies for 10s.\n<b>Black of Shrewdness!</b>: Deals <b>300%</b> damage to one enemy and increases their <d:DamagedRatio> by <b>50%</b> for 5s.\n<b>Green of Weekend OT</b>: Deals <b>350%</b> damage to enemies in a fan-shaped area.\n<b>Yellow of Passion!</b>: Deals <b>500%</b> damage to one enemy.\n<b>Pink of Pure Heart!</b>: Increases all nearby allies' <b:ATK> by <b>6%</b> for 15s.",
             "NameKr": "카이텐 포즈!",
             "DescriptionKr": null,
             "NameTh": "ไคเทนโพสต์!",
@@ -828,15 +828,15 @@
         },
         {
             "Id": "Perorozilla01Ex03",
-            "DescriptionEn": "Summons Perorominions<?1>. Perorominions are <s:Immortal> and 100% of the damage taken by them will also be taken by Perorodzilla. If a Perorominion's HP drops below 50%, they will be knocked down, permanently inflicted with <c:Stunned> and allies will no longer prioritise attacking them.<?2>",
+            "DescriptionEn": "Summons Perorominions<?1>. Perorominions are <s:Immortal> and 100% of the damage taken by them will also be taken by Perorodzilla. If a Perorominion's HP drops below 50%, they will be knocked down, permanently inflicted with <c:Stunned> and allies will no longer prioritise attacking them. Perorominions are otherwise immune to Crowd Control effects.<?2>",
             "ParametersEn": [
                 [
                     "",
                     "",
                     "",
                     "",
-                    " with 110% increased <b:MAXHP>",
-                    " with up to 3 stacks of 100% increased <b:MAXHP>"
+                    " with 110% increased <b:MAXHP> (Indoor only)",
+                    " with up to 200% increased <b:MAXHP>"
                 ],
                 [
                     "",
@@ -844,7 +844,7 @@
                     "",
                     "",
                     "",
-                    "\nAlso summons glowing Perorominions which when knocked down, deal 200,000 damage to other Perorominions in a circular area around it."
+                    "\nAlso summons glowing Perorominions which, when knocked down, deal 200,000 damage to other Perorominions in a circular area around it."
                 ]
             ],
             "DescriptionJp": "大きなペロロミニオン<?1>を召喚。大きなペロロミニオン<?1>はその被ダメージの100%分がペロロジラにも与えられ、HPが50％以下になると転倒します<?2>",
@@ -910,7 +910,7 @@
         },
         {
             "Id": "Perorozilla01Ex04",
-            "DescriptionEn": "Absorbs all Perorominions. For every Perorominion that was knocked down, increases Perorodzilla's groggy gauge by a significant amount. When Perorodzilla's groggy gauge is full, summons 5 broken Perorominions with reduced defense, these Perorominions are <s:Immortal> and 100% of the damage taken by them will also be taken by Perorodzilla.",
+            "DescriptionEn": "Absorbs all Perorominions. For every Perorominion that was knocked down, increases Perorodzilla's groggy gauge by a fixed amount. When Perorodzilla's groggy gauge is full, summons 5 Small Perorominions with reduced defense. Small Perorominions are <s:Immortal> and 100% of the damage taken by them will also be taken by Perorodzilla.",
             "DescriptionJp": "転倒している大きなペロロミニオンの数に比例して、グロッキーゲージが上昇",
             "DescriptionKr": "넘어진 빅 페로로 미니언의 수에 비례하여 그로기 게이지 증가",
             "DescriptionTh": "เกจมึนงงจะเพิ่มขึ้นตามจำนวนลูกสมุนบิ๊กเพโรโร่ที่ล้มลง",

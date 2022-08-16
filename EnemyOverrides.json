@@ -50,10 +50,10 @@
     },
     {
         "Id": 7305190,
-        "NameEn": "Perorominion (Broken)",
+        "NameEn": "Small Perorominion",
         "NameTh": "ลูกสมุนเพโรโร่",
-        "NameJp": "壊れたペロロミニオン",
-        "NameKr": "부서진 페로로 미니언"
+        "NameJp": "小型のペロロミニオン",
+        "NameKr": "소형 페로로 미니언"
     },
     {
         "Id": 7305601,
@@ -64,17 +64,10 @@
     },
     {
         "Id": 7305690,
-        "NameEn": "Perorominion (Broken)",
+        "NameEn": "Small Perorominion",
         "NameTh": "ลูกสมุนเพโรโร่",
-        "NameJp": "壊れたペロロミニオン",
-        "NameKr": "부서진 페로로 미니언"
-    },
-    {
-        "Id": 7305690,
-        "NameEn": "Perorominion (Broken)",
-        "NameTh": "ลูกสมุนเพโรโร่",
-        "NameJp": "壊れたペロロミニオン",
-        "NameKr": "부서진 페로로 미니언"
+        "NameJp": "小型のペロロミニオン",
+        "NameKr": "소형 페로로 미니언"
     },
     {
         "Id": 7306101,
