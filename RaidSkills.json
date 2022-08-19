@@ -65,7 +65,17 @@
                     "and spawn a Sweeper "
                 ]
             ],
-            "DescriptionJp": "機械兵を召喚\n機械兵が存在する間、ATGの値が徐々に貯まっていく",
+            "DescriptionJp": "機械兵を召喚\n機械兵が存在する間、ATGの値が徐々に貯まっていく\n機械兵を倒す毎に、グロッキーゲージが上昇<?1>\n20秒後に、スキル「自爆モード作動」を発動し、<s:FormChange>を攻撃力の3000%分のダメージを与える自己破壊攻撃に変更",
+            "ParametersJp": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "、スイーパーを召喚"
+                ]
+            ],
             "DescriptionKr": "기계 병사를 소환.\n병사가 소환되어 있는 동안 ATG가 서서히 차오른다.",
             "DescriptionTh": "เรียกทหารจักรกล\nขณะที่เรียกทหารนี้ออกมา ATG จะเพิ่มขึ้นต่อเนื่อง <?1>",
             "ParametersTh": [
@@ -756,7 +766,7 @@
             "NameEn": "Kaiten Pose!",
             "DescriptionEn": "Each Kaitenger will periodically activate their personal EX Skill:\n<b>Red of Zealousness!</b>: Inflicts <c:Provoke> on all nearby enemies for 10s.\n<b>Black of Shrewdness!</b>: Deals <b>300%</b> damage to one enemy and increases their <d:DamagedRatio> by <b>50%</b> for 5s.\n<b>Green of Weekend OT</b>: Deals <b>350%</b> damage to enemies in a fan-shaped area.\n<b>Yellow of Passion!</b>: Deals <b>500%</b> damage to one enemy.\n<b>Pink of Pure Heart!</b>: Increases all nearby allies' <b:ATK> by <b>6%</b> for 15s.",
             "NameJp": "カイテンポーズ！",
-            "DescriptionJp": "Each Kaitenger will periodically activate their personal EX Skill:\n<b>Red of Zealousness!</b>: Inflicts <c:Provoke> on all nearby enemies for 10s.\n<b>Black of Shrewdness!</b>: Deals <b>300%</b> damage to one enemy and increases their <d:DamagedRatio> by <b>50%</b> for 5s.\n<b>Green of Weekend OT</b>: Deals <b>350%</b> damage to enemies in a fan-shaped area.\n<b>Yellow of Passion!</b>: Deals <b>500%</b> damage to one enemy.\n<b>Pink of Pure Heart!</b>: Increases all nearby allies' <b:ATK> by <b>6%</b> for 15s.",
+            "DescriptionJp": "カイテンジャーは定期的にEXスキルを発動する\n<b>熱血のレッド！</b>：円形範囲内の敵に<c:Provoke>を付与（10秒間）\n<b>冷徹なブラック！</b>：敵1人に対して攻撃力の300%分のダメージ/\n<d:DamagedRatio>を50%増加（5秒間）\n<b>休出のグリーン……</b>：扇形範囲内の敵に対して、攻撃力の350%分のダメージ\n<b>気合のイエロー！</b>：敵1人に対して、攻撃力の500%分のダメージ\n<b>純情のピンク！</b>：円形範囲内の味方の<b:ATK>を6%増加（15秒間）",
             "NameKr": "카이텐 포즈!",
             "DescriptionKr": null,
             "NameTh": "ไคเทนโพสต์!",
