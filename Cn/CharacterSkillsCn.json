@@ -8355,7 +8355,7 @@
         {
             "SkillId": 10028350,
             "NameCn": "楽しくやろう！+",
-            "DescriptionCn": "每35秒<b:ATK>提高<?1>并生成<?2>单位技能费用 (23秒内)",
+            "DescriptionCn": "每35秒<b:ATK>提高<?1>并产生<?2>单位技能费用 (23秒内)",
             "ParametersCn": [
                 [
                     "25.1%",

@@ -986,9 +986,9 @@
                     " ขอบเขตรัศมีจะขยายขึ้นเรื่อยๆ สูงสุด 3 ขั้น"
                 ]
             ],
-            "DescriptionTw": null,
+            "DescriptionTw": "對圓形範圍內敵人造成150%的傷害",
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": "对圆形范围内敌人造成150%的伤害"
         },
         {
             "Id": "HODEx02",
@@ -998,9 +998,9 @@
             "DescriptionJp": "直線範囲内の敵に対して、攻撃力の200%分のダメージ",
             "DescriptionKr": "직선 범위 내 적에게 공격력 200% 만큼 대미지",
             "DescriptionTh": "สร้างความเสียหาย 200% ของค่าโจมตีให้กับศัตรูในแนวเส้นตรง",
-            "DescriptionTw": null,
+            "DescriptionTw": "對直線範圍內的敵人造成200%傷害",
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": "对直线范围内的敌人造成200%伤害"
         },
         {
             "Id": "HODEx03",
@@ -1153,9 +1153,9 @@
             "DescriptionJp": "ATGの値がMAXの場合、スキルを使用\n直線範囲内の敵に対して、攻撃力の750%分のダメージ",
             "DescriptionKr": "ATG가 가득 찰 경우 스킬 사용\n직선 범위 내 적에게 공격력 750% 대미지",
             "DescriptionTh": null,
-            "DescriptionTw": null,
+            "DescriptionTw": "對直線範圍內的敵人造成750%傷害",
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": "对直线范围内的敌人造成750%伤害"
         },
         {
             "Id": "WakamoSwimsuit01Ex03",
@@ -1197,9 +1197,9 @@
             "DescriptionJp": "最大で敵8人に対して、順番にそれぞれ攻撃力の70%分のダメージ",
             "DescriptionKr": "적 최대 8인에게 번갈아가며 사격하여 각각 공격력 70% 대미지",
             "DescriptionTh": null,
-            "DescriptionTw": null,
+            "DescriptionTw": "對至多8名敵人造成70%傷害",
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": "对至多8名敌人造成70%伤害"
         },
         {
             "Id": "WakamoHoverCraftEx02",
@@ -1208,9 +1208,9 @@
             "DescriptionJp": "最大で敵2人に対して、順番にそれぞれ攻撃力の250%分のダメージ",
             "DescriptionKr": "적 최대 2인에게 번갈아가며 사격하여 각각 공격력 250% 대미지",
             "DescriptionTh": null,
-            "DescriptionTw": null,
+            "DescriptionTw": "對至多2名敵人造成250%傷害",
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": "对至多2名敌人造成250%伤害"
         },
         {
             "Id": "WakamoHoverCraftEx03",
@@ -1230,9 +1230,9 @@
             "DescriptionJp": "円形範囲内の敵に対して、攻撃力の450%分のダメージ\nこのミサイルを破壊すると、敵のストライカー、スペシャル生徒全体に対して<b:ATK>が400増加",
             "DescriptionKr": "원형 범위의 적에게 공격력 450% 대미지\n미사일을 파괴하면 스트라이커, 스페셜 학생 전체에게 <b:ATK> 400 만큼 증가",
             "DescriptionTh": null,
-            "DescriptionTw": null,
+            "DescriptionTw": "對圓形範圍內敵人造成450%的傷害。如果飛彈被摧毀，提升全體學生<b>400</b> <b:ATK>",
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": "对圆形范围内敌人造成450%的伤害。如导弹被摧毁，提升全体学生<b>400</b> <b:ATK>"
         },
         {
             "Id": "WakamoHoverCraftPassive02",
@@ -1241,9 +1241,9 @@
             "DescriptionJp": "円形範囲内の敵に対して、攻撃力の450%分のダメージ\nこのミサイルを破壊すると円形範囲内のミサイル全体に対して、999999のダメージ",
             "DescriptionKr": "원형 범위의 적에게 공격력 450% 대미지\n미사일을 파괴하면 원형 범위 내 미사일 전체에게 999999 대미지",
             "DescriptionTh": null,
-            "DescriptionTw": null,
+            "DescriptionTw": "對圓形範圍內敵人造成450%的傷害。如果飛彈被摧毀，對圓形範圍內其它飛彈造成<b>999,999</b>傷害",
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": "对圆形范围内敌人造成450%的伤害。如导弹被摧毁，对圆形范围内其它导弹造成<b>999,999</b>伤害"
         },
         {
             "Id": "WakamoHoverCraftPassive03",
@@ -1252,9 +1252,9 @@
             "DescriptionJp": "円形範囲内の敵に対して、攻撃力の1000%分のダメージ\nこのミサイルを破壊すると円形範囲内のミサイル全体に対して、攻撃力の400%分のダメージ",
             "DescriptionKr": "원형 범위의 적에게 공격력 1000% 대미지\n미사일을 파괴하면 원형 범위 내 미사일 전체에게 공격력 400% 대미지",
             "DescriptionTh": null,
-            "DescriptionTw": null,
+            "DescriptionTw": "對圓形範圍內敵人造成1000%的傷害。如果飛彈被摧毀，對圓形範圍內其它飛彈造成400%傷害",
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": "对圆形范围内敌人造成1000%的伤害。如导弹被摧毁，对圆形范围内其它导弹造成400%伤害"
         },
         {
             "Id": "WakamoHoverCraftPassive04",
@@ -1263,9 +1263,9 @@
             "DescriptionJp": "円形範囲内の敵に対して、攻撃力の450%分のダメージ\nこのミサイルを破壊すると円形範囲内のミサイル全体に対して、攻撃力の400%分のダメージ",
             "DescriptionKr": "원형 범위의 적에게 공격력 450% 대미지\n미사일을 파괴하면 원형 범위 내 미사일 전체에게 공격력 400% 대미지",
             "DescriptionTh": null,
-            "DescriptionTw": null,
-            "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionTw": "對圓形範圍內敵人造成450%的傷害。如果飛彈被摧毀，對圓形範圍內其它飛彈造成400%傷害",
+            "NameCn": "头盔团的自制导弹",
+            "DescriptionCn": "对圆形范围内敌人造成450%的伤害。如导弹被摧毁，对圆形范围内其它导弹造成400%伤害"
         }
     ]
 }
