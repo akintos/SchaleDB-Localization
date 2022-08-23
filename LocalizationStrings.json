@@ -4068,6 +4068,30 @@
                 "Th": null,
                 "Tw": "導入字符串已複製到剪貼板",
                 "Cn": "导入字符串已复制到剪贴板"
+            },
+            "stat_defense_tooltip": {
+                "En": "DMG Reduction: {0}",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "stat_crit_tooltip": {
+                "En": "Crit Chance: {0}\n<small><i>Against an enemy with 100 Crit RES</i></small>",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "stat_stability_tooltip": {
+                "En": "Minimum DMG: {0}",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             }
         }
     }
