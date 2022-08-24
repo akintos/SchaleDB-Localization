@@ -4074,24 +4074,24 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "受到傷害降低：{0}",
+                "Cn": "受到伤害降低：{0}"
             },
             "stat_crit_tooltip": {
                 "En": "Crit Chance: {0}\n<small><i>Against an enemy with 100 Crit RES</i></small>",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "暴擊幾率：{0}\n<small><i>對於一個暴擊抵抗力100的敵人</i></small>",
+                "Cn": "暴击几率：{0}\n<small><i>对于一个暴击抵抗力100的敌人</i></small>"
             },
             "stat_stability_tooltip": {
                 "En": "Minimum DMG: {0}",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "最低傷害：{0}",
+                "Cn": "最低伤害：{0}"
             }
         }
     }
