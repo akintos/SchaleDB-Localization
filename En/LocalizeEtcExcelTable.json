@@ -643,6 +643,16 @@
             "DescriptionEn": ""
         },
         {
+            "Key": 186232744,
+            "NameEn": "Moe",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3086485314,
+            "NameEn": "Kazusa",
+            "DescriptionEn": ""
+        },
+        {
             "Key": 1311123432,
             "NameEn": "Light Sweeper",
             "DescriptionEn": ""
@@ -695,6 +705,11 @@
         {
             "Key": 1926925201,
             "NameEn": "Kether Type.E",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1806396461,
+            "NameEn": "Menacing Kumabot",
             "DescriptionEn": ""
         },
         {

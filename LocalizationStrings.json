@@ -907,7 +907,7 @@
             },
             "812": {
                 "CodeKey": 3866702588,
-                "En": "Slapstick Sister and the Ancient Library Magician"
+                "En": "Slapstick Sister and the Ancient Library Magician",
                 "Th": "ซิสเตอร์จอมโก๊ะกังกับแม่มดแห่งห้องสมุดเก่า"
             },
             "813": {
@@ -921,6 +921,10 @@
             "815": {
                 "CodeKey": 3818866812,
                 "En": "Business Trip! Momoyodou Beach House Franchise Plan"
+            },
+            "816": {
+                "CodeKey": 2795718439,
+                "En": "Sweet Secrets and Gun Fights"
             },
             "10801": {
                 "En": "Cherry Blossom Festival Commotion! (Rerun)",
@@ -1036,7 +1040,7 @@
         "TimeAttackStage": {
             "Shooting": {
                 "EtcKey": 1223379449,
-                "En": "Shooting Drill"
+                "En": "Shooting Drill",
                 "Th": "การสอบประมวล (ยิง)"
             },
             "Defense": {

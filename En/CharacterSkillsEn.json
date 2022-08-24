@@ -5624,6 +5624,117 @@
                     "26.6%"
                 ]
             ]
+        },
+        {
+            "SkillId": 20018200,
+            "NameEn": "Rain Of Steel",
+            "DescriptionEn": "Deals <?1> damage to enemies in a rectangular area, plus an additional <?2> <d:Burn> damage every 4s for 20s.",
+            "ParametersEn": [
+                ["306%", "352%", "398%", "443%", "489%", "535%", "581%", "627%", "673%", "719%"],
+                [
+                    "50.9%", "50.9%", "58.5%", "58.5%", "66.2%", "66.2%", "73.8%", "73.8%", 
+                    "81.5%", "81.5%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 20018300,
+            "NameEn": "Concentrated Assault",
+            "DescriptionEn": "Every 40s, deals <?1> damage to up to 5 enemies and inflicts <c:Stunned> for <?2>.",
+            "ParametersEn": [
+                ["100%", "105%", "110%", "120%", "125%", "130%", "140%", "145%", "150%", "160%"],
+                ["1.2s", "1.2s", "1.2s", "1.4s", "1.4s", "1.4s", "1.5s", "1.5s", "1.5s", "1.6s"]
+            ]
+        },
+        {
+            "SkillId": 20018400,
+            "NameEn": "Destructive Pleasure",
+            "DescriptionEn": "Increases <b:ATK> by <?1>.",
+            "ParametersEn": [
+                [
+                    "14%", "14.7%", "15.4%", "18.2%", "18.9%", "19.6%", "22.4%", "23.1%", "23.8%", 
+                    "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 20018500,
+            "NameEn": "Operational Support",
+            "DescriptionEn": "Increases all allies' <b:ATK> by <?1>.",
+            "ParametersEn": [
+                [
+                    "9.1%", "9.5%", "10%", "11.8%", "12.3%", "12.7%", "14.5%", "15%", "15.5%", 
+                    "17.3%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 20018450,
+            "NameEn": "Destructive Pleasure+",
+            "DescriptionEn": "Increases <b:ATK> by <?1> plus a further <?2>.",
+            "ParametersEn": [
+                ["239", "251", "263", "311", "323", "335", "383", "395", "406", "454"],
+                [
+                    "14%", "14.7%", "15.4%", "18.2%", "18.9%", "19.6%", "22.4%", "23.1%", "23.8%", 
+                    "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10049200,
+            "NameEn": "Sweet Fire",
+            "DescriptionEn": "Immediately reloads and deals <?1> damage to one enemy.",
+            "ParametersEn": [
+                [
+                    "933%", "1073%", "1353%", "1493%", "1773%", "1913%", "2193%", "2333%", "2613%", 
+                    "2753%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10049300,
+            "NameEn": "Bad Habit",
+            "DescriptionEn": "Every 30s, increases <b:ATK> by <?1> for 25s.",
+            "ParametersEn": [
+                [
+                    "23%", "24.2%", "25.3%", "29.9%", "31.1%", "32.2%", "36.8%", "38%", "39.2%", 
+                    "43.8%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10049400,
+            "NameEn": "Sugar High",
+            "DescriptionEn": "Increases <b:ATK> by <?1>.",
+            "ParametersEn": [
+                [
+                    "14%", "14.7%", "15.4%", "18.2%", "18.9%", "19.6%", "22.4%", "23.1%", "23.8%", 
+                    "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10049500,
+            "NameEn": "Snatched Food",
+            "DescriptionEn": "Whenever Kazusa reloads, increases <b:ATK> by <?1> but decreases <d:AttackSpeed> by 16.3% for 15s. Effect can stack up to 2 times.",
+            "ParametersEn": [
+                [
+                    "26.1%", "27.4%", "28.7%", "33.9%", "35.2%", "36.5%", "41.8%", "43.1%", 
+                    "44.4%", "49.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10049450,
+            "NameEn": "Sugar High+",
+            "DescriptionEn": "Increases <b:ATK> by <?1> plus a further <?2>.",
+            "ParametersEn": [
+                ["290", "304", "319", "376", "391", "405", "463", "478", "492", "550"],
+                [
+                    "14%", "14.7%", "15.4%", "18.2%", "18.9%", "19.6%", "22.4%", "23.1%", "23.8%", 
+                    "26.6%"
+                ]
+            ]
         }
     ]
 }
