@@ -1511,6 +1511,34 @@
             "CharacterVoiceCn": "石上静香",
             "WeaponNameCn": "アリウス製アサルトライフル",
             "WeaponDescCn": "サオリが使用するアサルトライフル。\n\n徹底的に効率を追求してサオリが独自にカスタムしたもの。一度獲物を捕捉したら、対象を倒すまで絶対にターゲットを逃さない。"
+        },
+        {
+            "CharacterId": 20018,
+            "FamilyNameCn": "風倉",
+            "PersonalNameCn": "モエ",
+            "SchoolYearCn": "1年生",
+            "CharacterAgeCn": "15歳",
+            "BirthdayCn": "9月13日",
+            "CharacterSSRNewCn": "こちらRABBIT3。次の爆撃場所はどこ？",
+            "ProfileIntroductionCn": "SRT特殊学園所属、RABBIT小隊のオペレーター。コールサインは「RABBIT3」。\n\n強大な火力を保有したSRT特殊学園の武器に憧れて入学したが、突然学園が閉鎖され、現在は公園で他の小隊員と共に野宿をしている。何かを爆破したり台無しにしたりすることに喜びを感じる奇妙な趣向の持ち主だが、オペレーターの腕だけは確かである。重症の甘いもの好きで、いつも棒キャンディを口にくわえている。",
+            "HobbyCn": "打ち上げ花火",
+            "CharacterVoiceCn": "井澤詩織",
+            "WeaponNameCn": "ラビット224式拳銃",
+            "WeaponDescCn": "モエがSRT特殊学園から支給された制式拳銃。\n\n拳銃にもかかわらず高い連射力を保有しているため、弾倉を瞬時に空にすることができる。"
+        },
+        {
+            "CharacterId": 10049,
+            "FamilyNameCn": "杏山",
+            "PersonalNameCn": "カズサ",
+            "SchoolYearCn": "1年生",
+            "CharacterAgeCn": "15歳",
+            "BirthdayCn": "8月5日",
+            "CharacterSSRNewCn": "あ、先生。\nこんな所で会えるなんて奇遇だね",
+            "ProfileIntroductionCn": "トリニティ総合学園所属、ゆったりとした静かな性格の「放課後スイーツ部」の部員。\n\n自分をあまり表に出さないため、普段は他の部員たちに黙々とついていく事が多い。\nいつも周囲の奇行に巻き込まれて苦労しているが、一方でそういう所も大切に思っている。",
+            "HobbyCn": "「普通に」スイーツを食べること",
+            "CharacterVoiceCn": "夏吉ゆうこ",
+            "WeaponNameCn": "マビノギオン",
+            "WeaponDescCn": "古くからカズサと長い間過ごしてきたマシンガン。\n\n名前の由来について尋ねると、苦い顔をする。"
         }
     ]
 }

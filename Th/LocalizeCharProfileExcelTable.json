@@ -1,20 +1,6 @@
 {
     "DataList": [
         {
-            "CharacterId": 20011,
-            "FamilyNameTh": "黒見",
-            "PersonalNameTh": "セリカ",
-            "SchoolYearTh": "1年生",
-            "CharacterAgeTh": "15歳",
-            "BirthdayTh": "6月25日",
-            "CharacterSSRNewTh": "別にお祈りくらい、先生のためなら幾らでも……",
-            "ProfileIntroductionTh": "アビドス対策委員会所属、巫女さん姿のしっかり者（？）の会計担当。\n\n少しでも対策委員会の役に立つために、これまでも色々とアルバイトを掛け持ちして真面目に頑張ってきたセリカ。新年を迎えて彼女が選んだのは巫女さんのアルバイトだった。特別巫女さんが好きだったり造詣が深いわけではないものの、基本的に任せられればしっかりやり遂げようとする彼女の性格もあって、今回もまた全力で頑張っている様子（どうやら、より巫女っぽく振舞えれば時給が上がるという裏事情もある模様）。",
-            "HobbyTh": "貯金、アルバイト",
-            "CharacterVoiceTh": "大橋彩香",
-            "WeaponNameTh": "シンシアリティ",
-            "WeaponDescTh": "セリカがバイトに出る時も携帯しているアサルトライフル。\n\n巫女さんのアルバイトであってもそれは例外ではなく、新年だからと他者に迷惑をかける問題児の沈静化にも使われている模様。"
-        },
-        {
             "CharacterId": 10033,
             "FamilyNameTh": "狐坂",
             "PersonalNameTh": "ワカモ",
@@ -377,6 +363,34 @@
             "CharacterVoiceTh": "石上静香",
             "WeaponNameTh": "アリウス製アサルトライフル",
             "WeaponDescTh": "サオリが使用するアサルトライフル。\n\n徹底的に効率を追求してサオリが独自にカスタムしたもの。一度獲物を捕捉したら、対象を倒すまで絶対にターゲットを逃さない。"
+        },
+        {
+            "CharacterId": 10049,
+            "FamilyNameTh": "杏山",
+            "PersonalNameTh": "カズサ",
+            "SchoolYearTh": "1年生",
+            "CharacterAgeTh": "15歳",
+            "BirthdayTh": "8月5日",
+            "CharacterSSRNewTh": "あ、先生。\nこんな所で会えるなんて奇遇だね",
+            "ProfileIntroductionTh": "トリニティ総合学園所属、ゆったりとした静かな性格の「放課後スイーツ部」の部員。\n\n自分をあまり表に出さないため、普段は他の部員たちに黙々とついていく事が多い。\nいつも周囲の奇行に巻き込まれて苦労しているが、一方でそういう所も大切に思っている。",
+            "HobbyTh": "「普通に」スイーツを食べること",
+            "CharacterVoiceTh": "夏吉ゆうこ",
+            "WeaponNameTh": "マビノギオン",
+            "WeaponDescTh": "古くからカズサと長い間過ごしてきたマシンガン。\n\n名前の由来について尋ねると、苦い顔をする。"
+        },
+        {
+            "CharacterId": 20018,
+            "FamilyNameTh": "風倉",
+            "PersonalNameTh": "モエ",
+            "SchoolYearTh": "1年生",
+            "CharacterAgeTh": "15歳",
+            "BirthdayTh": "9月13日",
+            "CharacterSSRNewTh": "こちらRABBIT3。次の爆撃場所はどこ？",
+            "ProfileIntroductionTh": "SRT特殊学園所属、RABBIT小隊のオペレーター。コールサインは「RABBIT3」。\n\n強大な火力を保有したSRT特殊学園の武器に憧れて入学したが、突然学園が閉鎖され、現在は公園で他の小隊員と共に野宿をしている。何かを爆破したり台無しにしたりすることに喜びを感じる奇妙な趣向の持ち主だが、オペレーターの腕だけは確かである。重症の甘いもの好きで、いつも棒キャンディを口にくわえている。",
+            "HobbyTh": "打ち上げ花火",
+            "CharacterVoiceTh": "井澤詩織",
+            "WeaponNameTh": "ラビット224式拳銃",
+            "WeaponDescTh": "モエがSRT特殊学園から支給された制式拳銃。\n\n拳銃にもかかわらず高い連射力を保有しているため、弾倉を瞬時に空にすることができる。"
         }
     ]
 }
