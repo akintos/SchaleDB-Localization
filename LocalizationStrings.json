@@ -908,6 +908,7 @@
             "812": {
                 "CodeKey": 3866702588,
                 "En": "Slapstick Sister and the Ancient Library Magician"
+                "Th": "ซิสเตอร์จอมโก๊ะกังกับแม่มดแห่งห้องสมุดเก่า"
             },
             "813": {
                 "CodeKey": 2102702620,
@@ -977,7 +978,7 @@
             "TimeAttack": {
                 "PrefabKey": 1893639884,
                 "Cn": "综合战术考试",
-                "Th": "อารีน่า"
+                "Th": "การสอบประมวล"
             },
             "WorldRaid": {
                 "PrefabKey": 1074806608,
@@ -1036,6 +1037,7 @@
             "Shooting": {
                 "EtcKey": 1223379449,
                 "En": "Shooting Drill"
+                "Th": "การสอบประมวล (ยิง)"
             },
             "Defense": {
                 "EtcKey": 546386169,
@@ -2729,7 +2731,7 @@
                 "En": "Theme",
                 "Jp": "テーマ",
                 "Kr": null,
-                "Th": null,
+                "Th": "ธีม",
                 "Tw": "主題",
                 "Cn": "主题"
             },
@@ -2737,7 +2739,7 @@
                 "En": "Auto will use your device theme.",
                 "Jp": "Autoはお使いの端末のテーマが使用されます。",
                 "Kr": null,
-                "Th": null,
+                "Th": "Auto จะตั้งค่าตามธีมของอุปกรณ์คุณ",
                 "Tw": "選擇 Auto 匹配設備主題。",
                 "Cn": "选择 Auto 跟随系统主题。"
             },
@@ -2745,7 +2747,7 @@
                 "En": "High Contrast",
                 "Jp": "ハイコントラスト",
                 "Kr": null,
-                "Th": null,
+                "Th": "ความละเอียดสูง",
                 "Tw": "高對比度",
                 "Cn": "高对比度"
             },
@@ -2753,7 +2755,7 @@
                 "En": "Disables blur and transparency effects.<br>May also improve performance.",
                 "Jp": "ブラーと透明度を無効にする。<br>パフォーマンスを向上させる可能性がある。",
                 "Kr": null,
-                "Th": null,
+                "Th": "ลบเอฟเฟคเบลอและโปร่งใสออก <br>อาจจะเพิ่มประสิทธิภาพการทำงาน",
                 "Tw": "禁用模糊與透明效果。<br>可能提升性能。",
                 "Cn": "禁用模糊和透明效果。<br>可能提升性能。"
             },
@@ -2761,7 +2763,7 @@
                 "En": "Manage Collection Data",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "จัดการข้อมูลในคอลเลคชั่น",
                 "Tw": "管理集合數據",
                 "Cn": "管理集合数据"
             },
@@ -2769,7 +2771,7 @@
                 "En": "Import or export your student collection data.",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "นำเข้าหรือส่งออกข้อมูลนักเรียนในคอลเลคชั่น",
                 "Tw": "導入或導出你的學生集數據。",
                 "Cn": "导入或导出你的学生集数据。"
             },
@@ -2777,7 +2779,7 @@
                 "En": "Search",
                 "Jp": "検索",
                 "Kr": "검색",
-                "Th": null,
+                "Th": "ค้นหา",
                 "Tw": "檢索",
                 "Cn": "搜索"
             },
@@ -2785,7 +2787,7 @@
                 "En": "Export Collection",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ส่งออกคอลเลคชั่น",
                 "Tw": "導出集合",
                 "Cn": "导出集合"
             },
@@ -2793,7 +2795,7 @@
                 "En": "Import Collection",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "นำเข้าคอลเลคชั่น",
                 "Tw": "導入集合",
                 "Cn": "导入集合"
             },
@@ -2801,7 +2803,7 @@
                 "En": "This will overwrite your current collection",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "นี่จะเป็นการแทนที่คอลเลคชั่นของคุณในปัจจุบัน",
                 "Tw": "這會覆蓋你的當前集合",
                 "Cn": "这会覆盖你的当前集合"
             },
@@ -2809,7 +2811,7 @@
                 "En": "Click export to generate an export string from your collection",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "กดส่งออกเพื่อสร้างรหัสส่งออกจากคอลเลคชั่นของคุณ",
                 "Tw": "點擊導出以生成集合的導出字符串",
                 "Cn": "点击导出以生成集合的导出字符串"
             },
@@ -2817,7 +2819,7 @@
                 "En": "Paste export string here and click Import",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "วางรหัสส่งออกที่นี่แล้วกดนำเข้า",
                 "Tw": "將導出字符串粘貼與此処並點擊導入",
                 "Cn": "将导出字符串粘贴于此处并点击导入"
             },
@@ -2825,7 +2827,7 @@
                 "En": "Export",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ส่งออก",
                 "Tw": "導出",
                 "Cn": "导出"
             },
@@ -2833,7 +2835,7 @@
                 "En": "Import",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "นำเข้า",
                 "Tw": "導入",
                 "Cn": "导入"
             },
@@ -2841,7 +2843,7 @@
                 "En": "Import from Resource Planner",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "นำเข้ามาจาก Resource Planner",
                 "Tw": "從 Resource Planner 導入",
                 "Cn": "从 Resource Planner 导入"
             },
@@ -2849,7 +2851,7 @@
                 "En": "OFF",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ปิด",
                 "Tw": "関",
                 "Cn": "关"
             },
@@ -2857,7 +2859,7 @@
                 "En": "ON",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เปิด",
                 "Tw": "開",
                 "Cn": "开"
             },
@@ -2865,7 +2867,7 @@
                 "En": "Open",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เปิด",
                 "Tw": "打開",
                 "Cn": "打开"
             },
@@ -3025,7 +3027,7 @@
                 "En": "Imports collection from Justin163's Resource Planner (justin163.com/planner)",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "นำเข้าคอลเลคชั่นจาก Justin163's Resource Planner (justin163.com/planner)",
                 "Tw": "從 Justin163's Resource Planner (justin163.com/planner) 導入集合",
                 "Cn": "从 Justin163's Resource Planner (justin163.com/planner) 导入集合"
             },
@@ -3433,7 +3435,7 @@
                 "En": "Minimum Damage: {0}",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ความเสียหายขั้นต่ำ: {0}",
                 "Tw": "最低傷害：{0}",
                 "Cn": "最低伤害：{0}"
             },
@@ -3777,7 +3779,7 @@
                 "En": "This gift will be treated as a liked item {0} when given to any student",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ของขวัญชิ้นนี้จะถือว่าเป็นของขวัญที่ชอบ {0} เมื่อมอบให้กับนักเรียนคนไหนก็ตาม",
                 "Tw": "此禮物在贈予任何學生時會被當做喜歡的項目{0}看待",
                 "Cn": "此礼物在赠送给任何学生时会被当做喜欢的项目{0}看待"
             },
@@ -3817,7 +3819,7 @@
                 "En": "Random {0} {1}",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "สุ่ม {0} {1}",
                 "Tw": "隨機 {0} {1}",
                 "Cn": "随机 {0} {1}"
             },
@@ -3841,7 +3843,7 @@
                 "En": "Area {0}",
                 "Jp": "エリア{0}",
                 "Kr": "{0} 지역",
-                "Th": null,
+                "Th": "พื้นที่ {0}",
                 "Tw": "區域{0}",
                 "Cn": "区域{0}"
             },
@@ -4049,7 +4051,7 @@
                 "En": "Successfully imported student collection",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "นำเข้าข้อมูลนักเรียนในคอลเลคชั่นสำเร็จ",
                 "Tw": "導入學生集成功",
                 "Cn": "导入学生集成功"
             },
@@ -4057,7 +4059,7 @@
                 "En": "Error importing student collection",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ประสบปัญหาในการนำเข้าข้อมูลนักเรียนในคอลเลคชั่น",
                 "Tw": "導入學生集出錯",
                 "Cn": "导入学生集时出错"
             },
@@ -4065,7 +4067,7 @@
                 "En": "Copied import string to clipboard",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "คัดลอกรหัสนำเข้าลงในคลิปบอร์ด",
                 "Tw": "導入字符串已複製到剪貼板",
                 "Cn": "导入字符串已复制到剪贴板"
             },
@@ -4073,7 +4075,7 @@
                 "En": "DMG Reduction: {0}",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ลดความเสียหายที่ได้รับลง: {0}",
                 "Tw": "受到傷害降低：{0}",
                 "Cn": "受到伤害降低：{0}"
             },
@@ -4081,7 +4083,7 @@
                 "En": "Crit Chance: {0}\n<small><i>Against an enemy with 100 Crit RES</i></small>",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "อัตราการติดคริ: {0}\n<small><i>ใส่เป้าหมายที่มีค่าต้านทานคริ 100</i></small>",
                 "Tw": "暴擊幾率：{0}\n<small><i>對於一個暴擊抵抗力100的敵人</i></small>",
                 "Cn": "暴击几率：{0}\n<small><i>对于一个暴击抵抗力100的敌人</i></small>"
             },
@@ -4089,7 +4091,7 @@
                 "En": "Minimum DMG: {0}",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ความเสียหายขั้นต่ำ: {0}",
                 "Tw": "最低傷害：{0}",
                 "Cn": "最低伤害：{0}"
             }
