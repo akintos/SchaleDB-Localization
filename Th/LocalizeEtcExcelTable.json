@@ -1349,6 +1349,101 @@
             "Key": 773557141,
             "NameTh": "ヴァルキューレ",
             "DescriptionTh": "ヴァルキューレの生徒たちにとって有用なアイテムを生成することができます。稀にヴァルキューレの生徒の神名文字を生成します。"
+        },
+        {
+            "Key": 990306261,
+            "NameTh": "Exercise Terrain (Outdoor)",
+            "DescriptionTh": "This exercise will take place in <b>outdoor</b> terrain."
+        },
+        {
+            "Key": 1329507091,
+            "NameTh": "Exercise Terrain (Indoor)",
+            "DescriptionTh": "This exercise will take place in <b>indoor</b> terrain."
+        },
+        {
+            "Key": 3938056289,
+            "NameTh": "Exercise Terrain (Street)",
+            "DescriptionTh": "This exercise will take place in <b>street</b> terrain."
+        },
+        {
+            "Key": 2060888564,
+            "NameTh": "Enemy Defense Type (Light Armor)",
+            "DescriptionTh": "Enemies' defense type will be <b class='ba-col-explosion'>Light Armor</b>."
+        },
+        {
+            "Key": 2060888564,
+            "NameTh": "Enemy Defense Type (Light Armor)",
+            "DescriptionTh": "Enemies' defense type will be <b class='ba-col-explosion'>Light Armor</b>."
+        },
+        {
+            "Key": 2075498290,
+            "NameTh": "Enemy Defense Type (Heavy Armor)",
+            "DescriptionTh": "Enemies' defense type will be <b class='ba-col-pierce'>Heavy Armor</b>."
+        },
+        {
+            "Key": 2570956929,
+            "NameTh": "Enemy Defense Type (Special Armor)",
+            "DescriptionTh": "Enemies' defense type will be <b class='ba-col-mystic'>Special Armor</b>."
+        },
+        {
+            "Key": 983164925,
+            "NameTh": "Decreased Ally Attack Speed",
+            "DescriptionTh": "All allies' <d:AttackSpeed> is decreased by 75%."
+        },
+        {
+            "Key": 3257931121,
+            "NameTh": "Increased Enemy Evasion",
+            "DescriptionTh": "All enemies' <b:Dodge> is increased by 1000%."
+        },
+        {
+            "Key": 2503860611,
+            "NameTh": "Decreased Ally Defense",
+            "DescriptionTh": "All allies' <d:DEF> is decreased by 90%."
+        },
+        {
+            "Key": 3301214750,
+            "NameTh": "Enemies Explode on Defeat",
+            "DescriptionTh": "When an enemy is defeated, they deal <b>100%</b> damage to allies in a circular area around them."
+        },
+        {
+            "Key": 648270201,
+            "NameTh": "Decreased SR Ally Attack",
+            "DescriptionTh": "Decreases <d:ATK> for all allies who use SR type weapons by 90%."
+        },
+        {
+            "Key": 2856565282,
+            "NameTh": "Increased Enemy Accuracy",
+            "DescriptionTh": "All enemies' <b:HIT> is increased by <b>1,500</b>."
+        },
+        {
+            "Key": 1949095289,
+            "NameTh": "Increased Ally Critical Rate",
+            "DescriptionTh": "All allies' <b:CriticalChance> is increased by <b>2,000</b>."
+        },
+        {
+            "Key": 1428571194,
+            "NameTh": "Ally Cost Recovery Decreases after using EX Skills",
+            "DescriptionTh": "Decreases all allies' <d:CostRegen> by <b>60</b> each time an ally uses their EX skill. Effect lasts until the end of battle."
+        },
+        {
+            "Key": 3009801818,
+            "NameTh": "Decreased MT/AR Ally Attack",
+            "DescriptionTh": "Decreases <d:ATK> for all allies who use MT or AR type weapons by 90%."
+        },
+        {
+            "Key": 2490399639,
+            "NameTh": "Additional Damage when inflicting CC",
+            "DescriptionTh": "Enemies have <b>100,000</b> increased <b:MAXHP>. Enemies receive an additional <b>120,000</b> damage whenever they are inflicted with a Crowd Control effect."
+        },
+        {
+            "Key": 719379007,
+            "NameTh": "Scarecrow HP Damage over Time",
+            "DescriptionTh": "The Scarecrow will receive damage equal to 2% of its Max HP every 1s."
+        },
+        {
+            "Key": 773473613,
+            "NameTh": "All Roles Formation",
+            "DescriptionTh": "If a unit contains at least one Support, Dealer, Tank, Healer and T.S. student, increases the <b:CostRegen> of all allies by <b>700</b>."
         }
     ]
 }
