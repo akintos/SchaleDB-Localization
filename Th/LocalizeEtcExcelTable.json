@@ -1352,98 +1352,93 @@
         },
         {
             "Key": 990306261,
-            "NameTh": "Exercise Terrain (Outdoor)",
-            "DescriptionTh": "This exercise will take place in <b>outdoor</b> terrain."
+            "NameTh": "พื้นที่ในการสอบ (กลางแจ้ง)",
+            "DescriptionTh": "การสอบครั้งนี้จะจัดขึ้นในพื้นที่<b>กลางแจ้ง</b>"
         },
         {
             "Key": 1329507091,
-            "NameTh": "Exercise Terrain (Indoor)",
-            "DescriptionTh": "This exercise will take place in <b>indoor</b> terrain."
+            "NameTh": "พื้นที่ในการสอบ (ในอาคาร)",
+            "DescriptionTh": "การสอบครั้งนี้จะจัดขึ้นในพื้นที่<b>ในอาคาร</b>"
         },
         {
             "Key": 3938056289,
-            "NameTh": "Exercise Terrain (Street)",
-            "DescriptionTh": "This exercise will take place in <b>street</b> terrain."
+            "NameTh": "พื้นที่ในการสอบ (ในเมือง)",
+            "DescriptionTh": "การสอบครั้งนี้จะจัดขึ้นในพื้นที่<b>ในเมือง</b>"
         },
         {
             "Key": 2060888564,
-            "NameTh": "Enemy Defense Type (Light Armor)",
-            "DescriptionTh": "Enemies' defense type will be <b class='ba-col-explosion'>Light Armor</b>."
-        },
-        {
-            "Key": 2060888564,
-            "NameTh": "Enemy Defense Type (Light Armor)",
-            "DescriptionTh": "Enemies' defense type will be <b class='ba-col-explosion'>Light Armor</b>."
+            "NameTh": "ประเภทเกราะของศัตรู (เกราะเบา)",
+            "DescriptionTh": "ประเภทเกราะของศัตรูจะเป็น<b class='ba-col-explosion'>เกราะเบา</b>"
         },
         {
             "Key": 2075498290,
-            "NameTh": "Enemy Defense Type (Heavy Armor)",
-            "DescriptionTh": "Enemies' defense type will be <b class='ba-col-pierce'>Heavy Armor</b>."
+            "NameTh": "ประเภทเกราะของศัตรู (เกราะหนัก)",
+            "DescriptionTh": "ประเภทเกราะของศัตรูจะเป็น<b class='ba-col-pierce'>เกราะหนัก</b>"
         },
         {
             "Key": 2570956929,
-            "NameTh": "Enemy Defense Type (Special Armor)",
-            "DescriptionTh": "Enemies' defense type will be <b class='ba-col-mystic'>Special Armor</b>."
+            "NameTh": "ประเภทเกราะของศัตรู (เกราะพิเศษ)",
+            "DescriptionTh": "ประเภทเกราะของศัตรูจะเป็น<b class='ba-col-mystic'>เกราะพิเศษ</b>"
         },
         {
             "Key": 983164925,
-            "NameTh": "Decreased Ally Attack Speed",
-            "DescriptionTh": "All allies' <d:AttackSpeed> is decreased by 75%."
+            "NameTh": "ลดความเร็วโจมตีของฝ่ายเรา",
+            "DescriptionTh": "ลด<d:AttackSpeed>ของฝ่ายเรา 75%"
         },
         {
             "Key": 3257931121,
-            "NameTh": "Increased Enemy Evasion",
-            "DescriptionTh": "All enemies' <b:Dodge> is increased by 1000%."
+            "NameTh": "เพิ่มค่าหลบหลีกของศัตรู",
+            "DescriptionTh": "เพิ่ม<b:Dodge>ของฝ่ายศัตรู 1000%."
         },
         {
             "Key": 2503860611,
-            "NameTh": "Decreased Ally Defense",
-            "DescriptionTh": "All allies' <d:DEF> is decreased by 90%."
+            "NameTh": "ลดค่าป้องกันของฝ่ายเรา",
+            "DescriptionTh": "ลด<d:DEF>ของฝ่ายเรา 90%."
         },
         {
             "Key": 3301214750,
-            "NameTh": "Enemies Explode on Defeat",
-            "DescriptionTh": "When an enemy is defeated, they deal <b>100%</b> damage to allies in a circular area around them."
+            "NameTh": "ศัตรูระเบิดเมื่อถูกกำจัด",
+            "DescriptionTh": "สร้างความเสียหาย <b>100%</b> ของค่าโจมตีให้กับฝ่ายเราในรัศมีเมื่อศัตรูถูกกำจัด"
         },
         {
             "Key": 648270201,
-            "NameTh": "Decreased SR Ally Attack",
-            "DescriptionTh": "Decreases <d:ATK> for all allies who use SR type weapons by 90%."
+            "NameTh": "ลดค่าโจมตีของฝ่ายเราที่ใช้ SR",
+            "DescriptionTh": "ลด<d:ATK>ของฝ่ายเราที่ใช้ SR 90%"
         },
         {
             "Key": 2856565282,
-            "NameTh": "Increased Enemy Accuracy",
-            "DescriptionTh": "All enemies' <b:HIT> is increased by <b>1,500</b>."
+            "NameTh": "เพิ่มค่าความแม่นยำของศัตรู",
+            "DescriptionTh": "เพิ่ม<b:HIT>ของฝ่ายศัตรู <b>1,500</b>"
         },
         {
             "Key": 1949095289,
-            "NameTh": "Increased Ally Critical Rate",
-            "DescriptionTh": "All allies' <b:CriticalChance> is increased by <b>2,000</b>."
+            "NameTh": "เพิ่มค่าคริของฝ่ายเรา",
+            "DescriptionTh": "เพิ่ม<b:CriticalChance>ของฝ่ายเรา <b>2,000</b>"
         },
         {
             "Key": 1428571194,
-            "NameTh": "Ally Cost Recovery Decreases after using EX Skills",
-            "DescriptionTh": "Decreases all allies' <d:CostRegen> by <b>60</b> each time an ally uses their EX skill. Effect lasts until the end of battle."
+            "NameTh": "ลดค่าฟื้นฟูคอสของฝ่ายเราหลังจากใช้สกิล EX",
+            "DescriptionTh": "ลด<d:CostRegen>ของฝ่ายเรา <b>60</b> ทุกครั้งที่ฝ่ายเราใช้สกิล EX (ส่งผลจนจบการต่อสู้)"
         },
         {
             "Key": 3009801818,
-            "NameTh": "Decreased MT/AR Ally Attack",
-            "DescriptionTh": "Decreases <d:ATK> for all allies who use MT or AR type weapons by 90%."
+            "NameTh": "ลดค่าโจมตีของฝ่ายเราที่ใช้ MT/AR",
+            "DescriptionTh": "ลด<d:ATK>ของฝ่ายเราที่ใช้ MT หรือ AR 90%"
         },
         {
             "Key": 2490399639,
-            "NameTh": "Additional Damage when inflicting CC",
-            "DescriptionTh": "Enemies have <b>100,000</b> increased <b:MAXHP>. Enemies receive an additional <b>120,000</b> damage whenever they are inflicted with a Crowd Control effect."
+            "NameTh": "สร้างความเสียหายเพิ่มเติมเมื่อได้รับเอฟเฟคกดขี่",
+            "DescriptionTh": "เพิ่ม<b:MAXHP>ของฝ่ายศัตรู <b>100,000</b>/\nสร้างความเสียหายเพิ่มเติม <b>120,000</b> ให้แก่ศัตรูเมื่อศัตรูได้รับผลของเอฟเฟคกดขี่"
         },
         {
             "Key": 719379007,
-            "NameTh": "Scarecrow HP Damage over Time",
-            "DescriptionTh": "The Scarecrow will receive damage equal to 2% of its Max HP every 1s."
+            "NameTh": "หุ่นไล่กาได้รับความเสียหายต่อเนื่อง",
+            "DescriptionTh": "สร้างความเสียหายต่อเนื่อง 2% ของ HP สูงสุดของหุ่นไล่กาให้กับหุ่นไล่กาทุก 1 วินาที"
         },
         {
             "Key": 773473613,
-            "NameTh": "All Roles Formation",
-            "DescriptionTh": "If a unit contains at least one Support, Dealer, Tank, Healer and T.S. student, increases the <b:CostRegen> of all allies by <b>700</b>."
+            "NameTh": "รวมทีมบทบาททั้งหมด",
+            "DescriptionTh": "เพิ่ม<b:CostRegen>ของฝ่ายเรา <b>700</b> หากในทีมมีตัวละครประเภท Support, Dealer, Tank, Healer และ T.S. อย่างน้อยประเภทละคน"
         }
     ]
 }
