@@ -55,7 +55,6 @@
             "Normal": {
                 "CodeKey": 2051696859,
                 "En": "Normal",
-                "Tw": "一般",
                 "Cn": "普通装甲",
                 "Th": "เกราะปกติ"
             }
@@ -916,23 +915,28 @@
             "812": {
                 "CodeKey": 3866702588,
                 "En": "Slapstick Sister and the Ancient Library Magician",
+                "Cn": "冒失的修女与古书馆的魔术师",
                 "Th": "ซิสเตอร์จอมโก๊ะกังกับแม่มดแห่งห้องสมุดเก่า"
             },
             "813": {
                 "CodeKey": 2102702620,
-                "En": "Heart of Shinobi"
+                "En": "Heart of Shinobi",
+                "Cn": "不忍之心"
             },
             "814": {
                 "CodeKey": 293214237,
-                "En": "Abydos Resort Restoration Task Force"
+                "En": "Abydos Resort Restoration Task Force",
+                "Cn": "阿拜多斯避暑复旧对策委员会"
             },
             "815": {
                 "CodeKey": 3818866812,
-                "En": "Business Trip! Momoyodou Beach House Franchise Plan"
+                "En": "Business Trip! Momoyodou Beach House Franchise Plan",
+                "Cn": "出差！百夜堂 海之家FC计划"
             },
             "816": {
                 "CodeKey": 2795718439,
-                "En": "After School Sweets Story"
+                "En": "After School Sweets Story",
+                "Cn": "放学后甜点故事 甜香的秘密与枪战"
             },
             "10801": {
                 "En": "Cherry Blossom Festival Commotion! (Rerun)",
@@ -2856,8 +2860,8 @@
                 "Jp": "名前しでフィルタ",
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "以名稱過濾",
+                "Cn": "按名称筛选"
             },
             "collection_export_collection": {
                 "En": "Export Collection",
@@ -3660,13 +3664,19 @@
                 "Cn": "获得S等级{0}次"
             },
             "no_results": {
-                "En": "No results."
+                "En": "No results.",
+                "Tw": "無結果。",
+                "Cn": "无结果。"
             },
             "furniture_set": {
-                "En": "Set"
+                "En": "Set",
+                "Tw": "家具套裝",
+                "Cn": "家具套装"
             },
             "others": {
-                "En": "Other"
+                "En": "Other",
+                "Tw": "其它",
+                "Cn": "其它"
             },
             "options": {
                 "En": "Options",
@@ -3953,8 +3963,8 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "เปิด/ปิดโบนัสระดับสายใยของร่างอื่นๆ",
-                "Tw": "切換備選羈絆等級加成",
-                "Cn": "切换备选羁绊等级加成"
+                "Tw": "切換另一羈絆等級加成",
+                "Cn": "切换另一羁绊等级加成"
             },
             "tooltip_equipment_bonus": {
                 "En": "Toggle Equipment Bonus",
