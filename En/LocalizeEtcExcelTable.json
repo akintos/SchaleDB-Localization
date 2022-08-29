@@ -830,12 +830,32 @@
         {
             "Key": 3091509634,
             "NameEn": "The Elite Few",
-            "DescriptionEn": "Increases all allies' <b:ATK> by 500%/200%/100%/50% and <b:CostRegen> by 7,000/2,800/1,400/700 if there are only 1/2/3/4 students in the unit."
+            "DescriptionEn": "Increases all allies' <b:ATK> by 300%/150%/100%/50% and <b:CostRegen> by <b>3,500/2,450/1,400/1,050</b> if there are only <b>1/2/3/4</b> students in the unit."
         },
         {
             "Key": 3334829467,
             "NameEn": "Enemy Continuous Healing",
             "DescriptionEn": "All enemies restore 50% of their Max HP every 30s"
+        },
+        {
+            "Key": 3839125090,
+            "NameEn": "Enemy Incoming DMG Limit",
+            "DescriptionEn": "All enemies have an <b:DamagedLimit> reducing the damage received from ally attacks to 1."
+        },
+        {
+            "Key": 89307624,
+            "NameEn": "AR/HG Additional Damage",
+            "DescriptionEn": "Allies who use AR or HG type weapons will deal damage as an additional hit to enemies."
+        },
+        {
+            "Key": 2045771535,
+            "NameEn": "Remove Ally Buffs",
+            "DescriptionEn": "All allies' buffs will be removed every 1s. (Enhanced Skill effects, Special Students' Sub Skill effects and other buffs that cannot be normally removed are unaffected)"
+        },
+        {
+            "Key": 1582447562,
+            "NameEn": "Increased Enemy Defense Piercing",
+            "DescriptionEn": "All enemies' <b:Penetration> is increased by <b>2,000</b>."
         }
     ]
 }

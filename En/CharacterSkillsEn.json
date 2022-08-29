@@ -1157,7 +1157,7 @@
         {
             "SkillId": 13009200,
             "NameEn": "Deploy Tactical Shield",
-            "DescriptionEn": "Increases <b:DEF> by <?1> for 30s and inflicts <c:Provoke> to all nearby enemies for <?2>.",
+            "DescriptionEn": "Increases <b:DEF> by <?1> for 30s and inflicts <c:Provoke> on enemies in a circular area around Tsubaki for <?2>.",
             "ParametersEn": [
                 [ "28.1%", "32.3%", "36.5%", "40.7%", "44.9%" ],
                 [ "4.7s" , "4.7s" , "5.4s" , "5.4s" , "6.2s"  ]
@@ -2626,7 +2626,7 @@
         {
             "SkillId": 10017200,
             "NameEn": "Call in the Guards!",
-            "DescriptionEn": "Deals <?1> damage to all nearby enemies.",
+            "DescriptionEn": "Deals <?1> damage to enemies in a circular area around Cherino.",
             "ParametersEn": [ ["515%", "541%", "563%", "588%", "605%"] ]
         },
         {
@@ -3982,7 +3982,7 @@
         {
             "SkillId": 16007200,
             "NameEn": "Everyone, Please Listen to Me!",
-            "DescriptionEn": "Increases the <b:CriticalChance> and <b:CriticalDamage> by <?1>, <b:MoveSpeed> by 30.8% but decreases <d:Range> by 38.5% of all nearby allies for 30s.",
+            "DescriptionEn": "Increases the <b:CriticalChance> and <b:CriticalDamage> by <?1>, <b:MoveSpeed> by 30.8% but decreases <d:Range> by 38.5% for all allies in a circular area around Tomoe for 30s.",
             "ParametersEn": [ ["13.9%", "14.9%", "17%", "18%", "20.1%"] ]
         },
         {
@@ -4497,13 +4497,13 @@
         {
             "SkillId": 10035200,
             "NameEn": "Antique Book Specialist",
-            "DescriptionEn": "Reduces the <b:CostChange> of an ally's next <b>two</b> EX skills by 50% (reduction is rounded down to the nearest whole number) and increases their <b:ATK> by <?1> for 46s. Cannot target self or tactical support vehicles.",
+            "DescriptionEn": "Reduces the <b:CostChange> of an ally's next <b>two</b> EX skill uses by 50% (The amount reduced is rounded down to the nearest whole number) and increases their <b:ATK> by <?1> for 46s. Cannot target self or T.S. vehicles.",
             "ParametersEn": [ ["10%", "11.6%", "13.1%", "14.6%", "16.1%"] ]
         },
         {
             "SkillId": 10035300,
             "NameEn": "Knowledge To Pass On",
-            "DescriptionEn": "Every 40s, increases the <b:CriticalChance> of nearby allies by <?1> for 33s.",
+            "DescriptionEn": "Every 40s, increases the <b:CriticalChance> of allies in a circular area by <?1> for 33s.",
             "ParametersEn": [
                 [
                     "13.6%", "14.3%", "15%", "17.7%", "18.4%", "19.1%", "21.8%", "22.5%", "23.2%", 
@@ -4964,7 +4964,7 @@
         {
             "SkillId": 10040200,
             "NameEn": "Tsukuyo-Style Ninjutsu!",
-            "DescriptionEn": "Gains <b:HealByHit_Damaged> for 30s, restoring HP by <?1> of Healing each time Tsukuyo is attacked. (Effect can trigger up to a maximum of <b>100</b> times and Tsukuyo's <d:ATK> is decreased by <?2> for the effect's duration.)",
+            "DescriptionEn": "Gains a <b:HealByHit_Damaged> effect for 30s, restoring HP by <?1> of Healing each time Tsukuyo takes damage from an attack. (Effect can trigger up to a maximum of <b>100</b> times and Tsukuyo's <d:ATK> is decreased by <?2> for the effect's duration.)",
             "ParametersEn": [
                 [ "7%"   , "8%"   , "9.1%" , "10.1%", "11.2%" ],
                 [ "28.8%", "28.8%", "24.5%", "24.5%", "20.2%" ]
@@ -5005,7 +5005,7 @@
         },
         {
             "SkillId": 10040450,
-            "NameEn": "Natural Talent+",
+            "NameEn": "Natural Ability+",
             "DescriptionEn": "Increases <b:MAXHP> by <?1> plus a further <?2>.",
             "ParametersEn": [
                 ["4356", "4573", "4791", "5662", "5880", "6098", "6969", "7187", "7404", "8275"],

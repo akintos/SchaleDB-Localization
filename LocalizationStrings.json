@@ -566,7 +566,7 @@
                 "Th": "อีเวนท์"
             }
         },
-        "furniture_set": {
+        "FurnitureSet": {
             "100": {
                 "EtcKey": 2633292506,
                 "Cn": "Momo好友咖啡厅组合",
@@ -736,6 +736,14 @@
                 "CodeKey": 2925231910,
                 "Cn": "强化石",
                 "Th": "หินอัปเกรด"
+            },
+            "WeaponExpGrowth": {
+                "En": "Weapon Parts",
+                "Jp": "パーツ",
+                "Kr": "무기 부품",
+                "Th": "อะไหล่อาวุธ",
+                "Tw": "武器零件",
+                "Cn": "武器零件"
             },
             "WeaponExpGrowthA": {
                 "CodeKey": 3072661953,
@@ -924,7 +932,7 @@
             },
             "816": {
                 "CodeKey": 2795718439,
-                "En": "Sweet Secrets and Gun Fights"
+                "En": "After School Sweets Story"
             },
             "10801": {
                 "En": "Cherry Blossom Festival Commotion! (Rerun)",
@@ -1358,6 +1366,14 @@
                 "Tw": "暴擊傷害抵抗率",
                 "Cn": "暴击伤害抵抗率"
             },
+            "Buff_DamagedLimit": {
+                "En": "Incoming DMG Limit",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
             "Buff_DamagedRatio": {
                 "En": "Incoming Damage",
                 "Jp": "被ダメージ量",
@@ -1383,7 +1399,7 @@
                 "Cn": "回避值"
             },
             "Buff_DotHeal": {
-                "En": "Regeneration",
+                "En": "Regenerate",
                 "Jp": "持続回復",
                 "Kr": "지속 회복",
                 "Th": "HP ต่อเนื่อง",
@@ -1415,7 +1431,7 @@
                 "Cn": "神秘伤害加成"
             },
             "Buff_HealByHit_Damaged": {
-                "En": "Damage Recovery",
+                "En": "Counter Heal",
                 "Jp": "回復をする効果",
                 "Kr": "피격 시 치유력의",
                 "Th": "ฟื้นฟูความเสียหาย",
@@ -1662,6 +1678,14 @@
                 "Tw": "神秘傷害",
                 "Cn": "神秘伤害"
             },
+            "Debuff_HealedLimit": {
+                "En": "Recovery Limit",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
             "Debuff_HealEffectiveness": {
                 "En": "Recovery Boost",
                 "Jp": "被回復率",
@@ -1866,6 +1890,14 @@
                 "Kr": "와카모의 각인이",
                 "Tw": "若藻的印記",
                 "Cn": "若藻的印记"
+            },
+            "Special_Stamp": {
+                "En": "",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             }
         },
         "BuffNameLong": {
@@ -1934,6 +1966,14 @@
                 "Tw": "暴擊傷害抵抗率提升",
                 "Cn": "暴击伤害抵抗率提升"
             },
+            "Buff_DamagedLimit": {
+                "En": "Incoming DMG Limit",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
             "Buff_DamagedRatio": {
                 "En": "Incoming Damage Down",
                 "Th": "ความเสียหายที่ได้รับลดลง",
@@ -1977,7 +2017,7 @@
                 "Cn": "神秘伤害加成提升"
             },
             "Buff_HealByHit_Damaged": {
-                "En": "Damage Recovery",
+                "En": "Counter Heal",
                 "Th": "ฟื้นฟูเมื่อได้รับความเสียหาย",
                 "Tw": "擊中恢復",
                 "Cn": "击中回复"
@@ -2162,6 +2202,14 @@
                 "Tw": "神秘傷害下降",
                 "Cn": "神秘伤害下降"
             },
+            "Debuff_HealedLimit": {
+                "En": "Recovery Limit",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
             "Debuff_HealEffectiveness": {
                 "En": "Recovery Boost Down",
                 "Th": "อัตราเร่งการฟื้นฟูลดลง",
@@ -2320,6 +2368,13 @@
                 "Kr": "와카모의 각인이",
                 "Tw": "若藻的印記",
                 "Cn": "若藻的印记"
+            },
+            "Special_Stamp": {
+                "En": "",
+                "Jp": null,
+                "Kr": null,
+                "Tw": null,
+                "Cn": null
             }
         },
         "BuffTooltip": {
@@ -2375,6 +2430,9 @@
                 "En": "Decreases the damage received from critical hits.",
                 "Cn": "减少受到的暴击伤害",
                 "Th": "ลดความเสียหายของการถูกโจมตีคริติคอล"
+            },
+            "Buff_DamagedLimit": {
+                "En": "Limits the amount of damage received from attacks."
             },
             "Buff_DamagedRatio": {
                 "En": "Decreases all incoming damage by a percentage amount.",
@@ -2539,6 +2597,9 @@
                 "En": "Decreases the bonus damage dealt by Mystic type attacks against Special Armor targets.",
                 "Th": "ลดความเสียหายของการโจมตีประเภทลึกลับที่มีต่อเป้าหมายเกราะพิเศษ"
             },
+            "Debuff_HealedLimit": {
+                "En": "Limits the amount of HP healing abilities will restore."
+            },
             "Debuff_HealEffectiveness": {
                 "En": "Decreases the amount of HP restored from healing abilities.",
                 "Th": "ลดจำนวน HP ที่ฟื้นฟูจากความสามารถรักษา"
@@ -2648,6 +2709,9 @@
             "Special_SuddenDeath": {
                 "En": "A stack of 5 will deal lethal damage to the character.",
                 "Th": "เมื่อซ้อนทับครบ 5 ชั้น, สร้างความเสียหายที่จะสังหารเป้าหมายทันที"
+            },
+            "Special_Stamp": {
+                "En": ""
             }
         },
         "ui": {
@@ -2786,6 +2850,14 @@
                 "Th": "ค้นหา",
                 "Tw": "檢索",
                 "Cn": "搜索"
+            },
+            "filter_by_name": {
+                "En": "Filter by name",
+                "Jp": "名前しでフィルタ",
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             },
             "collection_export_collection": {
                 "En": "Export Collection",
@@ -3284,7 +3356,7 @@
                 "Cn": "排序"
             },
             "default": {
-                "En": "Released",
+                "En": "Default",
                 "Jp": "デフォルト",
                 "Kr": "기본값",
                 "Th": "ค่าเริ่มต้น",
@@ -3370,6 +3442,14 @@
                 "Th": "ตำแหน่ง",
                 "Tw": "位置",
                 "Cn": "站位"
+            },
+            "category": {
+                "En": "Category",
+                "Jp": "区分",
+                "Kr": "구분",
+                "Th": "ประเภท",
+                "Tw": "類別",
+                "Cn": "類別"
             },
             "combat_power": {
                 "En": "Terrain Strength",
@@ -3578,6 +3658,15 @@
                 "Th": "ได้ระดับ S {0} ครั้ง",
                 "Tw": "獲得S等級{0}次",
                 "Cn": "获得S等级{0}次"
+            },
+            "no_results": {
+                "En": "No results."
+            },
+            "furniture_set": {
+                "En": "Set"
+            },
+            "others": {
+                "En": "Other"
             },
             "options": {
                 "En": "Options",
