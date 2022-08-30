@@ -3670,8 +3670,11 @@
             },
             "furniture_set": {
                 "En": "Set",
-                "Tw": "家具套裝",
-                "Cn": "家具套装"
+                "Jp": "セット",
+                "Kr": "세트",
+                "Th": "เซ็ต",
+                "Tw": "組合",
+                "Cn": "組合"
             },
             "others": {
                 "En": "Other",
@@ -3853,6 +3856,20 @@
                 "Th": "อุปกรณ์",
                 "Tw": "裝備",
                 "Cn": "装备"
+            },
+            "list_style_detailed": {
+                "En": "Detailed View"
+            },
+            "list_style_compact": {
+                "En": "Compact View"
+            },
+            "equipment_tier": {
+                "En": "Equipment Tier",
+                "Jp": "装備Tier",
+                "Kr": "장비 티어",
+                "Th": "ระดับอุปกรณ์",
+                "Tw": "裝備級數",
+                "Cn": "裝備級數"
             },
             "furniture_interaction_list": {
                 "En": "The following students interact with this furniture",
