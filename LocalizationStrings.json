@@ -2718,6 +2718,24 @@
                 "En": ""
             }
         },
+        "ServerName": {
+            "0": {
+                "En": "Japan",
+                "Jp": "日本",
+                "Kr": null,
+                "Th": null,
+                "Tw": "日服",
+                "Cn": "日服"
+            },
+            "1": {
+                "En": "Global",
+                "Jp": "グローバル",
+                "Kr": null,
+                "Th": null,
+                "Tw": "國際服",
+                "Cn": "国际服"
+            }
+        },
         "ui": {
             "navbar_home": {
                 "En": "Home",
