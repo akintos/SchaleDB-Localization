@@ -937,27 +937,6 @@
                 "CodeKey": 2795718439,
                 "En": "After School Sweets Story",
                 "Cn": "放学后甜点故事 甜香的秘密与枪战"
-            },
-            "10801": {
-                "En": "Cherry Blossom Festival Commotion! (Rerun)",
-                "Jp": "桜花爛漫お祭り騒ぎ！（復刻）",
-                "Kr": "벚꽃만발 축제대소동!(Rerun)",
-                "Tw": "櫻花盛開慶典大騷動！(Rerun)",
-                "Cn": "樱花盛开庆典大骚动！(复刻)"
-            },
-            "10802": {
-                "En": "A Revolutionary Ivan Kupala (Rerun)",
-                "Jp": "革命のイワン・クパーラ（復刻）",
-                "Kr": "혁명의 이반 쿠팔라(Rerun)",
-                "Tw": "革命的伊凡·庫帕拉(Rerun)",
-                "Cn": "革命的伊凡·库帕拉(复刻)"
-            },
-            "10803": {
-                "En": "Summer Sky's Wishlist (Rerun)",
-                "Jp": "夏空のウィッシュリスト（復刻）",
-                "Kr": "여름 하늘의 위시 리스트(Rerun)",
-                "Tw": "夏日天空的願望清單(Rerun)",
-                "Cn": "夏日天空的愿望清单(复刻)"
             }
         },
         "StageType": {
@@ -2736,6 +2715,36 @@
                 "Cn": "国际服"
             }
         },
+        "ShopCategory": {
+            "General": {
+                "PrefabKey": 89804659
+            },
+            "Raid": {
+                "PrefabKey": 3170356115
+            },
+            "SecretStone": {
+                "PrefabKey": 639380687,
+                "En": "Eligma I"
+            },
+            "SecretStoneGrowth": {
+                "PrefabKey": 176151650,
+                "En": "Eligma II"
+            },
+            "Arena": {
+                "PrefabKey": 2999589380
+            },
+            "TimeAttack": {
+                "PrefabKey": 685405644,
+                "En": "Joint Firing Drill"
+            },
+            "MasterCoin": {
+                "PrefabKey": 2655871184
+            },
+            "Chaser": {
+                "CodeKey": 1889255299,
+                "En": "Bounty Shop"
+            }
+        },
         "ui": {
             "navbar_home": {
                 "En": "Home",
@@ -3609,6 +3618,14 @@
                 "Tw": "地圖",
                 "Cn": "地图"
             },
+            "event_rerun": {
+                "En": " (Rerun)",
+                "Jp": "（復刻）",
+                "Kr": null,
+                "Th": null,
+                "Tw": "(复刻)",
+                "Cn": "(复刻)"
+            },
             "starcondition_clear": {
                 "En": "Clear",
                 "Jp": "クリア",
@@ -3956,6 +3973,14 @@
                 "Th": "ได้รับจากด่านดังต่อไปนี้",
                 "Tw": "從以下場景獲得",
                 "Cn": "从以下场景获得"
+            },
+            "item_purchasedfrom": {
+                "En": "Purchased from the following shops",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             },
             "item_randombox_tier": {
                 "En": "Random {0} {1}",
