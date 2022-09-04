@@ -3710,7 +3710,7 @@
                 "Kr": "세트",
                 "Th": "เซ็ต",
                 "Tw": "組合",
-                "Cn": "組合"
+                "Cn": "组合"
             },
             "others": {
                 "En": "Other",
@@ -3908,7 +3908,7 @@
                 "Kr": "장비 티어",
                 "Th": "ระดับอุปกรณ์",
                 "Tw": "裝備級數",
-                "Cn": "裝備級數"
+                "Cn": "装备级数"
             },
             "furniture_interaction_list": {
                 "En": "The following students interact with this furniture",
@@ -3979,8 +3979,8 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "從以下商店購買",
+                "Cn": "从以下商店购买"
             },
             "item_randombox_tier": {
                 "En": "Random {0} {1}",
