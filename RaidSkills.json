@@ -746,7 +746,7 @@
                     "",
                     "",
                     "",
-                    " และเมื่อใช้สกิลEX โจมตีจะลด<d:HealEffectiveness>ของเป้าหมายลง 80% (เป็นเวลา 30 วินาที)"
+                    " และเมื่อใช้สกิล EX โจมตีจะลด<d:HealEffectiveness>ของเป้าหมายลง 80% (เป็นเวลา 30 วินาที)"
                 ],
                 [
                     "70,000",
@@ -1005,11 +1005,11 @@
         {
             "Id": "HODEx03",
             "NameEn": "Generate Invader Pillar",
-            "NameTh": "สร้างเสาอินเวเดอร์",
+            "NameTh": "สร้างเสากัดกร่อน",
             "DescriptionEn": "Summons an Erosion Tower, decreasing the <d:CostRegen> of enemies and allies by <b>350</b> in a circular area around it and forcing nearby defense turrets to attack enemies instead of Hod. The tower's area of effect expands every 15s.",
             "DescriptionJp": "インベイドピラーを召喚。インベイドピラーは15秒毎に、侵食範囲を拡大していきます。\n侵食範囲内に入った敵の<d:CostRegen>を350減少。侵食範囲内に入ったフィールドターレットは、ホドではなく敵を攻撃するようになります。",
             "DescriptionKr": "침식 타워를 소환합니다. 침식 타워는 15초마다 침식 범위를 넓혀갑니다. \n침식 범위 내에 들어온 적은 <d:CostRegen>이 350 감소합니다. 침식 범위 내에 들어온 방어 포탑은 아군을 공격합니다.",
-            "DescriptionTh": "เรียกเสาอินเวเดอร์ออกมา<?1> โดยรัศมีทำการของเสาจะเพิ่มขึ้นทุก 15 วินาที\nลด<d:CostRegen>ของทุกเป้าหมายที่อยู่ในรัศมี <b>350</b> หากมีป้อมปืนอยู่ในรัศมีจะเปลี่ยนเป้าหมายของป้อมปืนให้โจมตีศัตรูแทนตัวของฮ็อด",
+            "DescriptionTh": "สร้างเสากัดกร่อนออกมา<?1> โดยรัศมีทำการของเสาจะเพิ่มขึ้นทุก 15 วินาที\nลด<d:CostRegen>ของทุกเป้าหมายที่อยู่ในรัศมี <b>350</b> รอบเสา หากมีป้อมปืนอยู่ในรัศมีจะเปลี่ยนเป้าหมายของป้อมปืนให้โจมตีศัตรูแทนตัวของฮ็อด",
             "ParametersTh": [
                 [
                     "",
@@ -1110,7 +1110,7 @@
                 ]
             ],
             
-            "DescriptionTh": "ฮ็อดและเสาอินเวเดอร์จะไม่ได้รับผลของเอฟเฟคกดขี่ แต่ระยะเวลาของเอฟเฟคกดขี่ที่ได้รับจะถูกนำไปเพิ่มเกจพิเศษแทน<?2>\nเมื่อเกจพิเศษมีระยะเวลาของเอฟเฟคกดขี่ครบ <?1> จะส่งผลต่อไปนี้\nฮ็อด : เพิ่ม<d:DamagedRatio> 300%, เพิ่มเกจมึนงงและลด ATG ของฮ็อดลง\nเสาอินเวเดอร์ : เพิ่ม<d:DamagedRatio> 300% และลดรัศมีที่ส่งผลลง 1 ขั้น",
+            "DescriptionTh": "ฮ็อดและเสากัดกร่อนจะไม่ได้รับผลของเอฟเฟคกดขี่ แต่ระยะเวลาของเอฟเฟคกดขี่ที่ได้รับจะถูกนำไปเพิ่มเกจพิเศษแทน<?2>\nเมื่อเกจพิเศษมีระยะเวลาของเอฟเฟคกดขี่ครบ <?1> จะส่งผลต่อไปนี้\nฮ็อด : เพิ่ม<d:DamagedRatio> 300%, เพิ่มเกจมึนงงและลด ATG ของฮ็อดลง\nเสากัดกร่อน : เพิ่ม<d:DamagedRatio> 300% และลดรัศมีที่ส่งผลลง 1 ขั้น",
             "ParametersTh": [
                 [
                     "6 วินาที",
@@ -1140,7 +1140,7 @@
             "DescriptionEn": "Hod and all summoned Erosion Towers have 400% increased Crit RES.\nErosion Towers are also immune to the effects of <d:ConcentratedTarget>.",
             "DescriptionJp": "ホドとインベイドピラーの会心抵抗値を400%増加。\nインベイドピラーは<d:ConcentratedTarget>を無効化します。",
             "DescriptionKr": "호드, 침식타워의 치명 저항력이 400% 증가합니다.\n침식타워는 <d:ConcentratedTarget> 효과에 면역입니다.",
-            "DescriptionTh": "ฮ็อดและเสาอินเวเดอร์จะมีค่าต้านทานคริเพิ่ม 400%\nเสาอินเวเดอร์จะไม่ได้รับผลจากการถูกเอฟเฟค<d:ConcentratedTarget>หมายหัว",
+            "DescriptionTh": "ฮ็อดและเสากัดกร่อนจะมีค่าต้านทานคริเพิ่ม 400%\nเสากัดกร่อนจะไม่ได้รับผลจากการถูกเอฟเฟค<d:ConcentratedTarget>หมายหัว",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
