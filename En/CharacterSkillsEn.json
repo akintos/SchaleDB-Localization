@@ -4337,7 +4337,7 @@
         {
             "SkillId": 20012200,
             "NameEn": "Emergency Dispatch",
-            "DescriptionEn": "Deploys Sena riding Emergency Vehicle No.11 for 50s, with an additional <?1> of Sena's <b:HealPower>. Emergency Vehicle No.11 increases the <b:ATK> of allies in a circular area around it by <?2> and continuously restores their HP by <?3> of Healing every 10s as long as they stay within range. Only one tactical support vehicle may be deployed at any given time.",
+            "DescriptionEn": "Deploys Sena riding Tactical Ambulance 11 for 50s, with an additional <?1> of Sena's <b:HealPower>. Tactical Ambulance 11 increases the <b:ATK> of allies in a circular area around it by <?2> and continuously restores their HP by <?3> of Healing every 10s as long as they stay within range. Only one tactical support vehicle may be deployed at any given time.",
             "ParametersEn": [
                 [ "16.2%", "18.6%", "21.1%", "23.5%", "25.9%" ],
                 [ "17%"  , "17.9%", "18.3%", "21.7%", "22.1%" ],

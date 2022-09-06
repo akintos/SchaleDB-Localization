@@ -1006,7 +1006,7 @@
             "Id": "HODEx03",
             "NameEn": "Generate Invader Pillar",
             "NameTh": "สร้างเสาอินเวเดอร์",
-            "DescriptionEn": "Summons an Invader Pillar, decreasing the <d:CostRegen> of enemies and allies by <b>350</b> in a circular area around it and forcing nearby defense turrets to attack enemies instead of Hod. The pillar's area of effect expands every 15s.",
+            "DescriptionEn": "Summons an Erosion Tower, decreasing the <d:CostRegen> of enemies and allies by <b>350</b> in a circular area around it and forcing nearby defense turrets to attack enemies instead of Hod. The tower's area of effect expands every 15s.",
             "DescriptionJp": "インベイドピラーを召喚。インベイドピラーは15秒毎に、侵食範囲を拡大していきます。\n侵食範囲内に入った敵の<d:CostRegen>を350減少。侵食範囲内に入ったフィールドターレットは、ホドではなく敵を攻撃するようになります。",
             "DescriptionKr": "침식 타워를 소환합니다. 침식 타워는 15초마다 침식 범위를 넓혀갑니다. \n침식 범위 내에 들어온 적은 <d:CostRegen>이 350 감소합니다. 침식 범위 내에 들어온 방어 포탑은 아군을 공격합니다.",
             "DescriptionTh": "เรียกเสาอินเวเดอร์ออกมา<?1> โดยรัศมีทำการของเสาจะเพิ่มขึ้นทุก 15 วินาที\nลด<d:CostRegen>ของทุกเป้าหมายที่อยู่ในรัศมี <b>350</b> หากมีป้อมปืนอยู่ในรัศมีจะเปลี่ยนเป้าหมายของป้อมปืนให้โจมตีศัตรูแทนตัวของฮ็อด",
@@ -1052,7 +1052,7 @@
             "Id": "HODPassive01",
             "NameEn": "Hidden Glory",
             "NameTh": "เบื้องหลังแห่งเกียรติยศ",
-            "DescriptionEn": "Hod and all summoned Invader Pillars are immune to the effects of crowd-control. However, crowd-control abilities will fill their circular <b>stun gauge</b> proportional to the duration of the effect that would be inflicted.<?2>\nOnce the stun gauge reaches a total equivalent to <?1> of crowd-control duration, inflicts the following effects:\n<b>Hod</b>: Increases <d:DamagedRatio> by 300% for 30s and decrease Hod's ATG gauge.\n<b>Invader Pillar</b>: Increases <d:DamagedRatio> by 300% for 30s and reduce the pillar's area of effect by 1 stage.",
+            "DescriptionEn": "Hod and all summoned Erosion Towers are immune to the effects of crowd-control. However, crowd-control abilities will fill their circular <b>stun gauge</b> proportional to the duration of the effect that would be inflicted.<?2>\nOnce the stun gauge reaches a total equivalent to <?1> of crowd-control duration, inflicts the following effects:\n<b>Hod</b>: Increases <d:DamagedRatio> by 300% for 30s and decrease Hod's ATG gauge.\n<b>Erosion Tower</b>: Increases <d:DamagedRatio> by 300% for 30s and reduce the tower's area of effect by 1 stage.",
             "ParametersEn": [
                 [
                     "6s",
@@ -1137,7 +1137,7 @@
             "Id": "HODPassive02",
             "NameEn": "In The Shadow of Honor",
             "NameTh": "ใต้เงาแห่งเกียรติยศ",
-            "DescriptionEn": "Hod and all summoned Invader Pillars have 400% increased Crit RES.\nInvader Pillars are also immune to the effects of <d:ConcentratedTarget>.",
+            "DescriptionEn": "Hod and all summoned Erosion Towers have 400% increased Crit RES.\nErosion Towers are also immune to the effects of <d:ConcentratedTarget>.",
             "DescriptionJp": "ホドとインベイドピラーの会心抵抗値を400%増加。\nインベイドピラーは<d:ConcentratedTarget>を無効化します。",
             "DescriptionKr": "호드, 침식타워의 치명 저항력이 400% 증가합니다.\n침식타워는 <d:ConcentratedTarget> 효과에 면역입니다.",
             "DescriptionTh": "ฮ็อดและเสาอินเวเดอร์จะมีค่าต้านทานคริเพิ่ม 400%\nเสาอินเวเดอร์จะไม่ได้รับผลจากการถูกเอฟเฟค<d:ConcentratedTarget>หมายหัว",

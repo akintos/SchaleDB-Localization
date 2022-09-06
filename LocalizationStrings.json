@@ -914,7 +914,6 @@
             },
             "812": {
                 "CodeKey": 3866702588,
-                "En": "The Clumsy Sister and the Magician of the Old Library",
                 "Cn": "冒失的修女与古书馆的魔术师",
                 "Th": "ซิสเตอร์จอมโก๊ะกังกับแม่มดแห่งห้องสมุดเก่า"
             },
@@ -3743,7 +3742,7 @@
                 "Cn": "规则"
             },
             "ta_phase": {
-                "En": "Phase ",
+                "En": "Stage ",
                 "Jp": "フェーズ",
                 "Kr": "단계",
                 "Th": "เฟส ",

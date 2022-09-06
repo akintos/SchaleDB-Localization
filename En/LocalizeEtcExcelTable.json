@@ -7,6 +7,7 @@
         },
         {
             "Key": 1668372693,
+            "Force": true,
             "NameEn": "Joint Firing Drill Coin",
             "DescriptionEn": "This coin can be spent at the Joint Firing Drill Shop."
         },
@@ -734,126 +735,151 @@
         },
         {
             "Key": 990306261,
+            "Force": true,
             "NameEn": "Exercise Terrain (Outdoor)",
             "DescriptionEn": "This exercise will take place in <b>outdoor</b> terrain."
         },
         {
             "Key": 1329507091,
+            "Force": true,
             "NameEn": "Exercise Terrain (Indoor)",
             "DescriptionEn": "This exercise will take place in <b>indoor</b> terrain."
         },
         {
             "Key": 3938056289,
+            "Force": true,
             "NameEn": "Exercise Terrain (Street)",
             "DescriptionEn": "This exercise will take place in <b>street</b> terrain."
         },
         {
             "Key": 2060888564,
+            "Force": true,
             "NameEn": "Enemy Defense Type (Light Armor)",
             "DescriptionEn": "Enemies' defense type will be <b class='ba-col-explosion'>Light Armor</b>."
         },
         {
             "Key": 2060888564,
+            "Force": true,
             "NameEn": "Enemy Defense Type (Light Armor)",
             "DescriptionEn": "Enemies' defense type will be <b class='ba-col-explosion'>Light Armor</b>."
         },
         {
             "Key": 2075498290,
+            "Force": true,
             "NameEn": "Enemy Defense Type (Heavy Armor)",
             "DescriptionEn": "Enemies' defense type will be <b class='ba-col-pierce'>Heavy Armor</b>."
         },
         {
             "Key": 2570956929,
+            "Force": true,
             "NameEn": "Enemy Defense Type (Special Armor)",
             "DescriptionEn": "Enemies' defense type will be <b class='ba-col-mystic'>Special Armor</b>."
         },
         {
             "Key": 983164925,
+            "Force": true,
             "NameEn": "Decreased Ally Attack Speed",
             "DescriptionEn": "All allies' <d:AttackSpeed> is decreased by 75%."
         },
         {
             "Key": 3257931121,
+            "Force": true,
             "NameEn": "Increased Enemy Evasion",
             "DescriptionEn": "All enemies' <b:Dodge> is increased by 1000%."
         },
         {
             "Key": 2503860611,
+            "Force": true,
             "NameEn": "Decreased Ally Defense",
             "DescriptionEn": "All allies' <d:DEF> is decreased by 90%."
         },
         {
             "Key": 3301214750,
+            "Force": true,
             "NameEn": "Enemies Explode on Defeat",
             "DescriptionEn": "When an enemy is defeated, they deal <b>100%</b> damage to allies in a circular area around them."
         },
         {
             "Key": 648270201,
+            "Force": true,
             "NameEn": "Decreased SR Ally Attack",
             "DescriptionEn": "Decreases <d:ATK> for all allies who use SR type weapons by 90%."
         },
         {
             "Key": 2856565282,
+            "Force": true,
             "NameEn": "Increased Enemy Accuracy",
             "DescriptionEn": "All enemies' <b:HIT> is increased by <b>1,500</b>."
         },
         {
             "Key": 1949095289,
+            "Force": true,
             "NameEn": "Increased Ally Critical Rate",
             "DescriptionEn": "All allies' <b:CriticalChance> is increased by <b>2,000</b>."
         },
         {
             "Key": 1428571194,
+            "Force": true,
             "NameEn": "Ally Cost Recovery Decreases after using EX Skills",
             "DescriptionEn": "Decreases all allies' <d:CostRegen> by <b>60</b> each time an ally uses their EX skill. Effect lasts until the end of battle."
         },
         {
             "Key": 3009801818,
+            "Force": true,
             "NameEn": "Decreased MT/AR Ally Attack",
             "DescriptionEn": "Decreases <d:ATK> for all allies who use MT or AR type weapons by 90%."
         },
         {
             "Key": 2490399639,
+            "Force": true,
             "NameEn": "Additional Damage when inflicting CC",
             "DescriptionEn": "Enemies have <b>100,000</b> increased <b:MAXHP>. Enemies receive an additional <b>120,000</b> damage whenever they are inflicted with a Crowd Control effect."
         },
         {
             "Key": 719379007,
+            "Force": true,
             "NameEn": "Scarecrow HP Damage over Time",
             "DescriptionEn": "The Scarecrow will receive damage equal to 2% of its Max HP every 1s."
         },
         {
             "Key": 773473613,
+            "Force": true,
             "NameEn": "All Roles Formation",
             "DescriptionEn": "If a unit contains at least one Support, Dealer, Tank, Healer and T.S. student, increases the <b:CostRegen> of all allies by <b>700</b>."
         },
         {
             "Key": 3091509634,
+            "Force": true,
             "NameEn": "The Elite Few",
             "DescriptionEn": "Increases all allies' <b:ATK> by 300%/150%/100%/50% and <b:CostRegen> by <b>3,500/2,450/1,400/1,050</b> if there are only <b>1/2/3/4</b> students in the unit."
         },
         {
             "Key": 3334829467,
+            "Force": true,
             "NameEn": "Enemy Continuous Healing",
             "DescriptionEn": "All enemies restore 50% of their Max HP every 30s"
         },
         {
             "Key": 3839125090,
+            "Force": true,
             "NameEn": "Enemy Incoming DMG Limit",
             "DescriptionEn": "All enemies have an <b:DamagedLimit> reducing the damage received from ally attacks to 1."
         },
         {
             "Key": 89307624,
+            "Force": true,
             "NameEn": "AR/HG Additional Damage",
             "DescriptionEn": "Allies who use AR or HG type weapons will deal damage as an additional hit to enemies."
         },
         {
             "Key": 2045771535,
+            "Force": true,
             "NameEn": "Remove Ally Buffs",
             "DescriptionEn": "All allies' buffs will be removed every 1s. (Enhanced Skill effects, Special Students' Sub Skill effects and other buffs that cannot be normally removed are unaffected)"
         },
         {
             "Key": 1582447562,
+            "Force": true,
             "NameEn": "Increased Enemy Defense Piercing",
             "DescriptionEn": "All enemies' <b:Penetration> is increased by <b>2,000</b>."
         }
