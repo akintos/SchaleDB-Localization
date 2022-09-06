@@ -1030,8 +1030,7 @@
         "TimeAttackStage": {
             "Shooting": {
                 "EtcKey": 1223379449,
-                "En": "Shooting Drill",
-                "Th": "การสอบประมวล (ยิง)"
+                "En": "Shooting Drill"
             },
             "Defense": {
                 "EtcKey": 546386169,
@@ -1352,7 +1351,7 @@
                 "En": "Incoming DMG Limit",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "จำกัดความเสียหายที่ได้รับ",
                 "Tw": null,
                 "Cn": null
             },
@@ -1664,7 +1663,7 @@
                 "En": "Recovery Limit",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "จำกัดการฟื้นฟู",
                 "Tw": null,
                 "Cn": null
             },
@@ -1852,6 +1851,7 @@
             "Special_Accumulation": {
                 "En": "Accumulation",
                 "Jp": "間蓄積",
+                "Th": "สะสม",
                 "Kr": "축적한",
                 "Tw": "累積傷害",
                 "Cn": "累积伤害"
@@ -1952,7 +1952,7 @@
                 "En": "Incoming DMG Limit",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "จำกัดความเสียหายที่ได้รับ",
                 "Tw": null,
                 "Cn": null
             },
@@ -2188,7 +2188,7 @@
                 "En": "Recovery Limit",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "จำกัดการฟื้นฟู",
                 "Tw": null,
                 "Cn": null
             },
@@ -2331,6 +2331,7 @@
             },
             "Special_Accumulation": {
                 "En": "DMG Accumulation",
+                "Th": "ความเสียหายสะสม",
                 "Tw": "累積傷害",
                 "Cn": "累积伤害"
             },
@@ -2414,7 +2415,8 @@
                 "Th": "ลดความเสียหายของการถูกโจมตีคริติคอล"
             },
             "Buff_DamagedLimit": {
-                "En": "Limits the amount of damage received from attacks."
+                "En": "Limits the amount of damage received from attacks.",
+                "Th": "จำกัดปริมาณความเสียหายที่ได้รับจากการโจมตี"
             },
             "Buff_DamagedRatio": {
                 "En": "Decreases all incoming damage by a percentage amount.",
@@ -2701,7 +2703,7 @@
                 "En": "Japan",
                 "Jp": "日本",
                 "Kr": null,
-                "Th": null,
+                "Th": "ญี่ปุ่น",
                 "Tw": "日服",
                 "Cn": "日服"
             },
@@ -2709,7 +2711,7 @@
                 "En": "Global",
                 "Jp": "グローバル",
                 "Kr": null,
-                "Th": null,
+                "Th": "โกลบอล",
                 "Tw": "國際服",
                 "Cn": "国际服"
             }
@@ -3621,7 +3623,7 @@
                 "En": " (Rerun)",
                 "Jp": "（復刻）",
                 "Kr": null,
-                "Th": null,
+                "Th": "(รีรัน)",
                 "Tw": "(复刻)",
                 "Cn": "(复刻)"
             },
@@ -3977,7 +3979,7 @@
                 "En": "Purchased from the following shops",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ซื้อได้จากร้านค้าดังต่อไปนี้",
                 "Tw": "從以下商店購買",
                 "Cn": "从以下商店购买"
             },
