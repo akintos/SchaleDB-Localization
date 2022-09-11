@@ -508,7 +508,7 @@
                 "Th": "ความเร็วเคลื่อนที่"
             },
             "DamagedRatio": {
-                "En": "Incoming Damage",
+                "En": "Incoming DMG RES",
                 "Jp": "受けるダメージ量",
                 "Kr": "받는 대미지량",
                 "Th": "ความเสียหายที่ได้รับ",
@@ -521,7 +521,7 @@
                 "Th": "ความเร็วโจมตี"
             },
             "BlockRate": {
-                "En": "Block Rate",
+                "En": "Block Rate Bonus",
                 "Jp": "遮蔽成功値",
                 "Kr": "엄폐 성공률",
                 "Th": "อัตรากำบังสำเร็จ",
@@ -2468,7 +2468,7 @@
                 "Th": "ฟื้นฟู HP ทุกครั้งที่ได้รับความเสียหายจากการโจมตี"
             },
             "Buff_HealEffectiveness": {
-                "En": "Increases the amount of HP restored from healing abilities.",
+                "En": "Increases the amount of HP restored from healing abilities that target this character.",
                 "Th": "เพิ่มจำนวน HP ที่ฟื้นฟูจากความสามารถรักษา"
             },
             "Buff_HealPower": {
@@ -2598,7 +2598,7 @@
                 "En": "Limits the amount of HP healing abilities will restore."
             },
             "Debuff_HealEffectiveness": {
-                "En": "Decreases the amount of HP restored from healing abilities.",
+                "En": "Decreases the amount of HP restored from healing abilities that target this character.",
                 "Th": "ลดจำนวน HP ที่ฟื้นฟูจากความสามารถรักษา"
             },
             "Debuff_HealPower": {
@@ -4268,12 +4268,20 @@
                 "Cn": "受到伤害降低：{0}"
             },
             "stat_crit_tooltip": {
-                "En": "Crit Chance: {0}\n<small><i>Against an enemy with 100 Crit RES</i></small>",
+                "En": "Crit Chance:",
                 "Jp": null,
                 "Kr": null,
-                "Th": "อัตราการติดคริ: {0}\n<small><i>ใส่เป้าหมายที่มีค่าต้านทานคริ 100</i></small>",
-                "Tw": "暴擊幾率：{0}\n<small><i>對於一個暴擊抵抗力100的敵人</i></small>",
-                "Cn": "暴击几率：{0}\n<small><i>对于一个暴击抵抗力100的敌人</i></small>"
+                "Th": "อัตราการติดคริ:",
+                "Tw": "暴擊幾率：",
+                "Cn": "暴击几率："
+            },
+            "stat_crit_amount_tooltip": {
+                "En": "{0}&nbsp;<small><i>({1} Crit RES)</i></small>",
+                "Jp": null,
+                "Kr": null,
+                "Th": "{0}&nbsp;<small><i>(ใส่เป้าหมายที่มีค่าต้านทานคริ {1})</i></small>",
+                "Tw": "{0}&nbsp;<small><i>(對於一個暴擊抵抗力{1}的敵人)</i></small>",
+                "Cn": "{0}&nbsp;<small><i>(对于一个暴击抵抗力{1}的敌人)</i></small>"
             },
             "stat_stability_tooltip": {
                 "En": "Minimum DMG: {0}",

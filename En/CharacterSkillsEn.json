@@ -1882,7 +1882,7 @@
         {
             "SkillId": 23003350,
             "NameEn": "Sabotage: Plan A+",
-            "DescriptionEn": "Every 30s, decreases the <d:HealEffectiveness> of one enemy by <?1> for 15s.",
+            "DescriptionEn": "Every 30s, decreases the <d:HealEffectiveness> of one enemy by <?1> for 25s.",
             "ParametersEn": [
                 [
                     "35.6%", "37.3%", "39.1%", "46.2%", "48%", "49.8%", "56.9%", "58.7%", "60.5%", 
@@ -4401,7 +4401,7 @@
         {
             "SkillId": 20013300,
             "NameEn": "Into The Backdoor",
-            "DescriptionEn": "Every 30s, decreases the <d:ATK> of the enemy with the highest ATK by <?1> for 30s.",
+            "DescriptionEn": "Every 30s, decreases the <d:ATK> of the enemy with the highest ATK by <?1> for 23s.",
             "ParametersEn": [
                 [
                     "16.9%", "17.8%", "18.6%", "22%", "22.8%", "23.7%", "27.1%", "27.9%", "28.8%", 

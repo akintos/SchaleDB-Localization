@@ -4283,7 +4283,7 @@
         {
             "SkillId": 23003350,
             "NameCn": "破壊工作：プランA+",
-            "DescriptionCn": "每30秒降低一个敌人<?1><d:HealEffectiveness> (15秒内)",
+            "DescriptionCn": "每30秒降低一个敌人<?1><d:HealEffectiveness> (25秒内)",
             "ParametersCn": [
                 [
                     "35.6%",
@@ -10079,7 +10079,7 @@
         {
             "SkillId": 20013300,
             "NameCn": "イントゥ・ザ・バックドア",
-            "DescriptionCn": "每30秒降低拥有最高攻击力的敌人<?1><d:ATK> (30秒内)",
+            "DescriptionCn": "每30秒降低拥有最高攻击力的敌人<?1><d:ATK> (23秒内)",
             "ParametersCn": [
                 [
                     "16.9%",
