@@ -1349,8 +1349,8 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "จำกัดความเสียหายที่ได้รับ",
-                "Tw": null,
-                "Cn": null
+                "Tw": "限制遭受的傷害",
+                "Cn": "限制遭受的伤害"
             },
             "Buff_DamagedRatio": {
                 "En": "Incoming Damage",
@@ -1661,8 +1661,8 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "จำกัดการฟื้นฟู",
-                "Tw": null,
-                "Cn": null
+                "Tw": "限制恢復能力",
+                "Cn": "限制回复能力"
             },
             "Debuff_HealEffectiveness": {
                 "En": "Recovery Boost",
@@ -1797,8 +1797,8 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "癱瘓",
+                "Cn": "瘫痪"
             },
             "Special_EnergyBatteryHalf": {
                 "En": "Energy",
@@ -1958,8 +1958,8 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "จำกัดความเสียหายที่ได้รับ",
-                "Tw": null,
-                "Cn": null
+                "Tw": "限制遭受的傷害",
+                "Cn": "限制遭受的伤害"
             },
             "Buff_DamagedRatio": {
                 "En": "Incoming Damage Down",
@@ -2194,8 +2194,8 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "จำกัดการฟื้นฟู",
-                "Tw": null,
-                "Cn": null
+                "Tw": "限制恢復能力",
+                "Cn": "限制回复能力"
             },
             "Debuff_HealEffectiveness": {
                 "En": "Recovery Boost Down",
@@ -2298,8 +2298,8 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "癱瘓",
+                "Cn": "瘫痪"
             },
             "Special_EnergyBatteryHalf": {
                 "En": "Energy Charge",
@@ -2653,7 +2653,8 @@
             },
             "CC_Stunned": {
                 "En": "Unable to act and interrupts any active skills.",
-                "Th": "ไม่สามารถตอบสนองได้ นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก"
+                "Th": "ไม่สามารถตอบสนองได้ นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก",
+                "Cn": "无法行动并打断任何主动技能。"
             },
             "CC_Provoke": {
                 "En": "Forced to attack whoever inflicted taunt on them. Also interrupts any active skills.",
@@ -2665,7 +2666,7 @@
                 "Kr": null,
                 "Th": "ไม่สามารถตอบสนองได้ นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก",
                 "Tw": null,
-                "Cn": null
+                "Cn": "无法行动并打断任何主动技能。"
             },
             "Special_EnergyBatteryHalf": {
                 "En": "Increases the effectiveness of Aris's EX and Sub skills by 1.5&times; (half) or 2&times; (full).\nCharge level resets to empty after EX skill use.",
@@ -2673,6 +2674,7 @@
             },
             "Special_FormChange": {
                 "En": "Augments Normal Attacks.",
+                "Cn": "增强普通攻击力。",
                 "Th": "เปลี่ยนรูปแบบของการโจมตีปกติ"
             },
             "Special_Immortal": {
@@ -2699,6 +2701,7 @@
             },
             "Special_Accumulation": {
                 "En": "All damage dealt to this target for the duration of the effect will be accumulated and dealt again as an additional hit once this expires.",
+                "Cn": "效果持续期间对该目标造成的所有伤害将被累积，并在效果过期后作为额外打击再次造成伤害。",
                 "Th": "ทุกความเสียหายที่ทำใส่เป้าหมายในระยะเวลาของเอฟเฟคนี้จะถูกสะสมและเปลี่ยนเป็นความเสียหายลึกลับเพิ่มเติมใส่เป้าหมายอีกครั้งเมื่อระยะเวลาของเอฟเฟคนี้จบลง"
             },
             "Special_CostRegenBan": {
@@ -3776,16 +3779,16 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "ไอเทมที่สามารถได้รับ",
-                "Tw": "可能項",
-                "Cn": "可能项"
+                "Tw": "可能道具",
+                "Cn": "可能道具"
             },
             "craft_using": {
                 "En": "Crafted using the following items",
                 "Jp": null,
                 "Kr": null,
                 "Th": "คราฟโดยใช้ไอเทมต่อไปนี้",
-                "Tw": "使用以下項製造",
-                "Cn": "使用以下项制造"
+                "Tw": "使用以下道具製造",
+                "Cn": "使用以下道具制造"
             },
             "bond_req_equip": {
                 "En": "Requires <i class='ms-1 fa-solid fa-heart'></i> {0} with {1} to equip",
@@ -3917,11 +3920,15 @@
             },
             "list_style_detailed": {
                 "En": "Detailed View",
-                "Th": "มุมมองแบบละเอียด"
+                "Th": "มุมมองแบบละเอียด",
+                "Tw": "詳細視圖",
+                "Cn": "详细视图"
             },
             "list_style_compact": {
                 "En": "Compact View",
-                "Th": "มุมมองแบบย่อ"
+                "Th": "มุมมองแบบย่อ",
+                "Tw": "緊湊視圖",
+                "Cn": "紧凑视图"
             },
             "equipment_tier": {
                 "En": "Equipment Tier",
@@ -4256,8 +4263,8 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "คัดลอกรหัสนำเข้าลงในคลิปบอร์ด",
-                "Tw": "導入字符串已複製到剪貼板",
-                "Cn": "导入字符串已复制到剪贴板"
+                "Tw": "已複製導入字符串到剪貼板",
+                "Cn": "已复制导入字符串到剪贴板"
             },
             "stat_defense_tooltip": {
                 "En": "DMG Reduction: {0}",
