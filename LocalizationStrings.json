@@ -1796,7 +1796,7 @@
                 "En": "Paralysis",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ชา",
                 "Tw": "癱瘓",
                 "Cn": "瘫痪"
             },
@@ -2297,7 +2297,7 @@
                 "En": "Paralysis",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ชา",
                 "Tw": "癱瘓",
                 "Cn": "瘫痪"
             },
@@ -2595,7 +2595,8 @@
                 "Th": "ลดความเสียหายของการโจมตีประเภทลึกลับที่มีต่อเป้าหมายเกราะพิเศษ"
             },
             "Debuff_HealedLimit": {
-                "En": "Limits the amount of HP healing abilities will restore."
+                "En": "Limits the amount of HP healing abilities will restore.",
+                "Th": "จำกัดจำนวน HP ที่ฟื้นฟูจากความสามารถรักษา"
             },
             "Debuff_HealEffectiveness": {
                 "En": "Decreases the amount of HP restored from healing abilities that target this character.",
@@ -2689,7 +2690,7 @@
             "Special_Fury": {
                 "En": "Increases the damage dealt by Neru's EX Skill.",
                 "Cn": "尼禄EX技能造成的伤害提升",
-                "Th": "เพิ่มความเสียหายที่ทำได้จากสกิล Ex ของเนรุ"
+                "Th": "เพิ่มความเสียหายที่ทำได้จากสกิล EX ของเนรุ"
             },
             "Special_Misdeed": {
                 "En": "Decreases DEF with each stack held and generates skill cost when Aru (New Year) uses her EX Skill.",
@@ -2766,7 +2767,8 @@
             },
             "Chaser": {
                 "CodeKey": 1889255299,
-                "En": "Bounty Shop"
+                "En": "Bounty Shop",
+                "Th": "ประกาศจับ"
             }
         },
         "ui": {
@@ -2910,7 +2912,7 @@
                 "En": "Filter by name",
                 "Jp": "名前しでフィルタ",
                 "Kr": null,
-                "Th": null,
+                "Th": "กรองด้วยชื่อ",
                 "Tw": "以名稱過濾",
                 "Cn": "按名称筛选"
             },
@@ -3006,7 +3008,7 @@
                 "En": "Current Events ({0} Server)",
                 "Jp": "現在のイベント（{0}サーバー）",
                 "Kr": null,
-                "Th": "อีเวนท์ปัจจุบัน (เซิร์ฟเวอร์ {0})",
+                "Th": "อีเวนท์ปัจจุบัน (เซิร์ฟเวอร์{0})",
                 "Tw": "當前活動 ({0})",
                 "Cn": "当前活动 ({0})"
             },
@@ -3406,7 +3408,7 @@
                 "En": "Sort By",
                 "Jp": "並び替え",
                 "Kr": "정렬",
-                "Th": "เรียง",
+                "Th": "เรียงตาม",
                 "Tw": "排列",
                 "Cn": "排序"
             },
@@ -3566,7 +3568,7 @@
                 "En": "{0} {1} <b>+{2}%</b> of {3}'s {1}",
                 "Jp": "{0}の{1} +{3}の{1}の<b>{2}%</b>分",
                 "Kr": null,
-                "Th": "{0}ของ{1} <b>+{2}%</b> ของ{1}ของ{3}",
+                "Th": "{1}ของ{0} <b>+{2}%</b> ของ{1}ของ{3}",
                 "Tw": null,
                 "Cn": null
             },
