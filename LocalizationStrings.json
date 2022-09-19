@@ -858,83 +858,71 @@
         },
         "EventName": {
             "701": {
-                "CodeKey": 3954032309,
-                "Cn": "特殊作战十字神名篇",
-                "Th": "ปฏิบัติการพิเศษ ภาคเดคาแกรมมาทอน"
+                "ScenarioKey": 2346127759,
+                "Cn": "特殊作战十字神名篇"
             },
             "801": {
-                "CodeKey": 1366307253,
-                "Cn": "樱花盛开庆典大骚动！",
-                "Th": "เทศกาลดอกซากุระบานสะพรั่ง!"
+                "ScenarioKey": 2773600499,
+                "Cn": "樱花盛开庆典大骚动！"
             },
             "802": {
-                "CodeKey": 2447230009,
-                "Cn": "革命的伊凡·库帕拉",
-                "Th": "ปฏิวัติป่วน อีวาน คูปาลา"
+                "ScenarioKey": 3841520946,
+                "Cn": "革命的伊凡·库帕拉"
             },
             "803": {
-                "CodeKey": 16262662,
-                "Cn": "夏日天空的愿望清单",
-                "Th": "ความปรารถนาในฤดูร้อน"
+                "ScenarioKey": 4106251530,
+                "Cn": "夏日天空的愿望清单"
             },
             "804": {
-                "CodeKey": 2849424303,
-                "Cn": "阳奈纠察部长的暑假！",
-                "Th": "ปิดเทอมหน้าร้อนของประธานกรรมการวินัยฮินะ!"
+                "ScenarioKey": 2703060754,
+                "Cn": "阳奈纠察部长的暑假！"
             },
             "805": {
-                "CodeKey": 3622986686,
-                "Cn": "梦幻岛的捉迷藏",
-                "Th": "เล่นซ่อนแอบในดินแดนแห่งฝัน"
+                "ScenarioKey": 2709915893,
+                "Cn": "梦幻岛的捉迷藏"
             },
             "806": {
-                "CodeKey": 3076700614,
-                "Cn": "船上的兔子追逐者",
-                "Th": "ตามล่าบันนี่ ภารกิจลับบนเรือยอร์ช"
+                "ScenarioKey": 1980144437,
+                "Cn": "船上的兔子追逐者"
             },
             "808": {
-                "CodeKey": 699864331,
-                "Cn": "227号温泉浴场营运日志！",
-                "Th": "บันทึกละมุน ออนเซ็น No.227!"
+                "ScenarioKey": 1198367208,
+                "Cn": "227号温泉浴场营运日志！"
             },
             "809": {
-                "CodeKey": 299315628,
-                "Cn": "新春狂想曲第68号",
-                "Th": "บทบรรเลงแห่งปีใหม่ No.68"
+                "ScenarioKey": 1633221653,
+                "Cn": "新春狂想曲第68号"
             },
             "810": {
-                "CodeKey": 237263146,
-                "Cn": "夏莱的快乐♡情人节巡逻",
-                "Th": "ชาเล่ต์ แฮปปี้♡วาเลนไทน์ ภาคสนาม"
+                "ScenarioKey": 3791568720,
+                "Cn": "夏莱的快乐♡情人节巡逻"
             },
             "811": {
-                "CodeKey": 2748093356,
-                "Cn": "狐坂若藻的沉默与祝宴",
-                "Th": "โคซากะ วาคาโมะ ความเงียบและงานฉลอง"
+                "ScenarioKey": 3145939835,
+                "Cn": "狐坂若藻的沉默与祝宴"
             },
             "812": {
-                "CodeKey": 3866702588,
-                "Cn": "冒失的修女与古书馆的魔术师",
-                "Th": "ซิสเตอร์จอมโก๊ะกังกับแม่มดแห่งห้องสมุดเก่า"
+                "ScenarioKey": 446190472,
+                "Cn": "冒失的修女与古书馆的魔术师"
             },
             "813": {
-                "CodeKey": 2102702620,
+                "ScenarioKey": 2477586931,
                 "En": "Heart of Shinobi",
                 "Cn": "不忍之心"
             },
             "814": {
-                "CodeKey": 293214237,
+                "ScenarioKey": 784454923,
                 "En": "Abydos Resort Restoration Task Force",
                 "Cn": "阿拜多斯避暑复旧对策委员会"
             },
             "815": {
-                "CodeKey": 3818866812,
+                "ScenarioKey": 2778041043,
                 "En": "Business Trip! Momoyodou Beach House Franchise Plan",
                 "Cn": "出差！百夜堂 海之家FC计划"
             },
             "816": {
-                "CodeKey": 2795718439,
-                "En": "After School Sweets Story",
+                "ScenarioKey": 3000475038,
+                "En": "After School Sweets Story: Sweet Secrets and Gun Fights",
                 "Cn": "放学后甜点故事 甜香的秘密与枪战"
             }
         },
@@ -4108,6 +4096,14 @@
                 "Tw": "從集合中移除",
                 "Cn": "从集合中移除"
             },
+            "tooltip_sprite_toggle": {
+                "En": "Change Sprite",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
             "collection": {
                 "En": "Collection",
                 "Jp": null,
@@ -4299,6 +4295,38 @@
                 "Th": "ความเสียหายขั้นต่ำ: {0}",
                 "Tw": "最低傷害：{0}",
                 "Cn": "最低伤害：{0}"
+            },
+            "stat_ammocount_tooltip": {
+                "En": "Normal Attack consumes {0} ammo and deals {1} hit(s)",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "stat_ammocount_tooltip_area": {
+                "En": "Normal Attack consumes {0} ammo and deals {1} hit(s) to enemies in a circular area",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "stat_ammocount_tooltip_line": {
+                "En": "Normal Attack consumes {0} ammo and deals {1} hit(s) to enemies in a straight line",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "skill_hits_tooltip": {
+                "En": "Deals a total of {0} hit(s)",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             }
         }
     }
