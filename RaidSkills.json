@@ -1200,7 +1200,7 @@
             "DescriptionEn": "Wakamo's EX skills will additionally inflict one stack of <s:SuddenDeath> to the target.\nIf the target accumulates 5 stacks, they will be dealt damage equal to 1000% of their maximum HP.",
             "DescriptionJp": "ワカモのスキルで攻撃された対象は<s:SuddenDeath>状態になる。\n<s:SuddenDeath>が5枚貯まると、該当の対象は最大HPの1000%分のダメージが適用されます。",
             "DescriptionKr": "와카모의 스킬에 피격된 대상은 <s:SuddenDeath> 생성된다.\n<s:SuddenDeath> 5개가 되면 해당 대상은 최대 생명력의 1000% 대미지를 받습니다.",
-            "DescriptionTh": "สกิลของวาคาโมะจะมอบเอฟเฟค<s:SuddenDeath>ให้กับเป้าหมาย\nหากเป้าหมายมี<s:SuddenDeath>สะสมครบ 5 ขั้น เป้าหมายได้รับความเสียหาย 1000% ของ HP สูงสุดของเป้าหมาย",
+            "DescriptionTh": "สกิลของวาคาโมะจะมอบเอฟเฟค<s:SuddenDeath>ให้กับเป้าหมาย\nหากเป้าหมายมี<s:SuddenDeath>สะสมครบ 5 ขั้น เป้าหมายจะได้รับความเสียหาย 1000% ของ HP สูงสุดของเป้าหมาย",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
