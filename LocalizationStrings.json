@@ -2705,6 +2705,7 @@
             },
             "Special_SuddenDeath": {
                 "En": "A stack of 5 will deal lethal damage to the character.",
+                "Cn": "5层叠加将对人物造成致命伤害。",
                 "Th": "เมื่อซ้อนทับครบ 5 ชั้น, สร้างความเสียหายที่จะสังหารเป้าหมายทันที"
             },
             "Special_Stamp": {
@@ -4101,8 +4102,8 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "切換CG圖像",
+                "Cn": "切换立绘"
             },
             "collection": {
                 "En": "Collection",
@@ -4301,32 +4302,32 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "普通攻擊消耗{0}彈藥並造成{1}次打擊",
+                "Cn": "普通攻击消耗{0}弹药并造成{1}次打击"
             },
             "stat_ammocount_tooltip_area": {
                 "En": "Normal Attack consumes {0} ammo and deals {1} hit(s) to enemies in a circular area",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "普通攻擊消耗{0}彈藥並對圓形範圍內敵軍造成{1}次打擊",
+                "Cn": "普通攻击消耗{0}弹药并对圆形范围内敌军造成{1}次打击"
             },
             "stat_ammocount_tooltip_line": {
                 "En": "Normal Attack consumes {0} ammo and deals {1} hit(s) to enemies in a straight line",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "普通攻擊消耗{0}彈藥並對直綫上敵軍造成{1}次打擊",
+                "Cn": "普通攻击消耗{0}弹药并对直线上敌军造成{1}次打击"
             },
             "skill_hits_tooltip": {
                 "En": "Deals a total of {0} hit(s)",
                 "Jp": null,
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "共造成{0}次打擊",
+                "Cn": "共造成{0}次打击"
             }
         }
     }
