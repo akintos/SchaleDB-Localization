@@ -1148,10 +1148,11 @@
         {
             "Id": "WakamoSwimsuit01Ex01",
             "NameEn": "Secret Flower Divination",
+            "NameTh": "ลิขิตแห่งบุปผาสีลับแล",
             "DescriptionEn": "Deals 150% damage to one enemy <b>five</b> times plus a final hit that deals 300% damage. Each hit also inflicts <c:Stunned> for 5s.",
             "DescriptionJp": "ATGの値がMAXの場合、スキルを使用\n攻撃ごとに攻撃力の150%分のダメージと<c:Stunned>を付与（5秒間）\n最後の攻撃で攻撃力の300%分のダメージと<c:Stunned>を付与（5秒間）",
             "DescriptionKr": "ATG가 가득 찰 경우 스킬 사용\n매 사격마다 공격력 150% 대미지와 <c:Stunned>(5초간)/ 마지막 사격으로 공격력 300% 대미지와 <c:Stunned>(5초간)",
-            "DescriptionTh": null,
+            "DescriptionTh": "สร้างความเสียหาย 150% ของค่าโจมตีใส่ศัตรู 1 เป้าหมาย <b>5</b> ครั้ง โดยครั้งสุดท้ายสร้างความเสียหาย 300% ของค่าโจมตี\nแต่ล่ะนัดจะทำให้ศัตรู<c:Stunned> (เป็นเวลา 5 วินาที)",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -1159,10 +1160,11 @@
         {
             "Id": "WakamoSwimsuit01Ex02",
             "NameEn": "Heartbreak Shot",
+            "NameTh": "กระสุนแห่งความโหยหา",
             "DescriptionEn": "Deals 750% damage to enemies in a straight line.",
             "DescriptionJp": "ATGの値がMAXの場合、スキルを使用\n直線範囲内の敵に対して、攻撃力の750%分のダメージ",
             "DescriptionKr": "ATG가 가득 찰 경우 스킬 사용\n직선 범위 내 적에게 공격력 750% 대미지",
-            "DescriptionTh": null,
+            "DescriptionTh": "เมื่อ ATG เต็ม, สร้างความเสียหาย 750% ของค่าโจมตีใส่ศัตรูในแนวเส้นตรง",
             "DescriptionTw": "對直線範圍內的敵人造成750%傷害",
             "NameCn": null,
             "DescriptionCn": "对直线范围内的敌人造成750%伤害"
@@ -1170,10 +1172,11 @@
         {
             "Id": "WakamoSwimsuit01Ex03",
             "NameEn": "Howitzer",
+            "NameTh": "กระสุนปืนครก",
             "DescriptionEn": "Launches a missile that targets the furthest enemy away and deals 750% damage on contact. The missile can be blocked by other students, summons or cover.",
             "DescriptionJp": "ATGの値がMAXの場合、スキルを使用\n対象を追跡するミサイルを発射し、攻撃力の750%分のダメージ\n（ミサイルは他の生徒、召喚物、遮蔽物によって遮られることがあります）",
             "DescriptionKr": "ATG가 가득 찰 경우 스킬 사용\n대상을 추적하는 미사일을 발사하여 공격력 750% 대미지를 입힌다.\n(미사일은 다른 학생, 소환물, 엄폐물에 의해 가로막힐 수 있습니다.)",
-            "DescriptionTh": null,
+            "DescriptionTh": "เมื่อ ATG เต็ม, ยิงมิซไซล์ใส่เป้าหมายที่อยู่ไกลที่สุดซึ่งจะสร้างความเสียหาย 750% ของค่าโจมตีเมื่อกระทบเป้าหมาย\n(มิซไซล์สามารถถูกขัดขวางได้โดยนักเรียนคนอื่น, วัตถุที่ถูกเรียกออกมาหรือกำบัง)",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -1181,10 +1184,11 @@
         {
             "Id": "WakamoSwimsuit01Ex05",
             "NameEn": "Just For You",
+            "NameTh": "เพื่อนายท่านแต่เพียงผู้เดียว",
             "DescriptionEn": "Every 60s, gains one level of the following effect (max. level 3). Increases <b:ATK> by 30%/60%/90%, <b:CriticalChance> by 35%/70%/105% and ATG Recovery by 15%/30%/80%, but increases <d:DamagedRatio> by 10%/20%/50% at level <b>1</b>/<b>2</b>/<b>3</b>.",
             "DescriptionJp": "60秒毎に、以下の効果を自身にすべて適用（計3段階）\n<b:ATK>：30%/60%/90%増加\n<b:CriticalChance>：35%/70%/105%増加\n<d:DamagedRatio>：10%/20%/50%増加\nATG回復速度：15%/30%/80%増加",
             "DescriptionKr": "60초마다 아래의 효과를 자신에게 모두 적용 (총 3단계)\n<b:ATK> : 30%/60%/90% 만큼 증가\n<b:CriticalChance>: 35%/70%/105% 만큼 증가\n<d:DamagedRatio>: 10%/20%/50% 만큼 증가 \nATG 회복속도: 15%/30%/80% 만큼 증가",
-            "DescriptionTh": null,
+            "DescriptionTh": "ทุก 60 วินาที, ได้รับเอฟเฟคดังต่อไปนี้ (ทับซ้อนได้สูงสุด 3 ขั้น)\nเพิ่ม<b:ATK>：30%/60%/90%\nเพิ่ม<b:CriticalChance>：35%/70%/105%\nเพิ่มอัตราการฟื้นฟู ATG15%/30%/80%\nเพิ่ม<d:DamagedRatio>：10%/20%/50%",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -1192,10 +1196,11 @@
         {
             "Id": "WakamoSwimsuit01Passive01",
             "NameEn": "No One Gets In My Way",
+            "NameTh": "กำจัดผู้รบกวน",
             "DescriptionEn": "Wakamo's EX skills will additionally inflict one stack of <s:SuddenDeath> to the target.\nIf the target accumulates 5 stacks, they will be dealt damage equal to 1000% of their maximum HP.",
             "DescriptionJp": "ワカモのスキルで攻撃された対象は<s:SuddenDeath>状態になる。\n<s:SuddenDeath>が5枚貯まると、該当の対象は最大HPの1000%分のダメージが適用されます。",
             "DescriptionKr": "와카모의 스킬에 피격된 대상은 <s:SuddenDeath> 생성된다.\n<s:SuddenDeath> 5개가 되면 해당 대상은 최대 생명력의 1000% 대미지를 받습니다.",
-            "DescriptionTh": null,
+            "DescriptionTh": "สกิลของวาคาโมะจะมอบเอฟเฟค<s:SuddenDeath>ให้กับเป้าหมาย\nหากเป้าหมายมี<s:SuddenDeath>สะสมครบ 5 ขั้น เป้าหมายได้รับความเสียหาย 1000% ของ HP สูงสุดของเป้าหมาย",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -1203,10 +1208,11 @@
         {
             "Id": "WakamoHoverCraftEx01",
             "NameEn": "Twin Cannons",
+            "NameEn": "ปืนใหญ่คู่",
             "DescriptionEn": "Deals 70% damage to up to 8 enemies.",
             "DescriptionJp": "最大で敵8人に対して、順番にそれぞれ攻撃力の70%分のダメージ",
             "DescriptionKr": "적 최대 8인에게 번갈아가며 사격하여 각각 공격력 70% 대미지",
-            "DescriptionTh": null,
+            "DescriptionTh": "สร้างความเสียหาย 70% ของค่าโจมตีให้กับศัตรู สูงสุด 8 เป้าหมาย",
             "DescriptionTw": "對至多8名敵人造成70%傷害",
             "NameCn": null,
             "DescriptionCn": "对至多8名敌人造成70%伤害"
@@ -1214,10 +1220,11 @@
         {
             "Id": "WakamoHoverCraftEx02",
             "NameEn": "Blaze Rocket",
+            "NameTh": "เบลซ ร็อคเก็ต",
             "DescriptionEn": "Deals 250% damage to up to 2 enemies.",
             "DescriptionJp": "最大で敵2人に対して、順番にそれぞれ攻撃力の250%分のダメージ",
             "DescriptionKr": "적 최대 2인에게 번갈아가며 사격하여 각각 공격력 250% 대미지",
-            "DescriptionTh": null,
+            "DescriptionTh": "สร้างความเสียหาย 250% ของค่าโจมตีให้กับศัตรู สูงสุด 2 เป้าหมาย",
             "DescriptionTw": "對至多2名敵人造成250%傷害",
             "NameCn": null,
             "DescriptionCn": "对至多2名敌人造成250%伤害"
@@ -1225,10 +1232,11 @@
         {
             "Id": "WakamoHoverCraftEx03",
             "NameEn": "When it comes to this...!",
+            "NameTh": "ถ้ามาถึงจุดนี้ล่ะก็...!",
             "DescriptionEn": "When ATG is full, the hovercraft enters missile mode and begins targeting the resort. During missile mode, the hovercraft is <s:Immortal>.\nAfter missile mode ends, fills the hovercraft's groggy gauge to the maximum. While the hovercraft is groggy, increases <d:DamagedRatio> by 200% and decreases <d:CriticalChanceResistPoint> by 100%. If the resort is destroyed, the battle is immediately lost.",
             "DescriptionJp": "ATGの値がMAXの場合、リゾートを破壊するためにミサイル暴走モードに突入\nリゾートが破壊されると敗北します。\nミサイル暴走モード中、ホバークラフトは<s:Immortal>になります。\nミサイル暴走モードが終了すると、ホバークラフトに故障が発生し、グロッキー状態になります。\nグロッキー状態の間、被ダメージ量が200%増加/<d:CriticalChanceResistPoint>が100%減少",
             "DescriptionKr": "ATG가 가득 찰 경우 리조트를 파괴하기 위해 미사일 폭주 모드에 돌입\n리조트가 파괴되면 전투에서 패배합니다.\n미사일 폭주 모드 중 호버크래프트는 <s:Immortal> 상태가 됩니다.\n미사일 폭주 모드가 종료되면 호버크래프트에 고장이 발생해 그로기 상태가 됩니다.\n그로기 중에는 <d:DamagedRatio> 200% 만큼 증가 / <d:CriticalChanceResistPoint> 수치 100% 만큼 감소",
-            "DescriptionTh": null,
+            "DescriptionTh": "เมื่อ ATG เต็ม, โฮเวอร์คราฟจะเข้าโหมดยิงมิสไซล์และเริ่มโจมตีรีสอร์ต\nระหว่างที่อยู่ในโหมดยิงมิสไซล์ โฮเวอร์คราฟจะ<s:Immortal>\nหลังจบโหมดยิงมิสไซล์, โฮเวอร์คราฟจะอยู่ในสถานะมึนงง\nเมื่อโฮเวอร์คราฟอยู่ในสถานะมึนงง เพิ่ม<d:DamagedRatio> 200%/ลด<d:CriticalChanceResistPoint> 100%",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -1236,10 +1244,11 @@
         {
             "Id": "WakamoHoverCraftPassive01",
             "NameEn": "Ampoule Missile",
+            "NameTh": "มิสไซล์หลอดแก้ว",
             "DescriptionEn": "Deals 450% damage to enemies in a circular area. If this missile is destroyed, increases all students' <b:ATK> by <b>400</b>.",
             "DescriptionJp": "円形範囲内の敵に対して、攻撃力の450%分のダメージ\nこのミサイルを破壊すると、敵のストライカー、スペシャル生徒全体に対して<b:ATK>が400増加",
             "DescriptionKr": "원형 범위의 적에게 공격력 450% 대미지\n미사일을 파괴하면 스트라이커, 스페셜 학생 전체에게 <b:ATK> 400 만큼 증가",
-            "DescriptionTh": null,
+            "DescriptionTh": "สร้างความเสียหาย 450% ของค่าโจมตีให้กับศัตรูในรัศมี\nหากมิสไซล์ถูกทำลาย, เพิ่ม<b:ATK> 400 ให้แก่ศัตรูทั้งหมด",
             "DescriptionTw": "對圓形範圍內敵人造成450%的傷害。如果飛彈被摧毀，提升全體學生<b>400</b> <b:ATK>",
             "NameCn": null,
             "DescriptionCn": "对圆形范围内敌人造成450%的伤害。如导弹被摧毁，提升全体学生<b>400</b> <b:ATK>"
@@ -1247,10 +1256,11 @@
         {
             "Id": "WakamoHoverCraftPassive02",
             "NameEn": "Shark Missile",
+            "NameTh": "ชาร์ค มิสไซล์",
             "DescriptionEn": "Deals 450% damage to enemies in a circular area. If this missile is destroyed, deals <b>999,999</b> to all other missiles in a circular area.",
             "DescriptionJp": "円形範囲内の敵に対して、攻撃力の450%分のダメージ\nこのミサイルを破壊すると円形範囲内のミサイル全体に対して、999999のダメージ",
             "DescriptionKr": "원형 범위의 적에게 공격력 450% 대미지\n미사일을 파괴하면 원형 범위 내 미사일 전체에게 999999 대미지",
-            "DescriptionTh": null,
+            "DescriptionTh": "สร้างความเสียหาย 450% ของค่าโจมตีให้กับศัตรูในรัศมี\nหากมิสไซล์ถูกทำลาย, สร้างความเสียหาย <b>999,999</b> ให้กับมิสไซล์อื่นทั้งหมดในรัศมี",
             "DescriptionTw": "對圓形範圍內敵人造成450%的傷害。如果飛彈被摧毀，對圓形範圍內其它飛彈造成<b>999,999</b>傷害",
             "NameCn": null,
             "DescriptionCn": "对圆形范围内敌人造成450%的伤害。如导弹被摧毁，对圆形范围内其它导弹造成<b>999,999</b>伤害"
@@ -1258,10 +1268,11 @@
         {
             "Id": "WakamoHoverCraftPassive03",
             "NameEn": "Black Missile",
+            "NameTh": "มิสไซล์ดำ",
             "DescriptionEn": "Deals 1000% damage to enemies in a circular area. If this missile is destroyed, deals 400% damage to all other missiles in a circular area.",
             "DescriptionJp": "円形範囲内の敵に対して、攻撃力の1000%分のダメージ\nこのミサイルを破壊すると円形範囲内のミサイル全体に対して、攻撃力の400%分のダメージ",
             "DescriptionKr": "원형 범위의 적에게 공격력 1000% 대미지\n미사일을 파괴하면 원형 범위 내 미사일 전체에게 공격력 400% 대미지",
-            "DescriptionTh": null,
+            "DescriptionTh": "สร้างความเสียหาย 1000% ของค่าโจมตีให้กับศัตรูในรัศมี\nหากมิสไซล์ถูกทำลาย, สร้างความเสียหาย 400% ของค่าโจมตีให้กับมิสไซล์อื่นทั้งหมดในรัศมี",
             "DescriptionTw": "對圓形範圍內敵人造成1000%的傷害。如果飛彈被摧毀，對圓形範圍內其它飛彈造成400%傷害",
             "NameCn": null,
             "DescriptionCn": "对圆形范围内敌人造成1000%的伤害。如导弹被摧毁，对圆形范围内其它导弹造成400%伤害"
@@ -1269,10 +1280,11 @@
         {
             "Id": "WakamoHoverCraftPassive04",
             "NameEn": "Helmet Gang's Handmade Missile",
+            "NameTh": "มิสไซล์แฮนด์เมดของแก๊งหมวกกันน็อค",
             "DescriptionEn": "Deals 450% damage to enemies in a circular area. If this missile is destroyed, deals 400% damage to all other missiles in a circular area.",
             "DescriptionJp": "円形範囲内の敵に対して、攻撃力の450%分のダメージ\nこのミサイルを破壊すると円形範囲内のミサイル全体に対して、攻撃力の400%分のダメージ",
             "DescriptionKr": "원형 범위의 적에게 공격력 450% 대미지\n미사일을 파괴하면 원형 범위 내 미사일 전체에게 공격력 400% 대미지",
-            "DescriptionTh": null,
+            "DescriptionTh": "สร้างความเสียหาย 450% ของค่าโจมตีให้กับศัตรูในรัศมี\nหากมิสไซล์ถูกทำลาย, สร้างความเสียหาย 400% ของค่าโจมตีให้กับมิสไซล์อื่นทั้งหมดในรัศมี",
             "DescriptionTw": "對圓形範圍內敵人造成450%的傷害。如果飛彈被摧毀，對圓形範圍內其它飛彈造成400%傷害",
             "NameCn": "头盔团的自制导弹",
             "DescriptionCn": "对圆形范围内敌人造成450%的伤害。如导弹被摧毁，对圆形范围内其它导弹造成400%伤害"
