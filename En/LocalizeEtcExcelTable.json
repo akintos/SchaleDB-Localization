@@ -7,7 +7,6 @@
         },
         {
             "Key": 1668372693,
-            "Force": true,
             "NameEn": "Joint Firing Drill Coin",
             "DescriptionEn": "This coin can be spent at the Joint Firing Drill Shop."
         },
@@ -651,6 +650,11 @@
         {
             "Key": 3086485314,
             "NameEn": "Kazusa",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 4196910522,
+            "NameEn": "Kokona",
             "DescriptionEn": ""
         },
         {

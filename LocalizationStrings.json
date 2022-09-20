@@ -1871,7 +1871,7 @@
                 "Cn": "若藻的印记"
             },
             "Special_Stamp": {
-                "En": "",
+                "En": "Flower Stamp",
                 "Jp": null,
                 "Kr": null,
                 "Th": "แสตมป์ดอกไม้",
@@ -2362,7 +2362,7 @@
                 "Cn": "若藻的印记"
             },
             "Special_Stamp": {
-                "En": "",
+                "En": "Flower Stamps",
                 "Th": "สแตมป์ดอกไม้",
                 "Jp": null,
                 "Kr": null,
@@ -2718,7 +2718,7 @@
                 "Th": "เมื่อซ้อนทับครบ 5 ชั้น, สร้างความเสียหายที่จะสังหารเป้าหมายทันที"
             },
             "Special_Stamp": {
-                "En": ""
+                "En": "Reduces allies' EX skill cost and recovers own HP when Kokona reaches 5 stacks."
             }
         },
         "ServerName": {
