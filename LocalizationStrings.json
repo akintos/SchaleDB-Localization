@@ -1814,6 +1814,7 @@
             },
             "Special_ImmuneDamage": {
                 "En": "Invulnerable",
+                "Th": "ไม่ได้รับความเสียหาย",
                 "Tw": "免傷",
                 "Cn": "免伤"
             },
@@ -1851,11 +1852,13 @@
             },
             "Special_CostRegenBan": {
                 "En": "Recovery Stop",
+                "Th": "หยุดการฟื้นฟูค่า Cost",
                 "Tw": "COST停止恢復",
                 "Cn": "COST停止回复"
             },
             "Special_ImmuneCC": {
                 "En": "CC Immune",
+                "Th": "ต้านทานเอฟเฟคกดขี่",
                 "Tw": "群控免疫",
                 "Cn": "群控免疫"
             },
@@ -1863,6 +1866,7 @@
                 "En": "Wakamo's Mark",
                 "Jp": "ワカモの刻印",
                 "Kr": "와카모의 각인이",
+                "Th": "ตราของวาคาโมะ",
                 "Tw": "若藻的印記",
                 "Cn": "若藻的印记"
             },
@@ -1870,7 +1874,7 @@
                 "En": "",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "แสตมป์ดอกไม้",
                 "Tw": null,
                 "Cn": null
             }
@@ -2309,6 +2313,7 @@
             },
             "Special_ImmuneDamage": {
                 "En": "Invulnerable",
+                "Th": "ไม่ได้รับความเสียหาย",
                 "Tw": "免傷",
                 "Cn": "免伤"
             },
@@ -2338,16 +2343,19 @@
             },
             "Special_CostRegenBan": {
                 "En": "Cost Recovery Stop",
+                "Th": "หยุดการฟื้นฟูค่า Cost",
                 "Tw": "COST停止恢復",
                 "Cn": "COST停止回复"
             },
             "Special_ImmuneCC": {
                 "En": "CC Immunity",
+                "Th": "ต้านทานเอฟเฟคกดขี่",
                 "Tw": "群控免疫",
                 "Cn": "群控免疫"
             },
             "Special_SuddenDeath": {
                 "En": "Wakamo's Mark",
+                "Th": "ตราของวาคาโมะ",
                 "Jp": "ワカモの刻印",
                 "Kr": "와카모의 각인이",
                 "Tw": "若藻的印記",
@@ -2355,6 +2363,7 @@
             },
             "Special_Stamp": {
                 "En": "",
+                "Th": "สแตมป์ดอกไม้",
                 "Jp": null,
                 "Kr": null,
                 "Tw": null,
