@@ -2682,7 +2682,7 @@
             },
             "Special_Misdeed": {
                 "En": "Decreases DEF with each stack held and generates skill cost when Aru (New Year) uses her EX Skill.",
-                "Th": "ลดค่าป้องกันต่อจำนวนที่ถือครองและคืนค่าใช้สกิลให้เมื่ออารุ (ปีใหม่) ใช้สกิล Ex"
+                "Th": "ลดค่าป้องกันต่อจำนวนที่ถือครองและคืนค่าใช้สกิลให้เมื่ออารุ (ปีใหม่) ใช้สกิล EX"
             },
             "Special_LittleDevil": {
                 "En": "Increases Crit DMG with each stack held and increases the damage dealt by Mutuski (New Year)'s Basic Skill when at 6 stacks.",
@@ -3245,7 +3245,7 @@
                 "En": "Deals <b>1&times;</b> damage to <b class='ba-col-explosion'>Light</b>, <b class='ba-col-pierce'>Heavy</b> and <b class='ba-col-mystic'>Special</b> armor targets.<br>Deals <b>0.5&times;</b> damage to <b class='ba-col-siege'>Structures</b>.",
                 "Jp": "すべての防御タイプに<b>1倍</b>のダメージを与える<br>構造物に<b>0.5倍</b>のダメージを与える。",
                 "Kr": null,
-                "Th": "สร้างความเสียหาย <b>1&times;</b> ให้กับเป้าหมายประเภท<b class='ba-col-explosion'>เกราะเบา</b>, <b class='ba-col-pierce'>เกราะหนัก</b>และ<b class='ba-col-mystic'>เกราะพิเศษ</b>.<br>สร้างความเสียหาย <b>0.5&times;</b> ให้กับเป้าหมายประเภท<b class='ba-col-siege'>สิ่งปลูกสร้าง</b>",
+                "Th": "สร้างความเสียหาย <b>1&times;</b> ให้กับเป้าหมายประเภท<b class='ba-col-explosion'>เกราะเบา</b>, <b class='ba-col-pierce'>เกราะหนัก</b>และ<b class='ba-col-mystic'>เกราะพิเศษ</b><br>สร้างความเสียหาย <b>0.5&times;</b> ให้กับเป้าหมายประเภท<b class='ba-col-siege'>สิ่งปลูกสร้าง</b>",
                 "Tw": "對<b class='ba-col-explosion'>輕裝甲</b>、<b class='ba-col-pierce'>重裝甲</b>與<b class='ba-col-mystic'>神秘裝甲</b>目標造成<b>1倍</b>傷害。<br>對<b class='ba-col-siege'>構造物</b>造成<b>0.5倍</b>傷害。",
                 "Cn": "对<b class='ba-col-explosion'>轻装甲</b>、<b class='ba-col-pierce'>重装甲</b>与<b class='ba-col-mystic'>神秘装甲</b>目标造成<b>1倍</b>伤害。<br>对<b class='ba-col-siege'>构造物</b>造成<b>0.5倍</b>伤害。"
             },
@@ -4101,7 +4101,7 @@
                 "En": "Change Sprite",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เปลี่ยนรูป",
                 "Tw": "切換CG圖像",
                 "Cn": "切换立绘"
             },
@@ -4301,7 +4301,7 @@
                 "En": "Normal Attack consumes {0} ammo and deals {1} hit(s)",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "การโจมตีปกติใช้กระสุน {0} นัดและสร้างความเสียหายจำนวน {1} ครั้ง",
                 "Tw": "普通攻擊消耗{0}彈藥並造成{1}次打擊",
                 "Cn": "普通攻击消耗{0}弹药并造成{1}次打击"
             },
@@ -4309,7 +4309,7 @@
                 "En": "Normal Attack consumes {0} ammo and deals {1} hit(s) to enemies in a circular area",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "การโจมตีปกติใช้กระสุน {0} นัดและสร้างความเสียหายจำนวน {1} ครั้งให้กับศัตรูในรัศมี",
                 "Tw": "普通攻擊消耗{0}彈藥並對圓形範圍內敵軍造成{1}次打擊",
                 "Cn": "普通攻击消耗{0}弹药并对圆形范围内敌军造成{1}次打击"
             },
@@ -4317,7 +4317,7 @@
                 "En": "Normal Attack consumes {0} ammo and deals {1} hit(s) to enemies in a straight line",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "การโจมตีปกติใช้กระสุน {0} นัดและสร้างความเสียหายจำนวน {1} ครั้งให้กับศัตรูในแนวเส้นตรง",
                 "Tw": "普通攻擊消耗{0}彈藥並對直綫上敵軍造成{1}次打擊",
                 "Cn": "普通攻击消耗{0}弹药并对直线上敌军造成{1}次打击"
             },
@@ -4325,7 +4325,7 @@
                 "En": "Deals a total of {0} hit(s)",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "สร้างความเสียหายจำนวน {0} ครั้ง",
                 "Tw": "共造成{0}次打擊",
                 "Cn": "共造成{0}次打击"
             }
