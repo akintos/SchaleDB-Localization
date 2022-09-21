@@ -861,7 +861,7 @@
             "Key": 3334829467,
             "Force": true,
             "NameEn": "Enemy Continuous Healing",
-            "DescriptionEn": "All enemies restore 50% of their Max HP every 30s"
+            "DescriptionEn": "All enemies restore 1.5% of their Max HP every 1s."
         },
         {
             "Key": 3839125090,
