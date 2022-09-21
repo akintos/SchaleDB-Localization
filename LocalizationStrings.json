@@ -2668,7 +2668,7 @@
             },
             "Special_EnergyBatteryHalf": {
                 "En": "Increases the effectiveness of Aris's EX and Sub skills by 1.5&times; (half) or 2&times; (full).\nCharge level resets to empty after EX skill use.",
-                "Th": "เพิ่มประสิทธิภาพสกิล Ex และสกิลเสริมของอาริสึขึ้น 1.5&times; (ครึ่งหนึ่ง) หรือ 2&times; (เต็ม)\nระดับการชาร์จจะถูกรีเซ็ทเป็น 0 หลังการใช้งานสกิล Ex"
+                "Th": "เพิ่มประสิทธิภาพสกิล EX และสกิลรองของอาริสึขึ้น 1.5&times; (ครึ่งหนึ่ง) หรือ 2&times; (เต็ม)\nระดับการชาร์จจะถูกรีเซ็ทเป็น 0 หลังการใช้งานสกิล EX"
             },
             "Special_FormChange": {
                 "En": "Augments Normal Attacks.",
@@ -2719,7 +2719,7 @@
             },
             "Special_Stamp": {
                 "En": "Reduces allies' EX skill cost and restores own HP when Kokona reaches 5 stacks.",
-                "Th": "ลดค่า Cost สกิล EX ของฝ่ายเรายกเว้นตัวเองลง 1 และฟื้นฟู HP ของตัวเองเมื่อสะสมครบ 5 ชั้น"
+                "Th": "ลดค่า Cost สกิล EX ของฝ่ายเรายกเว้นตัวเองลง 1 และฟื้นฟู HP ของตัวเองเมื่อสะสมครบ 5 ชั้น\nสแตมป์ดอกไม้จะถูกรีเซ็ทเป็น 0 หลังการใช้งานสกิลรอง"
             }
         },
         "ServerName": {
