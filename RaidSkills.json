@@ -1188,7 +1188,7 @@
             "DescriptionEn": "Every 60s, gains one level of the following effect (max. level 3). Increases <b:ATK> by 30%/60%/90%, <b:CriticalChance> by 35%/70%/105% and ATG Recovery by 15%/30%/80%, but increases <d:DamagedRatio> by 10%/20%/50% at level <b>1</b>/<b>2</b>/<b>3</b>.",
             "DescriptionJp": "60秒毎に、以下の効果を自身にすべて適用（計3段階）\n<b:ATK>：30%/60%/90%増加\n<b:CriticalChance>：35%/70%/105%増加\n<d:DamagedRatio>：10%/20%/50%増加\nATG回復速度：15%/30%/80%増加",
             "DescriptionKr": "60초마다 아래의 효과를 자신에게 모두 적용 (총 3단계)\n<b:ATK> : 30%/60%/90% 만큼 증가\n<b:CriticalChance>: 35%/70%/105% 만큼 증가\n<d:DamagedRatio>: 10%/20%/50% 만큼 증가 \nATG 회복속도: 15%/30%/80% 만큼 증가",
-            "DescriptionTh": "ทุก 60 วินาที, ได้รับเอฟเฟคดังต่อไปนี้ (ทับซ้อนได้สูงสุด 3 ขั้น)\nเพิ่ม<b:ATK>：30%/60%/90%\nเพิ่ม<b:CriticalChance>：35%/70%/105%\nเพิ่มอัตราการฟื้นฟู ATG15%/30%/80%\nเพิ่ม<d:DamagedRatio>：10%/20%/50%",
+            "DescriptionTh": "ทุก 60 วินาที, ได้รับเอฟเฟคดังต่อไปนี้ (ทับซ้อนได้สูงสุด 3 ขั้น)\nเพิ่ม<b:ATK>：30%/60%/90%\nเพิ่ม<b:CriticalChance>：35%/70%/105%\nเพิ่มอัตราการฟื้นฟู ATG:15%/30%/80%\nเพิ่ม<d:DamagedRatio>：10%/20%/50%",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -1236,7 +1236,7 @@
             "DescriptionEn": "When ATG is full, the hovercraft enters missile mode and begins targeting the resort. During missile mode, the hovercraft is <s:Immortal>.\nAfter missile mode ends, fills the hovercraft's groggy gauge to the maximum. While the hovercraft is groggy, increases <d:DamagedRatio> by 200% and decreases <d:CriticalChanceResistPoint> by 100%. If the resort is destroyed, the battle is immediately lost.",
             "DescriptionJp": "ATGの値がMAXの場合、リゾートを破壊するためにミサイル暴走モードに突入\nリゾートが破壊されると敗北します。\nミサイル暴走モード中、ホバークラフトは<s:Immortal>になります。\nミサイル暴走モードが終了すると、ホバークラフトに故障が発生し、グロッキー状態になります。\nグロッキー状態の間、被ダメージ量が200%増加/<d:CriticalChanceResistPoint>が100%減少",
             "DescriptionKr": "ATG가 가득 찰 경우 리조트를 파괴하기 위해 미사일 폭주 모드에 돌입\n리조트가 파괴되면 전투에서 패배합니다.\n미사일 폭주 모드 중 호버크래프트는 <s:Immortal> 상태가 됩니다.\n미사일 폭주 모드가 종료되면 호버크래프트에 고장이 발생해 그로기 상태가 됩니다.\n그로기 중에는 <d:DamagedRatio> 200% 만큼 증가 / <d:CriticalChanceResistPoint> 수치 100% 만큼 감소",
-            "DescriptionTh": "เมื่อ ATG เต็ม, โฮเวอร์คราฟจะเข้าโหมดยิงมิสไซล์และเริ่มโจมตีรีสอร์ต\nระหว่างที่อยู่ในโหมดยิงมิสไซล์ โฮเวอร์คราฟจะ<s:Immortal>\nหลังจบโหมดยิงมิสไซล์, โฮเวอร์คราฟจะอยู่ในสถานะมึนงง\nเมื่อโฮเวอร์คราฟอยู่ในสถานะมึนงง เพิ่ม<d:DamagedRatio> 200%/ลด<d:CriticalChanceResistPoint> 100%",
+            "DescriptionTh": "เมื่อ ATG เต็ม, โฮเวอร์คราฟจะเข้าโหมดยิงมิสไซล์และเริ่มโจมตีรีสอร์ต\nระหว่างที่อยู่ในโหมดยิงมิสไซล์ โฮเวอร์คราฟจะ<s:Immortal>\nหลังจบโหมดยิงมิสไซล์, โฮเวอร์คราฟจะอยู่ในสถานะมึนงง\nเมื่อโฮเวอร์คราฟอยู่ในสถานะมึนงง เพิ่ม<d:DamagedRatio> 200% และลด<d:CriticalChanceResistPoint> 100%",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
