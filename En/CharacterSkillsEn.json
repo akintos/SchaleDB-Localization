@@ -5900,19 +5900,19 @@
         {
             "SkillId": 10050200,
             "NameEn": "Very Well Done!",
-            "DescriptionEn": "Restores the HP of one ally by <?1> of Healing. Also restores own HP by <?2> of Healing and gains one <s:Stamp>.",
+            "DescriptionEn": "Restores the HP of one ally except self by <?1> of Healing. Also restores own HP by 101% of Healing and gains one <s:Stamp>.",
             "ParametersEn": [
-                [
-                ]
+                ["152%", "175%", "221%", "244%", "290%", "312%", "358%", "381%", "427%", "450%"]
             ]
         },
         {
             "SkillId": 10050300,
             "NameEn": "Looking Forward To The Next One!",
-            "DescriptionEn": "Every 100 times a critical hit is landed by allies, restores the HP of the ally with the lowest HP by <?1> of healing and gain one <s:Stamp>.",
+            "DescriptionEn": "Every 100 times a critical hit is landed by allies, restores the HP of the ally with the lowest HP (except self) by <?1> of Healing and gain one <s:Stamp>.",
             "ParametersEn": [
                 [
-    
+                    "56.6%", "59.4%", "62.2%", "73.5%", "76.4%", "79.2%", "90.5%", "93.4%", 
+                    "96.2%", "107%"
                 ]
             ]
         },
@@ -5932,6 +5932,10 @@
             "NameEn": "Plum Blossom Teaching",
             "DescriptionEn": "When Kokona reaches 5 <s:Stamp> stacks, reduces the <b:CostChange> of all allies' next EX skill use by <b>1</b> (except self) and restores own HP by <?1> of Healing. All <s:Stamp> stacks are consumed after activation.",
             "ParametersEn": [
+                [
+                    "57%", "59.8%", "62.7%", "74.1%", "76.9%", "79.8%", "91.2%", "94%", "96.9%", 
+                    "108%"
+                ]
             ]
         },
         {
@@ -5946,6 +5950,5 @@
                 ]
             ]
         }
-        
     ]
 }

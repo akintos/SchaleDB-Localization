@@ -1872,8 +1872,8 @@
             },
             "Special_Stamp": {
                 "En": "Flower Stamp",
-                "Jp": null,
-                "Kr": null,
+                "Jp": "「花丸スタンプ」",
+                "Kr": "칭찬 도장",
                 "Th": "แสตมป์ดอกไม้",
                 "Tw": null,
                 "Cn": null
@@ -2364,8 +2364,8 @@
             "Special_Stamp": {
                 "En": "Flower Stamps",
                 "Th": "สแตมป์ดอกไม้",
-                "Jp": null,
-                "Kr": null,
+                "Jp": "「花丸スタンプ」",
+                "Kr": "칭찬 도장",
                 "Tw": null,
                 "Cn": null
             }
@@ -2718,7 +2718,7 @@
                 "Th": "เมื่อซ้อนทับครบ 5 ชั้น, สร้างความเสียหายที่จะสังหารเป้าหมายทันที"
             },
             "Special_Stamp": {
-                "En": "Reduces allies' EX skill cost and recovers own HP when Kokona reaches 5 stacks.",
+                "En": "Reduces allies' EX skill cost and restores own HP when Kokona reaches 5 stacks.",
                 "Th": "ลดค่า Cost สกิล EX ของฝ่ายเรายกเว้นตัวเองลง 1 และฟื้นฟู HP ของตัวเองเมื่อสะสมครบ 5 ชั้น"
             }
         },
