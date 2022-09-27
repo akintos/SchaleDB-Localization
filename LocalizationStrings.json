@@ -1544,7 +1544,7 @@
                 "En": "Focused Assault",
                 "Jp": "集中砲火状態",
                 "Kr": "집중공격",
-                "Th": "โจมตีใส่",
+                "Th": "หมายหัว",
                 "Tw": "集中攻擊",
                 "Cn": "集中攻击"
             },
@@ -1906,6 +1906,7 @@
             },
             "Buff_ConcentratedTarget": {
                 "En": "Focused Assault",
+                "Th": "หมายหัว",
                 "Tw": "集中攻擊",
                 "Cn": "集中攻击"
             },
