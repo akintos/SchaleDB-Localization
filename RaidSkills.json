@@ -1140,7 +1140,7 @@
             "DescriptionEn": "Hod and all summoned Erosion Towers have 400% increased Crit RES.\nErosion Towers are also immune to the effects of <d:ConcentratedTarget>.",
             "DescriptionJp": "ホドとインベイドピラーの会心抵抗値を400%増加。\nインベイドピラーは<d:ConcentratedTarget>を無効化します。",
             "DescriptionKr": "호드, 침식타워의 치명 저항력이 400% 증가합니다.\n침식타워는 <d:ConcentratedTarget> 효과에 면역입니다.",
-            "DescriptionTh": "Hod และเสากัดกร่อนจะมีค่าต้านทานคริเพิ่ม 400%\nเสากัดกร่อนจะไม่ได้รับผลจากการถูกเอฟเฟค<d:ConcentratedTarget>หมายหัว",
+            "DescriptionTh": "Hod และเสากัดกร่อนจะมีค่าต้านทานคริเพิ่ม 400%\nเสากัดกร่อนจะไม่ได้รับผลจากเอฟเฟค<d:ConcentratedTarget>",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
