@@ -195,6 +195,16 @@
             "DescriptionEn": "This can create cafe furniture. (Beachside theme)."
         },
         {
+            "Key": 4111910421,
+            "NameEn": "Beachside Set",
+            "DescriptionEn": "This can create cafe furniture. (Beachside theme)."
+        },
+        {
+            "Key": 3012362625,
+            "NameEn": "Sports Day Set",
+            "DescriptionEn": "This can create cafe furniture. (Sports Day theme)"
+        },
+        {
             "Key": 2853680747,
             "NameEn": "Jade Plant",
             "DescriptionEn": "This can create water play gifts."
@@ -655,6 +665,21 @@
         {
             "Key": 4196910522,
             "NameEn": "Kokona",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 3485775780,
+            "NameEn": "Utaha (Cheerleader)",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 4040094051,
+            "NameEn": "Noa",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1630734438,
+            "NameEn": "Hibiki (Cheerleader)",
             "DescriptionEn": ""
         },
         {

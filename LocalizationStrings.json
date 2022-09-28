@@ -545,6 +545,30 @@
                 "CodeKey": 3022657841,
                 "Cn": "视野",
                 "Th": "ระยะมองเห็น"
+            },
+            "ExtendBuffDuration": {
+                "En": "Buff Duration",
+                "Jp": "バフ効果持続力",
+                "Kr": "이로운 효과 유지력",
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "ExtendDebuffDuration": {
+                "En": "Debuff Duration",
+                "Jp": "弱体状態持続力",
+                "Kr": "해로운 효과 유지력",
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "ExtendCrowdControlDuration": {
+                "En": "CC Duration",
+                "Jp": "CC状態持続力",
+                "Kr": "군중제어 유지력",
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             }
         },
         "IsLimited": {
@@ -606,6 +630,10 @@
                 "En": "Beachside Set",
                 "Tw": "海濱組合",
                 "Cn": "海滨组合"
+            },
+            "109": {
+                "EtcKey": 3711274552,
+                "En": "Sports Day Set"
             }
         },
         "ItemCategory": {
@@ -924,6 +952,10 @@
                 "ScenarioKey": 3000475038,
                 "En": "After School Sweets Story: Sweet Secrets and Gun Fights",
                 "Cn": "放学后甜点故事 甜香的秘密与枪战"
+            },
+            "817": {
+                "ScenarioKey": 1330006888,
+                "En": "On Your Mark @ Millennium"
             }
         },
         "StageType": {
@@ -1373,7 +1405,7 @@
                 "Cn": "持续恢复"
             },
             "Buff_EnhanceExplosionRate": {
-                "En": "Explosive Bonus DMG",
+                "En": "Explosive Weak DMG",
                 "Jp": "爆発特効",
                 "Kr": "폭발 특효",
                 "Th": "โบนัสความเสียหายระเบิด",
@@ -1381,7 +1413,7 @@
                 "Cn": "爆发伤害加成"
             },
             "Buff_EnhancePierceRate": {
-                "En": "Piercing Bonus DMG",
+                "En": "Piercing Weak DMG",
                 "Jp": "貫通特効",
                 "Kr": "관통 특효",
                 "Th": "โบนัสความเสียหายเจาะเกราะ",
@@ -1389,12 +1421,36 @@
                 "Cn": "贯穿伤害加成"
             },
             "Buff_EnhanceMysticRate": {
-                "En": "Mystic Bonus DMG",
+                "En": "Mystic Weak DMG",
                 "Jp": "貫通特効",
                 "Kr": "신비 특효",
                 "Th": "โบนัสความเสียหายลึกลับ",
                 "Tw": "神秘傷害加成",
                 "Cn": "神秘伤害加成"
+            },
+            "Buff_ExtendBuffDuration": {
+                "En": "Buff Duration",
+                "Jp": "バフ効果持続力",
+                "Kr": "이로운 효과 유지력",
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "Buff_ExtendDebuffDuration": {
+                "En": "Debuff Duration",
+                "Jp": "弱体状態持続力",
+                "Kr": "해로운 효과 유지력",
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "Buff_ExtendCrowdControlDuration": {
+                "En": "CC Duration",
+                "Jp": "CC状態持続力",
+                "Kr": "군중제어 유지력",
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             },
             "Buff_HealByHit_Damaged": {
                 "En": "Counter Heal",
@@ -1532,6 +1588,11 @@
                 "Tw": "燒傷",
                 "Cn": "烧伤"
             },
+            "Debuff_Cheerleading": {
+                "En": "Cheer Fever",
+                "Jp": "熱気",
+                "Kr": "응원의 열기"
+            },
             "Debuff_Chill": {
                 "En": "Chill",
                 "Jp": "悪寒",
@@ -1621,7 +1682,7 @@
                 "Cn": "回避值"
             },
             "Debuff_EnhanceExplosionRate": {
-                "En": "Explosive Bonus DMG",
+                "En": "Explosive Weak DMG",
                 "Jp": "爆発特効",
                 "Kr": "폭발 특효",
                 "Th": "โบนัสความเสียหายระเบิด",
@@ -1629,7 +1690,7 @@
                 "Cn": "爆发伤害"
             },
             "Debuff_EnhancePierceRate": {
-                "En": "Piercing Bonus DMG",
+                "En": "Piercing Weak DMG",
                 "Jp": "貫通特効",
                 "Kr": "관통 특효",
                 "Th": "โบนัสความเสียหายเจาะเกราะ",
@@ -1637,7 +1698,7 @@
                 "Cn": "贯穿伤害"
             },
             "Debuff_EnhanceMysticRate": {
-                "En": "Mystic Bonus DMG",
+                "En": "Mystic Weak DMG",
                 "Jp": "貫通特効",
                 "Kr": "신비 특효",
                 "Th": "โบนัสความเสียหายลึกลับ",
@@ -1979,22 +2040,46 @@
                 "Cn": "持续恢复"
             },
             "Buff_EnhanceExplosionRate": {
-                "En": "Explosive Bonus DMG Up",
+                "En": "Explosive Weak DMG Up",
                 "Th": "ความเสียหายประเภทระเบิดเพิ่มขึ้น",
                 "Tw": "爆發傷害加成提升",
                 "Cn": "爆发伤害加成提升"
             },
             "Buff_EnhancePierceRate": {
-                "En": "Piercing Bonus DMG Up",
+                "En": "Piercing Weak DMG Up",
                 "Th": "ความเสียหายประเภทเจาะเกราะเพิ่มขึ้น",
                 "Tw": "貫穿傷害加成提升",
                 "Cn": "贯穿伤害加成提升"
             },
             "Buff_EnhanceMysticRate": {
-                "En": "Mystic Bonus DMG Up",
+                "En": "Mystic Weak DMG Up",
                 "Th": "ความเสียหายประเภทลึกลับเพิ่มขึ้น",
                 "Tw": "神秘傷害加成提升",
                 "Cn": "神秘伤害加成提升"
+            },
+            "Buff_ExtendBuffDuration": {
+                "En": "Buff Duration Up",
+                "Jp": "バフ効果持続力",
+                "Kr": "이로운 효과 유지력",
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "Buff_ExtendDebuffDuration": {
+                "En": "Debuff Duration Up",
+                "Jp": "弱体状態持続力",
+                "Kr": "해로운 효과 유지력",
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "Buff_ExtendCrowdControlDuration": {
+                "En": "CC Duration Up",
+                "Jp": "CC状態持続力",
+                "Kr": "군중제어 유지력",
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             },
             "Buff_HealByHit_Damaged": {
                 "En": "Counter Heal",
@@ -2098,6 +2183,11 @@
                 "Tw": "燒傷",
                 "Cn": "烧伤"
             },
+            "Debuff_Cheerleading": {
+                "En": "Cheer Fever",
+                "Jp": "熱気",
+                "Kr": "응원의 열기"
+            },
             "Debuff_Chill": {
                 "En": "Chill",
                 "Th": "หนาวสั่น",
@@ -2165,19 +2255,19 @@
                 "Cn": "回避值下降"
             },
             "Debuff_EnhanceExplosionRate": {
-                "En": "Explosive Bonus DMG Down",
+                "En": "Explosive Weak DMG Down",
                 "Th": "ความเสียหายประเภทระเบิดลดลง",
                 "Tw": "爆發傷害下降",
                 "Cn": "爆发伤害下降"
             },
             "Debuff_EnhancePierceRate": {
-                "En": "Piercing Bonus DMG Down",
+                "En": "Piercing Weak DMG Down",
                 "Th": "ความเสียหายประเภทเจาะเกราะลดลง",
                 "Tw": "貫穿傷害下降",
                 "Cn": "贯穿伤害下降"
             },
             "Debuff_EnhanceMysticRate": {
-                "En": "Mystic Bonus DMG Down",
+                "En": "Mystic Weak DMG Down",
                 "Th": "ความเสียหายประเภทลึกลับลดลง",
                 "Tw": "神秘傷害下降",
                 "Cn": "神秘伤害下降"
@@ -2450,16 +2540,25 @@
                 "Th": "ฟื้นฟู HP ช้าๆ เป็นเวลาต่อเนื่อง"
             },
             "Buff_EnhanceExplosionRate": {
-                "En": "Increases the bonus damage dealt by Explosive type attacks against Light Armor targets.",
+                "En": "Increases the damage bonus when dealing Explosive type attacks against Light Armor targets.",
                 "Th": "เพิ่มความเสียหายของการโจมตีประเภทระเบิดที่มีต่อเป้าหมายเกราะเบา"
             },
             "Buff_EnhancePierceRate": {
-                "En": "Increases the bonus damage dealt by Piercing type attacks against Heavy Armor targets.",
+                "En": "Increases the damage bonus when dealing Piercing type attacks against Heavy Armor targets.",
                 "Th": "เพิ่มความเสียหายของการโจมตีประเภทเจาะเกราะที่มีต่อเป้าหมายเกราะหนัก"
             },
             "Buff_EnhanceMysticRate": {
-                "En": "Increases the bonus damage dealt by Mystic type attacks against Special Armor targets.",
+                "En": "Increases the damage bonus when dealing Mystic type attacks against Special Armor targets.",
                 "Th": "เพิ่มความเสียหายของการโจมตีประเภทลึกลับที่มีต่อเป้าหมายเกราะพิเศษ"
+            },
+            "Buff_ExtendBuffDuration": {
+                "En": "Extends the duration of Buffs granted to self and allies."
+            },
+            "Buff_ExtendDebuffDuration": {
+                "En": "Extends the duration of Debuffs inflicted on enemies."
+            },
+            "Buff_ExtendCrowdControlDuration": {
+                "En": "Extends the duration of Crowd Control effects inflicted on enemies."
             },
             "Buff_HealByHit_Damaged": {
                 "En": "Restores HP each time damage is taken from an attack.",
@@ -2532,6 +2631,9 @@
                 "En": "Continuously receives Burn damage at set intervals. This damage cannot critically hit.",
                 "Th": "ได้รับความเสียหายเผาไหม้ต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้"
             },
+            "Debuff_Cheerleading": {
+                "En": "Continuously receives Cheerleading Fever damage at set intervals. This damage cannot critically hit."
+            },
             "Debuff_Chill": {
                 "En": "Continuously receives Chill damage at set intervals. This damage cannot critically hit.",
                 "Th": "ได้รับความเสียหายหนาวสั่นต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้"
@@ -2581,15 +2683,15 @@
                 "Th": "ลดโอกาสหลบหลีกการโจมตีได้สำเร็จ"
             },
             "Debuff_EnhanceExplosionRate": {
-                "En": "Decreases the bonus damage dealt by Explosive type attacks against Light Armor targets.",
+                "En": "Decreases the damage bonus when dealing Explosive type attacks against Light Armor targets.",
                 "Th": "ลดความเสียหายของการโจมตีประเภทระเบิดที่มีต่อเป้าหมายเกราะเบา"
             },
             "Debuff_EnhancePierceRate": {
-                "En": "Decreases the bonus damage dealt by Piercing type attacks against Heavy Armor targets.",
+                "En": "Decreases the damage bonus when dealing Piercing type attacks against Heavy Armor targets.",
                 "Th": "ลดความเสียหายของการโจมตีประเภทเจาะเกราะที่มีต่อเป้าหมายเกราะหนัก"
             },
             "Debuff_EnhanceMysticRate": {
-                "En": "Decreases the bonus damage dealt by Mystic type attacks against Special Armor targets.",
+                "En": "Decreases the damage bonus when dealing Mystic type attacks against Special Armor targets.",
                 "Th": "ลดความเสียหายของการโจมตีประเภทลึกลับที่มีต่อเป้าหมายเกราะพิเศษ"
             },
             "Debuff_HealedLimit": {
@@ -3324,10 +3426,18 @@
                 "Tw": "語音",
                 "Cn": "CV"
             },
+            "designer": {
+                "En": "Design",
+                "Jp": "デザイン",
+                "Kr": "디자인",
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
             "illustrator": {
-                "En": "Illust.",
-                "Jp": "原画",
-                "Kr": "원화",
+                "En": "Illustrator",
+                "Jp": "イラスト",
+                "Kr": "일러스트",
                 "Th": "ภาพวาด",
                 "Tw": "原畫",
                 "Cn": "原画"
