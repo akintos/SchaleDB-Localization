@@ -1590,7 +1590,7 @@
             },
             "Debuff_Cheerleading": {
                 "En": "Cheer Fever",
-                "Jp": "熱気",
+                "Jp": "応援の熱気",
                 "Th": "ร้อนแรง",
                 "Kr": "응원의 열기"
             },
@@ -2185,8 +2185,8 @@
                 "Cn": "烧伤"
             },
             "Debuff_Cheerleading": {
-                "En": "Cheer Fever",
-                "Jp": "熱気",
+                "En": "Cheerleading Fever",
+                "Jp": "応援の熱気",
                 "Th": "ความร้อนแรง",
                 "Kr": "응원의 열기"
             },
@@ -2554,15 +2554,15 @@
                 "Th": "เพิ่มความเสียหายของการโจมตีประเภทลึกลับที่มีต่อเป้าหมายเกราะพิเศษ"
             },
             "Buff_ExtendBuffDuration": {
-                "En": "Extends the duration of Buffs granted to self and allies.",
+                "En": "Increases the duration of buffs granted to self and allies.",
                 "Th": "เพิ่มระยะเวลาของบัพที่ใช้กับตัวเองและฝ่ายเรา"
             },
             "Buff_ExtendDebuffDuration": {
-                "En": "Extends the duration of Debuffs inflicted on enemies.",
+                "En": "Increases the duration of debuffs inflicted on enemies.",
                 "Th": "เพิ่มระยะเวลาของเอฟเฟกต์อันตรายที่ใช้ใส่ฝ่ายศัตรู"
             },
             "Buff_ExtendCrowdControlDuration": {
-                "En": "Extends the duration of Crowd Control effects inflicted on enemies.",
+                "En": "Increases the duration of Crowd Control effects inflicted on enemies.",
                 "Th": "เพิ่มระยะเวลาของเอฟเฟกต์กดขี่ที่ใช้ใส่ฝ่ายศัตรู"
             },
             "Buff_HealByHit_Damaged": {
@@ -2637,7 +2637,7 @@
                 "Th": "ได้รับความเสียหายเผาไหม้ต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้"
             },
             "Debuff_Cheerleading": {
-                "En": "Continuously receives Cheerleading Fever damage at set intervals. This damage cannot critically hit.",
+                "En": "Continuously receives damage at set intervals. This damage cannot critically hit.",
                 "Th": "ได้รับความเสียหายร้อนแรงต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้"
             },
             "Debuff_Chill": {
