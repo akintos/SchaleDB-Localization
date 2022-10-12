@@ -683,6 +683,10 @@
             "DescriptionEn": ""
         },
         {
+            "Key": 2722465897,
+            "NameEn": "Akane (Bunny)"
+          },
+        {
             "Key": 1311123432,
             "NameEn": "Light Sweeper",
             "DescriptionEn": ""
@@ -892,7 +896,7 @@
             "Key": 3839125090,
             "Force": true,
             "NameEn": "Enemy Incoming DMG Limit",
-            "DescriptionEn": "All enemies have an <b:DamagedLimit> reducing the damage received from ally attacks to 1."
+            "DescriptionEn": "All enemies have greatly decreased Max HP, but also have an <b:DamagedLimit> that reduces the damage received from ally attacks to a maximum of <b>1</b>."
         },
         {
             "Key": 89307624,

@@ -1109,7 +1109,7 @@
         {
             "SkillId": 13006300,
             "NameEn": "Explosive Aria",
-            "DescriptionEn": "Every 20s, places 3 landmines a fixed distance in front of Mutsuki that each deal <?1> damage if triggered. Landmines last for 15s.",
+            "DescriptionEn": "Every 20s, places 3 mines a fixed distance in front of Mutsuki that each deal <?1> damage if triggered. Mines last for 15s.",
             "ParametersEn": [
                 ["334%", "351%", "368%", "434%", "451%", "468%", "535%", "552%", "568%", "635%"]
             ]
@@ -6102,6 +6102,69 @@
                 [
                     "17.9%", "18.8%", "19.7%", "23.3%", "24.2%", "25%", "28.6%", "29.5%", "30.4%", 
                     "34%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 20019200,
+            "NameEn": "Careful Preparation",
+            "DescriptionEn": "Places a mine that explodes automatically when an enemy is in range, dealing <?1> damage. The mine lasts for 90s.",
+            "ParametersEn": [
+                [
+                    "351%", "404%", "509%", "562%", "667%", "720%", "826%", "878%", "984%", "1036%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 20019300,
+            "NameEn": "Elegant Cleaning",
+            "DescriptionEn": "Every 30s, deals <?1> damage to enemies in a circular area.",
+            "ParametersEn": [
+                ["216%", "227%", "238%", "281%", "292%", "302%", "346%", "356%", "367%", "411%"]
+            ]
+        },
+        {
+            "SkillId": 20019400,
+            "NameEn": "Accurate Capture",
+            "DescriptionEn": "Increases <b:ATK> by <?1>.",
+            "ParametersEn": [
+                [
+                    "14%", "14.7%", "15.4%", "18.2%", "18.9%", "19.6%", "22.4%", "23.1%", "23.8%", 
+                    "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 20019500,
+            "NameEn": "Prompt Assistance",
+            "DescriptionEn": "Increases the <b:ATK> of all allies who use <b class='ba-col-mystic'>Mystic</b> type attacks by <?1>.",
+            "ParametersEn": [
+                [
+                    "12.7%", "13.4%", "14%", "16.5%", "17.2%", "17.8%", "20.4%", "21%", "21.7%", 
+                    "24.2%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 20019450,
+            "NameEn": "Accurate Capture+",
+            "DescriptionEn": "Increases <b:ATK> by <?1> plus a further <?2>.",
+            "ParametersEn": [
+                [
+                    "347",
+                    "365",
+                    "382",
+                    "451",
+                    "469",
+                    "486",
+                    "555",
+                    "573",
+                    "590",
+                    "659"
+                ],
+                [
+                    "14%", "14.7%", "15.4%", "18.2%", "18.9%", "19.6%", "22.4%", "23.1%", "23.8%", 
+                    "26.6%"
                 ]
             ]
         }
