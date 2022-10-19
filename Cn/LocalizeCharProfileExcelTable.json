@@ -1553,6 +1553,62 @@
             "CharacterVoiceCn": "五十岚裕美",
             "WeaponNameCn": "淑女的气质",
             "WeaponDescCn": "无论是在展现淑女的品味的时候，\n还是在履行作为教官的职责的时候都非常实用的突击步枪。"
+        },
+        {
+            "CharacterId": 10051,
+            "FamilyNameCn": "白石",
+            "PersonalNameCn": "歌原",
+            "SchoolYearCn": "3年级",
+            "CharacterAgeCn": "17岁",
+            "BirthdayCn": "11月13日",
+            "CharacterSSRNewCn": "千年的应援团长，白石歌原。\n将以冷静的理性和炽热的热情，为大家应援。",
+            "ProfileIntroductionCn": "为迎接大运动会，穿上了啦啦队服装的工程部的部长。\n\n虽然是突然被拉进了啦啦队，但作为凡事都要做到最好的大师，她的热情比任何其他啦啦队都要高涨。但由于被热情冲昏头脑，好像将原本的目的忘在了脑后……",
+            "HobbyCn": "所有的发明和修理",
+            "CharacterVoiceCn": "青地希望",
+            "WeaponNameCn": "大师零",
+            "WeaponDescCn": "歌原所持有的简洁造型的冲锋枪。\n为了不妨碍应援，将雷酱收纳在了其内部。"
+        },
+        {
+            "CharacterId": 10052,
+            "FamilyNameCn": "生盐",
+            "PersonalNameCn": "诺亚",
+            "SchoolYearCn": "2年级",
+            "CharacterAgeCn": "16岁",
+            "BirthdayCn": "4月13日",
+            "CharacterSSRNewCn": "研讨会的书记，生盐诺亚。\n请多多关照，老师……各方面的，是的。",
+            "ProfileIntroductionCn": "千年科学学园所属，学生会「研讨会」的书记。\n\n主要负责记录研讨会的决定事项和会议内容，以及千年的学生开发的制品的特别许可的鉴别和注册专利的业务。拥有非常优秀的记忆力，见过听过一次的内容基本能完整默记下来。",
+            "HobbyCn": "读书、背诵",
+            "CharacterVoiceCn": "鈴代紗弓",
+            "WeaponNameCn": "书记的表决",
+            "WeaponDescCn": "诺亚使用的带有改装附件的手枪。\n拉开枪托就可以像冲锋枪一样连射。"
+        },
+        {
+            "CharacterId": 16010,
+            "FamilyNameCn": "猫冢",
+            "PersonalNameCn": "响",
+            "SchoolYearCn": "1年级",
+            "CharacterAgeCn": "15岁",
+            "BirthdayCn": "4月2日",
+            "CharacterSSRNewCn": "老师…怎、怎么样…？\n第一次制作啦啦队的衣服…应该…还没那么糟糕吧？",
+            "ProfileIntroductionCn": "为迎接大运动会，穿上了啦啦队队衣服的工程部部员。\n\n因为平常爱好COSPLAY所以学会了裁缝的技能，并为工程部的部员们制作服装。由于穿着的啦啦队长衣服是由以前制作的衣服改造而成的，所以她稍微有点在意短裙长度的样子。",
+            "HobbyCn": "购物、COSPLAY",
+            "CharacterVoiceCn": "名塚佳織",
+            "WeaponNameCn": "奇幻色彩",
+            "WeaponDescCn": "响爱用的迫击炮。\n为了在应援途中便于携带，它可以收纳在糖果袋中。"
+        },
+        {
+            "CharacterId": 20019,
+            "FamilyNameCn": "室笠",
+            "PersonalNameCn": "茜",
+            "SchoolYearCn": "2年级",
+            "CharacterAgeCn": "16岁",
+            "BirthdayCn": "4月1日",
+            "CharacterSSRNewCn": "这里是主人的女仆，茜。\n不…我似乎应该说，今天是主人的兔女郎？",
+            "ProfileIntroductionCn": "千年科学学园所属，为了完成潜入任务而换上兔女郎服装的「C&C」的特工。\n\n即使是在不习惯的环境下，为了潜入任务也率先准备好了兔女郎服装，使用C4清理掉了障碍物等等，一如既往沉着冷静地推进着作战计划。也许是因为穿着和平时不同的服装的缘故，哪儿都能看到她兴奋的表情。",
+            "HobbyCn": "打扫卫生",
+            "CharacterVoiceCn": "原由実",
+            "WeaponNameCn": "无声解决",
+            "WeaponDescCn": "朱音经常携带的手枪。\n没有比它更适合潜行任务的了。"
         }
     ]
 }
