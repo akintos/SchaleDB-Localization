@@ -769,20 +769,20 @@
         {
             "Key": 990306261,
             "Force": true,
-            "NameEn": "Exercise Terrain (Outdoor)",
-            "DescriptionEn": "This exercise will take place in <b>outdoor</b> terrain."
+            "NameEn": "Drill Terrain (Outdoor)",
+            "DescriptionEn": "This drill will take place in <b>outdoor</b> terrain."
         },
         {
             "Key": 1329507091,
             "Force": true,
-            "NameEn": "Exercise Terrain (Indoor)",
-            "DescriptionEn": "This exercise will take place in <b>indoor</b> terrain."
+            "NameEn": "Drill Terrain (Indoor)",
+            "DescriptionEn": "This drill will take place in <b>indoor</b> terrain."
         },
         {
             "Key": 3938056289,
             "Force": true,
-            "NameEn": "Exercise Terrain (Street)",
-            "DescriptionEn": "This exercise will take place in <b>street</b> terrain."
+            "NameEn": "Drill Terrain (Street)",
+            "DescriptionEn": "This drill will take place in <b>street</b> terrain."
         },
         {
             "Key": 2060888564,
