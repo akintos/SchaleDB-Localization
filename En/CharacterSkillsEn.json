@@ -2087,6 +2087,25 @@
             ]
         },
         {
+            "SkillId": 23004350,
+            "NameEn": "Thundergun MK-II+",
+            "DescriptionEn": "Every 30s, summons 3 turrets, each with <?1> of Utaha's <b:ATK> for 20s.",
+            "ParametersEn": [
+                [
+                    "38.2%",
+                    "40.1%",
+                    "42%",
+                    "49.7%",
+                    "51.6%",
+                    "53.5%",
+                    "61.1%",
+                    "63.1%",
+                    "65%",
+                    "72.6%"
+                ]
+            ]
+        },
+        {
             "SkillId": 23005200,
             "NameEn": "Special Delivery: Combat Supplies",
             "DescriptionEn": "Restores the HP of allies in a circular area by <?1> of Healing.",
@@ -4093,6 +4112,37 @@
             ]
         },
         {
+            "SkillId": 20009350,
+            "NameEn": "Aim, Purge!+",
+            "DescriptionEn": "Every 15s, deals <?1> damage to enemies in a circular area and creates a circular zone that continuously deals <?2> damage every 1s for 5s.",
+            "ParametersEn": [
+                [
+                    "149%",
+                    "156%",
+                    "164%",
+                    "193%",
+                    "201%",
+                    "208%",
+                    "238%",
+                    "246%",
+                    "253%",
+                    "283%"
+                ],
+                [
+                    "26.1%",
+                    "27.4%",
+                    "28.7%",
+                    "33.9%",
+                    "35.2%",
+                    "36.6%",
+                    "41.7%",
+                    "43.1%",
+                    "44.4%",
+                    "49.6%"
+                ]
+            ]
+        },
+        {
             "SkillId": 10030200,
             "NameEn": "Type A Combat Stimulant",
             "DescriptionEn": "Increases the <b:AttackSpeed> of one ally by <?1> for 30s. Cannot target self.",
@@ -4168,7 +4218,7 @@
         {
             "SkillId": 16007500,
             "NameEn": "Irrefutable Evidence",
-            "DescriptionEn": "Deals <?1> damage as an additional hit to enemies with a <b:Shield>.",
+            "DescriptionEn": "Deals <?1> damage as an additional hit to enemies protected by a <b:Shield>.",
             "ParametersEn": [
                 [
                     "57.1%", "59.9%", "62.8%", "74.2%", "77.1%", "79.9%", "91.4%", "94.2%", 
@@ -4751,6 +4801,37 @@
                 [
                     "14%", "14.7%", "15.4%", "18.2%", "18.9%", "19.6%", "22.4%", "23.1%", "23.8%", 
                     "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10036350,
+            "NameEn": "Let's Talk First...!+",
+            "DescriptionEn": "Every 20s, deals <?1> damage to the enemy with the highest HP. The final hit of this skill will ricochet to one nearby enemy, dealing <?2> damage.",
+            "ParametersEn": [
+                [
+                    "293%",
+                    "307%",
+                    "322%",
+                    "380%",
+                    "395%",
+                    "410%",
+                    "468%",
+                    "483%",
+                    "498%",
+                    "556%"
+                ],
+                [
+                    "78%",
+                    "82%",
+                    "86%",
+                    "101%",
+                    "105%",
+                    "109%",
+                    "125%",
+                    "129%",
+                    "133%",
+                    "148%"
                 ]
             ]
         },
@@ -6164,6 +6245,363 @@
                 ],
                 [
                     "14%", "14.7%", "15.4%", "18.2%", "18.9%", "19.6%", "22.4%", "23.1%", "23.8%", 
+                    "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10053200,
+            "NameEn": "R.S.G!",
+            "DescriptionEn": "Repositions to the selected location and gains a <b:Shield> with HP equal to <?1> of Healing lasting up to 25s. Also places a flag at this location that repositions up to 3 allies and grants them a <b:Shield> with HP equal to <?2> of Healing lasting up to 25s.",
+            "ParametersEn": [
+                [
+                    "168%",
+                    "193%",
+                    "244%",
+                    "269%",
+                    "320%",
+                    "345%",
+                    "396%",
+                    "421%",
+                    "471%",
+                    "497%"
+                ],
+                [
+                    "168%",
+                    "193%",
+                    "244%",
+                    "269%",
+                    "320%",
+                    "345%",
+                    "396%",
+                    "421%",
+                    "471%",
+                    "497%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10053300,
+            "NameEn": "Rehydration",
+            "DescriptionEn": "Every 30s, if Yuuka is not protected by a shield, gains a <b:Shield> with HP equal to <?1> of Healing lasting up to 23s. If Yuuka is already protected by a <b:Shield>, increases <b:HealPower> by <?2> for 90s instead (effect stacks up to 3 times).",
+            "ParametersEn": [
+                [
+                    "115%",
+                    "121%",
+                    "127%",
+                    "150%",
+                    "156%",
+                    "162%",
+                    "185%",
+                    "191%",
+                    "197%",
+                    "220%"
+                ],
+                [
+                    "12.3%",
+                    "12.9%",
+                    "13.6%",
+                    "16%",
+                    "16.6%",
+                    "17.3%",
+                    "19.7%",
+                    "20.4%",
+                    "21%",
+                    "23.4%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10053400,
+            "NameEn": "Competitive Mathematics",
+            "DescriptionEn": "Increases <b:AttackSpeed> by <?1>.",
+            "ParametersEn": [
+                [
+                    "14%",
+                    "14.7%",
+                    "15.4%",
+                    "18.2%",
+                    "18.9%",
+                    "19.6%",
+                    "22.4%",
+                    "23.1%",
+                    "23.8%",
+                    "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10053500,
+            "NameEn": "Optimal Flow Line",
+            "DescriptionEn": "Whenever Yuuka stops moving, increases <b:EnhanceMysticRate> by <?1> for 20s.",
+            "ParametersEn": [
+                [
+                    "31.1%",
+                    "32.6%",
+                    "34.2%",
+                    "40.4%",
+                    "42%",
+                    "43.5%",
+                    "49.7%",
+                    "51.3%",
+                    "52.8%",
+                    "59.1%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10053450,
+            "NameEn": "Competitive Mathematics+",
+            "DescriptionEn": "Increases <b:HealPower> by <?1> and <b:AttackSpeed> by <?2>.",
+            "ParametersEn": [
+                [
+                    "606",
+                    "636",
+                    "666",
+                    "787",
+                    "818",
+                    "848",
+                    "969",
+                    "999",
+                    "1029",
+                    "1150"
+                ],
+                [
+                    "14%",
+                    "14.7%",
+                    "15.4%",
+                    "18.2%",
+                    "18.9%",
+                    "19.6%",
+                    "22.4%",
+                    "23.1%",
+                    "23.8%",
+                    "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10054200,
+            "NameEn": "Here's Your Water",
+            "DescriptionEn": "Restores the HP of allies except self in a circular area around Mari by <?1> of Healing.",
+            "ParametersEn": [
+                [
+                    "167%",
+                    "192%",
+                    "243%",
+                    "268%",
+                    "318%",
+                    "343%",
+                    "393%",
+                    "419%",
+                    "469%",
+                    "494%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10054300,
+            "NameEn": "Sister's Support",
+            "DescriptionEn": "Every 45s restores the HP of both self and the ally with the highest DEF by <?1> of Healing and increases both targets' <b:DEF> by <?2> for 40s.",
+            "ParametersEn": [
+                [
+                    "82.8%",
+                    "86.9%",
+                    "91%",
+                    "99.3%",
+                    "103%",
+                    "107%",
+                    "115%",
+                    "120%",
+                    "124%",
+                    "132%"
+                ],
+                [
+                    "18.5%",
+                    "18.5%",
+                    "18.5%",
+                    "20.4%",
+                    "20.4%",
+                    "20.4%",
+                    "22.2%",
+                    "22.2%",
+                    "22.2%",
+                    "24.1%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10054400,
+            "NameEn": "Preparing Support",
+            "DescriptionEn": "Increases <b:HealPower> by <?1>.",
+            "ParametersEn": [
+                [
+                    "14%",
+                    "14.7%",
+                    "15.4%",
+                    "18.2%",
+                    "18.9%",
+                    "19.6%",
+                    "22.4%",
+                    "23.1%",
+                    "23.8%",
+                    "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10054500,
+            "NameEn": "Devoted Encouragement",
+            "DescriptionEn": "When a target of either Mari's EX or Basic Skill has less than 30% HP remaining, restores their HP by an additional <?1> of Healing.",
+            "ParametersEn": [
+                [
+                    "90%",
+                    "94.5%",
+                    "99%",
+                    "117%",
+                    "121%",
+                    "126%",
+                    "144%",
+                    "148%",
+                    "153%",
+                    "171%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10054450,
+            "NameEn": "Preparing Support+",
+            "DescriptionEn": "Increases <b:DEF> by <?1> and <b:HealPower> by <?2>.",
+            "ParametersEn": [
+                [
+                    "200",
+                    "210",
+                    "220",
+                    "260",
+                    "270",
+                    "280",
+                    "320",
+                    "330",
+                    "340",
+                    "380"
+                ],
+                [
+                    "14%",
+                    "14.7%",
+                    "15.4%",
+                    "18.2%",
+                    "18.9%",
+                    "19.6%",
+                    "22.4%",
+                    "23.1%",
+                    "23.8%",
+                    "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 16011200,
+            "NameEn": "Steel Will Piercing Shot",
+            "DescriptionEn": "Deals <?1> damage to one enemy. This skill will consume up to <b>2</b> additional units of skill cost, increasing the damage dealt by 30% for each additional unit of cost consumed. (EX Cost increase/decrease effects will be calculated using the base cost)",
+            "ParametersEn": [
+                [
+                    "452%",
+                    "520%",
+                    "656%",
+                    "723%",
+                    "859%",
+                    "927%",
+                    "1063%",
+                    "1131%",
+                    "1266%",
+                    "1334%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 16011300,
+            "NameEn": "Sport Shooting",
+            "DescriptionEn": "Every 25s, deals <?1> damage to one enemy.",
+            "ParametersEn": [
+                [
+                    "247%",
+                    "259%",
+                    "272%",
+                    "321%",
+                    "334%",
+                    "346%",
+                    "395%",
+                    "408%",
+                    "420%",
+                    "470%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 16011400,
+            "NameEn": "Prepared For Competition",
+            "DescriptionEn": "Increases <b:CriticalDamage> by <?1>.",
+            "ParametersEn": [
+                [
+                    "14%",
+                    "14.7%",
+                    "15.4%",
+                    "18.2%",
+                    "18.9%",
+                    "19.6%",
+                    "22.4%",
+                    "23.1%",
+                    "23.8%",
+                    "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 16011500,
+            "NameEn": "Competition Excitement",
+            "DescriptionEn": "Deals <?1> damage as an additional hit to <b>large</b> sized enemies.",
+            "ParametersEn": [
+                [
+                    "21.8%",
+                    "22.9%",
+                    "24%",
+                    "28.4%",
+                    "29.5%",
+                    "30.5%",
+                    "35%",
+                    "36%",
+                    "37.1%",
+                    "41.5%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 16011450,
+            "NameEn": "Prepared For Competition+",
+            "DescriptionEn": "Increases <b:CriticalChance> by <?1> and <b:CriticalDamage> by <?2>.",
+            "ParametersEn": [
+                [
+                    "100",
+                    "105",
+                    "110",
+                    "130",
+                    "135",
+                    "140",
+                    "160",
+                    "165",
+                    "170",
+                    "190"
+                ],
+                [
+                    "14%",
+                    "14.7%",
+                    "15.4%",
+                    "18.2%",
+                    "18.9%",
+                    "19.6%",
+                    "22.4%",
+                    "23.1%",
+                    "23.8%",
                     "26.6%"
                 ]
             ]

@@ -444,5 +444,86 @@
         "NameTw": "紫色聖遺物",
         "NameCn": "紫色圣遗物",
         "NameTh": "เรลิกม่วง"
+    },
+    {
+        "Id": 7308101,
+        "NameEn": "Goz (Clone)",
+        "NameJp": "ゴズ（分身）",
+        "NameKr": "고즈 (분신)"
+    },
+    {
+        "Id": 7308201,
+        "NameEn": "Goz (Clone)",
+        "NameJp": "ゴズ（分身）",
+        "NameKr": "고즈 (분신)"
+    },
+    {
+        "Id": 7308301,
+        "NameEn": "Goz (Clone)",
+        "NameJp": "ゴズ（分身）",
+        "NameKr": "고즈 (분신)"
+    },
+    {
+        "Id": 7308401,
+        "NameEn": "Goz (Clone)",
+        "NameJp": "ゴズ（分身）",
+        "NameKr": "고즈 (분신)"
+    },
+    {
+        "Id": 7308501,
+        "NameEn": "Goz (Clone)",
+        "NameJp": "ゴズ（分身）",
+        "NameKr": "고즈 (분신)"
+    },
+    {
+        "Id": 7308601,
+        "NameEn": "Goz (Clone)",
+        "NameJp": "ゴズ（分身）",
+        "NameKr": "고즈 (분신)"
+    },
+    {
+        "Id": 7308103,
+        "NameEn": "Scream Rider",
+        "NameJp": "スクリームライダー",
+        "NameKr": "스크림 라이더"
+    },
+    {
+        "Id": 7308203,
+        "NameEn": "Scream Rider",
+        "NameJp": "スクリームライダー",
+        "NameKr": "스크림 라이더"
+    },
+    {
+        "Id": 7308303,
+        "NameEn": "Scream Rider",
+        "NameJp": "スクリームライダー",
+        "NameKr": "스크림 라이더"
+    },
+    {
+        "Id": 7308403,
+        "NameEn": "Scream Rider",
+        "NameJp": "スクリームライダー",
+        "NameKr": "스크림 라이더"
+    },
+    {
+        "Id": 7308503,
+        "NameEn": "Scream Rider",
+        "NameJp": "スクリームライダー",
+        "NameKr": "스크림 라이더"
+    },
+    {
+        "Id": 7308603,
+        "NameEn": "Scream Rider",
+        "NameJp": "スクリームライダー",
+        "NameKr": "스크림 라이더"
+    },
+    {
+        "Id": 8180055,
+        "NameEn": "Perorominion",
+        "NameTh": "ลูกสมุนบิ๊กเพโรโร่",
+        "NameJp": "ペロロミニオン",
+        "NameKr": "페로로 미니언",
+        "NameTw": "佩洛洛士兵",
+        "NameCn": "佩洛洛士兵"
     }
 ]

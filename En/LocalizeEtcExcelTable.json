@@ -685,7 +685,19 @@
         {
             "Key": 2722465897,
             "NameEn": "Akane (Bunny)"
-          },
+        },
+        {
+            "Key": 4075175882,
+            "NameEn": "Yuuka (Track)"
+        },
+        {
+            "Key": 848527413,
+            "NameEn": "Mari (Track)"
+        },
+        {
+            "Key": 2641297537,
+            "NameEn": "Hasumi (Track)"
+        },
         {
             "Key": 1311123432,
             "NameEn": "Light Sweeper",
@@ -747,6 +759,61 @@
             "DescriptionEn": ""
         },
         {
+            "Key": 3196440006,
+            "NameEn": "AMAS (SMG)",
+            "DescriptionEn": "(X)"
+        },
+        {
+            "Key": 2182993120,
+            "NameEn": "AMAS (SMG)",
+            "DescriptionEn": "(X)"
+        },
+        {
+            "Key": 1098659073,
+            "NameEn": "Brave AMAS",
+            "DescriptionEn": "(X)"
+        },
+        {
+            "Key": 1019858810,
+            "NameEn": "AMAS (AR)",
+            "DescriptionEn": "(X)"
+        },
+        {
+            "Key": 490126547,
+            "NameEn": "AMAS (AR)",
+            "DescriptionEn": "(X)"
+        },
+        {
+            "Key": 4116637918,
+            "NameEn": "Swift AMAS",
+            "DescriptionEn": "(X)"
+        },
+        {
+            "Key": 3815677918,
+            "NameEn": "AMAS (Vulcan)",
+            "DescriptionEn": "(X)"
+        },
+        {
+            "Key": 2523546771,
+            "NameEn": "AMAS (Vulcan)",
+            "DescriptionEn": "(X)"
+        },
+        {
+            "Key": 514845775,
+            "NameEn": "Enhanced AMAS",
+            "DescriptionEn": "(X)"
+        },
+        {
+            "Key": 3796576923,
+            "NameEn": "Mr. Avant-Garde",
+            "DescriptionEn": "(X)"
+        },
+        {
+            "Key": 1666012841,
+            "NameEn": "Cheshire Cat",
+            "DescriptionEn": "(X)"
+          },
+        {
             "Key": 493517636,
             "NameEn": "Perorodzilla",
             "DescriptionEn": ""
@@ -766,6 +833,30 @@
             "NameEn": "Chesed",
             "DescriptionEn": ""
         },
+        {
+            "Key": 1251331000,
+            "NameEn": "Goz"
+          },
+          {
+            "Key": 1746062754,
+            "NameEn": "Goz"
+          },
+          {
+            "Key": 2997278149,
+            "NameEn": "Goz"
+          },
+          {
+            "Key": 2492574301,
+            "NameEn": "Goz"
+          },
+          {
+            "Key": 4233365957,
+            "NameEn": "Goz"
+          },
+          {
+            "Key": 3018108199,
+            "NameEn": "Goz"
+          },
         {
             "Key": 990306261,
             "Force": true,

@@ -1146,6 +1146,150 @@
             "DescriptionCn": null
         },
         {
+            "Id": "GozEx01",
+            "NameEn": "Now You See Us",
+            "DescriptionEn": "Goz disappears for a short while, removing all debuffs from self and creating <b>2</b> clones with the same abilities as Goz. <?1>",
+            "ParametersEn": [
+                [
+                    "(Clones have <b>0</b> ATK)",
+                    "(Clones have <b>0</b> ATK)",
+                    "(Clones have <b>0</b> ATK)",
+                    "(Clones have <b>0</b> ATK)",
+                    "(Clones have <b>0</b> ATK)",
+                    "(Clones have <b>50%</b> of Goz's ATK)"
+                ]
+            ],
+            "DescriptionJp": "ゴズが少しの間姿を消し、弱体状態を解除します。その後自身と同じ動きをする分身と共に登場<?1>",
+            "ParametersJp": [
+                [
+                    "（分身は攻撃力がありません）",
+                    "（分身は攻撃力がありません）",
+                    "（分身は攻撃力がありません）",
+                    "（分身は攻撃力がありません）",
+                    "（分身は攻撃力がありません）",
+                    "（分身はゴズの攻撃力の<b>50%</b>の分の攻撃力を持ちます）"
+                ]
+            ],
+            "DescriptionKr": "고즈가 잠시 사라지며 해로운 효과를 해제합니다. 그 뒤 자신과 동일하게 행동하는 분신과 함께 등장합니다. <?1>",
+            "ParametersKr": [
+                [
+                    "(분신은 공격력이 없습니다.)",
+                    "(분신은 공격력이 없습니다.)",
+                    "(분신은 공격력이 없습니다.)",
+                    "(분신은 공격력이 없습니다.)",
+                    "(분신은 공격력이 없습니다.)",
+                    "(분신은 고즈 공격력의 <b>50%</b>를 가집니다.)"
+                ]
+            ],
+            "DescriptionTh": null,
+            "DescriptionTw": null,
+            "NameCn": null,
+            "DescriptionCn": null
+        },
+        {
+            "Id": "GozEx02",
+            "NameEn": "Three Light Monte",
+            "DescriptionEn": "Goz and his clones shine lights on the area in front of him. After a short duration the lit areas will explode, dealing 1500% damage to enemies inside them.",
+            "DescriptionJp": "ゴズと分身が自身の前のエリアに光を照らします。分身が照らした光は一定時間後に爆発し、攻撃力の1500%分のダメージ",
+            "DescriptionKr": "고즈와 분신이 자기 앞에 있는 지역에 빛을 비춥니다. 분신이 비춘 빛은 일정 시간 뒤 폭발하여 공격력 1500% 대미지",
+            "DescriptionTh": null,
+            "DescriptionTw": null,
+            "NameCn": null,
+            "DescriptionCn": null
+        },
+        {
+            "Id": "GozEx03",
+            "NameEn": "Magical Coin Hats",
+            "DescriptionEn": "Goz shuffles hats with coins hidden inside them. After the hats have been shuffled, enemies in a straight line from the hats without coins in them will be dealt 800% damage, knocked back and inflicted with <c:Stunned> for 5s.",
+            "DescriptionJp": "帽子を出してコインを隠した後にシャッフルします。コインがないエリアは次の効果が適用されます。/\nノックバック、<c:Stunned>を付与（5秒間）、攻撃力の800%分のダメージ",
+            "DescriptionKr": "모자를 꺼내 코인을 감춘 뒤 섞습니다. 코인이 없는 지역은 다음 효과가 적용됩니다./\n넉백, <c:Stunned>(5초간), 공격력 800% 대미지",
+            "DescriptionTh": null,
+            "DescriptionTw": null,
+            "NameCn": null,
+            "DescriptionCn": null
+        },
+        {
+            "Id": "GozEx04",
+            "NameEn": "Surprise Present",
+            "DescriptionEn": "Goz pulls a bomb out of his hat and targets one enemy, dealing 900% damage to them.",
+            "DescriptionJp": "敵を指定して帽子から爆弾を取り出し、攻撃力の900%分のダメージ",
+            "DescriptionKr": "모자에서 폭탄을 꺼내 대상을 조준합니다. 폭탄은 대상에게 날아가 공격력 900% 대미지",
+            "DescriptionTh": null,
+            "DescriptionTw": null,
+            "NameCn": null,
+            "DescriptionCn": null
+        },
+        {
+            "Id": "GozEx05",
+            "NameEn": "Scream Rider",
+            "DescriptionEn": "The Scream Rider will periodically appear, dealing 1200% damage to any enemies in its path <?1>and summoning Slumpian automaton soldiers at its location.",
+            "ParametersEn": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "and 600% damage to nearby enemies "
+                ]
+            ],
+            "DescriptionJp": "一定時間毎に、スクリームライダーが登場し直線範囲内の敵に対して、攻撃力の1200%分のダメージ/<?1>\nスクリームライダーが通り過ぎた場所にスランピアの兵士を召喚",
+            "ParametersJp": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\nスクリームライダーの付近にいる敵には600%分のダメージ/"
+                ]
+            ],
+            "DescriptionKr": "일정 시간마다 스크림 라이더가 등장하여 직선범위 내의 적에게 공격력 1200% 대미지/\n스크림 라이더가 지나간 자리에 슬럼피아 병사를 소환",
+            "ParametersKr": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\n스크림 라이더 부근에 있는 적에게는 공격력 600% 대미지/"
+                ]
+            ],
+            "DescriptionTh": null,
+            "DescriptionTw": null,
+            "NameCn": null,
+            "DescriptionCn": null
+        },
+        {
+            "Id": "GozPassive01",
+            "NameEn": "Prank or Protect",
+            "DescriptionEn": "Reduces Goz's damage dealt to targets protected by a <b:Shield> by <?1>. Also reduces all enemies' <d:HealEffectiveness> by <?2>. This debuff cannot be removed.",
+            "ParametersEn": [
+                [
+                    "75%",
+                    "75%",
+                    "75%",
+                    "75%",
+                    "75%",
+                    "50%"
+                ],
+                [
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "90%"
+                ]
+            ],
+            "DescriptionJp": "<b:Shield>効果がある場合、ゴズが与える全てのダメージを<?1>減少/\n<d:HealEffectiveness>を<?2>減少",
+            "DescriptionKr": "<b:Shield>이 있을 경우 고즈가 입히는 모든 피해가 <?1> 감소합니다./\n<d:HealEffectiveness>이 <?2> 감소합니다.",
+            "DescriptionTh": null,
+            "DescriptionTw": null,
+            "NameCn": null,
+            "DescriptionCn": null
+        },
+        {
             "Id": "WakamoSwimsuit01Ex01",
             "NameEn": "Secret Flower Divination",
             "NameTh": "ลิขิตแห่งบุปผาสีลับแล",
@@ -1208,7 +1352,7 @@
         {
             "Id": "WakamoHoverCraftEx01",
             "NameEn": "Twin Cannons",
-            "NameEn": "ปืนใหญ่คู่",
+            "NameTh": "ปืนใหญ่คู่",
             "DescriptionEn": "Deals 70% damage to up to 8 enemies.",
             "DescriptionJp": "最大で敵8人に対して、順番にそれぞれ攻撃力の70%分のダメージ",
             "DescriptionKr": "적 최대 8인에게 번갈아가며 사격하여 각각 공격력 70% 대미지",
