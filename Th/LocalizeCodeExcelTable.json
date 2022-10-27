@@ -81,6 +81,46 @@
             "Comment": "Campaign 19-3 Hard"
         },
         {
+            "Key": 562079057,
+            "Th": "シャインタウン3階・廊下",
+            "Comment": "Campaign 20-1 Normal"
+        },
+        {
+            "Key": 1092346259,
+            "Th": "トリプルブルースポーツセンター",
+            "Comment": "Campaign 20-2 Normal"
+        },
+        {
+            "Key": 3997873897,
+            "Th": "スクランブルシティ12階・廊下",
+            "Comment": "Campaign 20-3 Normal"
+        },
+        {
+            "Key": 3381534908,
+            "Th": "微睡みのギムナジウム",
+            "Comment": "Campaign 20-4 Normal"
+        },
+        {
+            "Key": 1004681246,
+            "Th": "コクーンビル32階・廊下",
+            "Comment": "Campaign 20-5 Normal"
+        },
+        {
+            "Key": 1118628224,
+            "Th": "トリプルブルー第1総合運動区域",
+            "Comment": "Campaign 20-1 Hard"
+        },
+        {
+            "Key": 1130810961,
+            "Th": "トリプルブルー第2総合運動区域",
+            "Comment": "Campaign 20-2 Hard"
+        },
+        {
+            "Key": 3902036902,
+            "Th": "シャインタウン1階・回廊",
+            "Comment": "Campaign 20-3 Hard"
+        },
+        {
             "Key": 2025482854,
             "Th": "舞台「THE・カマボコ」正面口",
             "Comment": "Event 813-1 Quest"
@@ -334,6 +374,176 @@
             "Key": 3449953827,
             "Th": "D.U.廃車場裏側",
             "Comment": "Event 816-5 Challenge"
+        },
+        {
+            "Key": 1307664007,
+            "Th": "選手待機エリア",
+            "Comment": "Event 817-1 Quest"
+        },
+        {
+            "Key": 3919987443,
+            "Th": "100m陸上トラック",
+            "Comment": "Event 817-2 Quest"
+        },
+        {
+            "Key": 352858056,
+            "Th": "大玉ころがし専用トラック",
+            "Comment": "Event 817-3 Quest"
+        },
+        {
+            "Key": 1538765558,
+            "Th": "100mハードルトラック",
+            "Comment": "Event 817-4 Quest"
+        },
+        {
+            "Key": 1473094770,
+            "Th": "200m陸上トラック",
+            "Comment": "Event 817-5 Quest"
+        },
+        {
+            "Key": 2878330678,
+            "Th": "1000mスタート地点",
+            "Comment": "Event 817-6 Quest"
+        },
+        {
+            "Key": 4246783224,
+            "Th": "4x400mリレートラック",
+            "Comment": "Event 817-7 Quest"
+        },
+        {
+            "Key": 3347420896,
+            "Th": "400m陸上トラック",
+            "Comment": "Event 817-8 Quest"
+        },
+        {
+            "Key": 3740555210,
+            "Th": "バスケット部・クラブハウス",
+            "Comment": "Event 817-9 Quest"
+        },
+        {
+            "Key": 270271376,
+            "Th": "更衣室エリア・後部通路",
+            "Comment": "Event 817-10 Quest"
+        },
+        {
+            "Key": 3563192753,
+            "Th": "バレー部・クラブハウス",
+            "Comment": "Event 817-11 Quest"
+        },
+        {
+            "Key": 451520086,
+            "Th": "体力認証センター前",
+            "Comment": "Event 817-12 Quest"
+        },
+        {
+            "Key": 4191333886,
+            "Th": "長距離走専用トラック",
+            "Comment": "Event 817-1 Challenge"
+        },
+        {
+            "Key": 3907069315,
+            "Th": "第2スポーツセンター",
+            "Comment": "Event 817-2 Challenge"
+        },
+        {
+            "Key": 2459106273,
+            "Th": "第3スポーツセンター",
+            "Comment": "Event 817-3 Challenge"
+        },
+        {
+            "Key": 2835222852,
+            "Th": "1500m陸上トラック",
+            "Comment": "Event 817-4 Challenge"
+        },
+        {
+            "Key": 1403973013,
+            "Th": "強化選手訓練エリア",
+            "Comment": "Event 817-5 Challenge"
+        },
+        {
+            "Key": 2753412782,
+            "Th": "ウォーミングアップトラック",
+            "Comment": "Event 818-1 Quest"
+        },
+        {
+            "Key": 3717670372,
+            "Th": "電光板西エリア応援席",
+            "Comment": "Event 818-2 Quest"
+        },
+        {
+            "Key": 2181080445,
+            "Th": "第1球技フィールド",
+            "Comment": "Event 818-3 Quest"
+        },
+        {
+            "Key": 3099080211,
+            "Th": "第2球技フィールド",
+            "Comment": "Event 818-4 Quest"
+        },
+        {
+            "Key": 872065122,
+            "Th": "晄輪大祭お土産ショップ",
+            "Comment": "Event 818-5 Quest"
+        },
+        {
+            "Key": 4093128104,
+            "Th": "電光板東エリア応援席",
+            "Comment": "Event 818-6 Quest"
+        },
+        {
+            "Key": 3380567018,
+            "Th": "「なまこソーダ飲み競争」特設ステージ",
+            "Comment": "Event 818-7 Quest"
+        },
+        {
+            "Key": 3798597957,
+            "Th": "晄輪大祭装備整備室",
+            "Comment": "Event 818-8 Quest"
+        },
+        {
+            "Key": 753015445,
+            "Th": "パン食い競争トラック",
+            "Comment": "Event 818-9 Quest"
+        },
+        {
+            "Key": 225676454,
+            "Th": "晄輪大祭後夜祭舞台",
+            "Comment": "Event 818-10 Quest"
+        },
+        {
+            "Key": 2271709301,
+            "Th": "スタジアム体育倉庫",
+            "Comment": "Event 818-11 Quest"
+        },
+        {
+            "Key": 4038462818,
+            "Th": "スタジアム大型倉庫",
+            "Comment": "Event 818-12 Quest"
+        },
+        {
+            "Key": 1929840698,
+            "Th": "2000m障害物競走トラック",
+            "Comment": "Event 818-1 Challenge"
+        },
+        {
+            "Key": 612617455,
+            "Th": "選抜選手専用トラック",
+            "Comment": "Event 818-2 Challenge"
+        },
+        {
+            "Key": 2681985744,
+            "Th": "アスレチックスタジアム関係者区域",
+            "Comment": "Event 818-3 Challenge"
+        },
+        {
+            "Key": 466981324,
+            "Th": "3000m障害物競走トラック",
+            "Comment": "Event 818-4 Challenge"
+        },
+        {
+            "Key": 3910051617,
+            "Th": "アスレチックスタジアムVIP区域",
+            "Comment": "Event 818-5 Challenge"
         },
         {
             "Key": 686853734,
