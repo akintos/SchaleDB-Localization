@@ -1,118 +1,8 @@
 {
     "DataList": [
         {
-            "Key": 2742824586,
-            "NameEn": "Total Assault Rare Coin",
-            "DescriptionEn": "This rare coin can be spent at the Total Assault Shop."
-        },
-        {
-            "Key": 1668372693,
-            "NameEn": "Joint Firing Drill Coin",
-            "DescriptionEn": "This coin can be spent at the Joint Firing Drill Shop."
-        },
-        {
-            "Key": 3987418957,
-            "NameEn": "Bounty Coin",
-            "DescriptionEn": "This coin can be spent at the Bounty Shop."
-        },
-        {
-            "Key": 3360596941,
-            "NameEn": "Secret Tech Sheet Fragment",
-            "DescriptionEn": "A fragment of Tech Notes containing tactical secrets. Can be restored using the tailor-made function of the Crafting Chamber."
-        },
-        {
-            "Key": 471603600,
-            "NameEn": "Lesser Tailor Stone",
-            "DescriptionEn": "A stone required for operating the tailor-made function of the Crafting Chamber."
-        },
-        {
-            "Key": 1792884876,
-            "NameEn": "Normal Tailor Stone",
-            "DescriptionEn": "A stone required for operating the tailor-made function of the Crafting Chamber."
-        },
-        {
-            "Key": 2951854574,
-            "NameEn": "Advanced Tailor Stone",
-            "DescriptionEn": "A stone required for operating the tailor-made function of the Crafting Chamber."
-        },
-        {
-            "Key": 3331695516,
-            "NameEn": "Superior Tailor Stone",
-            "DescriptionEn": "A stone required for operating the tailor-made function of the Crafting Chamber."
-        },
-        {
-            "Key": 1157572539,
-            "NameEn": "Disc Pendant Piece",
-            "DescriptionEn": "A broken-off Disc Pendant piece. Used in various crafted items and enhancements."
-        },
-        {
-            "Key": 3035593625,
-            "NameEn": "Broken Disc Pendant",
-            "DescriptionEn": "A Disc Pendant broken beyond repair. Used in various crafted items and enhancements."
-        },
-        {
-            "Key": 1608213624,
-            "NameEn": "Restored Disc Pendant",
-            "DescriptionEn": "A Disc Pendant in the process of being restored by putting various pieces together. Used in various crafted items and enhancements."
-        },
-        {
-            "Key": 2689897740,
-            "NameEn": "Intact Disc Pendant",
-            "DescriptionEn": "An intact Disc Pendant. Used in various crafted items and enhancements."
-        },
-        {
-            "Key": 481204051,
-            "NameEn": "Mystery Stone Piece",
-            "DescriptionEn": "A broken-off Mystery Stone piece. Used in various crafted items and enhancements."
-        },
-        {
-            "Key": 2995021343,
-            "NameEn": "Broken Mystery Stone",
-            "DescriptionEn": "A Mystery Stone broken beyond repair. Used in various crafted items and enhancements."
-        },
-        {
-            "Key": 2163708171,
-            "NameEn": "Incomplete Mystery Stone",
-            "DescriptionEn": "A Mystery Stone that has been restored, but is still not quite the right shape. Used in various crafted items and enhancements."
-        },
-        {
-            "Key": 4215214925,
-            "NameEn": "Intact Mystery Stone",
-            "DescriptionEn": "An intact Mystery Stone. Used in various crafted items and enhancements."
-        },
-        {
             "Key": 1912394354,
             "NameEn": "Advanced Tactical Training Blu-ray (Arius)"
-        },
-        {
-            "Key": 237084781,
-            "NameEn": "Voodoo Doll",
-            "DescriptionEn": "A cursed doll that seems to be filled with strong emotions such as grudges. It seems to be easy to use as a needlestick, and is very popular among the students of the handicraft club."
-        },
-        {
-            "Key": 2415212758,
-            "NameEn": "Gothic Wristwatch",
-            "DescriptionEn": "A wristwatch designed in a gothic style. Although it looks good with classical clothes, it's difficult to read the time from if you are not accustomed to it."
-        },
-        {
-            "Key": 1964406377,
-            "NameEn": "Punk Choker",
-            "DescriptionEn": "A punk-style choker with sharp spikes. Wearing it around your neck makes it a little harder to nod your head."
-        },
-        {
-            "Key": 1058203923,
-            "NameEn": "Voodoo Doll Blueprint",
-            "DescriptionEn": "A blueprint for creating equipment."
-        },
-        {
-            "Key": 2625452827,
-            "NameEn": "Gothic Wristwatch Blueprint",
-            "DescriptionEn": "A blueprint for creating equipment."
-        },
-        {
-            "Key": 3028364897,
-            "NameEn": "Punk Choker Blueprint",
-            "DescriptionEn": "A blueprint for creating equipment."
         },
         {
             "Key": 835357934,
@@ -757,6 +647,11 @@
             "Key": 1806396461,
             "NameEn": "Menacing Kumabot",
             "DescriptionEn": ""
+        },
+        {
+            "Key": 1215039354,
+            "NameEn": "Track Crusher",
+            "DescriptionEn": "(X)"
         },
         {
             "Key": 3196440006,

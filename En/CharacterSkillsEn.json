@@ -6283,7 +6283,7 @@
         {
             "SkillId": 10053300,
             "NameEn": "Rehydration",
-            "DescriptionEn": "Every 30s, if Yuuka is not protected by a shield, gains a <b:Shield> with HP equal to <?1> of Healing lasting up to 23s. If Yuuka is already protected by a <b:Shield>, increases <b:HealPower> by <?2> for 90s instead (effect stacks up to 3 times).",
+            "DescriptionEn": "Every 30s, if Yuuka is not protected by a <b:Shield>, gains a <b:Shield> with HP equal to <?1> of Healing lasting up to 23s. If Yuuka is already protected by a <b:Shield>, increases <b:HealPower> by <?2> for 90s instead (effect stacks up to 3 times).",
             "ParametersEn": [
                 [
                     "115%",
