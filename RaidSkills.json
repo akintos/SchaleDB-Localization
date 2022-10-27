@@ -77,7 +77,7 @@
                 ]
             ],
             "DescriptionKr": "기계 병사를 소환.\n병사가 소환되어 있는 동안 ATG가 서서히 차오른다.",
-            "DescriptionTh": "เรียกทหารจักรกล\nขณะที่เรียกทหารนี้ออกมา ATG จะเพิ่มขึ้นต่อเนื่อง <?1>",
+            "DescriptionTh": "เรียกทหารจักรกล\nขณะที่เรียกทหารนี้ออกมา ATG จะเพิ่มขึ้นต่อเนื่องและจะรีเซ็ทหากทหารจักรกลทั้งหมดถูกทำลายพร้อมทั้งเพิ่มเกจมึนงงให้กับเชเซ็ด <?1>\nหากเวลาผ่านไป 20 วินาที ทหารจักรกลจะใช้ [โหมดทำลายตัวเอง], ทำให้<s:FormChange>เปลี่ยนเป็นการทำลายตัวเองเพื่อสร้างความเสียหาย 3000% ของค่าโจมตีให้กับศัตรู\nเมื่อหุ่นยักษ์โกลิอัทถูกทำลาย, หุ่นยักษ์จะปล่อยคลื่นไฟฟ้าที่จะทำให้ทหารจักรกลทั้งหมดในรัศมีเป็น<c:Paralysis> (เป็นเวลา 3 วินาที)",
             "ParametersTh": [
                 [
                     "",
@@ -85,7 +85,7 @@
                     "",
                     "",
                     "",
-                    "หากทหารจักรกลถูกทำลายจะเรียกหุ่นดูดฝุ่นออกมา"
+                    "เมื่อทหารจักรกลถูกทำลายจะเรียกหุ่นดูดฝุ่นออกมา"
                 ]
             ],    
             "DescriptionTw": "召喚機械士兵。\n在士兵被召喚出的期間內，ATG會慢慢上升。",
@@ -97,7 +97,7 @@
             "DescriptionEn": "When Chesed's ATG gauge is half full, increases the <b:AttackSpeed> and <b:MoveSpeed> of all remaining automaton soldiers by 50% for 60s.",
             "DescriptionJp": "ATGの値が半分以上の時、味方の<b:AttackSpeed>と<b:MoveSpeed>を50%増加（60秒間）",
             "DescriptionKr": "ATG 절반 이상 시 아군 <b:AttackSpeed>, <b:MoveSpeed> 50% 증가(60초간)",
-            "DescriptionTh": "เมื่อมี ATG เกินครึ่งจะเพิ่ม<b:AttackSpeed>และ<b:MoveSpeed> 50% (เป็นเวลา 60 วินาที)",
+            "DescriptionTh": "เมื่อเชเซ็ดมี ATG เกินครึ่งจะเพิ่ม<b:AttackSpeed>และ<b:MoveSpeed>ให้แก่ทหารจักรกล 50% (เป็นเวลา 60 วินาที)",
             "DescriptionTw": "當ATG上升到一半以上時，我軍<b:AttackSpeed>、<b:MoveSpeed>增加50%(60秒內)",
             "NameCn": "亲眼目睹至高的权能",
             "DescriptionCn": "当ATG上升到一半以上时，我军<b:AttackSpeed>、<b:MoveSpeed>增加50%(60秒内)"
@@ -107,7 +107,7 @@
             "DescriptionEn": "When ATG gauge is full, deals 2000% damage to all enemies.",
             "DescriptionJp": "ATGの値がMAXの場合、敵全体に対して攻撃力の2000%分のダメージ",
             "DescriptionKr": "ATG 가득 찰 경우 적 전체에게 공격력 2000% 대미지",
-            "DescriptionTh": "เมื่อ ATG เต็มจะสร้างความเสียหาย 2000% ของค่าโจมตีให้กับศัตรูทั้งหมด",
+            "DescriptionTh": "เมื่อเชเซ็ดมี ATG เต็มจะสร้างความเสียหาย 2000% ของค่าโจมตีให้กับศัตรูทั้งหมด",
             "DescriptionTw": "當ATG全滿時，對所有敵人造成攻擊力2000%傷害",
             "NameCn": "王者大发慈悲",
             "DescriptionCn": "当ATG全满时，对所有敌人造成攻击力2000%伤害"
@@ -117,7 +117,7 @@
             "DescriptionEn": "Immune to all effects that increase <d:DamagedRatio>.\nWhen Chesed's groggy gauge is full, reveals Chesed's core and increases <d:DamagedRatio> by 900% for 20s.",
             "DescriptionJp": "<d:DamagedRatio>の増加効果を無効化\nグロッキー状態の間、<d:DamagedRatio>が900%増加",
             "DescriptionKr": "<d:DamagedRatio> 증가 효과 면역\n그로기 상태가 유지되는 동안에는 <d:DamagedRatio> 900% 증가",
-            "DescriptionTh": "ต้านทานเอฟเฟกต์เพิ่ม<d:DamagedRatio>\nเพิ่ม<d:DamagedRatio>เมื่ออยู่ในสถานะมึนงงขึ้น 900%",
+            "DescriptionTh": "เชเซ็ดจะต้านทานเอฟเฟกต์เพิ่ม<d:DamagedRatio>\nเพิ่ม<d:DamagedRatio>เมื่อเชเซ็ดอยู่ในสถานะมึนงงขึ้น 900% (เป็นเวลา 20 วินาที)",
             "DescriptionTw": "免疫遭受傷害量增加效果\n在無力狀態維持期間內<d:DamagedRatio>增加900%",
             "NameCn": "曝光的王座",
             "DescriptionCn": "免疫遭受伤害量增加效果\n在无力状态维持期间内<d:DamagedRatio>增加900%"
