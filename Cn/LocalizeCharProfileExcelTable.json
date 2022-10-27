@@ -1609,6 +1609,48 @@
             "CharacterVoiceCn": "原由実",
             "WeaponNameCn": "无声解决",
             "WeaponDescCn": "朱音经常携带的手枪。\n没有比它更适合潜行任务的了。"
+        },
+        {
+            "CharacterId": 10053,
+            "FamilyNameCn": "早濑",
+            "PersonalNameCn": "优香",
+            "SchoolYearCn": "2年级",
+            "CharacterAgeCn": "16岁",
+            "BirthdayCn": "3月14日",
+            "CharacterSSRNewCn": "晄輪大祭の準備も完璧！",
+            "ProfileIntroductionCn": "千年科学学园所属，为了参加晄轮大祭参加而换上体操服的研讨会的会计。\n\n虽然因为准备千年主办的大活动事务缠身，但大会开幕前夕受其他的学生们照顾，睡了个好觉，从而能以最好的状态迎接大家。作为主办学校的学生会成员兼执行委员的优香本打算以理性的态度对待这次大会，但周围的学校对胜利的热情，似乎也刺激到了优香的胜负欲。",
+            "HobbyCn": "计算",
+            "CharacterVoiceCn": "春花らん",
+            "WeaponNameCn": "逻辑与原因",
+            "WeaponDescCn": "优香使用的双持冲锋枪。\n在本次晄轮大祭中的逻辑与原因，代替优香做出合理理性的判断。"
+        },
+        {
+            "CharacterId": 10054,
+            "FamilyNameCn": "伊落",
+            "PersonalNameCn": "玛丽",
+            "SchoolYearCn": "1年级",
+            "CharacterAgeCn": "15岁",
+            "BirthdayCn": "9月12日",
+            "CharacterSSRNewCn": "この大運動会で\nみんなが笑顔で楽しく過ごせますように……",
+            "ProfileIntroductionCn": "三一综合学园所属，为了参加晄轮大祭而换上体操服的修女会的修女。\n\n听说这次大赛是为了祈祷基沃托斯和平而举办的，所以这才志愿担起了执行委员的工作，但实际做起来却发现这是份充满了不断的纷争和麻烦的工作。加之她原本就无法对别人放任不管的温柔性格，因此似乎不断被卷入各种麻烦中。",
+            "HobbyCn": "祈祷、思考",
+            "CharacterVoiceCn": "小澤亜李",
+            "WeaponNameCn": "怜悯",
+            "WeaponDescCn": "玛丽所持的手枪。\n虽然平时只用于发射比赛开始的信号弹这样的和平的用途……但是偶尔，她也会不得不把枪口对向不良学生们。"
+        },
+        {
+            "CharacterId": 16011,
+            "FamilyNameCn": "羽川",
+            "PersonalNameCn": "莲见",
+            "SchoolYearCn": "3年级",
+            "CharacterAgeCn": "17岁",
+            "BirthdayCn": "12月12日",
+            "CharacterSSRNewCn": "",
+            "ProfileIntroductionCn": "三一综合学园所属，为了参加晄轮大祭换上体操服的正义实现委员会的副委员长。\n\n代替不擅长对外业务的鹤城担任执行委员。虽然即使身处赛场兴奋的气氛中，莲见也依然冷静地履行着执行委员的责任……但是一而再再而三出现的不良学生和小吃摊飘来的甜蜜香味令她苦恼。",
+            "HobbyCn": "读书、观察人类",
+            "CharacterVoiceCn": "瀬戸麻沙美",
+            "WeaponNameCn": "穿刺",
+            "WeaponDescCn": "莲见很中意的狙击步枪。\n为了审判晄轮大祭期间非公正的行为，她的枪口闪耀着光辉。"
         }
     ]
 }

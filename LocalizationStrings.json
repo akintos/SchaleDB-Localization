@@ -887,7 +887,7 @@
         "EventName": {
             "701": {
                 "ScenarioKey": 2346127759,
-                "Cn": "特殊作战十字神名篇"
+                "Cn": "特殊作战·十字神名篇"
             },
             "801": {
                 "ScenarioKey": 2773600499,
@@ -955,11 +955,13 @@
             },
             "817": {
                 "ScenarioKey": 1330006888,
-                "En": "On Your Mark @ Millennium"
+                "En": "On Your Mark @ Millennium",
+                "Cn": "On Your Mark @ Millennium"
             },
             "818": {
                 "ScenarioKey": 3198922083,
-                "En": "Get Set, Go!: Kivotos Grand Sports Festival"
+                "En": "Get Set, Go!: Kivotos Grand Sports Festival",
+                "Cn": "Get Set, Go! ~ 基沃托斯大运动会 晄轮大祭"
             }
         },
         "StageType": {
