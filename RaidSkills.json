@@ -1181,7 +1181,17 @@
                     "(분신은 고즈 공격력의 <b>50%</b>를 가집니다.)"
                 ]
             ],
-            "DescriptionTh": null,
+            "DescriptionTh": "Goz จะทำการหายตัวไป, ล้างเอฟเฟกต์อันตรายทั้งหมดบนตัวเองและสร้างร่างแยกออกมา <b>2</b> ตัวที่มีความสามารถเดียวกันกับ Goz <?1>",
+            "ParametersTh": [
+                [
+                    "(ร่างแยกมีพลังโจมตีเป็น <b>0</b>)",
+                    "(ร่างแยกมีพลังโจมตีเป็น <b>0</b>)",
+                    "(ร่างแยกมีพลังโจมตีเป็น <b>0</b>)",
+                    "(ร่างแยกมีพลังโจมตีเป็น <b>0</b>)",
+                    "(ร่างแยกมีพลังโจมตีเป็น <b>0</b>)",
+                    "(ร่างแยกมีพลังโจมตีเป็น <b>50%</b> ของพลังโจมตี Goz)"
+                ]
+            ],
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -1192,7 +1202,8 @@
             "DescriptionEn": "Goz and his clones shine lights on the area in front of him. After a short duration the lit areas will explode, dealing 1500% damage to enemies inside them.",
             "DescriptionJp": "ゴズと分身が自身の前のエリアに光を照らします。分身が照らした光は一定時間後に爆発し、攻撃力の1500%分のダメージ",
             "DescriptionKr": "고즈와 분신이 자기 앞에 있는 지역에 빛을 비춥니다. 분신이 비춘 빛은 일정 시간 뒤 폭발하여 공격력 1500% 대미지",
-            "DescriptionTh": null,
+            "NameTh": "ทรี ไลท์ มอนท์",
+            "DescriptionTh": "Goz และร่างแยกจะทำการส่องแสงไปยังพื้นที่ด้านหน้าของตัวเอง, หลังจากนั้นบริเวณที่ถูกแสงส่องจะระเบิดและสร้างความเสียหาย 1500% ของค่าโจมตีให้กับศัตรูที่อยู่ในพื้นที่นั้น",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -1203,7 +1214,8 @@
             "DescriptionEn": "Goz shuffles hats with coins hidden inside them. After the hats have been shuffled, enemies in a straight line from the hats without coins in them will be dealt 800% damage, knocked back and inflicted with <c:Stunned> for 5s.",
             "DescriptionJp": "帽子を出してコインを隠した後にシャッフルします。コインがないエリアは次の効果が適用されます。/\nノックバック、<c:Stunned>を付与（5秒間）、攻撃力の800%分のダメージ",
             "DescriptionKr": "모자를 꺼내 코인을 감춘 뒤 섞습니다. 코인이 없는 지역은 다음 효과가 적용됩니다./\n넉백, <c:Stunned>(5초간), 공격력 800% 대미지",
-            "DescriptionTh": null,
+            "NameTh": "เมจิคัล คอยน์ แฮ็ท",
+            "DescriptionTh": "Goz ทำการวางเหรียญและระเบิดไว้ก่อนที่จะครอบด้วยหมวกแล้วทำการสับเปลี่ยนตำแหน่งของหมวก/\nหลังจากนั้น ศัตรูที่อยู่ในแนวเส้นตรงเดียวกับหมวกที่มีระเบิดจะถูกผลักกระเด็นออกไป, <c:Stunned> (เป็นเวลา 5 วินาที) และได้รับความเสียหาย 800% ของค่าโจมตีของ Goz",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -1214,7 +1226,8 @@
             "DescriptionEn": "Goz pulls a bomb out of his hat and targets one enemy, dealing 900% damage to them.",
             "DescriptionJp": "敵を指定して帽子から爆弾を取り出し、攻撃力の900%分のダメージ",
             "DescriptionKr": "모자에서 폭탄을 꺼내 대상을 조준합니다. 폭탄은 대상에게 날아가 공격력 900% 대미지",
-            "DescriptionTh": null,
+            "NameTh": "เซอร์ไพรซ์ พรีเซนต์",
+            "DescriptionTh": "Goz จะทำการเล็งศัตรู 1 เป้าหมายก่อนหยิบระเบิดออกมาจากหมวก ระเบิดจะเดินไปยังเป้าหมายที่เล็งเพื่อสร้างความเสียหาย 900% ของค่าโจมตีให้กับเป้าหมาย",
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -1255,7 +1268,17 @@
                     "\n스크림 라이더 부근에 있는 적에게는 공격력 600% 대미지/"
                 ]
             ],
-            "DescriptionTh": null,
+            "NameTh": "สครีม ไรเดอร์",
+            "DescriptionTh": "ทุกช่วงเวลาหนึ่ง, สครีม ไรเดอร์จะปรากฏตัวออกมาเพื่อสร้างความเสียหาย 1200% ของค่าโจมตีให้กับศัตรูที่อยู่ในเส้นทางของมัน<?1>\nสครีม ไรเดอร์จะทำการเรียกทหารจักรกลสลัมเปียออกมาจากตำแหน่งที่มันปรากฏตัวขึ้น",
+            "ParametersTh": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "และสร้างความเสียหาย 600% ของค่าโจมตีให้กับศัตรูอยู่ในบริเวณใกล้เคียง"
+                ]
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
@@ -1284,7 +1307,25 @@
             ],
             "DescriptionJp": "<b:Shield>効果がある場合、ゴズが与える全てのダメージを<?1>減少/\n<d:HealEffectiveness>を<?2>減少",
             "DescriptionKr": "<b:Shield>이 있을 경우 고즈가 입히는 모든 피해가 <?1> 감소합니다./\n<d:HealEffectiveness>이 <?2> 감소합니다.",
-            "DescriptionTh": null,
+            "DescriptionTh": "ลดความเสียหายของ Goz ที่ทำต่อเป้าหมายที่มี<b:Shield>ลง <?1>/\nลด<d:HealEffectiveness>ของศัตรูทั้งหมด <?2> เอฟเฟคนี้ไม่สามารถถูกลบล้างได้",
+            "ParametersTh": [
+                [
+                    "75%",
+                    "75%",
+                    "75%",
+                    "75%",
+                    "75%",
+                    "50%"
+                ],
+                [
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "90%"
+                ]
+            ],
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null
