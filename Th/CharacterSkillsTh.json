@@ -4376,7 +4376,7 @@
         {
             "SkillId": 10053450,
             "NameTh": "กลยุทธ์ในการแข่งขันทางคณิตศาสตร์+",
-            "DescriptionTh": "เพิ่ม<b:AttackSpeed> <?1>\nเพิ่ม<b:HealPower>เพิ่มเติม <?2>",
+            "DescriptionTh": "เพิ่ม<b:HealPower> <?1>\nเพิ่ม<b:AttackSpeed>เพิ่มเติม <?2>",
             "ParametersTh": [
                 [
                     "606",
@@ -4407,7 +4407,7 @@
         {
             "SkillId": 10054200,
             "NameTh": "รับน้ำดื่มทางนี้เลยค่ะ",
-            "DescriptionTh": "ฟื้นฟู HP ของฝ่ายเราในรัศมีรอบตัว ยกเว้นตนเอง <?1> ของค่ารักษา",
+            "DescriptionTh": "ฟื้นฟู HP <?1> ของค่ารักษาให้กับฝ่ายเราในรัศมีรอบตัว ยกเว้นตนเอง",
             "ParametersTh": [
                 [
                     "167%",
@@ -4583,7 +4583,7 @@
         {
             "SkillId": 16011500,
             "NameTh": "ความตื่นเต้นในการแข่งขัน",
-            "DescriptionTh": "Deals <?1> damage as an additional hit to <b>large</b> sized enemies.",
+            "DescriptionTh": "สร้างความเสียหายเพิ่มเติม <?1> ของค่าโจมตี เมื่อโจมตีเป้าหมายที่มีขนาด<b>ใหญ่</b>",
             "ParametersTh": [
                 [
                     "21.8%",
