@@ -62,7 +62,7 @@
         "TacticRole": {
             "DamageDealer": {
                 "CodeKey": 563129794,
-                "Cn": "打手"
+                "Cn": "输出"
             },
             "Tanker": {
                 "CodeKey": 799394543,
@@ -70,7 +70,7 @@
             },
             "Healer": {
                 "CodeKey": 576308989,
-                "Cn": "治疗师"
+                "Cn": "治疗"
             },
             "Supporter": {
                 "CodeKey": 267007617,
@@ -78,7 +78,7 @@
             },
             "Vehicle": {
                 "CodeKey": 793651723,
-                "Cn": "T.S"
+                "Cn": "特殊支援"
             }
         },
         "School": {
@@ -133,7 +133,7 @@
             },
             "Valkyrie": {
                 "CodeKey": 113298623,
-                "Cn": "女武神",
+                "Cn": "瓦尔基里",
                 "Th": "วัลคิรี่"
             },
             "ETC": {
@@ -206,7 +206,7 @@
             },
             "Valkyrie": {
                 "ScenarioKey": 1843937705,
-                "Cn": "女武神警察学园",
+                "Cn": "瓦尔基里警察学校",
                 "Th": "สถาบันฝึกตำรวจวัลคิรี่"
             },
             "ETC": {
@@ -378,7 +378,7 @@
             },
             "AriusSqud": {
                 "ScenarioKey": 1856328608,
-                "Cn": "奥利斯小队",
+                "Cn": "阿里乌斯小队",
                 "Th": "กองกำลังอาเรียส"
             },
             "EmptyClub": {
@@ -424,7 +424,7 @@
             },
             "MaxHP": {
                 "CodeKey": 3023968724,
-                "Cn": "最大体力",
+                "Cn": "生命值",
                 "Th": "HP สูงสุด"
             },
             "AttackPower": {
@@ -444,17 +444,17 @@
             },
             "AccuracyPoint": {
                 "CodeKey": 3412978411,
-                "Cn": "准确度",
+                "Cn": "命中率",
                 "Th": "ค่าความแม่นยำ"
             },
             "DodgePoint": {
                 "CodeKey": 1111167881,
-                "Cn": "回避值",
+                "Cn": "回避率",
                 "Th": "ค่าหลบหลีก"
             },
             "CriticalPoint": {
                 "CodeKey": 3299916286,
-                "Cn": "暴击值",
+                "Cn": "暴击率",
                 "Th": "ค่าคริ"
             },
             "CriticalDamageRate": {
@@ -489,7 +489,7 @@
             },
             "StabilityPoint": {
                 "CodeKey": 3571156956,
-                "Cn": "稳定值",
+                "Cn": "稳定性",
                 "Th": "ค่าความเสถียร"
             },
             "Range": {
@@ -534,7 +534,7 @@
                 "Kr": "방어관통",
                 "Th": "ค่าเจาะเกราะ",
                 "Tw": "防禦貫穿",
-                "Cn": "防御貫穿"
+                "Cn": "防御贯穿"
             },
             "RegenCost": {
                 "CodeKey": 2753013844,
@@ -568,7 +568,7 @@
                 "Kr": "군중제어 유지력",
                 "Th": "ระยะเวลาเอฟเฟกต์กดขี่",
                 "Tw": null,
-                "Cn": null
+                "Cn": "群控状态持续力"
             }
         },
         "IsLimited": {
@@ -689,7 +689,7 @@
             },
             "WallDecoration": {
                 "CodeKey": 1404452699,
-                "Cn": "壁饰",
+                "Cn": "墙饰",
                 "Th": "ตกแต่งผนัง"
             },
             "Prop": {
@@ -846,7 +846,7 @@
                 "Jp": "オーパーツ",
                 "Kr": "오파츠를",
                 "Tw": "歐帕茲",
-                "Cn": "歐帕茲",
+                "Cn": "欧帕兹",
                 "Th": "วัตถุหลงยุค"
             }
         },
@@ -1400,7 +1400,7 @@
                 "Kr": "회피 수치",
                 "Th": "ค่าหลบหลีก",
                 "Tw": "迴避數值",
-                "Cn": "回避值"
+                "Cn": "回避率"
             },
             "Buff_DotHeal": {
                 "En": "Regenerate",
@@ -1456,7 +1456,7 @@
                 "Kr": "군중제어 유지력",
                 "Th": "ระยะเวลาเอฟเฟกต์กดขี่",
                 "Tw": null,
-                "Cn": null
+                "Cn": "群控状态持续力"
             },
             "Buff_HealByHit_Damaged": {
                 "En": "Counter Heal",
@@ -1488,7 +1488,7 @@
                 "Kr": "명중 수치",
                 "Th": "ค่าความแม่นยำ",
                 "Tw": "命中數值",
-                "Cn": "命中值"
+                "Cn": "命中率"
             },
             "Buff_MAXHP": {
                 "En": "Max HP",
@@ -1496,7 +1496,7 @@
                 "Kr": "최대 체력",
                 "Th": "HP สูงสุด",
                 "Tw": "最大體力",
-                "Cn": "最大体力"
+                "Cn": "生命值"
             },
             "Buff_MoveSpeed": {
                 "En": "MOV SPD",
@@ -1758,7 +1758,7 @@
                 "Kr": "최대 체력",
                 "Th": "HP สูงสุด",
                 "Tw": "最大體力",
-                "Cn": "最大体力"
+                "Cn": "生命值"
             },
             "Debuff_MoveSpeed": {
                 "En": "MOV SPD",
@@ -2116,7 +2116,7 @@
                 "En": "Max HP Up",
                 "Th": "HP สูงสุดเพิ่มขึ้น",
                 "Tw": "最大體力提升",
-                "Cn": "最大体力提升"
+                "Cn": "生命值提升"
             },
             "Buff_MoveSpeed": {
                 "En": "MOV SPD Up",
@@ -2316,7 +2316,7 @@
                 "En": "Max HP Down",
                 "Th": "HP สูงสุดลดลง",
                 "Tw": "最大體力下降",
-                "Cn": "最大体力下降"
+                "Cn": "生命值下降"
             },
             "Debuff_MoveSpeed": {
                 "En": "MOV SPD Down",
@@ -2544,7 +2544,7 @@
             },
             "Buff_DotHeal": {
                 "En": "Continuously restores HP at set intervals.",
-                "Cn": "以一定时间间隔持续回复体力",
+                "Cn": "以一定时间间隔持续回复生命值",
                 "Th": "ฟื้นฟู HP ช้าๆ เป็นเวลาต่อเนื่อง"
             },
             "Buff_EnhanceExplosionRate": {
@@ -2589,7 +2589,7 @@
             },
             "Buff_MAXHP": {
                 "En": "Increases maximum HP.",
-                "Cn": "最大体力提升",
+                "Cn": "生命值提升",
                 "Th": "เพิ่มจำนวน HP สูงสุด"
             },
             "Buff_MoveSpeed": {
@@ -2728,7 +2728,7 @@
             },
             "Debuff_MAXHP": {
                 "En": "Decreases maximum HP.",
-                "Cn": "最大体力下降",
+                "Cn": "生命值下降",
                 "Th": "ลดจำนวน HP สูงสุด"
             },
             "Debuff_MoveSpeed": {
@@ -2834,6 +2834,7 @@
             },
             "Special_Stamp": {
                 "En": "Reduces allies' EX skill cost and restores own HP when Kokona reaches 5 stacks.",
+                "Cn": "当心奈进行5次攻击时降低队伍中其他学生的EX技能费用并恢复自身生命值。",
                 "Th": "ลดค่า Cost สกิล EX ของฝ่ายเรายกเว้นตัวเองลง 1 และฟื้นฟู HP ของตัวเองเมื่อสะสมครบ 5 ชั้น\nสแตมป์ดอกไม้จะถูกรีเซ็ทเป็น 0 หลังการใช้งานสกิลรอง"
             }
         },
@@ -3324,7 +3325,7 @@
                 "Kr": "기본 스킬",
                 "Th": "สกิลพื้นฐาน",
                 "Tw": "基本技能",
-                "Cn": "基本技能"
+                "Cn": "普通技能"
             },
             "student_skill_passive": {
                 "En": "Enhanced Skill",
@@ -3332,7 +3333,7 @@
                 "Kr": "강화 스킬",
                 "Th": "สกิลติดตัว",
                 "Tw": "強化技能",
-                "Cn": "强化技能"
+                "Cn": "被动技能"
             },
             "student_skill_sub": {
                 "En": "Sub Skill",
@@ -3340,7 +3341,7 @@
                 "Kr": "서브 스킬",
                 "Th": "สกิลรอง",
                 "Tw": "子技能",
-                "Cn": "子技能"
+                "Cn": "辅助技能"
             },
             "student_skills_materials": {
                 "En": "Materials",
@@ -4340,7 +4341,7 @@
                 "Kr": null,
                 "Th": "จุดเก็บอาหาร\n(ฟื้นฟู HP 50% ของ Max HP ให้กับยูนิทที่เก็บ)",
                 "Tw": "食物拾取\n(恢複學生 50% 最大體力)",
-                "Cn": "食物拾取\n(恢复学生 50% 最大体力)"
+                "Cn": "食物拾取\n(恢复学生 50% 生命值)"
             },
             "maptile_item_atk": {
                 "En": "Gun Pickup\n(Increases unit's ATK by 10% for the next two turns)",
