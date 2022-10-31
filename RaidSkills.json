@@ -1199,7 +1199,7 @@
         {
             "Id": "GozEx02",
             "NameEn": "Three Light Monte",
-            "DescriptionEn": "Goz and his clones shine lights on the area in front of him. After a short duration the lit areas will explode, dealing 1500% damage to enemies inside them.",
+            "DescriptionEn": "Goz and his clones shine lights on the area in front of him. After a short duration the areas lit by the clones will explode, dealing 1500% damage to enemies inside them.",
             "DescriptionJp": "ゴズと分身が自身の前のエリアに光を照らします。分身が照らした光は一定時間後に爆発し、攻撃力の1500%分のダメージ",
             "DescriptionKr": "고즈와 분신이 자기 앞에 있는 지역에 빛을 비춥니다. 분신이 비춘 빛은 일정 시간 뒤 폭발하여 공격력 1500% 대미지",
             "NameTh": "ทรี ไลท์ มอนท์",
