@@ -935,7 +935,7 @@
             },
             "813": {
                 "ScenarioKey": 2477586931,
-                "En": "Heart of Shinobi",
+                "En": "An Unconcealed Heart",
                 "Cn": "不忍之心"
             },
             "814": {
@@ -2935,6 +2935,14 @@
                 "Tw": "製造",
                 "Cn": "制造"
             },
+            "synthesis": {
+                "En": "Synthesis",
+                "Jp": "ジェネレート",
+                "Kr": "물질 생성",
+                "Th": "สร้างวัตถุ",
+                "Tw": "生成物質",
+                "Cn": "生成物質"
+            },
             "fusion": {
                 "En": "Fusion",
                 "Jp": "テイラーメイド",
@@ -3931,6 +3939,17 @@
                 "Tw": "可能道具",
                 "Cn": "可能道具"
             },
+            "craft_fusion": {
+                "PrefabKey": 3802562445
+            },
+            "craft_recipe_items": {
+                "En": "Required Items",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
             "craft_using": {
                 "En": "Crafted using the following items",
                 "Jp": null,
@@ -3938,6 +3957,14 @@
                 "Th": "คราฟโดยใช้ไอเทมต่อไปนี้",
                 "Tw": "使用以下道具製造",
                 "Cn": "使用以下道具制造"
+            },
+            "craft_toggle_chance": {
+                "En": "Toggle Node Appearance Rates",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             },
             "bond_req_equip": {
                 "En": "Requires <i class='ms-1 fa-solid fa-heart'></i> {0} with {1} to equip",
@@ -4110,6 +4137,14 @@
                 "Th": "นักเรียนที่ชอบ {0}",
                 "Tw": "被以下學生喜歡 {0}",
                 "Cn": "被以下学生喜欢 {0}"
+            },
+            "item_usedby_gear": {
+                "En": "Used to improve the following students' favorite item",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             },
             "item_specialgift": {
                 "En": "This gift will be treated as a liked item {0} when given to any student",

@@ -1,6 +1,11 @@
 {
     "DataList": [
         {
+            "Key": 3987418957,
+            "NameEn": "Bounty Coin",
+            "DescriptionEn": "This coin can be spent at the Bounty Shop."
+        },
+        {
             "Key": 1912394354,
             "NameEn": "Advanced Tactical Training Blu-ray (Arius)"
         },
@@ -578,15 +583,15 @@
         },
         {
             "Key": 4075175882,
-            "NameEn": "Yuuka (Track)"
+            "NameEn": "Yuuka (Tracksuit)"
         },
         {
             "Key": 848527413,
-            "NameEn": "Mari (Track)"
+            "NameEn": "Mari (Tracksuit)"
         },
         {
             "Key": 2641297537,
-            "NameEn": "Hasumi (Track)"
+            "NameEn": "Hasumi (Tracksuit)"
         },
         {
             "Key": 1311123432,
