@@ -936,6 +936,7 @@
             "813": {
                 "ScenarioKey": 2477586931,
                 "En": "An Unconcealed Heart",
+                "Th": "หัวใจแห่งความอับโชค",
                 "Cn": "不忍之心"
             },
             "814": {
@@ -1276,7 +1277,7 @@
                 "En": "Status Effect",
                 "Jp": "ステータス",
                 "Kr": null,
-                "Th": "พิเศษ",
+                "Th": "เอฟเฟกต์พิเศษ",
                 "Tw": "狀態效果",
                 "Cn": "状态效果"
             }
@@ -1920,13 +1921,13 @@
             },
             "Special_CostRegenBan": {
                 "En": "Recovery Stop",
-                "Th": "หยุดการฟื้นฟูค่า Cost",
+                "Th": "หยุดการฟื้นฟูค่าใช้สกิล EX",
                 "Tw": "COST停止恢復",
                 "Cn": "COST停止回复"
             },
             "Special_ImmuneCC": {
                 "En": "CC Immune",
-                "Th": "ต้านทานเอฟเฟคกดขี่",
+                "Th": "ต้านทานเอฟเฟกต์กดขี่",
                 "Tw": "群控免疫",
                 "Cn": "群控免疫"
             },
@@ -2048,19 +2049,19 @@
             },
             "Buff_EnhanceExplosionRate": {
                 "En": "Explosive Weak DMG Up",
-                "Th": "ความเสียหายประเภทระเบิดเมื่อชนะทางเพิ่มขึ้น",
+                "Th": "ความเสียหายระเบิดเมื่อชนะทางเพิ่มขึ้น",
                 "Tw": "爆發傷害加成提升",
                 "Cn": "爆发伤害加成提升"
             },
             "Buff_EnhancePierceRate": {
                 "En": "Piercing Weak DMG Up",
-                "Th": "ความเสียหายประเภทเจาะเกราะเมื่อชนะทางเพิ่มขึ้น",
+                "Th": "ความเสียหายเจาะเกราะเมื่อชนะทางเพิ่มขึ้น",
                 "Tw": "貫穿傷害加成提升",
                 "Cn": "贯穿伤害加成提升"
             },
             "Buff_EnhanceMysticRate": {
                 "En": "Mystic Weak DMG Up",
-                "Th": "ความเสียหายประเภทลึกลับเมื่อชนะทางเพิ่มขึ้น",
+                "Th": "ความเสียหายลึกลับเมื่อชนะทางเพิ่มขึ้น",
                 "Tw": "神秘傷害加成提升",
                 "Cn": "神秘伤害加成提升"
             },
@@ -2264,19 +2265,19 @@
             },
             "Debuff_EnhanceExplosionRate": {
                 "En": "Explosive Weak DMG Down",
-                "Th": "ความเสียหายประเภทระเบิดลดลง",
+                "Th": "ความเสียหายระเบิดเมื่อชนะทางลดลง",
                 "Tw": "爆發傷害下降",
                 "Cn": "爆发伤害下降"
             },
             "Debuff_EnhancePierceRate": {
                 "En": "Piercing Weak DMG Down",
-                "Th": "ความเสียหายประเภทเจาะเกราะลดลง",
+                "Th": "ความเสียหายเจาะเกราะเมื่อชนะทางลดลง",
                 "Tw": "貫穿傷害下降",
                 "Cn": "贯穿伤害下降"
             },
             "Debuff_EnhanceMysticRate": {
                 "En": "Mystic Weak DMG Down",
-                "Th": "ความเสียหายประเภทลึกลับลดลง",
+                "Th": "ความเสียหายลึกลับเมื่อชนะทางลดลง",
                 "Tw": "神秘傷害下降",
                 "Cn": "神秘伤害下降"
             },
@@ -2442,13 +2443,13 @@
             },
             "Special_CostRegenBan": {
                 "En": "Cost Recovery Stop",
-                "Th": "หยุดการฟื้นฟูค่า Cost",
+                "Th": "หยุดการฟื้นฟูค่าใช้สกิล EX",
                 "Tw": "COST停止恢復",
                 "Cn": "COST停止回复"
             },
             "Special_ImmuneCC": {
                 "En": "CC Immunity",
-                "Th": "ต้านทานเอฟเฟคกดขี่",
+                "Th": "ต้านทานเอฟเฟกต์กดขี่",
                 "Tw": "群控免疫",
                 "Cn": "群控免疫"
             },
@@ -2498,12 +2499,12 @@
             "Buff_CostChange": {
                 "En": "Reduces the amount of skill cost required for using the EX Skill.",
                 "Cn": "降低使用EX技能所需技能COST",
-                "Th": "ลดจำนวน Cost ที่ต้องการในการใช้สกิล EX"
+                "Th": "ลดจำนวนค่าใช้สกิล EX ที่ต้องการในการใช้สกิล EX"
             },
             "Buff_CostRegen": {
                 "En": "Increases the rate at which skill cost is recovered.",
                 "Cn": "提升技能COST回复速率",
-                "Th": "เพิ่มความเร็วในการฟื้นฟู Cost"
+                "Th": "เพิ่มความเร็วในการฟื้นฟูค่าใช้สกิล EX"
             },
             "Buff_CriticalChance": {
                 "En": "Increases the chance of landing a critical hit when attacking.",
@@ -2599,11 +2600,11 @@
             },
             "Buff_OppressionPower": {
                 "En": "Increases the chance of successfully inflicting Crowd Control effects.",
-                "Th": "เพิ่มโอกาสในการส่งผลเอฟเฟคกดขี่สำเร็จ"
+                "Th": "เพิ่มโอกาสในการส่งผลเอฟเฟกต์กดขี่สำเร็จ"
             },
             "Buff_OppressionResist": {
                 "En": "Decreases the chance of being inflicting with Crowd Control effects.",
-                "Th": "ลดโอกาสในการได้รับผลจากเอฟเฟคกดขี่"
+                "Th": "ลดโอกาสในการได้รับผลจากเอฟเฟกต์กดขี่"
             },
             "Buff_Penetration": {
                 "En": "Increases the amount of enemy defense that will be ignored by attacks.",
@@ -2656,11 +2657,11 @@
             },
             "Debuff_CostChange": {
                 "En": "Increases the amount of skill cost required for using the EX Skill.",
-                "Th": "เพิ่มจำนวน Cost ที่ต้องการในการใช้สกิล Ex"
+                "Th": "เพิ่มจำนวนค่าใช้สกิล EX ที่ต้องการในการใช้สกิล EX"
             },
             "Debuff_CostRegen": {
                 "En": "Decreases the rate at which skill cost is recovered.",
-                "Th": "ลดความเร็วในการฟื้นฟู Cost"
+                "Th": "ลดความเร็วในการฟื้นฟูค่าใช้สกิล EX"
             },
             "Debuff_CriticalChance": {
                 "En": "Decreases the chance of landing a critical hit when attacking.",
@@ -2738,11 +2739,11 @@
             },
             "Debuff_OppressionPower": {
                 "En": "Decreases the chance of successfully inflicting Crowd Control effects.",
-                "Th": "ลดโอกาสในการส่งผลเอฟเฟคกดขี่สำเร็จ"
+                "Th": "ลดโอกาสในการส่งผลเอฟเฟกต์กดขี่สำเร็จ"
             },
             "Debuff_OppressionResist": {
                 "En": "Increases the chance of being inflicting with Crowd Control effects.",
-                "Th": "เพิ่มโอกาสในการได้รับผลจากเอฟเฟคกดขี่"
+                "Th": "เพิ่มโอกาสในการได้รับผลจากเอฟเฟกต์กดขี่"
             },
             "Debuff_Penetration": {
                 "En": "Decreases the amount of enemy defense that will be ignored by attacks.",
@@ -2762,7 +2763,7 @@
             },
             "CC_Fear": {
                 "En": "Unable to act and will slowly move away from whoever inflicted fear on them. Also interrupts any active skills.",
-                "Th": "ไม่สามารถตอบสนองได้และจะค่อยๆ เคลื่อนที่ออกจากคนที่ส่งผลเอฟเฟคกลัว นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก"
+                "Th": "ไม่สามารถตอบสนองได้และจะค่อยๆ เคลื่อนที่ออกจากคนที่ส่งผลเอฟเฟกต์กลัว นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก"
             },
             "CC_Stunned": {
                 "En": "Unable to act and interrupts any active skills.",
@@ -2771,7 +2772,7 @@
             },
             "CC_Provoke": {
                 "En": "Forced to attack whoever inflicted taunt on them. Also interrupts any active skills.",
-                "Th": "ถูกบังคับให้โจมตีใส่คนที่ส่งผลเอฟเฟคยั่วยุ นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก"
+                "Th": "ถูกบังคับให้โจมตีใส่คนที่ส่งผลเอฟเฟกต์ยั่วยุ นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก"
             },
             "CC_Paralysis": {
                 "En": "Unable to act and interrupts any active skills.",
@@ -2792,7 +2793,7 @@
             },
             "Special_Immortal": {
                 "En": "Able to survive lethal damage with 1 HP for the duration of the effect.",
-                "Th": "เมื่อได้รับความเสียหายถึงตาย, จะเหลือ HP ไว้ 1 จนกว่าระยะเวลาของเอฟเฟคจะหมดลง"
+                "Th": "เมื่อได้รับความเสียหายถึงตาย, HP จะไม่ลดลงไปต่ำกว่า 1 จนกว่าระยะเวลาของเอฟเฟกต์จะหมดลง"
             },
             "Special_ImmuneDamage": {
                 "En": "Immune to all damage.",
@@ -2806,7 +2807,7 @@
             },
             "Special_Misdeed": {
                 "En": "Decreases DEF with each stack held and generates skill cost when Aru (New Year) uses her EX Skill.",
-                "Th": "ลดค่าป้องกันต่อจำนวนที่ถือครองและคืนค่าใช้สกิลให้เมื่ออารุ (ปีใหม่) ใช้สกิล EX"
+                "Th": "ลดค่าป้องกันต่อจำนวนที่ถือครองและคืนค่าใช้สกิล EX ให้เมื่ออารุ (ปีใหม่) ใช้สกิล EX"
             },
             "Special_LittleDevil": {
                 "En": "Increases Crit DMG with each stack held and increases the damage dealt by Mutuski (New Year)'s Basic Skill when at 6 stacks.",
@@ -2815,17 +2816,17 @@
             "Special_Accumulation": {
                 "En": "All damage dealt to this target for the duration of the effect will be accumulated and dealt again as an additional hit once this expires.",
                 "Cn": "效果持续期间对该目标造成的所有伤害将被累积，并在效果过期后作为额外打击再次造成伤害。",
-                "Th": "ทุกความเสียหายที่ทำใส่เป้าหมายในระยะเวลาของเอฟเฟคนี้จะถูกสะสมและเปลี่ยนเป็นความเสียหายลึกลับเพิ่มเติมใส่เป้าหมายอีกครั้งเมื่อระยะเวลาของเอฟเฟคนี้จบลง"
+                "Th": "ทุกความเสียหายที่ทำใส่เป้าหมายในระยะเวลาของเอฟเฟกต์นี้จะถูกสะสมและเปลี่ยนเป็นความเสียหายลึกลับเพิ่มเติมใส่เป้าหมายอีกครั้งเมื่อระยะเวลาของเอฟเฟกต์นี้จบลง"
             },
             "Special_CostRegenBan": {
                 "En": "Cost Recovery is reduced to 0.",
                 "Cn": "COST回复力降低为0",
-                "Th": "อัตราการฟื้นฟูค่า Cost ถูกลดลงเป็น 0"
+                "Th": "อัตราการฟื้นฟูค่าใช้สกิล EX ถูกลดลงเป็น 0"
             },
             "Special_ImmuneCC": {
                 "En": "Immune to all Crowd Control effects.",
                 "Cn": "免疫所有群控效果",
-                "Th": "ไม่ได้รับผลจากเอฟเฟคกดขี่ใดๆ"
+                "Th": "ไม่ได้รับผลจากเอฟเฟกต์กดขี่ใดๆ"
             },
             "Special_SuddenDeath": {
                 "En": "A stack of 5 will deal lethal damage to the character.",
@@ -2835,7 +2836,7 @@
             "Special_Stamp": {
                 "En": "Reduces allies' EX skill cost and restores own HP when Kokona reaches 5 stacks.",
                 "Cn": "当心奈进行5次攻击时降低队伍中其他学生的EX技能费用并恢复自身生命值。",
-                "Th": "ลดค่า Cost สกิล EX ของฝ่ายเรายกเว้นตัวเองลง 1 และฟื้นฟู HP ของตัวเองเมื่อสะสมครบ 5 ชั้น\nสแตมป์ดอกไม้จะถูกรีเซ็ทเป็น 0 หลังการใช้งานสกิลรอง"
+                "Th": "ลดค่าใช้สกิล EX ของฝ่ายเรายกเว้นตัวเองลง 1 และฟื้นฟู HP ของตัวเองเมื่อสะสมครบ 5 ชั้น\nสแตมป์ดอกไม้จะถูกรีเซ็ทเป็น 0 หลังการใช้งานสกิลรอง"
             }
         },
         "ServerName": {
@@ -3219,7 +3220,7 @@
                 "En": "Fav. Item",
                 "Jp": "愛用品",
                 "Kr": "애용품",
-                "Th": null,
+                "Th": "อุปกรณ์โปรด",
                 "Tw": "愛用品",
                 "Cn": "爱用品"
             },
@@ -3267,7 +3268,7 @@
                 "En": "Favorite Item",
                 "Jp": "愛用品",
                 "Kr": "애용품",
-                "Th": null,
+                "Th": "อุปกรณ์โปรด",
                 "Tw": "愛用品",
                 "Cn": "爱用品"
             },
@@ -3627,7 +3628,7 @@
                 "En": "Defense Type",
                 "Jp": "防御タイプ",
                 "Kr": "방어타입",
-                "Th": "ประเภทป้องกัน",
+                "Th": "ประเภทเกราะ",
                 "Tw": "防禦類型",
                 "Cn": "防御类型"
             },
@@ -3946,7 +3947,7 @@
                 "En": "Required Items",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "วัตถุดิบที่ต้องการ",
                 "Tw": null,
                 "Cn": null
             },
@@ -3962,7 +3963,7 @@
                 "En": "Toggle Node Appearance Rates",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "แสดง/ซ่อนอัตราการปรากฏของโหนด",
                 "Tw": null,
                 "Cn": null
             },
@@ -4118,7 +4119,7 @@
                 "En": "The following students interact with this furniture",
                 "Jp": "家具モーションのある生徒一覧",
                 "Kr": null,
-                "Th": "นักเรียนนี้ตอบโต้กับเฟอร์นิเจอร์ต่อไปนี้",
+                "Th": "นักเรียนที่ตอบโต้กับเฟอร์นิเจอร์นี้",
                 "Tw": "以下學生與此家具互動",
                 "Cn": "以下学生与此家具互动"
             },
@@ -4126,7 +4127,7 @@
                 "En": "Loved {0} by the following students",
                 "Jp": null,
                 "Kr": null,
-                "Th": "นักเรียนที่รัก {0}",
+                "Th": "เป็นที่รัก {0} โดยนักเรียนดังต่อไปนี้",
                 "Tw": "被以下學生喜愛 {0}",
                 "Cn": "被以下学生喜爱 {0}"
             },
@@ -4134,7 +4135,7 @@
                 "En": "Liked {0} by the following students",
                 "Jp": null,
                 "Kr": null,
-                "Th": "นักเรียนที่ชอบ {0}",
+                "Th": "ชื่นชอบ {0} โดยนักเรียนดังต่อไปนี้",
                 "Tw": "被以下學生喜歡 {0}",
                 "Cn": "被以下学生喜欢 {0}"
             },
@@ -4142,7 +4143,7 @@
                 "En": "Used to improve the following students' favorite item",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ใช้การอัปเกรดอุปกรณ์โปรดของนักเรียนดังต่อไปนี้",
                 "Tw": null,
                 "Cn": null
             },
@@ -4150,7 +4151,7 @@
                 "En": "This gift will be treated as a liked item {0} when given to any student",
                 "Jp": null,
                 "Kr": null,
-                "Th": "ของขวัญชิ้นนี้จะถือว่าเป็นของขวัญที่ชอบ {0} เมื่อมอบให้กับนักเรียนคนไหนก็ตาม",
+                "Th": "ของขวัญชิ้นนี้จะถือว่าเป็นของขวัญที่เป็นที่รัก {0} เมื่อมอบให้กับนักเรียนคนไหนก็ตาม",
                 "Tw": "此禮物在贈予任何學生時會被當做喜歡的項目{0}看待",
                 "Cn": "此礼物在赠送给任何学生时会被当做喜欢的项目{0}看待"
             },
