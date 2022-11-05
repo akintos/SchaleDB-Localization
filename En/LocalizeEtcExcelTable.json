@@ -40,6 +40,21 @@
             "DescriptionEn": "A hairpin designed with letters. The string of letters itself has no meaning, but the design is somehow exciting."
         },
         {
+            "Key": 3113501019,
+            "NameEn": "Pocket Deodorant",
+            "DescriptionEn": "This portable deodorant was produced in collaboration with the functional cosmetics brand Seaside. Because of its fashionable design, many students attach it to their key chains and use it as an accessory."
+        },
+        {
+            "Key": 3475264813,
+            "NameEn": "Street Fashion Watch",
+            "DescriptionEn": "This street fashion watch is popular for its modern and cute design. Triple Step is planning a strategy to sell a set of bracelets to go with this watch."
+        },
+        {
+            "Key": 2501983868,
+            "NameEn": "Chain Necklace",
+            "DescriptionEn": "A necklace made out of a chain. Some students find the jangling sound pleasant, while others dislike the cold feel and are divided in their opinion."
+        },
+        {
             "Key": 1472344616,
             "NameEn": "Bucket Hat Blueprint",
             "DescriptionEn": "A blueprint for creating equipment."
@@ -70,13 +85,73 @@
             "DescriptionEn": "A blueprint for creating equipment."
         },
         {
+            "Key": 2979274458,
+            "NameEn": "Pocket Deodorant Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Key": 2977601006,
+            "NameEn": "Street Fashion Watch Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Key": 1340367308,
+            "NameEn": "Chain Necklace Blueprint",
+            "DescriptionEn": "A blueprint for creating equipment."
+        },
+        {
+            "Key": 2319299758,
+            "NameEn": "Aru's Valuable Purse",
+            "DescriptionEn": "Aru's favorite luxury purse.\nA luxury item made with high quality materials, but the color has faded and there are scratches here and there due to prolonged use. Given to her by Haruka, Kayoko and Mutsuki after she set up the first Problem Solver business, it's a precious and irreplaceable item for Aru."
+        },
+        {
+            "Key": 1197583309,
+            "NameEn": "Tsurugi's Special Box",
+            "DescriptionEn": "A special box hidden deep inside Tsurugi's room.\nStacked in the box are a variety of goods including bromides, books, movie charts of various genres, and more. The dust-free and neat condition of the goods alone offers a glimpse into Tsurugi's meticulousness."
+        },
+        {
+            "Key": 1059841421,
+            "NameEn": "Shun's Childhood Memory",
+            "DescriptionEn": "Shun's favorite pair of hairpins.\nAlthough she rarely uses them anymore as she rarely wears twin tails, they are part of Shun's precious memories that have remained unchanged over time."
+        },
+        {
+            "Key": 242283010,
+            "NameEn": "Rabbit Tail Grenade",
+            "DescriptionEn": "A grenade that looks like the rabbit tail that Asuna wears when she dresses as a bunny girl.\nCovered in fluffy fur, it appears harmless at first glance, but like all grenades, it has a threatening destructive power."
+        },
+        {
+            "Key": 163861415,
+            "NameEn": "Yuuka's Scientific Calculator",
+            "DescriptionEn": "A scientific calculator that Yuuka carries with her at all times.\nDespite possessing excellent mental arithmetic skills, Yuuka always uses it for calculations in her pursuit of perfection."
+        },
+        {
+            "Key": 2059299965,
+            "NameEn": "Athena-3",
+            "DescriptionEn": "A spherical drone that always moves around Hare.\nAs its name, taken from the goddess of wisdom, suggests, it is equipped with artificial intelligence that can experience and learn on its own, but it often works against the intentions of its master, Hare, and disappoints her expectations."
+        },
+        {
+            "Key": 2694523503,
+            "NameEn": "Bathtime Assistant",
+            "DescriptionEn": "A new souvenir from the Red Winter Federal Academy, produced from a mass-order of rubber ducks with an added moustache.\nCherino claims she doesn't like it because it's something a young child would use, but she always takes it with her every time she goes to the bath."
+        },
+        {
+            "Key": 1544503704,
+            "NameEn": "Meister's Toolbox",
+            "DescriptionEn": "A custom toolbox filled will Utaha's choice of tools.\nIn a sense, it wouldn't be an exaggeration to say that this toolbox, made directly with the pride of a Meister, is a one of a kind in Kivotos."
+        },
+        {
+            "Key": 1916503017,
+            "NameEn": "Inventory Control Ledger",
+            "DescriptionEn": "Hinata's own ledger for the management of the Trinity Cathedral's inventory.\nIt carefully outlines where and how much of every item in the cathedral is stored. Since most of the necessary items are found directly by Hinata, outsiders are often unaware of the existence of this management ledger."
+        },
+        {
             "Key": 2268377851,
             "NameEn": "Purple",
             "DescriptionEn": "This can create cafe furniture. (Bed)"
         },
         {
             "Key": 2172125438,
-            "NameEn": "Military Outdoor Set",
+            "NameEn": "Military Campground Set",
             "DescriptionEn": "This can create cafe furniture. (Military theme)"
         },
         {

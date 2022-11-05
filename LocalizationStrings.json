@@ -569,6 +569,22 @@
                 "Th": "ระยะเวลาเอฟเฟกต์กดขี่",
                 "Tw": null,
                 "Cn": "群控状态持续力"
+            },
+            "SkillCost": {
+                "En": "EX Skill Cost",
+                "Jp": "Exスキルコスト",
+                "Kr": "Ex 스킬 코스트",
+                "Th": "ค่าใช้สกิล EX",
+                "Tw": "EX 技能費用",
+                "Cn": "EX 技能费用"
+            },
+            "EXHits": {
+                "En": "EX Skill Hits",
+                "Jp": "EXスキルヒット回数",
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             }
         },
         "IsLimited": {
@@ -621,7 +637,7 @@
             },
             "107": {
                 "EtcKey": 660700768,
-                "En": "Military Outdoor Set",
+                "En": "Military Campground Set",
                 "Tw": "軍事戶外組合",
                 "Cn": "军事户外组合"
             },
@@ -1412,7 +1428,7 @@
                 "Cn": "持续恢复"
             },
             "Buff_EnhanceExplosionRate": {
-                "En": "Explosive Weak DMG",
+                "En": "Explosive Effectiveness",
                 "Jp": "爆発特効",
                 "Kr": "폭발 특효",
                 "Th": "ความเสียหายระเบิดเมื่อชนะทาง",
@@ -1420,7 +1436,7 @@
                 "Cn": "爆发伤害加成"
             },
             "Buff_EnhancePierceRate": {
-                "En": "Piercing Weak DMG",
+                "En": "Piercing Effectiveness",
                 "Jp": "貫通特効",
                 "Kr": "관통 특효",
                 "Th": "ความเสียหายเจาะเกราะเมื่อชนะทาง",
@@ -1428,7 +1444,7 @@
                 "Cn": "贯穿伤害加成"
             },
             "Buff_EnhanceMysticRate": {
-                "En": "Mystic Weak DMG",
+                "En": "Mystic Effectiveness",
                 "Jp": "貫通特効",
                 "Kr": "신비 특효",
                 "Th": "ความเสียหายลึกลับเมื่อชนะทาง",
@@ -1690,7 +1706,7 @@
                 "Cn": "回避值"
             },
             "Debuff_EnhanceExplosionRate": {
-                "En": "Explosive Weak DMG",
+                "En": "Explosive Effectiveness",
                 "Jp": "爆発特効",
                 "Kr": "폭발 특효",
                 "Th": "ความเสียหายระเบิดเมื่อชนะทาง",
@@ -1698,7 +1714,7 @@
                 "Cn": "爆发伤害"
             },
             "Debuff_EnhancePierceRate": {
-                "En": "Piercing Weak DMG",
+                "En": "Piercing Effectiveness",
                 "Jp": "貫通特効",
                 "Kr": "관통 특효",
                 "Th": "ความเสียหายเจาะเกราะเมื่อชนะทาง",
@@ -1706,7 +1722,7 @@
                 "Cn": "贯穿伤害"
             },
             "Debuff_EnhanceMysticRate": {
-                "En": "Mystic Weak DMG",
+                "En": "Mystic Effectiveness",
                 "Jp": "貫通特効",
                 "Kr": "신비 특효",
                 "Th": "ความเสียหายลึกลับเมื่อชนะทาง",
@@ -2048,19 +2064,19 @@
                 "Cn": "持续恢复"
             },
             "Buff_EnhanceExplosionRate": {
-                "En": "Explosive Weak DMG Up",
+                "En": "Explosive Effectiveness Up",
                 "Th": "ความเสียหายระเบิดเมื่อชนะทางเพิ่มขึ้น",
                 "Tw": "爆發傷害加成提升",
                 "Cn": "爆发伤害加成提升"
             },
             "Buff_EnhancePierceRate": {
-                "En": "Piercing Weak DMG Up",
+                "En": "Piercing Effectiveness Up",
                 "Th": "ความเสียหายเจาะเกราะเมื่อชนะทางเพิ่มขึ้น",
                 "Tw": "貫穿傷害加成提升",
                 "Cn": "贯穿伤害加成提升"
             },
             "Buff_EnhanceMysticRate": {
-                "En": "Mystic Weak DMG Up",
+                "En": "Mystic Effectiveness Up",
                 "Th": "ความเสียหายลึกลับเมื่อชนะทางเพิ่มขึ้น",
                 "Tw": "神秘傷害加成提升",
                 "Cn": "神秘伤害加成提升"
@@ -2264,19 +2280,19 @@
                 "Cn": "回避值下降"
             },
             "Debuff_EnhanceExplosionRate": {
-                "En": "Explosive Weak DMG Down",
+                "En": "Explosive Effectiveness Down",
                 "Th": "ความเสียหายระเบิดเมื่อชนะทางลดลง",
                 "Tw": "爆發傷害下降",
                 "Cn": "爆发伤害下降"
             },
             "Debuff_EnhancePierceRate": {
-                "En": "Piercing Weak DMG Down",
+                "En": "Piercing Effectiveness Down",
                 "Th": "ความเสียหายเจาะเกราะเมื่อชนะทางลดลง",
                 "Tw": "貫穿傷害下降",
                 "Cn": "贯穿伤害下降"
             },
             "Debuff_EnhanceMysticRate": {
-                "En": "Mystic Weak DMG Down",
+                "En": "Mystic Effectiveness Down",
                 "Th": "ความเสียหายลึกลับเมื่อชนะทางลดลง",
                 "Tw": "神秘傷害下降",
                 "Cn": "神秘伤害下降"
@@ -3559,6 +3575,14 @@
                 "Th": "ล้างตัวกรองทั้งหมด",
                 "Tw": "清空過濾器",
                 "Cn": "清空过滤器"
+            },
+            "student_search_info": {
+                "En": "Show all info",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             },
             "sortby": {
                 "En": "Sort By",
