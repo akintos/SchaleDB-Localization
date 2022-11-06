@@ -3128,12 +3128,12 @@
         },
         {
             "Key": 2563132388,
-            "NameCn": "渡假胜地热带花盆",
+            "NameCn": "度假胜地热带花盆",
             "DescriptionCn": "种植着热带植物的花盆。能轻松的营造度假胜地的氛围。"
         },
         {
             "Key": 651287116,
-            "NameCn": "折叠式渡假胜地桌子",
+            "NameCn": "折叠式度假胜地桌子",
             "DescriptionCn": "能品尝清爽柠檬汁的折迭桌子。适合和朋友开心的聊天。"
         },
         {
@@ -3168,7 +3168,7 @@
         },
         {
             "Key": 2778144709,
-            "NameCn": "夏季渡假胜地落地窗",
+            "NameCn": "夏季度假胜地落地窗",
             "DescriptionCn": "能一览度假胜地的风景的落地窗。凉快的享受晴朗的夏天风景吧！"
         },
         {
@@ -3193,7 +3193,7 @@
         },
         {
             "Key": 2410063963,
-            "NameCn": "渡假胜地苍穹沙发",
+            "NameCn": "度假胜地苍穹沙发",
             "DescriptionCn": "用白色天棚装饰的舒适沙发。望着随风摇曳的天棚享受着安逸的休息时间。"
         },
         {
@@ -5531,11 +5531,11 @@
         },
         {
             "Key": 655469313,
-            "NameCn": "量产自动机(Shield)"
+            "NameCn": "量产自动机(盾甲)"
         },
         {
             "Key": 2449634156,
-            "NameCn": "量产自动机(Shield)"
+            "NameCn": "量产自动机(盾甲)"
         },
         {
             "Key": 635318362,
@@ -5567,11 +5567,11 @@
         },
         {
             "Key": 4097623777,
-            "NameCn": "黑市自动机(Shield)"
+            "NameCn": "黑市自动机(盾甲)"
         },
         {
             "Key": 2822721534,
-            "NameCn": "黑市自动机(Shield)"
+            "NameCn": "黑市自动机(盾甲)"
         },
         {
             "Key": 1372668825,
@@ -5603,11 +5603,11 @@
         },
         {
             "Key": 1951310034,
-            "NameCn": "军用自动机(Shield)"
+            "NameCn": "军用自动机(盾甲)"
         },
         {
             "Key": 2099001090,
-            "NameCn": "军用自动机(Shield)"
+            "NameCn": "军用自动机(盾甲)"
         },
         {
             "Key": 1356958352,
@@ -5639,11 +5639,11 @@
         },
         {
             "Key": 1488310269,
-            "NameCn": "实验用自动机(Shield)"
+            "NameCn": "实验用自动机(盾甲)"
         },
         {
             "Key": 1184300373,
-            "NameCn": "实验用自动机(Shield)"
+            "NameCn": "实验用自动机(盾甲)"
         },
         {
             "Key": 1250938594,
@@ -5687,11 +5687,11 @@
         },
         {
             "Key": 3177761908,
-            "NameCn": "量产型无人机(Missile)"
+            "NameCn": "量产型无人机(导弹)"
         },
         {
             "Key": 32389108,
-            "NameCn": "量产型无人机(Missile)"
+            "NameCn": "量产型无人机(导弹)"
         },
         {
             "Key": 462632086,
@@ -5711,11 +5711,11 @@
         },
         {
             "Key": 156847285,
-            "NameCn": "黑市无人机(Missile)"
+            "NameCn": "黑市无人机(导弹)"
         },
         {
             "Key": 3920428131,
-            "NameCn": "黑市无人机(Missile)"
+            "NameCn": "黑市无人机(导弹)"
         },
         {
             "Key": 1682569911,
@@ -5735,11 +5735,11 @@
         },
         {
             "Key": 3852761541,
-            "NameCn": "军用无人机(Missile)"
+            "NameCn": "军用无人机(导弹)"
         },
         {
             "Key": 1387486216,
-            "NameCn": "军用无人机(Missile)"
+            "NameCn": "军用无人机(导弹)"
         },
         {
             "Key": 804368962,
@@ -5759,11 +5759,11 @@
         },
         {
             "Key": 3621916414,
-            "NameCn": "实验用无人机(Missile)"
+            "NameCn": "实验用无人机(导弹)"
         },
         {
             "Key": 1883147454,
-            "NameCn": "实验用无人机(Missile)"
+            "NameCn": "实验用无人机(导弹)"
         },
         {
             "Key": 2232791632,
@@ -5771,11 +5771,11 @@
         },
         {
             "Key": 3256032547,
-            "NameCn": "量产型坦克(Cannon)"
+            "NameCn": "量产型坦克(加农炮)"
         },
         {
             "Key": 3746737121,
-            "NameCn": "量产型坦克(Cannon)"
+            "NameCn": "量产型坦克(加农炮)"
         },
         {
             "Key": 3206373676,
@@ -5783,11 +5783,11 @@
         },
         {
             "Key": 1406054156,
-            "NameCn": "量产型坦克(Railgun)"
+            "NameCn": "量产型坦克(轨道炮)"
         },
         {
             "Key": 2420288627,
-            "NameCn": "量产型坦克(Railgun)"
+            "NameCn": "量产型坦克(轨道炮)"
         },
         {
             "Key": 1579778117,
@@ -5795,11 +5795,11 @@
         },
         {
             "Key": 2121633772,
-            "NameCn": "黑市坦克(Cannon)"
+            "NameCn": "黑市坦克(加农炮)"
         },
         {
             "Key": 418290026,
-            "NameCn": "黑市坦克(Cannon)"
+            "NameCn": "黑市坦克(加农炮)"
         },
         {
             "Key": 2161991926,
@@ -5807,11 +5807,11 @@
         },
         {
             "Key": 2452039250,
-            "NameCn": "黑市坦克(Railgun)"
+            "NameCn": "黑市坦克(轨道炮)"
         },
         {
             "Key": 369170159,
-            "NameCn": "黑市坦克(Railgun)"
+            "NameCn": "黑市坦克(轨道炮)"
         },
         {
             "Key": 1770065610,
@@ -5819,11 +5819,11 @@
         },
         {
             "Key": 2469203310,
-            "NameCn": "军用坦克(Cannon)"
+            "NameCn": "军用坦克(加农炮)"
         },
         {
             "Key": 1031042640,
-            "NameCn": "军用坦克(Cannon)"
+            "NameCn": "军用坦克(加农炮)"
         },
         {
             "Key": 370988600,
@@ -5831,11 +5831,11 @@
         },
         {
             "Key": 3456094004,
-            "NameCn": "军用坦克(Railgun)"
+            "NameCn": "军用坦克(轨道炮)"
         },
         {
             "Key": 938969562,
-            "NameCn": "军用坦克(Railgun)"
+            "NameCn": "军用坦克(轨道炮)"
         },
         {
             "Key": 1161070247,
@@ -5843,11 +5843,11 @@
         },
         {
             "Key": 2586184616,
-            "NameCn": "实验用坦克(Cannon)"
+            "NameCn": "实验用坦克(加农炮)"
         },
         {
             "Key": 4054050019,
-            "NameCn": "实验用坦克(Cannon)"
+            "NameCn": "实验用坦克(加农炮)"
         },
         {
             "Key": 2254981,
@@ -5855,11 +5855,11 @@
         },
         {
             "Key": 2070258178,
-            "NameCn": "实验用坦克(Railgun)"
+            "NameCn": "实验用坦克(轨道炮)"
         },
         {
             "Key": 3838494662,
-            "NameCn": "实验用坦克(Railgun)"
+            "NameCn": "实验用坦克(轨道炮)"
         },
         {
             "Key": 1542171968,
@@ -6127,11 +6127,11 @@
         },
         {
             "Key": 3542419930,
-            "NameCn": "狂暴化自动机(Shield)"
+            "NameCn": "狂暴化自动机(盾甲)"
         },
         {
             "Key": 2709430772,
-            "NameCn": "狂暴化自动机(Shield)"
+            "NameCn": "狂暴化自动机(盾甲)"
         },
         {
             "Key": 1186704453,
@@ -6243,7 +6243,7 @@
         },
         {
             "Key": 3460523349,
-            "NameCn": "实验用无人机(Missile)"
+            "NameCn": "实验用无人机(导弹)"
         },
         {
             "Key": 3968739423,
@@ -6379,11 +6379,11 @@
         },
         {
             "Key": 448556721,
-            "NameCn": "量产自动机(Shield)"
+            "NameCn": "量产自动机(盾甲)"
         },
         {
             "Key": 4135718681,
-            "NameCn": "量产自动机(Shield)"
+            "NameCn": "量产自动机(盾甲)"
         },
         {
             "Key": 976115348,
@@ -6403,11 +6403,11 @@
         },
         {
             "Key": 3523918923,
-            "NameCn": "黑市自动机(Shield)"
+            "NameCn": "黑市自动机(盾甲)"
         },
         {
             "Key": 1866286598,
-            "NameCn": "黑市自动机(Shield)"
+            "NameCn": "黑市自动机(盾甲)"
         },
         {
             "Key": 3217087573,
@@ -6427,11 +6427,11 @@
         },
         {
             "Key": 1651735231,
-            "NameCn": "军用自动机(Shield)"
+            "NameCn": "军用自动机(盾甲)"
         },
         {
             "Key": 634100321,
-            "NameCn": "军用自动机(Shield)"
+            "NameCn": "军用自动机(盾甲)"
         },
         {
             "Key": 3377358315,
@@ -6459,11 +6459,11 @@
         },
         {
             "Key": 2054882884,
-            "NameCn": "量产型无人机(Missile)"
+            "NameCn": "量产型无人机(导弹)"
         },
         {
             "Key": 3034104283,
-            "NameCn": "量产型无人机(Missile)"
+            "NameCn": "量产型无人机(导弹)"
         },
         {
             "Key": 1757493531,
@@ -6475,11 +6475,11 @@
         },
         {
             "Key": 1319827715,
-            "NameCn": "黑市无人机(Missile)"
+            "NameCn": "黑市无人机(导弹)"
         },
         {
             "Key": 1416174503,
-            "NameCn": "黑市无人机(Missile)"
+            "NameCn": "黑市无人机(导弹)"
         },
         {
             "Key": 1589918368,
@@ -6491,59 +6491,59 @@
         },
         {
             "Key": 3731198763,
-            "NameCn": "军用无人机(Missile)"
+            "NameCn": "军用无人机(导弹)"
         },
         {
             "Key": 2119407463,
-            "NameCn": "军用无人机(Missile)"
+            "NameCn": "军用无人机(导弹)"
         },
         {
             "Key": 242745399,
-            "NameCn": "量产型坦克(Cannon)"
+            "NameCn": "量产型坦克(加农炮)"
         },
         {
             "Key": 2871519387,
-            "NameCn": "量产型坦克(Cannon)"
+            "NameCn": "量产型坦克(加农炮)"
         },
         {
             "Key": 1284461391,
-            "NameCn": "量产型坦克(Railgun)"
+            "NameCn": "量产型坦克(轨道炮)"
         },
         {
             "Key": 1063245071,
-            "NameCn": "量产型坦克(Railgun)"
+            "NameCn": "量产型坦克(轨道炮)"
         },
         {
             "Key": 3607650723,
-            "NameCn": "黑市坦克(Cannon)"
+            "NameCn": "黑市坦克(加农炮)"
         },
         {
             "Key": 2720251550,
-            "NameCn": "黑市坦克(Cannon)"
+            "NameCn": "黑市坦克(加农炮)"
         },
         {
             "Key": 308340647,
-            "NameCn": "黑市坦克(Railgun)"
+            "NameCn": "黑市坦克(轨道炮)"
         },
         {
             "Key": 1493771818,
-            "NameCn": "黑市坦克(Railgun)"
+            "NameCn": "黑市坦克(轨道炮)"
         },
         {
             "Key": 3170995681,
-            "NameCn": "军用坦克(Cannon)"
+            "NameCn": "军用坦克(加农炮)"
         },
         {
             "Key": 1680298518,
-            "NameCn": "军用坦克(Cannon)"
+            "NameCn": "军用坦克(加农炮)"
         },
         {
             "Key": 2934461467,
-            "NameCn": "军用坦克(Railgun)"
+            "NameCn": "军用坦克(轨道炮)"
         },
         {
             "Key": 1935589778,
-            "NameCn": "军用坦克(Railgun)"
+            "NameCn": "军用坦克(轨道炮)"
         },
         {
             "Key": 450436506,
@@ -6880,6 +6880,174 @@
         {
             "Key": 3123977530,
             "NameCn": "赫赛德"
+        },
+        {
+            "Key": 1251331000,
+            "NameCn": "戈兹"
+        },
+        {
+            "Key": 1746062754,
+            "NameCn": "戈兹"
+        },
+        {
+            "Key": 2997278149,
+            "NameCn": "戈兹"
+        },
+        {
+            "Key": 2492574301,
+            "NameCn": "戈兹"
+        },
+        {
+            "Key": 4233365957,
+            "NameCn": "戈兹"
+        },
+        {
+            "Key": 3018108199,
+            "NameCn": "戈兹"
+        },
+        {
+            "Key": 990306261,
+            "Force": true,
+            "NameCn": "考试地形(野外)",
+            "DescriptionCn": "此考试在<b>野外</b>进行。"
+        },
+        {
+            "Key": 1329507091,
+            "Force": true,
+            "NameCn": "考试地形(室内)",
+            "DescriptionCn": "此考试在<b>室内</b>进行。"
+        },
+        {
+            "Key": 3938056289,
+            "Force": true,
+            "NameCn": "考试地形(市区)",
+            "DescriptionCn": "此考试在<b>市区</b>进行。"
+        },
+        {
+            "Key": 2060888564,
+            "Force": true,
+            "NameCn": "敌人防御类型(轻装甲)",
+            "DescriptionCn": "敌人的防御类型将为<b class='ba-col-explosion'>轻装甲</b>。"
+        },
+        {
+            "Key": 2075498290,
+            "Force": true,
+            "NameCn": "敌人防御类型(重装甲)",
+            "DescriptionCn": "敌人的防御类型将为<b class='ba-col-pierce'>重装甲</b>。"
+        },
+        {
+            "Key": 2570956929,
+            "Force": true,
+            "NameCn": "敌人防御类型(特殊装甲)",
+            "DescriptionCn": "敌人的防御类型将为<b class='ba-col-mystic'>特殊装甲</b>。"
+        },
+        {
+            "Key": 983164925,
+            "Force": true,
+            "NameCn": "我方攻击速度下降",
+            "DescriptionCn": "我方全体学生的<d:AttackSpeed>下降 75%。"
+        },
+        {
+            "Key": 3257931121,
+            "Force": true,
+            "NameCn": "敌方回避率提升",
+            "DescriptionCn": "所有敌人的<b:Dodge>提升1000%。"
+        },
+        {
+            "Key": 2503860611,
+            "Force": true,
+            "NameCn": "我方防御力下降",
+            "DescriptionCn": "我方全体学生的<d:DEF>下降 90%。"
+        },
+        {
+            "Key": 3301214750,
+            "Force": true,
+            "NameCn": "敌方死亡自爆",
+            "DescriptionCn": "敌方被击败时对其圆形范围内我方学生造成<b>100%</b>伤害。"
+        },
+        {
+            "Key": 648270201,
+            "Force": true,
+            "NameCn": "我方SR学生攻击力下降",
+            "DescriptionCn": "我方使用SR类型武器学生攻击力下降<d:ATK>90%。"
+        },
+        {
+            "Key": 2856565282,
+            "Force": true,
+            "NameCn": "敌方攻击力提升",
+            "DescriptionCn": "所有敌人的<b:HIT>提升<b>1,500</b>。"
+        },
+        {
+            "Key": 1949095289,
+            "Force": true,
+            "NameCn": "我方暴击率提升",
+            "DescriptionCn": "我方全体学生<b:CriticalChance>提升<b>2,000</b>。"
+        },
+        {
+            "Key": 1428571194,
+            "Force": true,
+            "NameCn": "我方使用EX技能后COST回复力下降",
+            "DescriptionCn": "我方全体学生每次使用EX技能后<d:CostRegen>降低<b>60</b>。效果持续至战斗结束。"
+        },
+        {
+            "Key": 3009801818,
+            "Force": true,
+            "NameCn": "我方MT/AR学生攻击力下降",
+            "DescriptionCn": "我方使用MT/AR类型武器学生攻击力下降<d:ATK>90%。"
+        },
+        {
+            "Key": 2490399639,
+            "Force": true,
+            "NameCn": "Additional Damage when inflicting CC",
+            "DescriptionCn": "Enemies have <b>100,000</b> increased <b:MAXHP>. Enemies receive an additional <b>120,000</b> damage whenever they are inflicted with a Crowd Control effect."
+        },
+        {
+            "Key": 719379007,
+            "Force": true,
+            "NameCn": "Scarecrow HP Damage over Time",
+            "DescriptionCn": "The Scarecrow will receive damage equal to 2% of its Max HP every 1s."
+        },
+        {
+            "Key": 773473613,
+            "Force": true,
+            "NameCn": "All Roles Formation",
+            "DescriptionCn": "If a unit contains at least one Support, Dealer, Tank, Healer and T.S. student, increases the <b:CostRegen> of all allies by <b>700</b>."
+        },
+        {
+            "Key": 3091509634,
+            "Force": true,
+            "NameCn": "The Elite Few",
+            "DescriptionCn": "Increases all allies' <b:ATK> by 300%/150%/100%/50% and <b:CostRegen> by <b>3,500/2,450/1,400/1,050</b> if there are only <b>1/2/3/4</b> students in the unit."
+        },
+        {
+            "Key": 3334829467,
+            "Force": true,
+            "NameCn": "Enemy Continuous Healing",
+            "DescriptionCn": "All enemies restore 1.5% of their Max HP every 1s."
+        },
+        {
+            "Key": 3839125090,
+            "Force": true,
+            "NameCn": "Enemy Incoming DMG Limit",
+            "DescriptionCn": "All enemies have greatly decreased Max HP, but also have an <b:DamagedLimit> that reduces the damage received from ally attacks to a maximum of <b>1</b>."
+        },
+        {
+            "Key": 89307624,
+            "Force": true,
+            "NameCn": "AR/HG Additional Damage",
+            "DescriptionCn": "Allies who use AR or HG type weapons will deal damage as an additional hit to enemies."
+        },
+        {
+            "Key": 2045771535,
+            "Force": true,
+            "NameCn": "Remove Ally Buffs",
+            "DescriptionCn": "All allies' buffs will be removed every 1s. (Enhanced Skill effects, Special Students' Sub Skill effects and other buffs that cannot be normally removed are unaffected)"
+        },
+        {
+            "Key": 1582447562,
+            "Force": true,
+            "NameCn": "Increased Enemy Defense Piercing",
+            "DescriptionCn": "All enemies' <b:Penetration> is increased by <b>2,000</b>."
         },
         {
             "Key": 2497649042,

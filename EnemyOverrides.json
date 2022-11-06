@@ -219,13 +219,15 @@
         "Id": 7310110,
         "NameEn": "Ampoule Missile",
         "NameTh": "มิสไซล์หลอดแก้ว",
-        "NameJp": "アンプルミサイル"
+        "NameJp": "アンプルミサイル",
+        "NameCn": "安瓿导弹"
     },
     {
         "Id": 7310120,
         "NameEn": "Shark Missile",
         "NameTh": "ชาร์ค มิสไซล์",
-        "NameJp": "シャークミサイル"
+        "NameJp": "シャークミサイル",
+        "NameCn": "鲨鱼导弹"
     },
     {
         "Id": 7310130,
@@ -239,7 +241,8 @@
         "Id": 7310140,
         "NameEn": "Black Missile",
         "NameTh": "มิสไซล์ดำ",
-        "NameJp": "ブラックミサイル"
+        "NameJp": "ブラックミサイル",
+        "NameCn": "安瓿导弹"
     },
     {
         "Id": 7310150,
@@ -261,13 +264,15 @@
         "Id": 7310210,
         "NameEn": "Ampoule Missile",
         "NameTh": "มิสไซล์หลอดแก้ว",
-        "NameJp": "アンプルミサイル"
+        "NameJp": "アンプルミサイル",
+        "NameCn": "安瓿导弹"
     },
     {
         "Id": 7310220,
         "NameEn": "Shark Missile",
         "NameTh": "ชาร์ค มิสไซล์",
-        "NameJp": "シャークミサイル"
+        "NameJp": "シャークミサイル",
+        "NameCn": "鲨鱼导弹"
     },
     {
         "Id": 7310230,
@@ -281,7 +286,8 @@
         "Id": 7310240,
         "NameEn": "Black Missile",
         "NameTh": "มิสไซล์ดำ",
-        "NameJp": "ブラックミサイル"
+        "NameJp": "ブラックミサイル",
+        "NameCn": "黑色导弹"
     },
     {
         "Id": 7310250,
@@ -303,13 +309,15 @@
         "Id": 7310310,
         "NameEn": "Ampoule Missile",
         "NameTh": "มิสไซล์หลอดแก้ว",
-        "NameJp": "アンプルミサイル"
+        "NameJp": "アンプルミサイル",
+        "NameCn": "安瓿导弹"
     },
     {
         "Id": 7310320,
         "NameEn": "Shark Missile",
         "NameTh": "ชาร์ค มิสไซล์",
-        "NameJp": "シャークミサイル"
+        "NameJp": "シャークミサイル",
+        "NameCn": "鲨鱼导弹"
     },
     {
         "Id": 7310330,
@@ -323,7 +331,8 @@
         "Id": 7310340,
         "NameEn": "Black Missile",
         "NameTh": "มิสไซล์ดำ",
-        "NameJp": "ブラックミサイル"
+        "NameJp": "ブラックミサイル",
+        "NameCn": "黑色导弹"
     },
     {
         "Id": 7310350,
@@ -448,6 +457,7 @@
     {
         "Id": 7308101,
         "NameEn": "Goz (Clone)",
+        "NameCn": "戈兹 (分身)",
         "NameTh": "Goz (ร่างแยก)",
         "NameJp": "ゴズ（分身）",
         "NameKr": "고즈 (분신)"
@@ -455,6 +465,7 @@
     {
         "Id": 7308201,
         "NameEn": "Goz (Clone)",
+        "NameCn": "戈兹 (分身)",
         "NameTh": "Goz (ร่างแยก)",
         "NameJp": "ゴズ（分身）",
         "NameKr": "고즈 (분신)"
@@ -462,6 +473,7 @@
     {
         "Id": 7308301,
         "NameEn": "Goz (Clone)",
+        "NameCn": "戈兹 (分身)",
         "NameTh": "Goz (ร่างแยก)",
         "NameJp": "ゴズ（分身）",
         "NameKr": "고즈 (분신)"
@@ -469,6 +481,7 @@
     {
         "Id": 7308401,
         "NameEn": "Goz (Clone)",
+        "NameCn": "戈兹 (分身)",
         "NameTh": "Goz (ร่างแยก)",
         "NameJp": "ゴズ（分身）",
         "NameKr": "고즈 (분신)"
@@ -476,6 +489,7 @@
     {
         "Id": 7308501,
         "NameEn": "Goz (Clone)",
+        "NameCn": "戈兹 (分身)",
         "NameTh": "Goz (ร่างแยก)",
         "NameJp": "ゴズ（分身）",
         "NameKr": "고즈 (분신)"
@@ -483,6 +497,7 @@
     {
         "Id": 7308601,
         "NameEn": "Goz (Clone)",
+        "NameCn": "戈兹 (分身)",
         "NameTh": "Goz (ร่างแยก)",
         "NameJp": "ゴズ（分身）",
         "NameKr": "고즈 (분신)"
@@ -490,6 +505,7 @@
     {
         "Id": 7308103,
         "NameEn": "Scream Rider",
+        "NameCn": "尖叫骑士",
         "NameTh": "สครีม ไรเดอร์",
         "NameJp": "スクリームライダー",
         "NameKr": "스크림 라이더"
@@ -497,6 +513,7 @@
     {
         "Id": 7308203,
         "NameEn": "Scream Rider",
+        "NameCn": "尖叫骑士",
         "NameTh": "สครีม ไรเดอร์",
         "NameJp": "スクリームライダー",
         "NameKr": "스크림 라이더"
@@ -504,6 +521,7 @@
     {
         "Id": 7308303,
         "NameEn": "Scream Rider",
+        "NameCn": "尖叫骑士",
         "NameTh": "สครีม ไรเดอร์",
         "NameJp": "スクリームライダー",
         "NameKr": "스크림 라이더"
@@ -511,6 +529,7 @@
     {
         "Id": 7308403,
         "NameEn": "Scream Rider",
+        "NameCn": "尖叫骑士",
         "NameTh": "สครีม ไรเดอร์",
         "NameJp": "スクリームライダー",
         "NameKr": "스크림 라이더"
@@ -518,6 +537,7 @@
     {
         "Id": 7308503,
         "NameEn": "Scream Rider",
+        "NameCn": "尖叫骑士",
         "NameTh": "สครีม ไรเดอร์",
         "NameJp": "スクリームライダー",
         "NameKr": "스크림 라이더"
@@ -525,6 +545,7 @@
     {
         "Id": 7308603,
         "NameEn": "Scream Rider",
+        "NameCn": "尖叫骑士",
         "NameTh": "สครีม ไรเดอร์",
         "NameJp": "スクリームライダー",
         "NameKr": "스크림 라이더"

@@ -155,7 +155,7 @@
             },
             "Indoor": {
                 "CodeKey": 3760285652,
-                "Cn": "室內",
+                "Cn": "室内",
                 "Th": "ในอาคาร"
             }
         },
@@ -644,12 +644,12 @@
             "108": {
                 "EtcKey": 1334657209,
                 "En": "Beachside Set",
-                "Tw": "海濱組合",
                 "Cn": "海滨组合"
             },
             "109": {
                 "EtcKey": 3711274552,
-                "En": "Sports Day Set"
+                "En": "Sports Day Set",
+                "Cn": "运动会组合"
             }
         },
         "ItemCategory": {
@@ -1072,19 +1072,23 @@
         },
         "TimeAttackStage": {
             "Shooting": {
-                "EtcKey": 1223379449
+                "EtcKey": 1223379449,
+                "Cn": "射击考试"
             },
             "Defense": {
-                "EtcKey": 546386169
+                "EtcKey": 546386169,
+                "Cn": "防御考试"
             },
             "Destruction": {
-                "EtcKey": 1467902802
+                "EtcKey": 1467902802,
+                "Cn": "突破考试"
             }
         },
         "ConquestMap": {
             "815": {
                 "CodeKey": 3551476547,
-                "En": "Lost Paradise Resort Archipelago"
+                "En": "Lost Paradise Resort Archipelago",
+                "Cn": "失落的天堂度假村群岛"
             }
         },
         "StageTitle": {
