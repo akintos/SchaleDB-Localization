@@ -582,7 +582,7 @@
                 "En": "EX Skill Hits",
                 "Jp": "EXスキルヒット回数",
                 "Kr": null,
-                "Th": null,
+                "Th": "จำนวนการโจมตีของสกิล EX",
                 "Tw": null,
                 "Cn": null
             }
@@ -1335,7 +1335,7 @@
                 "En": "Focused Assault",
                 "Jp": "集中砲火状態",
                 "Kr": "집중공격",
-                "Th": "โจมตีใส่",
+                "Th": "ล็อคเป้า",
                 "Tw": "集中攻擊",
                 "Cn": "集中攻击"
             },
@@ -1431,7 +1431,7 @@
                 "En": "Explosive Effectiveness",
                 "Jp": "爆発特効",
                 "Kr": "폭발 특효",
-                "Th": "ความเสียหายระเบิดเมื่อชนะทาง",
+                "Th": "ประสิทธิภาพความเสียหายระเบิด",
                 "Tw": "爆發傷害加成",
                 "Cn": "爆发伤害加成"
             },
@@ -1439,7 +1439,7 @@
                 "En": "Piercing Effectiveness",
                 "Jp": "貫通特効",
                 "Kr": "관통 특효",
-                "Th": "ความเสียหายเจาะเกราะเมื่อชนะทาง",
+                "Th": "ประสิทธิภาพความเสียหายเจาะเกราะ",
                 "Tw": "貫穿傷害加成",
                 "Cn": "贯穿伤害加成"
             },
@@ -1447,7 +1447,7 @@
                 "En": "Mystic Effectiveness",
                 "Jp": "貫通特効",
                 "Kr": "신비 특효",
-                "Th": "ความเสียหายลึกลับเมื่อชนะทาง",
+                "Th": "ประสิทธิภาพความเสียหายลึกลับ",
                 "Tw": "神秘傷害加成",
                 "Cn": "神秘伤害加成"
             },
@@ -1629,7 +1629,7 @@
                 "En": "Focused Assault",
                 "Jp": "集中砲火状態",
                 "Kr": "집중공격",
-                "Th": "หมายหัว",
+                "Th": "ล็อคเป้า",
                 "Tw": "集中攻擊",
                 "Cn": "集中攻击"
             },
@@ -1709,7 +1709,7 @@
                 "En": "Explosive Effectiveness",
                 "Jp": "爆発特効",
                 "Kr": "폭발 특효",
-                "Th": "ความเสียหายระเบิดเมื่อชนะทาง",
+                "Th": "ประสิทธิภาพความเสียหายระเบิด",
                 "Tw": "爆發傷害",
                 "Cn": "爆发伤害"
             },
@@ -1717,7 +1717,7 @@
                 "En": "Piercing Effectiveness",
                 "Jp": "貫通特効",
                 "Kr": "관통 특효",
-                "Th": "ความเสียหายเจาะเกราะเมื่อชนะทาง",
+                "Th": "ประสิทธิภาพความเสียหายเจาะเกราะ",
                 "Tw": "貫穿傷害",
                 "Cn": "贯穿伤害"
             },
@@ -1725,7 +1725,7 @@
                 "En": "Mystic Effectiveness",
                 "Jp": "貫通特効",
                 "Kr": "신비 특효",
-                "Th": "ความเสียหายลึกลับเมื่อชนะทาง",
+                "Th": "ประสิทธิภาพความเสียหายลึกลับ",
                 "Tw": "神秘傷害",
                 "Cn": "神秘伤害"
             },
@@ -1991,7 +1991,7 @@
             },
             "Buff_ConcentratedTarget": {
                 "En": "Focused Assault",
-                "Th": "หมายหัว",
+                "Th": "ล็อคเป้า",
                 "Tw": "集中攻擊",
                 "Cn": "集中攻击"
             },
@@ -2065,19 +2065,19 @@
             },
             "Buff_EnhanceExplosionRate": {
                 "En": "Explosive Effectiveness Up",
-                "Th": "ความเสียหายระเบิดเมื่อชนะทางเพิ่มขึ้น",
+                "Th": "ประสิทธิภาพความเสียหายระเบิดเพิ่มขึ้น",
                 "Tw": "爆發傷害加成提升",
                 "Cn": "爆发伤害加成提升"
             },
             "Buff_EnhancePierceRate": {
                 "En": "Piercing Effectiveness Up",
-                "Th": "ความเสียหายเจาะเกราะเมื่อชนะทางเพิ่มขึ้น",
+                "Th": "ประสิทธิภาพความเสียหายเจาะเกราะเพิ่มขึ้น",
                 "Tw": "貫穿傷害加成提升",
                 "Cn": "贯穿伤害加成提升"
             },
             "Buff_EnhanceMysticRate": {
                 "En": "Mystic Effectiveness Up",
-                "Th": "ความเสียหายลึกลับเมื่อชนะทางเพิ่มขึ้น",
+                "Th": "ประสิทธิภาพความเสียหายลึกลับเพิ่มขึ้น",
                 "Tw": "神秘傷害加成提升",
                 "Cn": "神秘伤害加成提升"
             },
@@ -2221,7 +2221,7 @@
             },
             "Debuff_ConcentratedTarget": {
                 "En": "Focused Assault",
-                "Th": "หมายหัว",
+                "Th": "ล็อคเป้า",
                 "Tw": "集中攻擊",
                 "Cn": "集中攻击"
             },
@@ -2281,19 +2281,19 @@
             },
             "Debuff_EnhanceExplosionRate": {
                 "En": "Explosive Effectiveness Down",
-                "Th": "ความเสียหายระเบิดเมื่อชนะทางลดลง",
+                "Th": "ประสิทธิภาพความเสียหายระเบิดลดลง",
                 "Tw": "爆發傷害下降",
                 "Cn": "爆发伤害下降"
             },
             "Debuff_EnhancePierceRate": {
                 "En": "Piercing Effectiveness Down",
-                "Th": "ความเสียหายเจาะเกราะเมื่อชนะทางลดลง",
+                "Th": "ประสิทธิภาพความเสียหายเจาะเกราะลดลง",
                 "Tw": "貫穿傷害下降",
                 "Cn": "贯穿伤害下降"
             },
             "Debuff_EnhanceMysticRate": {
                 "En": "Mystic Effectiveness Down",
-                "Th": "ความเสียหายลึกลับเมื่อชนะทางลดลง",
+                "Th": "ประสิทธิภาพความเสียหายลึกลับลดลง",
                 "Tw": "神秘傷害下降",
                 "Cn": "神秘伤害下降"
             },
@@ -2566,15 +2566,15 @@
             },
             "Buff_EnhanceExplosionRate": {
                 "En": "Increases the damage bonus when dealing Explosive type attacks against Light Armor targets.",
-                "Th": "เพิ่มความเสียหายของการโจมตีประเภทระเบิดที่มีต่อเป้าหมายเกราะเบา"
+                "Th": "เพิ่มความเสียหายของการโจมตีประเภทระเบิดเมื่อโจมตีใส่เป้าหมายที่มีเกราะเบา"
             },
             "Buff_EnhancePierceRate": {
                 "En": "Increases the damage bonus when dealing Piercing type attacks against Heavy Armor targets.",
-                "Th": "เพิ่มความเสียหายของการโจมตีประเภทเจาะเกราะที่มีต่อเป้าหมายเกราะหนัก"
+                "Th": "เพิ่มความเสียหายของการโจมตีประเภทเจาะเกราะเมื่อโจมตีใส่เป้าหมายที่มีเกราะหนัก"
             },
             "Buff_EnhanceMysticRate": {
                 "En": "Increases the damage bonus when dealing Mystic type attacks against Special Armor targets.",
-                "Th": "เพิ่มความเสียหายของการโจมตีประเภทลึกลับที่มีต่อเป้าหมายเกราะพิเศษ"
+                "Th": "เพิ่มความเสียหายของการโจมตีประเภทลึกลับเมื่อโจมตีใส่เป้าหมายที่มีเกราะพิเศษ"
             },
             "Buff_ExtendBuffDuration": {
                 "En": "Increases the duration of buffs granted to self and allies.",
@@ -2713,15 +2713,15 @@
             },
             "Debuff_EnhanceExplosionRate": {
                 "En": "Decreases the damage bonus when dealing Explosive type attacks against Light Armor targets.",
-                "Th": "ลดความเสียหายของการโจมตีประเภทระเบิดที่มีต่อเป้าหมายเกราะเบา"
+                "Th": "ลดความเสียหายของการโจมตีประเภทระเบิดเมื่อโจมตีใส่เป้าหมายที่มีเกราะเบา"
             },
             "Debuff_EnhancePierceRate": {
                 "En": "Decreases the damage bonus when dealing Piercing type attacks against Heavy Armor targets.",
-                "Th": "ลดความเสียหายของการโจมตีประเภทเจาะเกราะที่มีต่อเป้าหมายเกราะหนัก"
+                "Th": "ลดความเสียหายของการโจมตีประเภทเจาะเกราะเมื่อโจมตีใส่เป้าหมายที่มีเกราะหนัก"
             },
             "Debuff_EnhanceMysticRate": {
                 "En": "Decreases the damage bonus when dealing Mystic type attacks against Special Armor targets.",
-                "Th": "ลดความเสียหายของการโจมตีประเภทลึกลับที่มีต่อเป้าหมายเกราะพิเศษ"
+                "Th": "ลดความเสียหายของการโจมตีประเภทลึกลับเมื่อโจมตีใส่เป้าหมายที่มีเกราะพิเศษ"
             },
             "Debuff_HealedLimit": {
                 "En": "Limits the amount of HP healing abilities will restore.",
@@ -3580,7 +3580,7 @@
                 "En": "Show all info",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "แสดงข้อมูลทั้งหมด",
                 "Tw": null,
                 "Cn": null
             },
