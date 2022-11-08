@@ -4995,7 +4995,7 @@
         {
             "SkillId": 10039200,
             "NameEn": "Timid Observation",
-            "DescriptionEn": "Inflicts <d:DamageByHit_Damaged> to one enemy for 10s. Each time an ally attacks the enemy inflicted with this debuff, deals additional damage equal to <?1> of Miyu's ATK. (This additional damage cannot critically hit and can trigger up to a maximum of <b>120</b> times)",
+            "DescriptionEn": "Applies <d:DamageByHit_Damaged> to one enemy for 10s. Each time an ally attacks the enemy inflicted with this debuff, deals additional damage equal to <?1> of Miyu's ATK. (This additional damage cannot critically hit and can trigger up to a maximum of <b>120</b> times)",
             "ParametersEn": [ ["15.8%", "18.1%", "22.9%", "25.2%", "30%"] ]
         },
         {

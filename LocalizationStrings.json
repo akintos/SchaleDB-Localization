@@ -1678,7 +1678,7 @@
                 "Cn": "暴击伤害抵抗率"
             },
             "Debuff_DamageByHit_Damaged": {
-                "En": "Exposed Weakness",
+                "En": "Weakness Detection",
                 "Jp": "弱点把握状態",
                 "Kr": "약점 파악",
                 "Th": "โจมตีจุดอ่อน",
@@ -2260,7 +2260,7 @@
                 "Cn": "暴击伤害抵抗率下降"
             },
             "Debuff_DamageByHit_Damaged": {
-                "En": "Exposed Weakness",
+                "En": "Weakness Detection",
                 "Th": "โจมตีจุดอ่อน",
                 "Tw": "弱點暴露",
                 "Cn": "弱点暴露"
@@ -3581,7 +3581,7 @@
                 "Cn": "清空过滤器"
             },
             "student_search_info": {
-                "En": "Show all info",
+                "En": "Show all Info",
                 "Jp": null,
                 "Kr": null,
                 "Th": "แสดงข้อมูลทั้งหมด",
