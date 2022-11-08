@@ -1681,7 +1681,7 @@
                 "En": "Exposed Weakness",
                 "Jp": "弱点把握状態",
                 "Kr": "약점 파악",
-                "Th": "เผยจุดอ่อน",
+                "Th": "โจมตีจุดอ่อน",
                 "Tw": "弱點打擊",
                 "Cn": "弱点打击"
             },
@@ -2261,7 +2261,7 @@
             },
             "Debuff_DamageByHit_Damaged": {
                 "En": "Exposed Weakness",
-                "Th": "เผยจุดอ่อน",
+                "Th": "โจมตีจุดอ่อน",
                 "Tw": "弱點暴露",
                 "Cn": "弱点暴露"
             },
@@ -2701,7 +2701,7 @@
             },
             "Debuff_DamageByHit_Damaged": {
                 "En": "Receives additional damage when being attacked.",
-                "Th": "ได้รับความเสียหายเพิ่มเติมเมื่อถูกโจมตี"
+                "Th": "ได้รับความเสียหายเพิ่มเติมทุกครั้งที่ถูกโจมตี"
             },
             "Debuff_DamagedRatio": {
                 "En": "Increases all incoming damage by a percentage amount.",
