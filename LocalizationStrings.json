@@ -2262,8 +2262,8 @@
             "Debuff_DamageByHit_Damaged": {
                 "En": "Weakness Detection",
                 "Th": "โจมตีจุดอ่อน",
-                "Tw": "弱點暴露",
-                "Cn": "弱点暴露"
+                "Tw": "弱點打擊",
+                "Cn": "弱点打击"
             },
             "Debuff_DamagedRatio": {
                 "En": "Incoming Damage Up",
@@ -3497,8 +3497,8 @@
                 "Jp": "デザイン",
                 "Kr": "디자인",
                 "Th": "ผู้ออกแบบ",
-                "Tw": null,
-                "Cn": null
+                "Tw": "設計",
+                "Cn": "设计"
             },
             "illustrator": {
                 "En": "Illustrator",
@@ -3585,8 +3585,8 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "แสดงข้อมูลทั้งหมด",
-                "Tw": null,
-                "Cn": null
+                "Tw": "顯示所有信息",
+                "Cn": "显示所有信息"
             },
             "sortby": {
                 "En": "Sort By",
@@ -3976,8 +3976,8 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "วัตถุดิบที่ต้องการ",
-                "Tw": null,
-                "Cn": null
+                "Tw": "必要道具",
+                "Cn": "必要道具"
             },
             "craft_using": {
                 "En": "Crafted using the following items",
@@ -3992,8 +3992,8 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "แสดง/ซ่อนอัตราการปรากฏของโหนด",
-                "Tw": null,
-                "Cn": null
+                "Tw": "切換節點出現概率",
+                "Cn": "切换节点出现概率"
             },
             "bond_req_equip": {
                 "En": "Requires <i class='ms-1 fa-solid fa-heart'></i> {0} with {1} to equip",
@@ -4172,8 +4172,8 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "ใช้การอัปเกรดอุปกรณ์โปรดของนักเรียนดังต่อไปนี้",
-                "Tw": null,
-                "Cn": null
+                "Tw": "用於强化以下學生的愛用品",
+                "Cn": "用于强化以下学生的爱用品"
             },
             "item_specialgift": {
                 "En": "This gift will be treated as a liked item {0} when given to any student",
@@ -4204,7 +4204,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "ใช้เพื่อเพิ่มดาวนักเรียนดังต่อไปนี้",
-                "Tw": "用于解锁以下学生",
+                "Tw": "用於解鎖以下學生",
                 "Cn": "用于解锁以下学生"
             },
             "item_obtainedfrom_stage": {
