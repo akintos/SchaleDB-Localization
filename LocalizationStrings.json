@@ -14,23 +14,19 @@
         "BulletType": {
             "Explosion": {
                 "CodeKey": 3757721831,
-                "Cn": "爆发",
-                "Th": "ระเบิด"
+                "Cn": "爆发"
             },
             "Pierce": {
                 "CodeKey": 3403805498,
-                "Cn": "贯穿",
-                "Th": "เจาะเกราะ"
+                "Cn": "贯穿"
             },
             "Mystic": {
                 "CodeKey": 1152404059,
-                "Cn": "神秘",
-                "Th": "ลึกลับ"
+                "Cn": "神秘"
             },
             "Normal": {
                 "CodeKey": 3785464487,
-                "Cn": "普通",
-                "Th": "ทั่วไป"
+                "Cn": "普通"
             },
             "Siege": {
                 "CodeKey": 3580810486
@@ -39,18 +35,15 @@
         "ArmorType": {
             "LightArmor": {
                 "CodeKey": 3837040931,
-                "Cn": "轻装甲",
-                "Th": "เกราะเบา"
+                "Cn": "轻装甲"
             },
             "HeavyArmor": {
                 "CodeKey": 2014245498,
-                "Cn": "重装甲",
-                "Th": "เกราะหนัก"
+                "Cn": "重装甲"
             },
             "Unarmed": {
                 "CodeKey": 3363459657,
-                "Cn": "特殊装甲",
-                "Th": "เกราะพิเศษ"
+                "Cn": "特殊装甲"
             },
             "Normal": {
                 "CodeKey": 2051696859,
@@ -84,116 +77,91 @@
         "School": {
             "Abydos": {
                 "CodeKey": 2496894026,
-                "Cn": "阿拜多斯",
-                "Th": "อะบิดอส"
+                "Cn": "阿拜多斯"
             },
             "Arius": {
                 "CodeKey": 1624106283,
-                "Cn": "奧利斯",
-                "Th": "อาเรียส"
+                "Cn": "奧利斯"
             },
             "Gehenna": {
                 "CodeKey": 4278416471,
-                "Cn": "格黑娜",
-                "Th": "เกเฮนน่า"
+                "Cn": "格黑娜"
             },
             "Hyakkiyako": {
                 "CodeKey": 1357983354,
-                "Cn": "百鬼夜行",
-                "Th": "เฮียกคิยาโค"
+                "Cn": "百鬼夜行"
             },
             "Millennium": {
                 "CodeKey": 3069365233,
-                "Cn": "千年",
-                "Th": "มิลเลเนียม"
+                "Cn": "千年"
             },
             "RedWinter": {
                 "CodeKey": 4287460736,
-                "Cn": "赤冬",
-                "Th": "เรดวินเทอร์"
+                "Cn": "赤冬"
             },
             "Shanhaijing": {
                 "CodeKey": 1195587187,
-                "Cn": "山海经",
-                "Th": "ซานไฮ่จิง"
+                "Cn": "山海经"
             },
             "SRT": {
-                "Comment": "Shorten to SRT for all languages.",
                 "CodeKey": 3227477377,
-                "En": "SRT",
-                "Jp": "SRT",
-                "Kr": "SRT",
-                "Tw": "SRT",
                 "Cn": "SRT"
             },
             "Trinity": {
                 "CodeKey": 3367267180,
-                "Cn": "三一",
-                "Th": "ทรีนิตี้"
+                "Cn": "三一"
             },
             "Valkyrie": {
                 "CodeKey": 113298623,
-                "Cn": "瓦尔基里",
-                "Th": "วัลคิรี่"
+                "Cn": "瓦尔基里"
             },
             "ETC": {
                 "CodeKey": 792628026,
-                "Cn": "其他",
-                "Th": "อื่นๆ"
+                "Cn": "其他"
             }
         },
         "AdaptationType": {
             "Street": {
                 "CodeKey": 4095504793,
-                "Cn": "市区",
-                "Th": "ในเมือง"
+                "Cn": "市区"
             },
             "Outdoor": {
                 "CodeKey": 1063796482,
-                "Cn": "野外",
-                "Th": "กลางแจ้ง"
+                "Cn": "野外"
             },
             "Indoor": {
                 "CodeKey": 3760285652,
-                "Cn": "室内",
-                "Th": "ในอาคาร"
+                "Cn": "室内"
             }
         },
         "SchoolLong": {
             "Abydos": {
                 "ScenarioKey": 2877335168,
-                "Cn": "阿拜多斯高中",
-                "Th": "โรงเรียนมัธยมอะบิดอส"
+                "Cn": "阿拜多斯高中"
             },
             "Arius": {
                 "ScenarioKey": 417290178,
-                "Cn": "阿里乌斯分校",
-                "Th": "โรงเรียนสาขาอาเรียส"
+                "Cn": "阿里乌斯分校"
             },
             "Gehenna": {
                 "ScenarioKey": 3736730534,
-                "Cn": "格黑娜学园",
-                "Th": "สถาบันเกเฮนน่า"
+                "Cn": "格黑娜学园"
             },
             "Hyakkiyako": {
                 "ScenarioKey": 1563751060,
-                "Cn": "百鬼夜行联合学园",
-                "Th": "สหพันธ์เฮียกคิยาโค"
+                "Cn": "百鬼夜行联合学园"
             },
             "Millennium": {
                 "ScenarioKey": 2224197674,
-                "Cn": "千年科学学园",
-                "Th": "โรงเรียนวิทย์มิลเลเนียม"
+                "Cn": "千年科学学园"
             },
             "RedWinter": {
                 "ScenarioKey": 2940461121,
-                "Cn": "赤冬联邦学园",
-                "Th": "สหภาพเรดวินเทอร์"
+                "Cn": "赤冬联邦学园"
             },
             "Shanhaijing": {
                 "ScenarioKey": 3997137133,
-                "Cn": "山海经高级中学",
-                "Th": "โรงเรียนมัธยมซานไฮ่จิง"
+                "Cn": "山海经高级中学"
             },
             "SRT": {
                 "ScenarioKey": 2978806820,
@@ -201,185 +169,145 @@
             },
             "Trinity": {
                 "ScenarioKey": 4226222338,
-                "Cn": "三一综合学园",
-                "Th": "โรงเรียนสามัญทรีนิตี้"
+                "Cn": "三一综合学园"
             },
             "Valkyrie": {
                 "ScenarioKey": 1843937705,
-                "Cn": "瓦尔基里警察学校",
-                "Th": "สถาบันฝึกตำรวจวัลคิรี่"
+                "Cn": "瓦尔基里警察学校"
             },
             "ETC": {
                 "ScenarioKey": 1926648970,
-                "Cn": "其他",
-                "Th": "อื่นๆ"
+                "Cn": "其他"
             }
         },
         "Club": {
             "Kohshinjo68": {
                 "ScenarioKey": 2473308179,
-                "Cn": "征信社 68",
-                "Th": "หน่วยรับจ้างสารพัด 68"
+                "Cn": "征信社 68"
             },
             "Justice": {
                 "ScenarioKey": 807342657,
-                "Cn": "实现正义部",
-                "Th": "ชมรมทวงความยุติธรรม"
+                "Cn": "实现正义部"
             },
             "CleanNClearing": {
                 "ScenarioKey": 3046912603,
-                "Cn": "C&C",
-                "Th": "C&C"
+                "Cn": "C&C"
             },
             "BookClub": {
                 "ScenarioKey": 475852969,
-                "Cn": "图书部",
-                "Th": "ชมรมอ่านหนังสือ"
+                "Cn": "图书部"
             },
             "Countermeasure": {
                 "ScenarioKey": 3192151255,
-                "Cn": "对策委员会",
-                "Th": "คณะกรรมการแผนงาน"
+                "Cn": "对策委员会"
             },
             "Engineer": {
                 "ScenarioKey": 3688098515,
-                "Cn": "工程师部",
-                "Th": "ชมรมวิศวกรรม"
+                "Cn": "工程师部"
             },
             "FoodService": {
                 "ScenarioKey": 512921459,
-                "Cn": "供给部",
-                "Th": "ขมรมโภชนาการ"
+                "Cn": "供给部"
             },
             "Fuuki": {
                 "ScenarioKey": 2781545398,
-                "Cn": "纠察部",
-                "Th": "คณะกรรมการวินัย"
+                "Cn": "纠察部"
             },
             "GourmetClub": {
                 "ScenarioKey": 1084697131,
-                "Cn": "美食研究会",
-                "Th": "ชมรมชิมอาหาร"
+                "Cn": "美食研究会"
             },
             "HoukagoDessert": {
                 "ScenarioKey": 3478558676,
-                "Cn": "放学后的甜点部",
-                "Th": "ชมรมของหวานหลังเลิกเรียน"
+                "Cn": "放学后的甜点部"
             },
             "KnightsHospitaller": {
                 "ScenarioKey": 2297258644,
-                "Cn": "救援骑士团",
-                "Th": "ชมรมอัศวินบรรเทาทุกข์"
+                "Cn": "救援骑士团"
             },
             "MatsuriOffice": {
                 "ScenarioKey": 3071844505,
-                "Cn": "节庆营运管理部",
-                "Th": "ชมรมจัดงานเทศกาล"
+                "Cn": "节庆营运管理部"
             },
             "Meihuayuan": {
                 "ScenarioKey": 542709158,
-                "Cn": "梅花园",
-                "Th": "สวนต้นบ๊วย"
+                "Cn": "梅花园"
             },
             "Onmyobu": {
                 "ScenarioKey": 3488335082,
-                "Cn": "阴阳部",
-                "Th": "ชมรมหยินหยาง"
+                "Cn": "阴阳部"
             },
             "RemedialClass": {
                 "ScenarioKey": 2177215947,
-                "Cn": "补课部",
-                "Th": "ชมรมชั้นเรียนเสริม"
+                "Cn": "补课部"
             },
             "SPTF": {
                 "ScenarioKey": 3255143589,
-                "Cn": "超现象特务部",
-                "Th": "ชมรมปรากฏการณ์ลี้ลับ"
+                "Cn": "超现象特务部"
             },
             "Shugyobu": {
                 "ScenarioKey": 4030183534,
-                "Cn": "修行部",
-                "Th": "ชมรมฝึกฝน"
+                "Cn": "修行部"
             },
             "Endanbou": {
                 "ScenarioKey": 221007527,
-                "Cn": "锻炼屋",
-                "Th": "ชมรมวิจัยศาสตร์การปรุงยา"
+                "Cn": "锻炼屋"
             },
             "TheSeminar": {
                 "ScenarioKey": 994952503,
-                "Cn": "研讨会",
-                "Th": "เซมิน่า"
+                "Cn": "研讨会"
             },
             "TrainingClub": {
                 "ScenarioKey": 2933916540,
-                "Cn": "训练部",
-                "Th": "ชมรมออกกำลังกาย"
+                "Cn": "训练部"
             },
             "TrinityVigilance": {
                 "ScenarioKey": 276390250,
-                "Cn": "三一自卫队",
-                "Th": "กลุ่มรักษาความสงบแห่งทรีนิตี้"
+                "Cn": "三一自卫队"
             },
             "Veritas": {
                 "ScenarioKey": 2990854926,
-                "Cn": "贝里塔斯",
-                "Th": "เวอริทัส"
+                "Cn": "贝里塔斯"
             },
             "NinpoKenkyubu": {
                 "ScenarioKey": 4113604176,
-                "Cn": "忍法研究部",
-                "Th": "ชมรมวิจัยศาสตร์นินจา"
+                "Cn": "忍法研究部"
             },
             "GameDev": {
                 "ScenarioKey": 3286973941,
-                "Cn": "游戏开发部",
-                "Th": "ชมรมพัฒนาเกม"
+                "Cn": "游戏开发部"
             },
             "RedwinterSecretary": {
                 "ScenarioKey": 814005695,
-                "Cn": "赤冬事务局",
-                "Th": "สำนักเลขาธิการเรดวินเทอร์"
+                "Cn": "赤冬事务局"
             },
             "anzenkyoku": {
                 "ScenarioKey": 1333412405,
-                "Cn": "生活安全局",
-                "Th": "สำนักรักษาความปลอดภัย"
+                "Cn": "生活安全局"
             },
             "SisterHood": {
                 "ScenarioKey": 48146678,
-                "Cn": "修女会",
-                "Th": "ชมรมซิสเตอร์"
+                "Cn": "修女会"
             },
             "Class227": {
                 "ScenarioKey": 1601558005,
-                "Cn": "227特别班",
-                "Th": "ห้องพิเศษ 227"
+                "Cn": "227特别班"
             },
             "Emergentology": {
                 "ScenarioKey": 1637611057,
-                "En": "Medical Emergency Club",
-                "Tw": "急救醫學部",
-                "Cn": "救急医学部",
-                "Th": "ชมรมหน่วยแพทย์ฉุกเฉิน"
+                "Cn": "救急医学部"
             },
             "RabbitPlatoon": {
                 "ScenarioKey": 2734594077,
-                "En": "RABBIT Squad",
-                "Tw": "RABBIT小隊",
                 "Cn": "RABBIT小队"
             },
             "PandemoniumSociety": {
                 "ScenarioKey": 3888645239,
-                "En": "Pandemonium Society",
-                "Tw": "萬魔殿學會",
-                "Cn": "万魔殿学会",
-                "Th": "แพนเดโมเนียมโซไซตี้"
+                "Cn": "万魔殿学会"
             },
             "AriusSqud": {
                 "ScenarioKey": 1856328608,
-                "Cn": "阿里乌斯小队",
-                "Th": "กองกำลังอาเรียส"
+                "Cn": "阿里乌斯小队"
             },
             "EmptyClub": {
                 "ScenarioKey": 3385575796,
@@ -389,28 +317,23 @@
         "BossFaction": {
             "Decagrammaton": {
                 "CodeKey": 588766398,
-                "Cn": "十字神",
-                "Th": "เดคาแกรมมาทอน"
+                "Cn": "十字神"
             },
             "Slumpia": {
                 "CodeKey": 3971535573,
-                "Cn": "史林皮亚",
-                "Th": "สลัมเพีย"
+                "Cn": "史林皮亚"
             },
             "CommunioSanctorum": {
                 "CodeKey": 3393945124,
-                "Cn": "Communio Sanctorum",
-                "Th": "สหพันธ์นักบุญ"
+                "Cn": "Communio Sanctorum"
             },
             "Kaitenger": {
                 "EtcKey": 4241806907,
-                "Cn": "凯坦泽",
-                "Th": "ไคเทนเจอร์"
+                "Cn": "凯坦泽"
             },
             "TheLibraryofLore": {
                 "CodeKey": 2285706243,
-                "Cn": "The Library of Lore",
-                "Th": "ห้องสมุดอนันต์แห่งเรื่องลึกลับ"
+                "Cn": "The Library of Lore"
             }
         },
         "Stat": {
@@ -608,8 +531,7 @@
         "FurnitureSet": {
             "100": {
                 "EtcKey": 2633292506,
-                "Cn": "Momo好友咖啡厅组合",
-                "Th": "คาเฟ่ Momo Friends"
+                "Cn": "Momo好友咖啡厅组合"
             },
             "101": {
                 "EtcKey": 2130797913,
@@ -637,8 +559,6 @@
             },
             "107": {
                 "EtcKey": 660700768,
-                "En": "Military Campground Set",
-                "Tw": "軍事戶外組合",
                 "Cn": "军事户外组合"
             },
             "108": {
@@ -1019,8 +939,6 @@
             },
             "WorldRaid": {
                 "PrefabKey": 1074806608,
-                "En": "Combined Operations",
-                "Tw": "聯合作戰",
                 "Cn": "联合作战"
             },
             "ChaserA": {
@@ -1449,7 +1367,7 @@
             },
             "Buff_EnhanceMysticRate": {
                 "En": "Mystic Effectiveness",
-                "Jp": "貫通特効",
+                "Jp": "神秘特効",
                 "Kr": "신비 특효",
                 "Th": "ประสิทธิภาพความเสียหายลึกลับ",
                 "Tw": "神秘傷害加成",
@@ -1480,7 +1398,7 @@
                 "Cn": "群控状态持续力"
             },
             "Buff_HealByHit_Damaged": {
-                "En": "Counter Heal",
+                "En": "Heal When Hit",
                 "Jp": "回復をする効果",
                 "Kr": "피격 시 치유력의",
                 "Th": "ฟื้นฟูความเสียหาย",
@@ -1727,7 +1645,7 @@
             },
             "Debuff_EnhanceMysticRate": {
                 "En": "Mystic Effectiveness",
-                "Jp": "貫通特効",
+                "Jp": "神秘特効",
                 "Kr": "신비 특효",
                 "Th": "ประสิทธิภาพความเสียหายลึกลับ",
                 "Tw": "神秘傷害",
@@ -2110,7 +2028,7 @@
                 "Cn": null
             },
             "Buff_HealByHit_Damaged": {
-                "En": "Counter Heal",
+                "En": "Heal When Hit",
                 "Th": "ฟื้นฟูเมื่อได้รับความเสียหาย",
                 "Tw": "擊中恢復",
                 "Cn": "击中回复"

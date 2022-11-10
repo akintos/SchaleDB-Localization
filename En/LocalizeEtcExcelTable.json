@@ -974,13 +974,25 @@
             "Key": 2045771535,
             "Force": true,
             "NameEn": "Remove Ally Buffs",
-            "DescriptionEn": "All allies' buffs will be removed every 1s. (Enhanced Skill effects, Special Students' Sub Skill effects and other buffs that cannot be normally removed are unaffected)"
+            "DescriptionEn": "Buff effects on allies will be immediately removed as soon as they are applied. (Enhanced Skill effects, Special Students' Sub Skill effects and other buffs that cannot be normally removed are unaffected)"
         },
         {
             "Key": 1582447562,
             "Force": true,
             "NameEn": "Increased Enemy Defense Piercing",
             "DescriptionEn": "All enemies' <b:Penetration> is increased by <b>2,000</b>."
+        },
+        {
+            "Key": 4033973365,
+            "Force": true,
+            "NameEn": "Increased T.S./AR Ally Attack",
+            "DescriptionEn": "Increases <b:ATK> for all T.S. students and students who use AR type weapons by ??%. (Effect is only applied once)"
+        },
+        {
+            "Key": 3951708717,
+            "Force": true,
+            "NameEn": "EX Skill Invulnerability",
+            "DescriptionEn": "Enemies will take no damage from EX Skills."
         }
     ]
 }

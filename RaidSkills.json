@@ -405,7 +405,7 @@
         },
         {
             "Id": "HieronymusEx02",
-            "DescriptionEn": "Inflicts <d:Hieronymus> on one enemy for 10s, continuously dealing 20% damage over time. After 10s, the target will explode dealing 325% damage in a circular area around them. If the target is healed to 100% HP, the curse will be removed.<?1>",
+            "DescriptionEn": "Inflicts <d:Hieronymus> on one enemy for 10s, continuously dealing 20% damage to them every 1s. After 10s, the target will explode dealing 325% damage in a circular area around them. If the target is healed to 100% HP, the curse will be removed.<?1>",
             "ParametersEn": [
                 [
                     "",
@@ -547,7 +547,7 @@
         },
         {
             "Id": "HieronymusPassive01",
-            "DescriptionEn": "When a relic is healed to 100% HP, it loses 95% of its HP while decreasing own <d:HealEffectiveness> by 50% for 20s and activates one of the following effects depending on the relic:\n<b>Green Relic</b>: Increases Hieronymus's <d:DamagedRatio> by 55% until the end of battle. Effect can stack up to 5 times.<?1>",
+            "DescriptionEn": "When a relic is healed to 100% HP, it loses 95% of its HP while decreasing its <d:HealEffectiveness> by 50% for 20s and activates one of the following effects depending on the relic:\n<b>Green Relic</b>: Increases Hieronymus's <d:DamagedRatio> by 55% until the end of battle. Effect can stack up to 5 times.<?1>",
             "ParametersEn": [
                 [
                     "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, increases Hieronymus's groggy gauge significantly and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
@@ -619,7 +619,7 @@
             "Id": "HieronymusInsanePassive02",
             "NameEn": "Unholy Light (Relic)",
             "NameTh": "แสงชั่วร้าย (เรลิก)",
-            "DescriptionEn": "When the purple relic's HP reaches 0%, increases the <b:ATK> of all students by <b>25%</b> but decreases their <d:HealEffectiveness> by <b>7,000</b> and decreases Hieronymus's <d:DEF> by <b>1,500</b>.\nDuring this effect, students under the effect of <d:Hieronymus> have their <b:HealEffectiveness> increased by a further <b>4,000</b> for 10s.\nThe purple relic cannot be targeted by normal attacks or basic skills.",
+            "DescriptionEn": "When the violet relic's HP reaches 0%, increases the <b:ATK> of all students by <b>25%</b> but decreases their <d:HealEffectiveness> by <b>7,000</b>. Also decreases Hieronymus's <d:DEF> by <b>1,500</b>.\nFollowing this, students inflicted with <d:Hieronymus> will have their <b:HealEffectiveness> increased by a further <b>4,000</b> for 10s.\nThe violet relic cannot be targeted by normal attacks or basic skills.",
             "DescriptionJp": "聖遺物のHPが0%になるとスキル発動。\n紫色の聖遺物の場合、全てのストライカー、スペシャル生徒の<b:ATK>を25%増加し\n<d:HealEffectiveness>を7000減少。\nさらにヒエロニムスの<d:DEF>を1500減少。\n発動後、<d:Hieronymus>になった生徒の<b:HealEffectiveness>を4000増加（10秒間）\n（紫色の聖遺物は通常攻撃、ノーマルスキルのターゲットになりません）",
             "DescriptionKr": "성유물 체력이 0% 가 되면 스킬 발동\n자색 성유물: 모든 스트라이커, 스페셜 학생의 <b:ATK>이 25% 증가하고\n<d:HealEffectiveness>이 7000 만큼 감소한다.\n추가로 예로니무스의 <d:DEF>이 1500 만큼 감소한다.\n이후 <d:Hieronymus>를 받는 아군의 <b:HealEffectiveness>이 4000 만큼 증가한다. (10초간)\n(자색 성유물은 일반 공격, 기본 스킬의 타겟이 되지 않습니다.)",
             "DescriptionTh": "เมื่อ HP ของเรลิกม่วงเหลือ 0% เพิ่ม<b:ATK> ของฝ่ายเรา <b>25%</b>\nลด<d:HealEffectiveness> 7000\nลด<d:DEF>ของไฮโรนีมัสลง 1500\nเป้าหมายที่มี<d:Hieronymus> จะได้รับ<b:HealEffectiveness> เพิ่ม 4000 (เป็นเวลา 10 วินาที)\nเรลิกม่วงจะไม่ถูกเล็งโดยการโจมตีปกติและสกิลพื้นฐาน",
@@ -1052,7 +1052,7 @@
             "Id": "HODPassive01",
             "NameEn": "Hidden Glory",
             "NameTh": "เบื้องหลังแห่งเกียรติยศ",
-            "DescriptionEn": "Hod and all summoned Erosion Towers are immune to the effects of Crowd Control. However, Crowd Control abilities will fill their circular <b>CC gauge</b> proportional to the duration of the effect that would be inflicted.<?2>\nOnce the CC gauge reaches a total equivalent to <?1> of Crowd Control duration, inflicts the following effects:\n<b>Hod</b>: Increases <d:DamagedRatio> by 300% for 30s and decrease Hod's ATG gauge.\n<b>Erosion Tower</b>: Increases <d:DamagedRatio> by 300% for 30s and reduce the tower's area of effect by 1 stage.",
+            "DescriptionEn": "Hod and all summoned Erosion Towers are immune to the effects of Crowd Control. However, Crowd Control abilities will fill their circular <b>CC gauge</b> proportional to the duration of the effect that would've been inflicted.<?2>\nOnce the CC gauge reaches a total equivalent to <?1> of Crowd Control duration, inflicts the following effects:\n<b>Hod</b>: Increases <d:DamagedRatio> by 300% for 30s and decrease Hod's ATG gauge.\n<b>Erosion Tower</b>: Increases <d:DamagedRatio> by 300% for 30s and reduce the tower's area of effect by 1 stage.",
             "ParametersEn": [
                 [
                     "6s",
@@ -1211,7 +1211,7 @@
         {
             "Id": "GozEx03",
             "NameEn": "Magical Coin Hats",
-            "DescriptionEn": "Goz shuffles hats with coins hidden inside them. After the hats have been shuffled, enemies in a straight line from the hats without coins in them will be dealt 800% damage, knocked back and inflicted with <c:Stunned> for 5s.",
+            "DescriptionEn": "Goz shuffles three hats with coins hidden inside two of them. After the hats have been shuffled, enemies in a straight line from the hat without a coin in it will be dealt 800% damage, knocked back and inflicted with <c:Stunned> for 5s.",
             "DescriptionJp": "帽子を出してコインを隠した後にシャッフルします。コインがないエリアは次の効果が適用されます。/\nノックバック、<c:Stunned>を付与（5秒間）、攻撃力の800%分のダメージ",
             "DescriptionKr": "모자를 꺼내 코인을 감춘 뒤 섞습니다. 코인이 없는 지역은 다음 효과가 적용됩니다./\n넉백, <c:Stunned>(5초간), 공격력 800% 대미지",
             "NameTh": "เมจิคัล คอยน์ แฮ็ท",
@@ -1235,7 +1235,7 @@
         {
             "Id": "GozEx05",
             "NameEn": "Scream Rider",
-            "DescriptionEn": "The Scream Rider will periodically appear, dealing 1200% damage to any enemies in its path <?1>and summoning Slumpian automaton soldiers at its location.",
+            "DescriptionEn": "The Scream Rider will periodically appear, dealing 1200% damage to enemies in its path while knocking back<?1> enemies in the area nearby and summoning Slumpian automaton soldiers at the location where it travels through.",
             "ParametersEn": [
                 [
                     "",
@@ -1243,7 +1243,7 @@
                     "",
                     "",
                     "",
-                    "and 600% damage to nearby enemies "
+                    " and dealing 600% damage to"
                 ]
             ],
             "DescriptionJp": "一定時間毎に、スクリームライダーが登場し直線範囲内の敵に対して、攻撃力の1200%分のダメージ/<?1>\nスクリームライダーが通り過ぎた場所にスランピアの兵士を召喚",
