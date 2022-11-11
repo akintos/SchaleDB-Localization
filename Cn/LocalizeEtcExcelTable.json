@@ -6906,6 +6906,10 @@
             "NameCn": "戈兹"
         },
         {
+            "Key": 2719533391,
+            "NameCn": "戈兹"
+        },
+        {
             "Key": 990306261,
             "Force": true,
             "NameCn": "考试地形(野外)",
@@ -6969,7 +6973,7 @@
             "Key": 648270201,
             "Force": true,
             "NameCn": "我方SR学生攻击力下降",
-            "DescriptionCn": "我方使用SR类型武器学生攻击力下降<d:ATK>90%。"
+            "DescriptionCn": "我方使用SR类型武器学生<d:ATK>下降90%。"
         },
         {
             "Key": 2856565282,
@@ -6993,13 +6997,13 @@
             "Key": 3009801818,
             "Force": true,
             "NameCn": "我方MT/AR学生攻击力下降",
-            "DescriptionCn": "我方使用MT/AR类型武器学生攻击力下降<d:ATK>90%。"
+            "DescriptionCn": "我方使用MT/AR类型武器学生<d:ATK>下降90%。"
         },
         {
             "Key": 2490399639,
             "Force": true,
-            "NameCn": "Additional Damage when inflicting CC",
-            "DescriptionCn": "Enemies have <b>100,000</b> increased <b:MAXHP>. Enemies receive an additional <b>120,000</b> damage whenever they are inflicted with a Crowd Control effect."
+            "NameCn": "群控效果攻击额外伤害",
+            "DescriptionCn": "敌人<b:MAXHP>提升<b>100,000</b>。每当敌人受到群控效果打击时会受到额外的<b>120,000</b>伤害。"
         },
         {
             "Key": 719379007,
@@ -7016,38 +7020,38 @@
         {
             "Key": 3091509634,
             "Force": true,
-            "NameCn": "The Elite Few",
-            "DescriptionCn": "Increases all allies' <b:ATK> by 300%/150%/100%/50% and <b:CostRegen> by <b>3,500/2,450/1,400/1,050</b> if there are only <b>1/2/3/4</b> students in the unit."
+            "NameCn": "少数的精英",
+            "DescriptionCn": "当队内仅剩<b>1/2/3/4</b>名学生时，提升我方学生300%/150%/100%/50%<b:ATK>与<b>3,500/2,450/1,400/1,050</b><b:CostRegen>。"
         },
         {
             "Key": 3334829467,
             "Force": true,
-            "NameCn": "Enemy Continuous Healing",
-            "DescriptionCn": "All enemies restore 1.5% of their Max HP every 1s."
+            "NameCn": "敌方持续自愈",
+            "DescriptionCn": "全体敌人每秒恢复1.5%最大体力。"
         },
         {
             "Key": 3839125090,
             "Force": true,
-            "NameCn": "Enemy Incoming DMG Limit",
-            "DescriptionCn": "All enemies have greatly decreased Max HP, but also have an <b:DamagedLimit> that reduces the damage received from ally attacks to a maximum of <b>1</b>."
+            "NameCn": "对敌伤害上限",
+            "DescriptionCn": "全体敌人最大体力减少，但是有<b:DamagedLimit>效果，降低我方攻击造成的伤害至最高<b>1</b>。"
         },
         {
             "Key": 89307624,
             "Force": true,
-            "NameCn": "AR/HG Additional Damage",
-            "DescriptionCn": "Allies who use AR or HG type weapons will deal damage as an additional hit to enemies."
+            "NameCn": "AR/HG 额外伤害",
+            "DescriptionCn": "我方使用AR/HG类型武器学生对敌人额外的打击造成伤害。"
         },
         {
             "Key": 2045771535,
             "Force": true,
-            "NameCn": "Remove Ally Buffs",
-            "DescriptionCn": "All allies' buffs will be removed every 1s. (Enhanced Skill effects, Special Students' Sub Skill effects and other buffs that cannot be normally removed are unaffected)"
+            "NameCn": "移除友方加成",
+            "DescriptionCn": "每秒移除我方学生的加成。（增强技能效果、特殊学生的子技能与其它无法被正常移除的加成不受影响）"
         },
         {
             "Key": 1582447562,
             "Force": true,
-            "NameCn": "Increased Enemy Defense Piercing",
-            "DescriptionCn": "All enemies' <b:Penetration> is increased by <b>2,000</b>."
+            "NameCn": "敌方防御贯穿提升",
+            "DescriptionCn": "全体敌人<b:Penetration>提升<b>2,000</b>。"
         },
         {
             "Key": 2497649042,
