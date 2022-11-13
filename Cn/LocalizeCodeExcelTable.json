@@ -682,82 +682,82 @@
         },
         {
             "Key": 3106664702,
-            "Cn": null,
+            "Cn": "D.U.迷途西部",
             "Comment": "Campaign 18-1 Normal"
         },
         {
             "Key": 1576649077,
-            "Cn": null,
+            "Cn": "D.U.迷途十字路口",
             "Comment": "Campaign 18-2 Normal"
         },
         {
             "Key": 32554047,
-            "Cn": null,
+            "Cn": "被丢弃的开发地区",
             "Comment": "Campaign 18-3 Normal"
         },
         {
             "Key": 3375265651,
-            "Cn": null,
+            "Cn": "D.U.迷途东部",
             "Comment": "Campaign 18-4 Normal"
         },
         {
             "Key": 205151099,
-            "Cn": null,
+            "Cn": "（旧）56号商业区",
             "Comment": "Campaign 18-5 Normal"
         },
         {
             "Key": 394021502,
-            "Cn": null,
+            "Cn": "失落高速公路1区",
             "Comment": "Campaign 18-1 Hard"
         },
         {
             "Key": 1986280806,
-            "Cn": null,
+            "Cn": "失落高速公路2区",
             "Comment": "Campaign 18-2 Hard"
         },
         {
             "Key": 3067685631,
-            "Cn": null,
+            "Cn": "失落高速公路3区",
             "Comment": "Campaign 18-3 Hard"
         },
         {
             "Key": 1403690722,
-            "Cn": null,
+            "Cn": "雪国第1区",
             "Comment": "Campaign 19-1 Normal"
         },
         {
             "Key": 1548693340,
-            "Cn": null,
+            "Cn": "雪国干线铁路上行线",
             "Comment": "Campaign 19-2 Normal"
         },
         {
             "Key": 474872459,
-            "Cn": null,
+            "Cn": "雪国第2区",
             "Comment": "Campaign 19-3 Normal"
         },
         {
             "Key": 497154583,
-            "Cn": null,
+            "Cn": "北麓中央线",
             "Comment": "Campaign 19-4 Normal"
         },
         {
             "Key": 941545665,
-            "Cn": null,
+            "Cn": "雪国第3区",
             "Comment": "Campaign 19-5 Normal"
         },
         {
             "Key": 277214140,
-            "Cn": null,
+            "Cn": "新赫兹本线",
             "Comment": "Campaign 19-1 Hard"
         },
         {
             "Key": 1091014716,
-            "Cn": null,
+            "Cn": "日和山",
             "Comment": "Campaign 19-2 Hard"
         },
         {
             "Key": 3843190524,
-            "Cn": null,
+            "Cn": "野妙义里山",
             "Comment": "Campaign 19-3 Hard"
         },
         {
@@ -1417,172 +1417,172 @@
         },
         {
             "Key": 403734002,
-            "Cn": null,
+            "Cn": "三一大圣堂入口",
             "Comment": "Event 812-1 Quest"
         },
         {
             "Key": 2408895044,
-            "Cn": null,
+            "Cn": "礼拜堂入口",
             "Comment": "Event 812-2 Quest"
         },
         {
             "Key": 4023626677,
-            "Cn": null,
+            "Cn": "大教堂第一礼拜堂",
             "Comment": "Event 812-3 Quest"
         },
         {
             "Key": 4273407934,
-            "Cn": null,
+            "Cn": "大教堂第二礼拜堂",
             "Comment": "Event 812-4 Quest"
         },
         {
             "Key": 2656524513,
-            "Cn": null,
+            "Cn": "大教堂会议室",
             "Comment": "Event 812-5 Quest"
         },
         {
             "Key": 3787976617,
-            "Cn": null,
+            "Cn": "大教堂小讲堂",
             "Comment": "Event 812-6 Quest"
         },
         {
             "Key": 1844023991,
-            "Cn": null,
+            "Cn": "大教堂大讲堂",
             "Comment": "Event 812-7 Quest"
         },
         {
             "Key": 2438826981,
-            "Cn": null,
+            "Cn": "大教堂物品保管室",
             "Comment": "Event 812-8 Quest"
         },
         {
             "Key": 928235490,
-            "Cn": null,
+            "Cn": "大教堂忏悔室",
             "Comment": "Event 812-9 Quest"
         },
         {
             "Key": 3314167040,
-            "Cn": null,
+            "Cn": "大教堂修女休息室",
             "Comment": "Event 812-10 Quest"
         },
         {
             "Key": 29093243,
-            "Cn": null,
+            "Cn": "大教堂办公室",
             "Comment": "Event 812-11 Quest"
         },
         {
             "Key": 1600972202,
-            "Cn": null,
+            "Cn": "三一大圣堂出口",
             "Comment": "Event 812-12 Quest"
         },
         {
             "Key": 3546874558,
-            "Cn": null,
+            "Cn": "三一古教堂遗迹入口",
             "Comment": "Event 812-1 Challenge"
         },
         {
             "Key": 1356674000,
-            "Cn": null,
+            "Cn": "古教堂遗迹中央区",
             "Comment": "Event 812-2 Challenge"
         },
         {
             "Key": 1400743065,
-            "Cn": null,
+            "Cn": "古教堂遗迹礼拜室区",
             "Comment": "Event 812-3 Challenge"
         },
         {
             "Key": 2792172299,
-            "Cn": null,
+            "Cn": "古教堂大讲堂区",
             "Comment": "Event 812-4 Challenge"
         },
         {
             "Key": 253241911,
-            "Cn": null,
+            "Cn": "三一古教堂出口",
             "Comment": "Event 812-5 Challenge"
         },
         {
             "Key": 2025482854,
-            "Cn": null,
+            "Cn": "鱼板公演舞台前",
             "Comment": "Event 813-1 Quest"
         },
         {
             "Key": 2901059984,
-            "Cn": null,
+            "Cn": "鱼板公演舞台后方",
             "Comment": "Event 813-2 Quest"
         },
         {
             "Key": 3293107064,
-            "Cn": null,
+            "Cn": "时代剧第1次展示街",
             "Comment": "Event 813-3 Quest"
         },
         {
             "Key": 899632120,
-            "Cn": null,
+            "Cn": "时代剧第4次展示街",
             "Comment": "Event 813-4 Quest"
         },
         {
             "Key": 3391417199,
-            "Cn": null,
+            "Cn": "第2次甲虫皇后会场",
             "Comment": "Event 813-5 Quest"
         },
         {
             "Key": 1305907421,
-            "Cn": null,
+            "Cn": "漩涡路边摊街",
             "Comment": "Event 813-6 Quest"
         },
         {
             "Key": 83831020,
-            "Cn": null,
+            "Cn": "第3次甲虫皇后会场",
             "Comment": "Event 813-7 Quest"
         },
         {
             "Key": 423865505,
-            "Cn": null,
+            "Cn": "甲虫皇后大赛决胜关卡",
             "Comment": "Event 813-8 Quest"
         },
         {
             "Key": 2130283883,
-            "Cn": null,
+            "Cn": "漩涡纪念品店前",
             "Comment": "Event 813-9 Quest"
         },
         {
             "Key": 3547523642,
-            "Cn": null,
+            "Cn": "漩涡摄影工作室前",
             "Comment": "Event 813-10 Quest"
         },
         {
             "Key": 3961105500,
-            "Cn": null,
+            "Cn": "柴犬汪汪导演纪念馆",
             "Comment": "Event 813-11 Quest"
         },
         {
             "Key": 4152676632,
-            "Cn": null,
+            "Cn": "百鬼夜行学园宣传街",
             "Comment": "Event 813-12 Quest"
         },
         {
             "Key": 453513,
-            "Cn": null,
+            "Cn": "漩涡茶屋前庭",
             "Comment": "Event 813-1 Challenge"
         },
         {
             "Key": 2004596183,
-            "Cn": null,
+            "Cn": "漩涡摄影棚第1区域",
             "Comment": "Event 813-2 Challenge"
         },
         {
             "Key": 2869506335,
-            "Cn": null,
+            "Cn": "<和乐公主>舞台前",
             "Comment": "Event 813-3 Challenge"
         },
         {
             "Key": 2848081325,
-            "Cn": null,
+            "Cn": "漩涡摄影棚第7区域",
             "Comment": "Event 813-4 Challenge"
         },
         {
             "Key": 1950851073,
-            "Cn": null,
+            "Cn": "<和乐公主>舞台后方",
             "Comment": "Event 813-5 Challenge"
         },
         {
@@ -1879,6 +1879,11 @@
             "Key": 2223988532,
             "Cn": "十字神名是主张自己为神圣的求道者的人工智慧系统。目前追随十字神名的10名预言者正出没于基沃托斯各地。\n\n霍德原本是千年自治区通讯网临时架设的AI处理器，受到不明AI攻击后开始宣称自己是十字神名的第8预言者。\n如果这座集结千年技术精华的演算机关不停止暴走的话，千年自治区的安全将失去保障。",
             "Comment": "Raid - Hod Profile"
+        },
+        {
+            "Key": 2719533391,
+            "Cn": "戈兹",
+            "Comment": "Raid - Goz Name"
         }
     ]
 }
