@@ -427,6 +427,7 @@
             },
             "MoveSpeed": {
                 "CodeKey": 2720480260,
+                "En": "MOV SPD",
                 "Cn": "移速",
                 "Th": "ความเร็วเคลื่อนที่"
             },
@@ -468,6 +469,30 @@
                 "CodeKey": 3022657841,
                 "Cn": "视野",
                 "Th": "ระยะมองเห็น"
+            },
+            "EnhanceExplosionRate": {
+                "En": "Explosive Effectiveness",
+                "Jp": "爆発特効",
+                "Kr": "폭발 특효",
+                "Th": "ประสิทธิภาพความเสียหายระเบิด",
+                "Tw": "爆發傷害加成",
+                "Cn": "爆发伤害加成"
+            },
+            "EnhancePierceRate": {
+                "En": "Piercing Effectiveness",
+                "Jp": "貫通特効",
+                "Kr": "관통 특효",
+                "Th": "ประสิทธิภาพความเสียหายเจาะเกราะ",
+                "Tw": "貫穿傷害加成",
+                "Cn": "贯穿伤害加成"
+            },
+            "EnhanceMysticRate": {
+                "En": "Mystic Effectiveness",
+                "Jp": "神秘特効",
+                "Kr": "신비 특효",
+                "Th": "ประสิทธิภาพความเสียหายลึกลับ",
+                "Tw": "神秘傷害加成",
+                "Cn": "神秘伤害加成"
             },
             "ExtendBuffDuration": {
                 "En": "Buff Duration",
@@ -3266,6 +3291,30 @@
                 "Tw": "EX技能",
                 "Cn": "EX技能"
             },
+            "buff_transferable": {
+                "En": "Other Buffs",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "buff_transferable_search": {
+                "En": "Search for Student or Skill Name",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "buff_transferable_incompatible": {
+                "En": "Some of the selected buffs' effects conflict with each other. Only the first effect will be applied.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
             "student_skill_normal": {
                 "En": "Basic Skill",
                 "Jp": "ノーマルスキル",
@@ -3273,6 +3322,14 @@
                 "Th": "สกิลพื้นฐาน",
                 "Tw": "基本技能",
                 "Cn": "普通技能"
+            },
+            "student_skill_gearnormal": {
+                "En": "Basic Skill+",
+                "Jp": "ノーマルスキル+",
+                "Kr": "기본 스킬+",
+                "Th": "สกิลพื้นฐาน+",
+                "Tw": "基本技能+",
+                "Cn": "普通技能+"
             },
             "student_skill_passive": {
                 "En": "Enhanced Skill",
