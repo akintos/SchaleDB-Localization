@@ -761,6 +761,46 @@
             "Comment": "Campaign 19-3 Hard"
         },
         {
+            "Key": 562079057,
+            "Cn": null,
+            "Comment": "Campaign 20-1 Normal"
+        },
+        {
+            "Key": 1092346259,
+            "Cn": null,
+            "Comment": "Campaign 20-2 Normal"
+        },
+        {
+            "Key": 3997873897,
+            "Cn": null,
+            "Comment": "Campaign 20-3 Normal"
+        },
+        {
+            "Key": 3381534908,
+            "Cn": null,
+            "Comment": "Campaign 20-4 Normal"
+        },
+        {
+            "Key": 1004681246,
+            "Cn": null,
+            "Comment": "Campaign 20-5 Normal"
+        },
+        {
+            "Key": 1118628224,
+            "Cn": null,
+            "Comment": "Campaign 20-1 Hard"
+        },
+        {
+            "Key": 1130810961,
+            "Cn": null,
+            "Comment": "Campaign 20-2 Hard"
+        },
+        {
+            "Key": 3902036902,
+            "Cn": null,
+            "Comment": "Campaign 20-3 Hard"
+        },
+        {
             "Key": 808566295,
             "Cn": "樱花町第3番地",
             "Comment": "Event 801-1 Quest"
@@ -1756,6 +1796,176 @@
             "Comment": "Event 816-5 Challenge"
         },
         {
+            "Key": 1307664007,
+            "Cn": null,
+            "Comment": "Event 817-1 Quest"
+        },
+        {
+            "Key": 3919987443,
+            "Cn": null,
+            "Comment": "Event 817-2 Quest"
+        },
+        {
+            "Key": 352858056,
+            "Cn": null,
+            "Comment": "Event 817-3 Quest"
+        },
+        {
+            "Key": 1538765558,
+            "Cn": null,
+            "Comment": "Event 817-4 Quest"
+        },
+        {
+            "Key": 1473094770,
+            "Cn": null,
+            "Comment": "Event 817-5 Quest"
+        },
+        {
+            "Key": 2878330678,
+            "Cn": null,
+            "Comment": "Event 817-6 Quest"
+        },
+        {
+            "Key": 4246783224,
+            "Cn": null,
+            "Comment": "Event 817-7 Quest"
+        },
+        {
+            "Key": 3347420896,
+            "Cn": null,
+            "Comment": "Event 817-8 Quest"
+        },
+        {
+            "Key": 3740555210,
+            "Cn": null,
+            "Comment": "Event 817-9 Quest"
+        },
+        {
+            "Key": 270271376,
+            "Cn": null,
+            "Comment": "Event 817-10 Quest"
+        },
+        {
+            "Key": 3563192753,
+            "Cn": null,
+            "Comment": "Event 817-11 Quest"
+        },
+        {
+            "Key": 451520086,
+            "Cn": null,
+            "Comment": "Event 817-12 Quest"
+        },
+        {
+            "Key": 4191333886,
+            "Cn": null,
+            "Comment": "Event 817-1 Challenge"
+        },
+        {
+            "Key": 3907069315,
+            "Cn": null,
+            "Comment": "Event 817-2 Challenge"
+        },
+        {
+            "Key": 2459106273,
+            "Cn": null,
+            "Comment": "Event 817-3 Challenge"
+        },
+        {
+            "Key": 2835222852,
+            "Cn": null,
+            "Comment": "Event 817-4 Challenge"
+        },
+        {
+            "Key": 1403973013,
+            "Cn": null,
+            "Comment": "Event 817-5 Challenge"
+        },
+        {
+            "Key": 2753412782,
+            "Cn": null,
+            "Comment": "Event 818-1 Quest"
+        },
+        {
+            "Key": 3717670372,
+            "Cn": null,
+            "Comment": "Event 818-2 Quest"
+        },
+        {
+            "Key": 2181080445,
+            "Cn": null,
+            "Comment": "Event 818-3 Quest"
+        },
+        {
+            "Key": 3099080211,
+            "Cn": null,
+            "Comment": "Event 818-4 Quest"
+        },
+        {
+            "Key": 872065122,
+            "Cn": null,
+            "Comment": "Event 818-5 Quest"
+        },
+        {
+            "Key": 4093128104,
+            "Cn": null,
+            "Comment": "Event 818-6 Quest"
+        },
+        {
+            "Key": 3380567018,
+            "Cn": null,
+            "Comment": "Event 818-7 Quest"
+        },
+        {
+            "Key": 3798597957,
+            "Cn": null,
+            "Comment": "Event 818-8 Quest"
+        },
+        {
+            "Key": 753015445,
+            "Cn": null,
+            "Comment": "Event 818-9 Quest"
+        },
+        {
+            "Key": 225676454,
+            "Cn": null,
+            "Comment": "Event 818-10 Quest"
+        },
+        {
+            "Key": 2271709301,
+            "Cn": null,
+            "Comment": "Event 818-11 Quest"
+        },
+        {
+            "Key": 4038462818,
+            "Cn": null,
+            "Comment": "Event 818-12 Quest"
+        },
+        {
+            "Key": 1929840698,
+            "Cn": null,
+            "Comment": "Event 818-1 Challenge"
+        },
+        {
+            "Key": 612617455,
+            "Cn": null,
+            "Comment": "Event 818-2 Challenge"
+        },
+        {
+            "Key": 2681985744,
+            "Cn": null,
+            "Comment": "Event 818-3 Challenge"
+        },
+        {
+            "Key": 466981324,
+            "Cn": null,
+            "Comment": "Event 818-4 Challenge"
+        },
+        {
+            "Key": 3910051617,
+            "Cn": null,
+            "Comment": "Event 818-5 Challenge"
+        },
+        {
             "Key": 3901590947,
             "Cn": "阿拜多斯废墟1区",
             "Comment": "Event 701-1 Quest"
@@ -1809,6 +2019,21 @@
             "Key": 310980935,
             "Cn": "被水淹没的废墟未确认区域",
             "Comment": "Event 701-1 Challenge"
+        },
+        {
+            "Key": 324647806,
+            "Cn": null,
+            "Comment": "Event 701-2 Challenge"
+        },
+        {
+            "Key": 3643751503,
+            "Cn": null,
+            "Comment": "Event 701-3 Challenge"
+        },
+        {
+            "Key": 3456757681,
+            "Cn": null,
+            "Comment": "Event 701-4 Challenge"
         },
         {
             "Key": 2364214295,
@@ -1884,6 +2109,11 @@
             "Key": 2719533391,
             "Cn": "戈兹",
             "Comment": "Raid - Goz Name"
+        },
+        {
+            "Key": 276060001,
+            "Cn": "以前から、財政難で廃業したアミューズパーク「スランピア」で未知の怪奇現象が起きているという報告されています。停止していたアミューズドールと各種アトラクションが真夜中に動き出し、人々を襲うという噂が、この報告を裏付けています。 \n\nアミューズドール・ゴズは、空虚に満ちた「スランピア」で一人だけのショーを続けています。その奇妙な笑顔の下に隠された本性は善か悪か。私たちがそれを推測するのは容易ではないでしょう。",
+            "Comment": "Raid - Goz Profile"
         }
     ]
 }

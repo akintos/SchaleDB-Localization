@@ -1,86 +1,6 @@
 {
     "DataList": [
         {
-            "Key": 3106664702,
-            "Th": "D.U.ロストハイウェイ西地区",
-            "Comment": "Campaign 18-1 Normal"
-        },
-        {
-            "Key": 1576649077,
-            "Th": "D.U.ロストハイウェイ交差点",
-            "Comment": "Campaign 18-2 Normal"
-        },
-        {
-            "Key": 32554047,
-            "Th": "捨てられた開発区域",
-            "Comment": "Campaign 18-3 Normal"
-        },
-        {
-            "Key": 3375265651,
-            "Th": "D.U.ロストハイウェイ東地区",
-            "Comment": "Campaign 18-4 Normal"
-        },
-        {
-            "Key": 205151099,
-            "Th": "旧第56業務地区",
-            "Comment": "Campaign 18-5 Normal"
-        },
-        {
-            "Key": 394021502,
-            "Th": "ロストハイウェイ第1区域",
-            "Comment": "Campaign 18-1 Hard"
-        },
-        {
-            "Key": 1986280806,
-            "Th": "ロストハイウェイ第2区域",
-            "Comment": "Campaign 18-2 Hard"
-        },
-        {
-            "Key": 3067685631,
-            "Th": "ロストハイウェイ第3区域",
-            "Comment": "Campaign 18-3 Hard"
-        },
-        {
-            "Key": 1403690722,
-            "Th": "雪原地区第1エリア",
-            "Comment": "Campaign 19-1 Normal"
-        },
-        {
-            "Key": 1548693340,
-            "Th": "雪原鉄道・上り",
-            "Comment": "Campaign 19-2 Normal"
-        },
-        {
-            "Key": 474872459,
-            "Th": "雪原地区第2エリア",
-            "Comment": "Campaign 19-3 Normal"
-        },
-        {
-            "Key": 497154583,
-            "Th": "北麓中央線",
-            "Comment": "Campaign 19-4 Normal"
-        },
-        {
-            "Key": 941545665,
-            "Th": "雪原地区第3エリア",
-            "Comment": "Campaign 19-5 Normal"
-        },
-        {
-            "Key": 277214140,
-            "Th": "新雪本線",
-            "Comment": "Campaign 19-1 Hard"
-        },
-        {
-            "Key": 1091014716,
-            "Th": "陽依山",
-            "Comment": "Campaign 19-2 Hard"
-        },
-        {
-            "Key": 3843190524,
-            "Th": "明霧山",
-            "Comment": "Campaign 19-3 Hard"
-        },
-        {
             "Key": 562079057,
             "Th": "シャインタウン3階・廊下",
             "Comment": "Campaign 20-1 Normal"
@@ -119,91 +39,6 @@
             "Key": 3902036902,
             "Th": "シャインタウン1階・回廊",
             "Comment": "Campaign 20-3 Hard"
-        },
-        {
-            "Key": 2025482854,
-            "Th": "舞台「THE・カマボコ」正面口",
-            "Comment": "Event 813-1 Quest"
-        },
-        {
-            "Key": 2901059984,
-            "Th": "舞台「THE・カマボコ」裏手口",
-            "Comment": "Event 813-2 Quest"
-        },
-        {
-            "Key": 3293107064,
-            "Th": "時代劇展示通り・其の壱",
-            "Comment": "Event 813-3 Quest"
-        },
-        {
-            "Key": 899632120,
-            "Th": "時代劇展示通り・其の肆",
-            "Comment": "Event 813-4 Quest"
-        },
-        {
-            "Key": 3391417199,
-            "Th": "ムシクイーン大会第2会場",
-            "Comment": "Event 813-5 Quest"
-        },
-        {
-            "Key": 1305907421,
-            "Th": "渦巻映画村・屋台通り",
-            "Comment": "Event 813-6 Quest"
-        },
-        {
-            "Key": 83831020,
-            "Th": "ムシクイーン大会第3会場",
-            "Comment": "Event 813-7 Quest"
-        },
-        {
-            "Key": 423865505,
-            "Th": "ムシクイーン大会決勝ステージ",
-            "Comment": "Event 813-8 Quest"
-        },
-        {
-            "Key": 2130283883,
-            "Th": "渦巻映画村・お土産売り場前",
-            "Comment": "Event 813-9 Quest"
-        },
-        {
-            "Key": 3547523642,
-            "Th": "渦巻映画村・撮影所前",
-            "Comment": "Event 813-10 Quest"
-        },
-        {
-            "Key": 3961105500,
-            "Th": "「柴犬ワン蔵」監督記念館",
-            "Comment": "Event 813-11 Quest"
-        },
-        {
-            "Key": 4152676632,
-            "Th": "百鬼夜行連合学院・チラシ通り",
-            "Comment": "Event 813-12 Quest"
-        },
-        {
-            "Key": 453513,
-            "Th": "茶屋「渦巻」前庭",
-            "Comment": "Event 813-1 Challenge"
-        },
-        {
-            "Key": 2004596183,
-            "Th": "渦巻映画村・第1撮影所",
-            "Comment": "Event 813-2 Challenge"
-        },
-        {
-            "Key": 2869506335,
-            "Th": "舞台「和楽姫」正面口",
-            "Comment": "Event 813-3 Challenge"
-        },
-        {
-            "Key": 2848081325,
-            "Th": "渦巻映画村・第7撮影所",
-            "Comment": "Event 813-4 Challenge"
-        },
-        {
-            "Key": 1950851073,
-            "Th": "舞台「和楽姫」舞台裏",
-            "Comment": "Event 813-5 Challenge"
         },
         {
             "Key": 68779473,
@@ -546,23 +381,34 @@
             "Comment": "Event 818-5 Challenge"
         },
         {
-            "Key": 686853734,
-            "Th": "水没した廃墟第1区域",
-            "Comment": "Event 701-9 Quest"
-        },
-        {
-            "Key": 1941427758,
-            "Th": "水没した廃墟第2区域",
-            "Comment": "Event 701-10 Quest"
-        },
-        {
             "Key": 310980935,
             "Th": "廃墟水没地区未確認区域",
             "Comment": "Event 701-1 Challenge"
         },
         {
+            "Key": 324647806,
+            "Th": "廃墟水没地区閉鎖区域A",
+            "Comment": "Event 701-2 Challenge"
+        },
+        {
+            "Key": 3643751503,
+            "Th": "廃墟水没地区閉鎖区域B",
+            "Comment": "Event 701-3 Challenge"
+        },
+        {
+            "Key": 3456757681,
+            "Th": "廃墟水没地区中心部",
+            "Comment": "Event 701-4 Challenge"
+        },
+        {
             "Key": 2719533391,
-            "Th": "Goz"
+            "Th": "Goz",
+            "Comment": "Raid - Goz Name"
+        },
+        {
+            "Key": 276060001,
+            "Th": "以前から、財政難で廃業したアミューズパーク「スランピア」で未知の怪奇現象が起きているという報告されています。停止していたアミューズドールと各種アトラクションが真夜中に動き出し、人々を襲うという噂が、この報告を裏付けています。 \n\nアミューズドール・ゴズは、空虚に満ちた「スランピア」で一人だけのショーを続けています。その奇妙な笑顔の下に隠された本性は善か悪か。私たちがそれを推測するのは容易ではないでしょう。",
+            "Comment": "Raid - Goz Profile"
         }
     ]
 }
