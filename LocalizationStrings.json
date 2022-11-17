@@ -584,7 +584,7 @@
             },
             "107": {
                 "EtcKey": 660700768,
-                "Cn": "军事户外组合"
+                "Cn": "军事露营区组合"
             },
             "108": {
                 "EtcKey": 1334657209,
@@ -2824,32 +2824,40 @@
         },
         "ShopCategory": {
             "General": {
-                "PrefabKey": 89804659
+                "PrefabKey": 89804659,
+                "Cn": "一般"
             },
             "Raid": {
-                "PrefabKey": 3170356115
+                "PrefabKey": 3170356115,
+                "Cn": "总力战"
             },
             "SecretStone": {
                 "PrefabKey": 639380687,
-                "En": "Eligma I"
+                "En": "Eligma I",
+                "Cn": "神明文字碎片I"
             },
             "SecretStoneGrowth": {
                 "PrefabKey": 176151650,
-                "En": "Eligma II"
+                "En": "Eligma II",
+                "Cn": "神明文字碎片II"
             },
             "Arena": {
-                "PrefabKey": 2999589380
+                "PrefabKey": 2999589380,
+                "Cn": "战术大赛"
             },
             "TimeAttack": {
-                "PrefabKey": 685405644
+                "PrefabKey": 685405644,
+                "Cn": "综合战术考试"
             },
             "MasterCoin": {
-                "PrefabKey": 2655871184
+                "PrefabKey": 2655871184,
+                "Cn": "精通证书"
             },
             "Chaser": {
                 "CodeKey": 1889255299,
                 "En": "Bounty Shop",
-                "Th": "ประกาศจับ"
+                "Th": "ประกาศจับ",
+                "Cn": "Bounty Shop"
             }
         },
         "ui": {
@@ -2906,8 +2914,8 @@
                 "Jp": "ジェネレート",
                 "Kr": "물질 생성",
                 "Th": "สร้างวัตถุ",
-                "Tw": "生成物質",
-                "Cn": "生成物質"
+                "Tw": "製造物質",
+                "Cn": "制造物质"
             },
             "fusion": {
                 "En": "Fusion",
@@ -2915,7 +2923,7 @@
                 "Kr": "물질 합성",
                 "Th": "รวมวัตถุ",
                 "Tw": "合成物質",
-                "Cn": "合成物質"
+                "Cn": "合成物质"
             },
             "shops": {
                 "En": "Shops",
@@ -3946,7 +3954,8 @@
                 "Cn": "可能道具"
             },
             "craft_fusion": {
-                "PrefabKey": 3802562445
+                "PrefabKey": 3802562445,
+                "Cn": "合成物质"
             },
             "craft_recipe_items": {
                 "En": "Required Items",
@@ -4405,16 +4414,16 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "พื้นสวิทช์ลดระดับ",
-                "Tw": "降低的切換方格",
-                "Cn": "降低的切换方格"
+                "Tw": "降低的交換方格",
+                "Cn": "降低的交换方格"
             },
             "maptile_switch_up": {
                 "En": "Raised Switch Tile",
                 "Jp": null,
                 "Kr": null,
                 "Th": "พื้นสวิทช์ยกระดับ",
-                "Tw": "升高的切換方格",
-                "Cn": "升高的切换方格"
+                "Tw": "升高的交換方格",
+                "Cn": "升高的交换方格"
             },
             "maptile_switch_target_down": {
                 "En": "Lowered Tile",
