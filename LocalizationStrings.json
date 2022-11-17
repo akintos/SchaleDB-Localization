@@ -903,6 +903,7 @@
             "814": {
                 "ScenarioKey": 784454923,
                 "En": "Abydos Resort Restoration Task Force",
+                "Th": "คณะกรรมการแผนงานฟื้นฟูอบิดอส รีสอร์ต",
                 "Cn": "阿拜多斯避暑复旧对策委员会"
             },
             "815": {
@@ -3295,7 +3296,7 @@
                 "En": "Other Buffs",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "บัพอื่นๆ",
                 "Tw": null,
                 "Cn": null
             },
@@ -3303,7 +3304,7 @@
                 "En": "Search for Student or Skill Name",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ค้นหาชื่อนักเรียนหรือชื่อสกิล",
                 "Tw": null,
                 "Cn": null
             },
@@ -3311,7 +3312,7 @@
                 "En": "Some of the selected buffs' effects conflict with each other. Only the first effect will be applied.",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เอฟเฟกต์บัพที่เลือกมีบางบัพที่ไม่สามารถใช้ร่วมกันได้ จะมีเพียงเอฟเฟกต์อันแรกเท่านั้นที่ส่งผล",
                 "Tw": null,
                 "Cn": null
             },
