@@ -1293,7 +1293,7 @@
                 "Jp": "スキルコスト",
                 "Kr": "Ex 스킬 코스트",
                 "Th": "ค่าใช้สกิล EX",
-                "Tw": "EX 技能費用",
+                "Tw": "Ex技能COST",
                 "Cn": "EX 技能费用"
             },
             "Buff_CostRegen": {
@@ -1429,7 +1429,7 @@
                 "Jp": "回復をする効果",
                 "Kr": "피격 시 치유력의",
                 "Th": "ฟื้นฟูความเสียหาย",
-                "Tw": "擊中恢復",
+                "Tw": "受攻擊時，適用恢復",
                 "Cn": "击中回复"
             },
             "Buff_HealEffectiveness": {
@@ -1587,7 +1587,7 @@
                 "Jp": "スキルコスト",
                 "Kr": "Ex 스킬 코스트",
                 "Th": "ค่าใช้สกิล EX",
-                "Tw": "EX 技能費用",
+                "Tw": "Ex技能COST",
                 "Cn": "EX 技能费用"
             },
             "Debuff_CriticalChance": {
@@ -1627,7 +1627,7 @@
                 "Jp": "弱点把握状態",
                 "Kr": "약점 파악",
                 "Th": "โจมตีจุดอ่อน",
-                "Tw": "弱點打擊",
+                "Tw": "掌握弱點",
                 "Cn": "弱点打击"
             },
             "Debuff_DamagedRatio": {
@@ -1881,7 +1881,7 @@
                 "Jp": "間蓄積",
                 "Th": "สะสม",
                 "Kr": "축적한",
-                "Tw": "累積傷害",
+                "Tw": "傷害累積",
                 "Cn": "累积伤害"
             },
             "Special_CostRegenBan": {
@@ -2057,7 +2057,7 @@
             "Buff_HealByHit_Damaged": {
                 "En": "Heal When Hit",
                 "Th": "ฟื้นฟูเมื่อได้รับความเสียหาย",
-                "Tw": "擊中恢復",
+                "Tw": "受攻擊時，適用恢復",
                 "Cn": "击中回复"
             },
             "Buff_HealEffectiveness": {
@@ -2207,7 +2207,7 @@
             "Debuff_DamageByHit_Damaged": {
                 "En": "Weakness Detection",
                 "Th": "โจมตีจุดอ่อน",
-                "Tw": "弱點打擊",
+                "Tw": "掌握弱點",
                 "Cn": "弱点打击"
             },
             "Debuff_DamagedRatio": {
@@ -2403,7 +2403,7 @@
             "Special_Accumulation": {
                 "En": "DMG Accumulation",
                 "Th": "ความเสียหายสะสม",
-                "Tw": "累積傷害",
+                "Tw": "傷害累積",
                 "Cn": "累积伤害"
             },
             "Special_CostRegenBan": {

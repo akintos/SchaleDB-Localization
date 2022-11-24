@@ -1,0 +1,414 @@
+{
+    "DataList": [
+        {
+            "Key": 562079057,
+            "Tw": "シャインタウン3階・廊下",
+            "Comment": "Campaign 20-1 Normal"
+        },
+        {
+            "Key": 1092346259,
+            "Tw": "トリプルブルースポーツセンター",
+            "Comment": "Campaign 20-2 Normal"
+        },
+        {
+            "Key": 3997873897,
+            "Tw": "スクランブルシティ12階・廊下",
+            "Comment": "Campaign 20-3 Normal"
+        },
+        {
+            "Key": 3381534908,
+            "Tw": "微睡みのギムナジウム",
+            "Comment": "Campaign 20-4 Normal"
+        },
+        {
+            "Key": 1004681246,
+            "Tw": "コクーンビル32階・廊下",
+            "Comment": "Campaign 20-5 Normal"
+        },
+        {
+            "Key": 1118628224,
+            "Tw": "トリプルブルー第1総合運動区域",
+            "Comment": "Campaign 20-1 Hard"
+        },
+        {
+            "Key": 1130810961,
+            "Tw": "トリプルブルー第2総合運動区域",
+            "Comment": "Campaign 20-2 Hard"
+        },
+        {
+            "Key": 3902036902,
+            "Tw": "シャインタウン1階・回廊",
+            "Comment": "Campaign 20-3 Hard"
+        },
+        {
+            "Key": 68779473,
+            "Tw": "リゾート指定海水浴場入口",
+            "Comment": "Event 814-1 Quest"
+        },
+        {
+            "Key": 2231964632,
+            "Tw": "リゾート指定海水浴場",
+            "Comment": "Event 814-2 Quest"
+        },
+        {
+            "Key": 2499866369,
+            "Tw": "リゾート遊歩道入口",
+            "Comment": "Event 814-3 Quest"
+        },
+        {
+            "Key": 2089998472,
+            "Tw": "リゾート遊歩道",
+            "Comment": "Event 814-4 Quest"
+        },
+        {
+            "Key": 917400140,
+            "Tw": "シエスタ海岸入口",
+            "Comment": "Event 814-5 Quest"
+        },
+        {
+            "Key": 1380584522,
+            "Tw": "シエスタ海岸",
+            "Comment": "Event 814-6 Quest"
+        },
+        {
+            "Key": 1533999410,
+            "Tw": "鸚鵡滝入口",
+            "Comment": "Event 814-7 Quest"
+        },
+        {
+            "Key": 1925336460,
+            "Tw": "鸚鵡滝",
+            "Comment": "Event 814-8 Quest"
+        },
+        {
+            "Key": 751375685,
+            "Tw": "トワイライト海岸",
+            "Comment": "Event 814-9 Quest"
+        },
+        {
+            "Key": 2991838395,
+            "Tw": "トワイライト海水浴場",
+            "Comment": "Event 814-10 Quest"
+        },
+        {
+            "Key": 3870703814,
+            "Tw": "清流の橋入口",
+            "Comment": "Event 814-11 Quest"
+        },
+        {
+            "Key": 2058621940,
+            "Tw": "清流の橋",
+            "Comment": "Event 814-12 Quest"
+        },
+        {
+            "Key": 988440711,
+            "Tw": "放置された海岸",
+            "Comment": "Event 814-1 Challenge"
+        },
+        {
+            "Key": 2705191376,
+            "Tw": "朽ち果てた肝試しコース",
+            "Comment": "Event 814-2 Challenge"
+        },
+        {
+            "Key": 1481015930,
+            "Tw": "朽ち果てた肝試しコース出口",
+            "Comment": "Event 814-3 Challenge"
+        },
+        {
+            "Key": 310263153,
+            "Tw": "潮風海岸",
+            "Comment": "Event 814-4 Challenge"
+        },
+        {
+            "Key": 582221788,
+            "Tw": "潮風海岸出口",
+            "Comment": "Event 814-5 Challenge"
+        },
+        {
+            "Key": 1133804349,
+            "Tw": "7番のんびり道",
+            "Comment": "Event 816-1 Quest"
+        },
+        {
+            "Key": 2398875687,
+            "Tw": "7番のんびり道・裏側",
+            "Comment": "Event 816-2 Quest"
+        },
+        {
+            "Key": 3055007204,
+            "Tw": "トリニティ噴水公園裏",
+            "Comment": "Event 816-3 Quest"
+        },
+        {
+            "Key": 3913886111,
+            "Tw": "ドタバタ通り",
+            "Comment": "Event 816-4 Quest"
+        },
+        {
+            "Key": 3938642531,
+            "Tw": "サボり通り前",
+            "Comment": "Event 816-5 Quest"
+        },
+        {
+            "Key": 3312333594,
+            "Tw": "2-5番・薄暗い道",
+            "Comment": "Event 816-6 Quest"
+        },
+        {
+            "Key": 3619036392,
+            "Tw": "青空公園の裏",
+            "Comment": "Event 816-7 Quest"
+        },
+        {
+            "Key": 2723690330,
+            "Tw": "サボり通り",
+            "Comment": "Event 816-8 Quest"
+        },
+        {
+            "Key": 2864041294,
+            "Tw": "7番・市街地",
+            "Comment": "Event 816-9 Quest"
+        },
+        {
+            "Key": 4272272679,
+            "Tw": "2-1番・薄暗い道",
+            "Comment": "Event 816-10 Quest"
+        },
+        {
+            "Key": 1079043575,
+            "Tw": "青空公園前",
+            "Comment": "Event 816-11 Quest"
+        },
+        {
+            "Key": 2461798063,
+            "Tw": "荒涼通り・10路",
+            "Comment": "Event 816-12 Quest"
+        },
+        {
+            "Key": 893350295,
+            "Tw": "D.U.スラム街前",
+            "Comment": "Event 816-1 Challenge"
+        },
+        {
+            "Key": 1911865277,
+            "Tw": "D.U.スラム街一帯",
+            "Comment": "Event 816-2 Challenge"
+        },
+        {
+            "Key": 452711404,
+            "Tw": "スケバン占拠区の外れ",
+            "Comment": "Event 816-3 Challenge"
+        },
+        {
+            "Key": 3304242516,
+            "Tw": "スケバン占拠区",
+            "Comment": "Event 816-4 Challenge"
+        },
+        {
+            "Key": 3449953827,
+            "Tw": "D.U.廃車場裏側",
+            "Comment": "Event 816-5 Challenge"
+        },
+        {
+            "Key": 1307664007,
+            "Tw": "選手待機エリア",
+            "Comment": "Event 817-1 Quest"
+        },
+        {
+            "Key": 3919987443,
+            "Tw": "100m陸上トラック",
+            "Comment": "Event 817-2 Quest"
+        },
+        {
+            "Key": 352858056,
+            "Tw": "大玉ころがし専用トラック",
+            "Comment": "Event 817-3 Quest"
+        },
+        {
+            "Key": 1538765558,
+            "Tw": "100mハードルトラック",
+            "Comment": "Event 817-4 Quest"
+        },
+        {
+            "Key": 1473094770,
+            "Tw": "200m陸上トラック",
+            "Comment": "Event 817-5 Quest"
+        },
+        {
+            "Key": 2878330678,
+            "Tw": "1000mスタート地点",
+            "Comment": "Event 817-6 Quest"
+        },
+        {
+            "Key": 4246783224,
+            "Tw": "4x400mリレートラック",
+            "Comment": "Event 817-7 Quest"
+        },
+        {
+            "Key": 3347420896,
+            "Tw": "400m陸上トラック",
+            "Comment": "Event 817-8 Quest"
+        },
+        {
+            "Key": 3740555210,
+            "Tw": "バスケット部・クラブハウス",
+            "Comment": "Event 817-9 Quest"
+        },
+        {
+            "Key": 270271376,
+            "Tw": "更衣室エリア・後部通路",
+            "Comment": "Event 817-10 Quest"
+        },
+        {
+            "Key": 3563192753,
+            "Tw": "バレー部・クラブハウス",
+            "Comment": "Event 817-11 Quest"
+        },
+        {
+            "Key": 451520086,
+            "Tw": "体力認証センター前",
+            "Comment": "Event 817-12 Quest"
+        },
+        {
+            "Key": 4191333886,
+            "Tw": "長距離走専用トラック",
+            "Comment": "Event 817-1 Challenge"
+        },
+        {
+            "Key": 3907069315,
+            "Tw": "第2スポーツセンター",
+            "Comment": "Event 817-2 Challenge"
+        },
+        {
+            "Key": 2459106273,
+            "Tw": "第3スポーツセンター",
+            "Comment": "Event 817-3 Challenge"
+        },
+        {
+            "Key": 2835222852,
+            "Tw": "1500m陸上トラック",
+            "Comment": "Event 817-4 Challenge"
+        },
+        {
+            "Key": 1403973013,
+            "Tw": "強化選手訓練エリア",
+            "Comment": "Event 817-5 Challenge"
+        },
+        {
+            "Key": 2753412782,
+            "Tw": "ウォーミングアップトラック",
+            "Comment": "Event 818-1 Quest"
+        },
+        {
+            "Key": 3717670372,
+            "Tw": "電光板西エリア応援席",
+            "Comment": "Event 818-2 Quest"
+        },
+        {
+            "Key": 2181080445,
+            "Tw": "第1球技フィールド",
+            "Comment": "Event 818-3 Quest"
+        },
+        {
+            "Key": 3099080211,
+            "Tw": "第2球技フィールド",
+            "Comment": "Event 818-4 Quest"
+        },
+        {
+            "Key": 872065122,
+            "Tw": "晄輪大祭お土産ショップ",
+            "Comment": "Event 818-5 Quest"
+        },
+        {
+            "Key": 4093128104,
+            "Tw": "電光板東エリア応援席",
+            "Comment": "Event 818-6 Quest"
+        },
+        {
+            "Key": 3380567018,
+            "Tw": "「なまこソーダ飲み競争」特設ステージ",
+            "Comment": "Event 818-7 Quest"
+        },
+        {
+            "Key": 3798597957,
+            "Tw": "晄輪大祭装備整備室",
+            "Comment": "Event 818-8 Quest"
+        },
+        {
+            "Key": 753015445,
+            "Tw": "パン食い競争トラック",
+            "Comment": "Event 818-9 Quest"
+        },
+        {
+            "Key": 225676454,
+            "Tw": "晄輪大祭後夜祭舞台",
+            "Comment": "Event 818-10 Quest"
+        },
+        {
+            "Key": 2271709301,
+            "Tw": "スタジアム体育倉庫",
+            "Comment": "Event 818-11 Quest"
+        },
+        {
+            "Key": 4038462818,
+            "Tw": "スタジアム大型倉庫",
+            "Comment": "Event 818-12 Quest"
+        },
+        {
+            "Key": 1929840698,
+            "Tw": "2000m障害物競走トラック",
+            "Comment": "Event 818-1 Challenge"
+        },
+        {
+            "Key": 612617455,
+            "Tw": "選抜選手専用トラック",
+            "Comment": "Event 818-2 Challenge"
+        },
+        {
+            "Key": 2681985744,
+            "Tw": "アスレチックスタジアム関係者区域",
+            "Comment": "Event 818-3 Challenge"
+        },
+        {
+            "Key": 466981324,
+            "Tw": "3000m障害物競走トラック",
+            "Comment": "Event 818-4 Challenge"
+        },
+        {
+            "Key": 3910051617,
+            "Tw": "アスレチックスタジアムVIP区域",
+            "Comment": "Event 818-5 Challenge"
+        },
+        {
+            "Key": 310980935,
+            "Tw": "廃墟水没地区未確認区域",
+            "Comment": "Event 701-1 Challenge"
+        },
+        {
+            "Key": 324647806,
+            "Tw": "廃墟水没地区閉鎖区域A",
+            "Comment": "Event 701-2 Challenge"
+        },
+        {
+            "Key": 3643751503,
+            "Tw": "廃墟水没地区閉鎖区域B",
+            "Comment": "Event 701-3 Challenge"
+        },
+        {
+            "Key": 3456757681,
+            "Tw": "廃墟水没地区中心部",
+            "Comment": "Event 701-4 Challenge"
+        },
+        {
+            "Key": 2719533391,
+            "Tw": "ゴズ",
+            "Comment": "Raid - Goz Name"
+        },
+        {
+            "Key": 276060001,
+            "Tw": "以前から、財政難で廃業したアミューズパーク「スランピア」で未知の怪奇現象が起きているという報告されています。停止していたアミューズドールと各種アトラクションが真夜中に動き出し、人々を襲うという噂が、この報告を裏付けています。 \n\nアミューズドール・ゴズは、空虚に満ちた「スランピア」で一人だけのショーを続けています。その奇妙な笑顔の下に隠された本性は善か悪か。私たちがそれを推測するのは容易ではないでしょう。",
+            "Comment": "Raid - Goz Profile"
+        }
+    ]
+}
