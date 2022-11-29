@@ -896,8 +896,6 @@
             },
             "813": {
                 "ScenarioKey": 2477586931,
-                "En": "An Unconcealed Heart",
-                "Th": "หัวใจแห่งความอับโชค",
                 "Cn": "不忍之心"
             },
             "814": {
@@ -3021,6 +3019,22 @@
                 "Tw": "導入或導出你的學生集數據。",
                 "Cn": "导入或导出你的学生集数据。"
             },
+            "navbar_settings_custombuffs": {
+                "En": "Enable Custom Buffs",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "navbar_settings_custombuffs_description": {
+                "En": "(Experimental) Allows for setting custom buff values on student's stat display options screen.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
             "search": {
                 "En": "Search",
                 "Jp": "検索",
@@ -3165,7 +3179,7 @@
                 "Tw": "以下學生在本周迎來生日。",
                 "Cn": "以下学生在本周迎来生日。"
             },
-            "student_page_stats": {
+            "attributes": {
                 "En": "Attributes",
                 "Jp": "ステータス",
                 "Kr": "스탯 정보",
@@ -3173,7 +3187,7 @@
                 "Tw": "屬性資訊",
                 "Cn": "属性信息"
             },
-            "student_page_skills": {
+            "skills": {
                 "En": "Skills",
                 "Jp": "スキル",
                 "Kr": "스킬",
@@ -3181,7 +3195,7 @@
                 "Tw": "技能",
                 "Cn": "技能"
             },
-            "student_page_weapon": {
+            "ex_weapon": {
                 "En": "Weapon",
                 "Jp": "固有武器",
                 "Kr": "고유 무기",
@@ -3189,8 +3203,8 @@
                 "Tw": "固有武器",
                 "Cn": "固有武器"
             },
-            "student_page_gear": {
-                "En": "Fav. Item",
+            "ex_gear": {
+                "En": "Gear",
                 "Jp": "愛用品",
                 "Kr": "애용품",
                 "Th": "อุปกรณ์โปรด",
@@ -3293,13 +3307,13 @@
                 "Tw": "EX技能",
                 "Cn": "EX技能"
             },
-            "statpreview_summon_ex": {
-                "En": "Summon EX Skill",
-                "Jp": "EXスキル",
-                "Kr": "EX 스킬",
-                "Th": "สกิล EX",
-                "Tw": "EX技能",
-                "Cn": "EX技能"
+            "add_own": {
+                "En": "Add Own/Selected Specials",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             },
             "buff_transferable": {
                 "En": "Other Buffs",
@@ -3317,11 +3331,51 @@
                 "Tw": null,
                 "Cn": null
             },
-            "buff_transferable_incompatible": {
+            "buff_transferable_conflict": {
                 "En": "Some of the selected buffs' effects conflict with each other. Only the first effect will be applied.",
                 "Jp": null,
                 "Kr": null,
                 "Th": "เอฟเฟกต์บัพที่เลือกมีบางบัพที่ไม่สามารถใช้ร่วมกันได้ จะมีเพียงเอฟเฟกต์อันแรกเท่านั้นที่ส่งผล",
+                "Tw": null,
+                "Cn": null
+            },
+            "buff_transferable_incompatible": {
+                "En": "Some of the selected buffs cannot be applied to the current character.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "buff_custom": {
+                "En": "Custom Buffs",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "buff_custom_base": {
+                "En": "Add as base amount",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "buff_custom_coefficient": {
+                "En": "Add as percentage amount",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "supportstats_search": {
+                "En": "Search for Special Student",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
                 "Tw": null,
                 "Cn": null
             },
@@ -3374,7 +3428,7 @@
                 "Cn": "无需成长材料。"
             },
             "student_weapon_rank_2star_desc": {
-                "En": "Exclusive Weapon Max Level Lv.30 → <b>Lv.40</b> / Unlocks Enhanced Skill+",
+                "En": "Exclusive Weapon Max Level Lv.30 → <b>Lv.40</b> / Upgrades Enhanced Skill",
                 "Jp": "固有武器のMax Level Lv.30 → <b>Lv.40</b> / パッシブスキル+をアンロック",
                 "Kr": null,
                 "Th": "เลเวลสูงสุดของอาวุธเฉพาะ Lv.30 → <b>Lv.40</b> / อัปเกรดสกิลติดตัว+",
@@ -3382,7 +3436,7 @@
                 "Cn": "固有武器最大等级 Lv.30 → <b>Lv.40</b> / 解锁强化技能+"
             },
             "student_weapon_rank_3star_desc": {
-                "En": "Exclusive Weapon Max Level Lv.40 → <b>Lv.50</b> / Terrain Strength Enhancement",
+                "En": "Exclusive Weapon Max Level Lv.40 → <b>Lv.50</b> / Upgrades Terrain Strength",
                 "Jp": "固有武器のMax Level Lv.40 → <b>Lv.50</b> / 地形別戦闘力の強化",
                 "Kr": null,
                 "Th": "เลเวลสูงสุดของอาวุธเฉพาะ Lv.40 → <b>Lv.50</b> / อัปเกรดความคุ้นชินพื้นที่",
@@ -3549,7 +3603,7 @@
                 "Tw": "學生清單",
                 "Cn": "学生名单"
             },
-            "student_search_filters": {
+            "filters": {
                 "En": "Filters",
                 "Jp": "フィルター",
                 "Kr": "필터",
@@ -3733,11 +3787,27 @@
                 "Tw": "數據預覽選項",
                 "Cn": "数据预览选项"
             },
-            "summon_ex_bonus": {
-                "En": "{0} {1} <b>+{2}%</b> of {3}'s {1}",
-                "Jp": "{0}の{1} +{3}の{1}の<b>{2}%</b>分",
+            "buffs": {
+                "En": "Buffs",
+                "Jp": "バフ",
+                "Kr": "버프",
+                "Th": "บัฟ",
+                "Tw": "增益效果",
+                "Cn": "增益效果"
+            },
+            "summon": {
+                "En": "Summon",
+                "Jp": "召喚",
                 "Kr": null,
-                "Th": "{1}ของ{0} <b>+{2}%</b> ของ{1}ของ{3}",
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "summon_inheritance": {
+                "En": "Inherits {0} of {1}'s {2}",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
                 "Tw": null,
                 "Cn": null
             },
@@ -3974,7 +4044,7 @@
                 "Cn": "使用以下道具制造"
             },
             "craft_toggle_chance": {
-                "En": "Toggle Node Appearance Rates",
+                "En": "Show Node Appearance Rates",
                 "Jp": null,
                 "Kr": null,
                 "Th": "แสดง/ซ่อนอัตราการปรากฏของโหนด",
@@ -4242,7 +4312,7 @@
                 "Cn": "区域{0}"
             },
             "tooltip_relationship_bonus": {
-                "En": "Toggle Relationship Bonus",
+                "En": "Include {0}'s Relationship Bonus",
                 "Jp": null,
                 "Kr": null,
                 "Th": "เปิด/ปิดโบนัสระดับสายใย",
@@ -4250,7 +4320,7 @@
                 "Cn": "切换羁绊等级加成"
             },
             "tooltip_relationship_bonus_alt": {
-                "En": "Toggle Alt Relationship Bonus",
+                "En": "Include Alt Relationship Bonus",
                 "Jp": null,
                 "Kr": null,
                 "Th": "เปิด/ปิดโบนัสระดับสายใยของร่างอื่นๆ",
@@ -4258,7 +4328,7 @@
                 "Cn": "切换另一羁绊等级加成"
             },
             "tooltip_equipment_bonus": {
-                "En": "Toggle Equipment Bonus",
+                "En": "Include Equipment Bonus",
                 "Jp": null,
                 "Kr": null,
                 "Th": "เปิด/ปิดโบนัสอุปกรณ์สวมใส่",
@@ -4266,12 +4336,20 @@
                 "Cn": "切换装备加成"
             },
             "tooltip_passiveskill_bonus": {
-                "En": "Toggle Enhanced Skill Buff",
+                "En": "Include Enhanced Skill Buff",
                 "Jp": null,
                 "Kr": null,
                 "Th": "เปิด/ปิดโบนัสสกิลติดตัว",
                 "Tw": "切換增強技能加成",
                 "Cn": "切换增强技能加成"
+            },
+            "tooltip_buffs_bonus": {
+                "En": "Include {0} Selected Buffs",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             },
             "tooltip_compare": {
                 "En": "Compare with Student",
@@ -4290,7 +4368,7 @@
                 "Cn": "移除对比"
             },
             "tooltip_collection_add": {
-                "En": "Add to Collection",
+                "En": "Add to Collection\n<small>(Saves selected stats)</small>",
                 "Jp": null,
                 "Kr": null,
                 "Th": "เพิ่มลงในคอลเลคชั่น",
@@ -4473,6 +4551,14 @@
                 "Tw": "已複製導入字符串到剪貼板",
                 "Cn": "已复制导入字符串到剪贴板"
             },
+            "toast_amount_invalid": {
+                "En": "Invalid amount entered",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
             "stat_defense_tooltip": {
                 "En": "DMG Reduction: {0}",
                 "Jp": null,
@@ -4536,6 +4622,70 @@
                 "Th": "สร้างความเสียหายจำนวน {0} ครั้ง",
                 "Tw": "共造成{0}次打擊",
                 "Cn": "共造成{0}次打击"
+            },
+            "home_welcome": {
+                "En": "Welcome, Sensei!",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "home_introduction": {
+                "En": "Schale DB is an unofficial database for the mobile game <i class=\"text-bold\">Blue Archive</i> developed by Nexon Games and published by Yostar (Japan) and Nexon (Global) for iOS and Android.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "home_change_server": {
+                "En": "Please select your game server using the settings menu <i class=\"fa-solid fa-gear mx-1\"></i> to see only information that has been released on that server.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "home_features": {
+                "En": "Features",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "home_translations_help": {
+                "En": "Schale DB is currently available in 6 languages. Want to help translate? Please get in touch via Discord (lonqie#2708) or check out the <a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">localization project</a>!",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "home_features_list": {
+                "En": "<li>Full information on all students and skills, including summons or vehicles.</li><li>Comprehensive stats calculation that can display a student's stats under any configuration of stars, level, equipment, and buffs from skills.</li><li>Complete Items, Equipment and Furniture database.</li><li>Reward drops, maps and detailed enemy information for all Campaign, Event Quest, Challenge and Daily stages.</li><li>Stats and Skill information for Total Assault bosses and Joint Firing Drill events.</li><li>View the chances of possible items received from crafting nodes.</li>",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "home_footer_text": {
+                "En": "Schale DB is developed and maintained by lonqie, with additional translation work by Blue-Roar & TKRotund.\nSchale DB is not affiliated with Nexon, Nexon Games or Yostar. All game artwork, information and assets used in this database are the property and copyright of the respective authors.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "changelog": {
+                "En": "Changelog",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             }
         }
     }
