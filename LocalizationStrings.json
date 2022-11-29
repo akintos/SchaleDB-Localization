@@ -3023,7 +3023,7 @@
                 "En": "Enable Custom Buffs",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ใช้งานโหมดบัพแบบกำหนดเอง",
                 "Tw": null,
                 "Cn": null
             },
@@ -3031,7 +3031,7 @@
                 "En": "(Experimental) Allows for setting custom buff values on student's stat display options screen.",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "(อยู่ในการทดสอบ) เปิดใช้งานการเพิ่มบัพแบบกำหนดเองให้กับนักเรียนในหน้าค่าสถานะของนักเรียน",
                 "Tw": null,
                 "Cn": null
             },
@@ -3311,7 +3311,7 @@
                 "En": "Add Own/Selected Specials",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เพิ่มนักเรียน Special ที่มี/เลือกไว้",
                 "Tw": null,
                 "Cn": null
             },
@@ -3343,7 +3343,7 @@
                 "En": "Some of the selected buffs cannot be applied to the current character.",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เอฟเฟกต์บัพที่เลือกมีบางบัพที่ไม่สามารถใช้ได้กับตัวละครปัจจุบันที่เลือก",
                 "Tw": null,
                 "Cn": null
             },
@@ -3351,7 +3351,7 @@
                 "En": "Custom Buffs",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "บัพแบบกำหนดเอง",
                 "Tw": null,
                 "Cn": null
             },
@@ -3359,7 +3359,7 @@
                 "En": "Add as base amount",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เพิ่มค่าเป็นค่าพื้นฐาน",
                 "Tw": null,
                 "Cn": null
             },
@@ -3367,7 +3367,7 @@
                 "En": "Add as percentage amount",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เพิ่มค่าเป็นเปอร์เซ็นต์",
                 "Tw": null,
                 "Cn": null
             },
@@ -3375,7 +3375,7 @@
                 "En": "Search for Special Student",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ค้นหานักเรียน Special",
                 "Tw": null,
                 "Cn": null
             },
@@ -3799,7 +3799,7 @@
                 "En": "Summon",
                 "Jp": "召喚",
                 "Kr": null,
-                "Th": null,
+                "Th": "วัตถุอัญเชิญ/วัตถุกำบัง",
                 "Tw": null,
                 "Cn": null
             },
@@ -3807,7 +3807,7 @@
                 "En": "Inherits {0} of {1}'s {2}",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ได้รับ{2} {0} ของ{2}ของ{1}",
                 "Tw": null,
                 "Cn": null
             },
@@ -4347,7 +4347,7 @@
                 "En": "Include {0} Selected Buffs",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เปิด/ปิด {0} บัพที่เลือกไว้",
                 "Tw": null,
                 "Cn": null
             },
@@ -4555,7 +4555,7 @@
                 "En": "Invalid amount entered",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ค่าที่ใส่ลงไปไม่ถูกต้อง",
                 "Tw": null,
                 "Cn": null
             },
@@ -4627,7 +4627,7 @@
                 "En": "Welcome, Sensei!",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ยินดีต้อนรับเหล่าเซ็นเซย์ทุกท่าน!",
                 "Tw": null,
                 "Cn": null
             },
@@ -4635,7 +4635,7 @@
                 "En": "Schale DB is an unofficial database for the mobile game <i class=\"text-bold\">Blue Archive</i> developed by Nexon Games and published by Yostar (Japan) and Nexon (Global) for iOS and Android.",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "Schale DB เป็นศูนย์รวมข้อมูลอย่างไม่เป็นทางการของเกมมือถือ <i class=\"text-bold\">Blue Archive</i> ที่พัฒนาโดยทาง Nexon Games และได้รับการเผยแพร่โดย Yostar (เซิร์ฟเวอร์ญี่ปุ่น) และ Nexon (เซิร์ฟเวอร์โกลบอล) ทั้งในระบบ iOS และ Android",
                 "Tw": null,
                 "Cn": null
             },
@@ -4643,7 +4643,7 @@
                 "En": "Please select your game server using the settings menu <i class=\"fa-solid fa-gear mx-1\"></i> to see only information that has been released on that server.",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "กรุณาเลือกเซิร์ฟเวอร์เกมของคุณในหน้าเมนูตั้งค่า <i class=\"fa-solid fa-gear mx-1\"></i> เพื่อมองเห็นเฉพาะข้อมูลที่ได้รับการอัปเดทแล้วในเซิร์ฟเวอร์นั้นๆ",
                 "Tw": null,
                 "Cn": null
             },
@@ -4651,7 +4651,7 @@
                 "En": "Features",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "คุณสมบัติต่างๆ",
                 "Tw": null,
                 "Cn": null
             },
@@ -4659,7 +4659,7 @@
                 "En": "Schale DB is currently available in 6 languages. Want to help translate? Please get in touch via Discord (lonqie#2708) or check out the <a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">localization project</a>!",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ในปัจจุบัน Schale DB สามารถใช้งานได้ใน 6 ภาษา อยากให้ความช่วยเหลือในการแปลภาษา? กรุณาติดต่อได้ทาง Discord (lonqie#2708) หรือลองเข้าไปตรวจสอบใน<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">โปรเจคแปลภาษา</a>ได้เลย! ",
                 "Tw": null,
                 "Cn": null
             },
@@ -4667,7 +4667,7 @@
                 "En": "<li>Full information on all students and skills, including summons or vehicles.</li><li>Comprehensive stats calculation that can display a student's stats under any configuration of stars, level, equipment, and buffs from skills.</li><li>Complete Items, Equipment and Furniture database.</li><li>Reward drops, maps and detailed enemy information for all Campaign, Event Quest, Challenge and Daily stages.</li><li>Stats and Skill information for Total Assault bosses and Joint Firing Drill events.</li><li>View the chances of possible items received from crafting nodes.</li>",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "<li>ข้อมูลของนักเรียนและสกิลทุกคนอย่างครบถ้วน รวมไปถึงยานพาหนะ, วัตถุอัญเชิญและวัตถุกำบัง</li><li>หน้าต่างคำนวนค่าสถานะต่างๆ ของนักเรียนภายใต้เงื่อนไขทุกรูปแบบไม่ว่าจะเป็นจำนวนดาว, เลเวล, อุปกรณ์สวมใส่หรือบัพจากสกิลต่างๆ</li><li>ลิสของไอเทม, อุปกรณ์สวมใส่และเฟอร์นิเจอร์อย่างครบถ้วน</li><li>รางวัลที่ได้รับ, แผนที่และข้อมูลของศัตรูแบบละเอียดสำหรับทุกภารกิจหลัก, เควสอีเวนท์, ชาเลนจ์และด่านเควสรายวัน</li><li>ค่าสถานะและข้อมูลสกิลสำหรับอีเวนท์เรดบอสและการสอบประมวลผล</li><li>ดูตารางและอัตราการได้รับไอเทมต่างๆ จากการคราฟไอเทม</li>",
                 "Tw": null,
                 "Cn": null
             },
@@ -4675,7 +4675,7 @@
                 "En": "Schale DB is developed and maintained by lonqie, with additional translation work by Blue-Roar & TKRotund.\nSchale DB is not affiliated with Nexon, Nexon Games or Yostar. All game artwork, information and assets used in this database are the property and copyright of the respective authors.",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "Schale DB พัฒนาและอัปเดทโดย longqie โดยได้รับความช่วยเหลือในการแปลภาษาเพิ่มเติมจาก Blue-Roar และ TKRotund\nSchale DB นั้นไม่ได้มีส่วนเกี่ยวข้องใดๆ กับทาง Nexon, Nexon Games หรือ Yostar รูปภาพและข้อมูลต่างๆ ที่ใช้ในฐานข้อมูลนี้ถือเป็นสมบัติและทรัพย์สินทางปัญญาของผู้ถือครองลิขสิทธิ์ดั้งเดิม",
                 "Tw": null,
                 "Cn": null
             },
@@ -4683,7 +4683,7 @@
                 "En": "Changelog",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "บันทึกการอัปเดท",
                 "Tw": null,
                 "Cn": null
             }
