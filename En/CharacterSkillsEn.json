@@ -6708,6 +6708,129 @@
                     "26.6%"
                 ]
             ]
+        },
+        {
+            "SkillId": 10055200,
+            "NameEn": "Shigure Special Bottle Grenade",
+            "DescriptionEn": "Deals <?1> damage to enemies in a rectangular area, plus an additional <?2> <d:Burn> damage every 4s for 20s.",
+            "ParametersEn": [
+                [
+                    "425%",
+                    "489%",
+                    "553%",
+                    "617%",
+                    "681%",
+                    "745%",
+                    "809%",
+                    "873%",
+                    "937%",
+                    "969%"
+                ],
+                [
+                    "64%",
+                    "64%",
+                    "73.5%",
+                    "73.5%",
+                    "83.1%",
+                    "83.1%",
+                    "92.7%",
+                    "92.7%",
+                    "102%",
+                    "107%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10055300,
+            "NameEn": "How About A Drink?",
+            "DescriptionEn": "Every 60s, increases the <b:ATK> by <?1> of the ally with the highest ATK (except self), but also decreases their <d:HIT> by 27.5% for 30s.",
+            "ParametersEn": [
+                [
+                    "26.4%",
+                    "27.7%",
+                    "29%",
+                    "34.3%",
+                    "35.6%",
+                    "37%",
+                    "42.3%",
+                    "43.6%",
+                    "44.9%",
+                    "50.2%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10055400,
+            "NameEn": "Sweet Fermentation",
+            "DescriptionEn": "Increases <b:CriticalChance> by <?1>.",
+            "ParametersEn": [
+                [
+                    "14%", "14.7%", "15.4%", "18.2%", "18.9%", "19.6%", "22.4%", "23.1%", "23.8%", 
+                    "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10055500,
+            "NameEn": "Wild Intuition",
+            "DescriptionEn": "Improves the radius of Shigure's normal attack area of effect by <?1>, and normal attacks deal <?2> damage as an additional hit.",
+            "ParametersEn": [
+                [
+                    "&times;1.5",
+                    "&times;1.5",
+                    "&times;1.5",
+                    "&times;1.5",
+                    "&times;1.5",
+                    "&times;1.5",
+                    "&times;1.5",
+                    "&times;1.5",
+                    "&times;1.5",
+                    "&times;2"
+                ],
+                [
+                    "61.6%",
+                    "62.9%",
+                    "64.1%",
+                    "69%",
+                    "70.3%",
+                    "71.5%",
+                    "76.4%",
+                    "77.6%",
+                    "78.9%",
+                    "83.8%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10055450,
+            "NameEn": "Sweet Fermentation+",
+            "DescriptionEn": "Increases <b:ATK> by <?1> and <b:CriticalChance> by <?2>.",
+            "ParametersEn": [
+                [
+                    "311",
+                    "327",
+                    "342",
+                    "405",
+                    "420",
+                    "436",
+                    "498",
+                    "513",
+                    "529",
+                    "591"
+                ],
+                [
+                    "14%",
+                    "14.7%",
+                    "15.4%",
+                    "18.2%",
+                    "18.9%",
+                    "19.6%",
+                    "22.4%",
+                    "23.1%",
+                    "23.8%",
+                    "26.6%"
+                ]
+            ]
         }
     ]
 }
