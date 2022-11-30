@@ -1,0 +1,92 @@
+[
+    {
+        "Id": 30000, 
+        "DevName": "SM005801", 
+        "NameEn": "Crusadie", 
+        "NameJp": "クルセイダーちゃん", 
+        "NameKr": "크루세이더 쨩", 
+        "NameTh": "ครูเซเดอร์จัง", 
+        "NameTw": "十字軍醬", 
+        "NameCn": "十字军酱"
+    }, 
+    {
+        "Id": 30001, 
+        "DevName": "SM016401", 
+        "NameEn": "Purginator No. 1", 
+        "NameJp": "粛清君1号", 
+        "NameKr": "숙청군 1호", 
+        "NameTh": "ผู้กวาดล้าง No.1", 
+        "NameTw": "肅清君1號", 
+        "NameCn": "肃清君1号"
+    }, 
+    {
+        "Id": 30002, 
+        "DevName": "SM008101", 
+        "NameEn": "Tactical Ambulance 11", 
+        "NameJp": "緊急車両11号", 
+        "NameKr": "응급돌파 11호", 
+        "NameTh": "รถฉุกเฉิน No.11", 
+        "NameTw": "急救突破11號", 
+        "NameCn": "急救突破11號"
+    }, 
+    {
+        "Id": 30003, 
+        "DevName": "SM015601", 
+        "NameEn": "Toramaru", 
+        "NameJp": "虎丸", 
+        "NameKr": "토라마루", 
+        "NameTh": "โทระมารุ", 
+        "NameTw": null, 
+        "NameCn": null
+    }, 
+    {
+        "Id": 36001, 
+        "DevName": "SM017601", 
+        "NameEn": "Raincloud", 
+        "NameJp": "雨雲号", 
+        "NameKr": "물구름", 
+        "NameTh": "เมฆฝน", 
+        "NameTw": null, 
+        "NameCn": null
+    }, 
+    {
+        "Id": 40002, 
+        "DevName": "HihumiDecoy_default", 
+        "NameEn": "Peroro Plush", 
+        "NameJp": "ペロロ人形", 
+        "NameKr": "페로로 인형", 
+        "NameTh": "ตุ๊กตาเพโรโร่", 
+        "NameTw": "佩洛洛人偶", 
+        "NameCn": "佩洛洛人偶"
+    }, 
+    {
+        "Id": 40004, 
+        "DevName": "Utaha_Turret_default", 
+        "NameEn": "Thundergun", 
+        "NameJp": "雷ちゃん", 
+        "NameKr": "천둥이", 
+        "NameTh": "สายฟ้า", 
+        "NameTw": "雷霆", 
+        "NameCn": "雷霆"
+    }, 
+    {
+        "Id": 40005, 
+        "DevName": "Utaha_Turret_Public", 
+        "NameEn": "Thundergun MK-II", 
+        "NameJp": "雷ちゃんMK-II", 
+        "NameKr": "천둥이 MK-II", 
+        "NameTh": "สายฟ้า MK-II", 
+        "NameTw": "雷霆MK-II", 
+        "NameCn": "雷霆MK-II"
+    }, 
+    {
+        "Id": 99999, 
+        "DevName": "Obstacle", 
+        "NameEn": "Cover", 
+        "NameJp": "遮蔽物", 
+        "NameKr": "엄폐물", 
+        "NameTh": "วัตถุกำบัง", 
+        "NameTw": "掩蔽物", 
+        "NameCn": "掩蔽物"
+    }
+]

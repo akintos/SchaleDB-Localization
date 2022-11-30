@@ -1000,7 +1000,19 @@
             "Key": 3951708717,
             "Force": true,
             "NameEn": "EX Skill Invulnerability",
-            "DescriptionEn": "Enemies will take no damage from EX Skills."
+            "DescriptionEn": "All enemies are <s:ImmuneDamage> to damage from EX Skills."
+        },
+        {
+            "Key": 328739473,
+            "Force": true,
+            "NameEn": "Decreases ATK when defeating enemies. Reduction is removed when healed.",
+            "DescriptionEn": "Decreases the <d:ATK> of allies by 20% each time an enemy is defeated (effect stacks up to <b>50</b> times). Healing an ally will remove up to 5 stacks of this debuff from them. "
+        },
+        {
+            "Key": 3427259164,
+            "Force": true,
+            "NameEn": "Decreased SR/MG Ally Attack",
+            "DescriptionEn": "Decreases the <d:ATK> of all allies who use SR or MG type weapons by 90%."
         }
     ]
 }

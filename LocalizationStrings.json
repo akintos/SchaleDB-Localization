@@ -2759,7 +2759,7 @@
                 "Th": "เมื่อได้รับความเสียหายถึงตาย, HP จะไม่ลดลงไปต่ำกว่า 1 จนกว่าระยะเวลาของเอฟเฟกต์จะหมดลง"
             },
             "Special_ImmuneDamage": {
-                "En": "Immune to all damage.",
+                "En": "Immune to some or all types of incoming damage.",
                 "Cn": "免疫所有伤害",
                 "Th": "ไม่ได้รับความเสียหายใดๆ"
             },
