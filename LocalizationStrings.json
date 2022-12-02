@@ -2760,7 +2760,7 @@
             },
             "Special_ImmuneDamage": {
                 "En": "Immune to some or all types of incoming damage.",
-                "Cn": "免疫所有伤害",
+                "Cn": "免疫遭受的部分或全部类型伤害",
                 "Th": "ไม่ได้รับความเสียหายใดๆ"
             },
             "Special_Fury": {
@@ -4629,7 +4629,7 @@
                 "Kr": null,
                 "Th": "ยินดีต้อนรับเหล่าเซ็นเซย์ทุกท่านค่ะ!",
                 "Tw": null,
-                "Cn": "欢迎，老师！"
+                "Cn": "欢迎回来，老师！"
             },
             "home_introduction": {
                 "En": "Schale DB is an unofficial database for the mobile game <i class=\"text-bold\">Blue Archive</i> developed by Nexon Games and published by Yostar (Japan) and Nexon (Global) for iOS and Android.",

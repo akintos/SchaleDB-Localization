@@ -37,7 +37,7 @@
         "NameKr": "토라마루", 
         "NameTh": "โทระมารุ", 
         "NameTw": null, 
-        "NameCn": null
+        "NameCn": "虎丸"
     }, 
     {
         "Id": 36001, 
@@ -47,7 +47,7 @@
         "NameKr": "물구름", 
         "NameTh": "เมฆฝน", 
         "NameTw": null, 
-        "NameCn": null
+        "NameCn": "雨云号"
     }, 
     {
         "Id": 40002, 
@@ -87,6 +87,6 @@
         "NameKr": "엄폐물", 
         "NameTh": "วัตถุกำบัง", 
         "NameTw": "掩蔽物", 
-        "NameCn": "掩蔽物"
+        "NameCn": "掩体"
     }
 ]
