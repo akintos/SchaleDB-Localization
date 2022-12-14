@@ -3384,7 +3384,7 @@
                 "En": "Enemy Debuffs",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เอฟเฟกต์อันตรายบนตัวศัตรู",
                 "Tw": null,
                 "Cn": null
             },
@@ -3392,7 +3392,7 @@
                 "En": "Select Enemy",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เลือกศัตรู",
                 "Tw": null,
                 "Cn": null
             },
@@ -3408,7 +3408,7 @@
                 "En": "Enemy Custom Buffs",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "บัพแบบกำหนดเองของศัตรู",
                 "Tw": null,
                 "Cn": null
             },
@@ -3432,7 +3432,7 @@
                 "En": "Name (Optional)",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ชื่อ (ไม่จำเป็น)",
                 "Tw": null,
                 "Cn": null
             },
@@ -3440,7 +3440,7 @@
                 "En": "Value",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "จำนวนค่าที่ต้องการ",
                 "Tw": null,
                 "Cn": null
             },
@@ -3488,7 +3488,7 @@
                 "En": "Upgrades",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "อัปเกรด",
                 "Tw": null,
                 "Cn": null
             },
@@ -3880,7 +3880,7 @@
                 "En": "Target",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "จำลองเป้าหมาย",
                 "Tw": null,
                 "Cn": null
             },
@@ -4788,7 +4788,7 @@
                 "En": "The selected character has no damage-dealing or healing skills to display.",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "นักเรียนที่เลือกไม่มีสกิลสร้างความเสียหายหรือสกิลรักษาที่จะแสดงให้ดู",
                 "Tw": null,
                 "Cn": null
             },
@@ -4796,7 +4796,7 @@
                 "En": "Normal Attack",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "การโจมตีปกติ",
                 "Tw": null,
                 "Cn": null
             },
@@ -4804,7 +4804,7 @@
                 "En": "Deals <?1> damage to one enemy.",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรู 1 เป้าหมาย",
                 "Tw": null,
                 "Cn": null
             },
@@ -4812,7 +4812,7 @@
                 "En": "Deals <?1> damage to enemies in a circular area.",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูในรัศมี",
                 "Tw": null,
                 "Cn": null
             },
@@ -4820,7 +4820,7 @@
                 "En": "Deals <?1> damage to enemies in a straight line.",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูในแนวเส้นตรง",
                 "Tw": null,
                 "Cn": null
             },
@@ -4828,7 +4828,7 @@
                 "En": "Type Effectiveness",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ประสิทธิภาพของการโจมตี",
                 "Tw": null,
                 "Cn": null
             },
@@ -4836,7 +4836,7 @@
                 "En": "Level Difference",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ค่าตัวแปรความต่างของเลเวล",
                 "Tw": null,
                 "Cn": null
             },
@@ -4844,7 +4844,7 @@
                 "En": "Hit Chance",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "โอกาสโจมตีโดนเป้าหมาย",
                 "Tw": null,
                 "Cn": null
             },
@@ -4860,7 +4860,7 @@
                 "En": "Stability Variance",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ค่าตัวแปรความเสถียร",
                 "Tw": null,
                 "Cn": null
             },
@@ -4868,7 +4868,7 @@
                 "En": "Hit Count",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "จำนวนครั้งที่โจมตี",
                 "Tw": null,
                 "Cn": null
             },
@@ -4876,7 +4876,7 @@
                 "En": "Heal Count",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "จำนวนครั้งที่ฟื้นฟู",
                 "Tw": null,
                 "Cn": null
             },
@@ -4884,7 +4884,7 @@
                 "En": "Ignore DEF",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "อัตราค่าป้องกันที่ไม่สน",
                 "Tw": null,
                 "Cn": null
             },
@@ -4892,7 +4892,7 @@
                 "En": "Avg. Hit DMG",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ความเสียหายต่อครั้งโดยเฉลี่ย",
                 "Tw": null,
                 "Cn": null
             },
@@ -4900,7 +4900,7 @@
                 "En": " (Crit)",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": " (คริ)",
                 "Tw": null,
                 "Cn": null
             },
@@ -4908,7 +4908,7 @@
                 "En": "Avg. Total DMG",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ความเสียหายรวมโดยเฉลี่ย",
                 "Tw": null,
                 "Cn": null
             },
@@ -4916,7 +4916,7 @@
                 "En": "DMG",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ความเสียหาย",
                 "Tw": null,
                 "Cn": null
             },
@@ -4924,7 +4924,7 @@
                 "En": "Average DMG",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ความเสียหายโดยเฉลี่ย",
                 "Tw": null,
                 "Cn": null
             },
@@ -4932,7 +4932,7 @@
                 "En": "Rate of Fire",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "อัตราการยิง",
                 "Tw": null,
                 "Cn": null
             },
@@ -4940,7 +4940,7 @@
                 "En": "{0}s",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "{0}",
                 "Tw": null,
                 "Cn": null
             },
@@ -4948,7 +4948,7 @@
                 "En": "{0}s ({1} frames)",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "{0} ({1} เฟรม)",
                 "Tw": null,
                 "Cn": null
             },
@@ -4956,7 +4956,7 @@
                 "En": "burst",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ชุด",
                 "Tw": null,
                 "Cn": null  
             },
@@ -4964,7 +4964,7 @@
                 "En": "Attack Duration: {0}\nAttack Delay: {1}",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ระยะเวลาโจมตี: {0}\nดีเลย์ในการโจมตี: {1}",
                 "Tw": null,
                 "Cn": null
             },
@@ -4972,7 +4972,7 @@
                 "En": "Reload Time",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ระยะเวลารีโหลด",
                 "Tw": null,
                 "Cn": null
             },
@@ -4980,7 +4980,7 @@
                 "En": "Reload Duration: {0}\nStart Delay: {1}\nEnd Delay: {2}",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ระยะเวลารีโหลด: {0}\nดีเลย์ตอนเริ่ม: {1}\nดีเลย์ตอนจบ: {2}",
                 "Tw": null,
                 "Cn": null
             },
@@ -4988,7 +4988,7 @@
                 "En": "Average DPS",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ความเสียหายที่ทำได้ต่อวินาทีโดยเฉลี่ย",
                 "Tw": null,
                 "Cn": null
             },
@@ -4996,7 +4996,7 @@
                 "En": "Amount Healed",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ปริมาณ HP ที่รักษา",
                 "Tw": null,
                 "Cn": null
             },
@@ -5004,7 +5004,7 @@
                 "En": "Barrier HP",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "HP ของบาเรีย",
                 "Tw": null,
                 "Cn": null
             },
@@ -5012,7 +5012,7 @@
                 "En": "{0} Chance",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "โอกาสในการ {0}",
                 "Tw": null,
                 "Cn": null
             },
@@ -5020,7 +5020,7 @@
                 "En": "{0} Duration (Hod Insane)",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ระยะเวลา {0} (Hod Insane)",
                 "Tw": null,
                 "Cn": null
             },
@@ -5028,7 +5028,7 @@
                 "En": "{0} DMG Limit",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ความเสียหายถูกจำกัดที่ {0}",
                 "Tw": null,
                 "Cn": null
             }
