@@ -3275,6 +3275,24 @@
             ]
         },
         {
+            "SkillId": 3000000300,
+            "DescriptionEn": "Every 20s, deals <?1> damage to enemies in a circular area.",
+            "ParametersEn": [
+                [
+                    "266%",
+                    "279%",
+                    "292%",
+                    "345%",
+                    "359%",
+                    "372%",
+                    "425%",
+                    "438%",
+                    "452%",
+                    "505%"
+                ]
+            ]
+        },
+        {
             "SkillId": 20005300,
             "NameEn": "Peroro's Strike",
             "DescriptionEn": "Every 25s, deals <?1> damage to enemies in a circular area.",
@@ -4070,6 +4088,36 @@
             ]
         },
         {
+            "SkillId": 30001300,
+            "DescriptionEn": "Every 3 normal attacks, fires a shot that deals <?1> damage to one enemy plus <?2> damage to the target and enemies in a fan-shaped area behind them.",
+            "ParametersEn": [
+                [
+                    "184%",
+                    "188%",
+                    "193%",
+                    "211%",
+                    "216%",
+                    "221%",
+                    "239%",
+                    "244%",
+                    "248%",
+                    "267%"
+                ],
+                [
+                    "276%",
+                    "282%",
+                    "289%",
+                    "317%",
+                    "324%",
+                    "331%",
+                    "358%",
+                    "365%",
+                    "372%",
+                    "400%"
+                ]
+            ]
+        },
+        {
             "SkillId": 20009300,
             "NameEn": "Aim, Purge!",
             "DescriptionEn": "Every 15s, deals <?1> damage to enemies in a circular area.",
@@ -4553,6 +4601,25 @@
                 [ "16.2%", "18.6%", "21.1%", "23.5%", "25.9%" ],
                 [ "17%"  , "17.9%", "18.3%", "21.7%", "22.1%" ],
                 [ "18.7%", "18.7%", "19.2%", "19.2%", "19.7%" ]
+            ]
+        },
+        {
+            "SkillId": 30002400,
+            "NameEn": "Emergency Dispatch",
+            "DescriptionEn": "Continuously restores the HP of allies in a circular area by <?1> of Healing every 10s",
+            "ParametersEn": [
+                [
+                    "18.7%",
+                    "18.7%",
+                    "19.2%",
+                    "19.2%",
+                    "19.7%",
+                    "19.7%",
+                    "21.6%",
+                    "21.6%",
+                    "22%",
+                    "22%"
+                ]
             ]
         },
         {
@@ -5101,6 +5168,24 @@
             ]
         },
         {
+            "SkillId": 30003300,
+            "DescriptionEn": "Every 15s, fires a shell that deals <?1> damage to one enemy and splits, dealing the same damage to up to 2 nearby enemies (up to 2 times).",
+            "ParametersEn": [
+                [
+                    "279%",
+                    "293%",
+                    "307%",
+                    "363%",
+                    "377%",
+                    "391%",
+                    "447%",
+                    "461%",
+                    "475%",
+                    "531%"
+                ]
+            ]
+        },
+        {
             "SkillId": 20016300,
             "NameEn": "What a Pain...",
             "DescriptionEn": "Every 40s, fires shells at up to 4 enemies, each shell dealing <?1> damage to enemies in a circular area around the target.",
@@ -5536,6 +5621,37 @@
                 [ "12.5%", "16.1%", "21.4%", "26%" , "32.6%" ],
                 [ "297%" , "312%" , "327%" , "386%", "401%"  ],
                 [ "68%"  , "68%"  , "76%"  , "76%" , "84%"   ]
+            ]
+        },
+        {
+            "SkillId": 36001300,
+            "NameEn": "Downpour Missile",
+            "DescriptionEn": "Every 12s, deals <?1> damage to one enemy. This attack ignores <?2> of the enemy's DEF.",
+            "ParametersEn": [
+                [
+                    "297%",
+                    "312%",
+                    "327%",
+                    "386%",
+                    "401%",
+                    "416%",
+                    "476%",
+                    "490%",
+                    "505%",
+                    "565%"
+                ],
+                [
+                    "68%",
+                    "68%",
+                    "76%",
+                    "76%",
+                    "84%",
+                    "84%",
+                    "92%",
+                    "92%",
+                    "100%",
+                    "100%"
+                ]
             ]
         },
         {

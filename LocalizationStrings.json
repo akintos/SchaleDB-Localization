@@ -415,6 +415,12 @@
                 "Cn": "稳定性",
                 "Th": "ค่าความเสถียร"
             },
+            "StabilityRate": {
+                "CodeKey": 1441398521,
+                "En": "Stability Rate",
+                "Cn": "稳定性",
+                "Th": "ค่าความเสถียร"
+            },
             "Range": {
                 "CodeKey": 1510657280,
                 "Cn": "射程",
@@ -928,6 +934,7 @@
         "StageType": {
             "Campaign": {
                 "PrefabKey": 2146112430,
+                "En": "Missions",
                 "Cn": "任务",
                 "Th": "ภารกิจ"
             },
@@ -1175,6 +1182,32 @@
                 "Th": "โหนดที่ 3",
                 "Tw": "第3次節點",
                 "Cn": "第3次节点"
+            }
+        },
+        "RaidDifficulty": {
+            "0": {
+                "CodeKey": 22809198,
+                "En": "Normal"
+            },
+            "1": {
+                "CodeKey": 3950641349,
+                "En": "Hard"
+            },
+            "2": {
+                "CodeKey": 1420370522,
+                "En": "Very Hard"
+            },
+            "3": {
+                "CodeKey": 1397484493,
+                "En": "Hardcore"
+            },
+            "4": {
+                "CodeKey": 3110064346,
+                "En": "Extreme"
+            },
+            "5": {
+                "CodeKey": 1050461170,
+                "En": "Insane"
             }
         },
         "WeaponPartExpBonus": {
@@ -3347,6 +3380,22 @@
                 "Tw": null,
                 "Cn": "部分已选择的增益效果无法被应用于当前学生。"
             },
+            "enemy_debuffs": {
+                "En": "Enemy Debuffs",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "enemy_select": {
+                "En": "Select Enemy",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
             "buff_custom": {
                 "En": "Custom Buffs",
                 "Jp": null,
@@ -3354,6 +3403,14 @@
                 "Th": "บัพแบบกำหนดเอง",
                 "Tw": null,
                 "Cn": "自定义增益效果"
+            },
+            "buff_custom_enemy": {
+                "En": "Enemy Custom Buffs",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             },
             "buff_custom_base": {
                 "En": "Add as base amount",
@@ -3370,6 +3427,22 @@
                 "Th": "เพิ่มค่าเป็นเปอร์เซ็นต์",
                 "Tw": null,
                 "Cn": "作为百分比值添加"
+            },
+            "buff_custom_name_placeholder": {
+                "En": "Name (Optional)",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "buff_custom_value_placeholder": {
+                "En": "Value",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             },
             "supportstats_search": {
                 "En": "Search for Special Student",
@@ -3410,6 +3483,14 @@
                 "Th": "สกิลรอง",
                 "Tw": "子技能",
                 "Cn": "辅助技能"
+            },
+            "student_skills_upgrades": {
+                "En": "Upgrades",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             },
             "student_skills_materials": {
                 "En": "Materials",
@@ -3780,7 +3861,7 @@
                 "Cn": "在<b>{1}</b>地形造成<b>{0}倍</b>伤害。\n寻找掩体时掩护成功率<b>+{2}%</b>。\n攻击时绕过掩体概率<b>增加{2}%</b>。"
             },
             "statpreview_title": {
-                "En": "Stat Display Options",
+                "En": "Stat / Skill Details",
                 "Jp": "ステータスオプション",
                 "Kr": null,
                 "Th": "การตั้งค่าหน้าจอแสดงค่าพลัง",
@@ -3794,6 +3875,14 @@
                 "Th": "บัฟ",
                 "Tw": "增益效果",
                 "Cn": "增益效果"
+            },
+            "enemy_target": {
+                "En": "Target",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             },
             "summon": {
                 "En": "Summon",
@@ -3990,6 +4079,14 @@
                 "Th": "ตั้งค่า",
                 "Tw": "選項",
                 "Cn": "选项"
+            },
+            "details": {
+                "En": "Details",
+                "Jp": "詳細",
+                "Kr": "상세",
+                "Th": "อธิบาย",
+                "Tw": "詳情",
+                "Cn": "詳情"
             },
             "options_short": {
                 "En": "Opts.",
@@ -4686,6 +4783,254 @@
                 "Th": "บันทึกการอัปเดท",
                 "Tw": null,
                 "Cn": "更新日志"
+            },
+            "skillinfo_empty": {
+                "En": "The selected character has no damage-dealing or healing skills to display.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "skill_normalattack": {
+                "En": "Normal Attack",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "skill_normalattack_target": {
+                "En": "Deals <?1> damage to one enemy.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "skill_normalattack_circle": {
+                "En": "Deals <?1> damage to enemies in a circular area.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "skill_normalattack_line": {
+                "En": "Deals <?1> damage to enemies in a straight line.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "type_effectiveness": {
+                "En": "Type Effectiveness",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "level_difference": {
+                "En": "Level Difference",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "hit_chance": {
+                "En": "Hit Chance",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "crit_chance": {
+                "En": "Crit Chance",
+                "Jp": null,
+                "Kr": null,
+                "Th": "อัตราการติดคริ",
+                "Tw": "暴擊幾率",
+                "Cn": "暴击几率"
+            },
+            "stab_variance": {
+                "En": "Stability Variance",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "dmginfo_hit_count": {
+                "En": "Hit Count",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "dmginfo_heal_count": {
+                "En": "Heal Count",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "dmginfo_ignore_def": {
+                "En": "Ignore DEF",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "dmginfo_hit_avg": {
+                "En": "Avg. Hit DMG",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "dmginfo_crit": {
+                "En": " (Crit)",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "dmginfo_total_avg": {
+                "En": "Avg. Total DMG",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "dmginfo_dmg": {
+                "En": "DMG",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "dmginfo_dmg_avg": {
+                "En": "Average DMG",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "dmginfo_rate_of_fire": {
+                "En": "Rate of Fire",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "time_seconds": {
+                "En": "{0}s",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "time_seconds_frames": {
+                "En": "{0}s ({1} frames)",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "normalattack_burst": {
+                "En": "burst",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null  
+            },
+            "dmginfo_rate_of_fire_tooltip": {
+                "En": "Attack Duration: {0}\nAttack Delay: {1}",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "dmginfo_reload_time": {
+                "En": "Reload Time",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "dmginfo_reload_time_tooltip": {
+                "En": "Reload Duration: {0}\nStart Delay: {1}\nEnd Delay: {2}",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "dmginfo_avg_dps": {
+                "En": "Average DPS",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "dmginfo_heal_amount": {
+                "En": "Amount Healed",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "dmginfo_shield_amount": {
+                "En": "Barrier HP",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "dmginfo_cc_effect_chance": {
+                "En": "{0} Chance",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "dmginfo_cc_effect_duration": {
+                "En": "{0} Duration (Hod Insane)",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "dmginfo_accumulation_limit": {
+                "En": "{0} DMG Limit",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             }
         }
     }
