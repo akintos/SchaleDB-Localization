@@ -2481,7 +2481,7 @@
                 "En": "Holy Night Blessings",
                 "Jp": "「聖夜の祝福」",
                 "Kr": null,
-                "Th": null,
+                "Th": "พรแห่งค่ำคืนศักดิ์สิทธิ์",
                 "Tw": null,
                 "Cn": null
             }
@@ -2858,7 +2858,7 @@
                 "En": "Increases the effects of certain EX skills on this character.",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เพิ่มประสิทธิภาพของสกิล EX บางสกิลที่ส่งผลกับเป้าหมายที่มีเอฟเฟกต์นี้",
                 "Tw": null,
                 "Cn": null
             }
@@ -4112,7 +4112,7 @@
                 "En": "Details",
                 "Jp": "詳細",
                 "Kr": "상세",
-                "Th": "รายละเอียดเพิ่มเติม",
+                "Th": "รายละเอียด",
                 "Tw": "詳情",
                 "Cn": "詳情"
             },
@@ -4976,7 +4976,7 @@
                 "En": "{0}s ({1} frames)",
                 "Jp": null,
                 "Kr": null,
-                "Th": "{0} ({1} เฟรม)",
+                "Th": "{0} วินาที ({1} เฟรม)",
                 "Tw": null,
                 "Cn": null
             },
@@ -4992,7 +4992,7 @@
                 "En": "Attack Duration: {0}\nAttack Delay: {1}",
                 "Jp": null,
                 "Kr": null,
-                "Th": "ระยะเวลาโจมตี: {0}\nดีเลย์ในการโจมตี: {1}",
+                "Th": "ระยะเวลาในการโจมตี: {0}\nดีเลย์ในการโจมตี: {1}",
                 "Tw": null,
                 "Cn": null
             },
