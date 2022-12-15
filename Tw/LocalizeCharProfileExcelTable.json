@@ -279,6 +279,34 @@
             "CharacterVoiceTw": "河瀬茉希",
             "WeaponNameTw": "スプリングパンチ",
             "WeaponDescTw": "シグレが普段持ち歩いているグレネードランチャー。\n\nこの榴弾が直撃した相手は、その名の通りくらくらしてしまう。"
+        },
+        {
+            "CharacterId": 10056,
+            "FamilyNameTw": "鷲見",
+            "PersonalNameTw": "セリナ",
+            "SchoolYearTw": "2年生",
+            "CharacterAgeTw": "16歳",
+            "BirthdayTw": "1月6日",
+            "CharacterSSRNewTw": "救護騎士団がクリスマスをお伝えに来ました！\nどうか、素敵なクリスマスになりますように！",
+            "ProfileIntroductionTw": "トリニティ総合学園所属、クリスマスを迎えてサンタ服に着替えた救護騎士団の団員。\n\nクリスマスに行う街頭ボランティアのため、ふさわしい格好に着替えたセリナ。キャロルを歌いながら手作りのプレゼントを配る彼女の姿は、クリスマスに舞い降りた天使のよう。",
+            "HobbyTw": "病院のボランティア",
+            "CharacterVoiceTw": "涼本あきほ",
+            "WeaponNameTw": "タクティカルセラピー",
+            "WeaponDescTw": "セリナが持つアサルトライフル。\n\n注射器が発射されたりはしないが、セリナの心は注入できるかもしれない。"
+        },
+        {
+            "CharacterId": 20021,
+            "FamilyNameTw": "朝顔",
+            "PersonalNameTw": "ハナエ",
+            "SchoolYearTw": "1年生",
+            "CharacterAgeTw": "15歳",
+            "BirthdayTw": "5月12日",
+            "CharacterSSRNewTw": "メリークリスマース！\n サンタさんの代わりに、救護の天使がやってきましたよ～！",
+            "ProfileIntroductionTw": "トリニティ総合学園所属、クリスマスを迎えてサンタ姿に着替えた救護騎士団の団員。\n\n普段活発なハナエらしく、サンタ服も動きやすいものを選んでいる。なんでも楽しめるハナエにとって、クリスマスはまさにお祭りそのものなのだとか。プレゼントの包みを持って鐘を鳴らし、みんなに幸せを伝えるべくボランティアに参加している。",
+            "HobbyTw": "ダンス、チアリーディング",
+            "CharacterVoiceTw": "優木かな",
+            "WeaponNameTw": "ハッピースマイリー",
+            "WeaponDescTw": "ハナエのアサルトライフル。\n\nクリスマスにも彼女の銃は幸せな笑みを広げる。"
         }
     ]
 }

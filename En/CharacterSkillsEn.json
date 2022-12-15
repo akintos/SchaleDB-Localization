@@ -6947,6 +6947,244 @@
                     "26.6%"
                 ]
             ]
+        },
+        {
+            "SkillId": 10056200,
+            "NameEn": "Sound of Blessings",
+            "DescriptionEn": "Increases the <b:CriticalDamage> of all allies except self in a circular area around Serina by <?1> for 50s. Also grants them one <s:Holiday> stack (max. 15 stacks, lasts until the end of battle) and increases their <b:EnhancePierceRate> by <?2> for each <s:Holiday> stack they hold for 50s.",
+            "ParametersEn": [
+                [
+                    "27.2%",
+                    "31.3%",
+                    "35.4%",
+                    "39.5%",
+                    "43.5%",
+                    "47.6%",
+                    "55.8%",
+                    "57.8%",
+                    "61.9%",
+                    "66%"
+                ],
+                [
+                    "2.3%",
+                    "2.3%",
+                    "3%",
+                    "3%",
+                    "3.7%",
+                    "3.7%",
+                    "3.7%",
+                    "4.1%",
+                    "4.1%",
+                    "4.4%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10056300,
+            "NameEn": "Present Set C",
+            "DescriptionEn": "Every 21 normal attacks, throws a random gift that increases the <b:CriticalDamage> of all allies in a circular area except self by a different amount depending on the gift chosen.\n<b>Green Box</b>: <?1> for 30s.\n<b>Red Box</b>: <?2> for 30s.\n<b>Teddy Bear</b>: <?3> for 30s.",
+            "ParametersEn": [
+                [
+                    "11%",
+                    "11.6%",
+                    "12.1%",
+                    "14.4%",
+                    "14.9%",
+                    "15.5%",
+                    "17.7%",
+                    "18.2%",
+                    "18.8%",
+                    "21%"
+                ],
+                [
+                    "12.6%",
+                    "13.2%",
+                    "13.9%",
+                    "16.4%",
+                    "17%",
+                    "17.7%",
+                    "20.2%",
+                    "20.8%",
+                    "21.5%",
+                    "24%"
+                ],
+                [
+                    "14.2%",
+                    "14.9%",
+                    "15.6%",
+                    "18.5%",
+                    "19.2%",
+                    "19.9%",
+                    "22.7%",
+                    "23.4%",
+                    "24.2%",
+                    "27%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10056400,
+            "NameEn": "Guardian Angel's Will",
+            "DescriptionEn": "Increases <b:MAXHP> by <?1>.",
+            "ParametersEn": [
+                [
+                    "14%", "14.7%", "15.4%", "18.2%", "18.9%", "19.6%", "22.4%", "23.1%", "23.8%", 
+                    "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10056500,
+            "NameEn": "Holy Blessing",
+            "DescriptionEn": "Increases <b:Dodge> by <?1> while reloading.",
+            "ParametersEn": [
+                [
+                    "18.1%",
+                    "19%",
+                    "19.9%",
+                    "23.5%",
+                    "24.5%",
+                    "25.4%",
+                    "29%",
+                    "29.9%",
+                    "30.8%",
+                    "34.4%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10056450,
+            "NameEn": "Guardian Angel's Will+",
+            "DescriptionEn": "Increases <b:DEF> by <?1> and <b:MAXHP> by <?2>.",
+            "ParametersEn": [
+                [
+                    "200",
+                    "210",
+                    "220",
+                    "260",
+                    "270",
+                    "280",
+                    "320",
+                    "330",
+                    "340",
+                    "380"
+                ],
+                [
+                    "14%",
+                    "14.7%",
+                    "15.4%",
+                    "18.2%",
+                    "18.9%",
+                    "19.6%",
+                    "22.4%",
+                    "23.1%",
+                    "23.8%",
+                    "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 20021200,
+            "NameEn": "Time for Presents!",
+            "DescriptionEn": "Grants one <s:Holiday> stack to all allies in a circular area (max. 15 stacks, lasts until the end of battle). Also grants them <b:DotHeal>, continuously restoring HP equal to <?1> of Healing, plus an additional <?2> of Healing for each <s:Holiday> stack they hold, every 4s for 60s.",
+            "ParametersEn": [
+                [
+                    "7%",
+                    "8.1%",
+                    "10.2%",
+                    "11.2%",
+                    "13.4%",
+                    "14.4%",
+                    "16.5%",
+                    "17.6%",
+                    "19.7%",
+                    "20.8%"
+                ],
+                [
+                    "0.3%",
+                    "0.4%",
+                    "0.5%",
+                    "0.6%",
+                    "0.7%",
+                    "0.8%",
+                    "0.8%",
+                    "0.9%",
+                    "1%",
+                    "1%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 20021300,
+            "NameEn": "Cheer Up!",
+            "DescriptionEn": "Every 35s, increases the <b:HealEffectiveness> of the ally with the lowest HP by <?1> for 15s.",
+            "ParametersEn": [
+                [
+                    "22.7%",
+                    "23.9%",
+                    "25%",
+                    "29.5%",
+                    "30.7%",
+                    "31.8%",
+                    "36.4%",
+                    "37.5%",
+                    "38.6%",
+                    "43.2%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 20021400,
+            "NameEn": "Blessed Aid",
+            "DescriptionEn": "Increases <b:HealPower> by <?1>.",
+            "ParametersEn": [
+                [
+                    "14%", "14.7%", "15.4%", "18.2%", "18.9%", "19.6%", "22.4%", "23.1%", "23.8%", 
+                    "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 20021500,
+            "NameEn": "I'm Rooting For You!",
+            "DescriptionEn": "Increases all allies' <b:CriticalDamage> by <?1>.",
+            "ParametersEn": [
+                [
+                    "9.1%", "9.5%", "10%", "11.8%", "12.3%", "12.7%", "14.5%", "15%", "15.5%", 
+                    "17.3%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 20021450,
+            "NameEn": "Blessed Aid+",
+            "DescriptionEn": "Increases <b:HealPower> by <?1> plus a further <?2>.",
+            "ParametersEn": [
+                [
+                    "1008",
+                    "1058",
+                    "1108",
+                    "1310",
+                    "1360",
+                    "1411",
+                    "1612",
+                    "1662",
+                    "1713",
+                    "1914"
+                ],
+                [
+                    "14%",
+                    "14.7%",
+                    "15.4%",
+                    "18.2%",
+                    "18.9%",
+                    "19.6%",
+                    "22.4%",
+                    "23.1%",
+                    "23.8%",
+                    "26.6%"
+                ]
+            ]
         }
     ]
 }

@@ -929,6 +929,10 @@
                 "ScenarioKey": 3198922083,
                 "En": "Get Set, Go!: Kivotos Grand Sports Festival",
                 "Cn": "Get Set, Go! ~ 基沃托斯大运动会 晄轮大祭"
+            },
+            "819": {
+                "CodeKey": 3033516854,
+                "En": "Merry Christmas in the Cathedral"
             }
         },
         "StageType": {
@@ -1942,6 +1946,14 @@
                 "Th": "แสตมป์ดอกไม้",
                 "Tw": null,
                 "Cn": null
+            },
+            "Special_Holiday": {
+                "En": "Holy Night Blessing",
+                "Jp": "「聖夜の祝福」",
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             }
         },
         "BuffNameLong": {
@@ -2464,6 +2476,14 @@
                 "Kr": "칭찬 도장",
                 "Tw": null,
                 "Cn": null
+            },
+            "Special_Holiday": {
+                "En": "Holy Night Blessings",
+                "Jp": "「聖夜の祝福」",
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             }
         },
         "BuffTooltip": {
@@ -2833,6 +2853,14 @@
                 "En": "Reduces allies' EX skill cost and restores own HP when Kokona reaches 5 stacks.",
                 "Cn": "当心奈进行5次攻击时降低队伍中其他学生的EX技能费用并恢复自身生命值。",
                 "Th": "ลดค่าใช้สกิล EX ของฝ่ายเรายกเว้นตัวเองลง 1 และฟื้นฟู HP ของตัวเองเมื่อสะสมครบ 5 ชั้น\nสแตมป์ดอกไม้จะถูกรีเซ็ทเป็น 0 หลังการใช้งานสกิลรอง"
+            },
+            "Special_Holiday": {
+                "En": "Increases the effects of certain EX skills on this character.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             }
         },
         "ServerName": {
@@ -4940,7 +4968,7 @@
                 "En": "{0}s",
                 "Jp": null,
                 "Kr": null,
-                "Th": "{0}",
+                "Th": "{0} วินาที",
                 "Tw": null,
                 "Cn": null
             },

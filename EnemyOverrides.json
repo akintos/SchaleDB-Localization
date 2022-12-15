@@ -220,14 +220,16 @@
         "NameEn": "Ampoule Missile",
         "NameTh": "มิสไซล์หลอดแก้ว",
         "NameJp": "アンプルミサイル",
-        "NameCn": "安瓿导弹"
+        "NameCn": "安瓿导弹",
+        "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
         "Id": 7310120,
         "NameEn": "Shark Missile",
         "NameTh": "ชาร์ค มิสไซล์",
         "NameJp": "シャークミサイル",
-        "NameCn": "鲨鱼导弹"
+        "NameCn": "鲨鱼导弹",
+        "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
         "Id": 7310130,
@@ -235,14 +237,16 @@
         "NameTh": "มิสไซล์",
         "NameJp": "ミサイル",
         "NameTw": "飛彈",
-        "NameCn": "导弹"
+        "NameCn": "导弹",
+        "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
         "Id": 7310140,
         "NameEn": "Black Missile",
         "NameTh": "มิสไซล์ดำ",
         "NameJp": "ブラックミサイル",
-        "NameCn": "安瓿导弹"
+        "NameCn": "安瓿导弹",
+        "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
         "Id": 7310150,
@@ -250,7 +254,8 @@
         "NameTh": "มิสไซล์แฮนด์เมดของแก๊งหมวกกันน็อค",
         "NameJp": "ヘルメット団お手製ミサイル",
         "NameTw": "鋼盔團的自製飛彈",
-        "NameCn": "钢盔团的自制导弹"
+        "NameCn": "钢盔团的自制导弹",
+        "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
         "Id": 7310160,
@@ -265,14 +270,16 @@
         "NameEn": "Ampoule Missile",
         "NameTh": "มิสไซล์หลอดแก้ว",
         "NameJp": "アンプルミサイル",
-        "NameCn": "安瓿导弹"
+        "NameCn": "安瓿导弹",
+        "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
         "Id": 7310220,
         "NameEn": "Shark Missile",
         "NameTh": "ชาร์ค มิสไซล์",
         "NameJp": "シャークミサイル",
-        "NameCn": "鲨鱼导弹"
+        "NameCn": "鲨鱼导弹",
+        "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
         "Id": 7310230,
@@ -280,14 +287,16 @@
         "NameTh": "มิสไซล์",
         "NameJp": "ミサイル",
         "NameTw": "飛彈",
-        "NameCn": "导弹"
+        "NameCn": "导弹",
+        "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
         "Id": 7310240,
         "NameEn": "Black Missile",
         "NameTh": "มิสไซล์ดำ",
         "NameJp": "ブラックミサイル",
-        "NameCn": "黑色导弹"
+        "NameCn": "黑色导弹",
+        "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
         "Id": 7310250,
@@ -295,7 +304,8 @@
         "NameTh": "มิสไซล์แฮนด์เมดของแก๊งหมวกกันน็อค",
         "NameJp": "ヘルメット団お手製ミサイル",
         "NameTw": "鋼盔團的自製飛彈",
-        "NameCn": "钢盔团的自制导弹"
+        "NameCn": "钢盔团的自制导弹",
+        "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
         "Id": 7310260,
@@ -310,14 +320,16 @@
         "NameEn": "Ampoule Missile",
         "NameTh": "มิสไซล์หลอดแก้ว",
         "NameJp": "アンプルミサイル",
-        "NameCn": "安瓿导弹"
+        "NameCn": "安瓿导弹",
+        "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
         "Id": 7310320,
         "NameEn": "Shark Missile",
         "NameTh": "ชาร์ค มิสไซล์",
         "NameJp": "シャークミサイル",
-        "NameCn": "鲨鱼导弹"
+        "NameCn": "鲨鱼导弹",
+        "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
         "Id": 7310330,
@@ -325,14 +337,16 @@
         "NameTh": "มิสไซล์",
         "NameJp": "ミサイル",
         "NameTw": "飛彈",
-        "NameCn": "导弹"
+        "NameCn": "导弹",
+        "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
         "Id": 7310340,
         "NameEn": "Black Missile",
         "NameTh": "มิสไซล์ดำ",
         "NameJp": "ブラックミサイル",
-        "NameCn": "黑色导弹"
+        "NameCn": "黑色导弹",
+        "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
         "Id": 7310350,
@@ -340,7 +354,8 @@
         "NameTh": "มิสไซล์แฮนด์เมดของแก๊งหมวกกันน็อค",
         "NameJp": "ヘルメット団お手製ミサイル",
         "NameTw": "鋼盔團的自製飛彈",
-        "NameCn": "钢盔团的自制导弹"
+        "NameCn": "钢盔团的自制导弹",
+        "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
         "Id": 7310360,
@@ -558,5 +573,221 @@
         "NameKr": "페로로 미니언",
         "NameTw": "佩洛洛士兵",
         "NameCn": "佩洛洛士兵"
+    },
+    {
+        "Id": 7301101,
+        "Icon": "EnemyInfo_Droid_Decagram_AR"
+    },
+    {
+        "Id": 7301201,
+        "Icon": "EnemyInfo_Droid_Decagram_AR"
+    },
+    {
+        "Id": 7301301,
+        "Icon": "EnemyInfo_Droid_Decagram_AR"
+    },
+    {
+        "Id": 7301401,
+        "Icon": "EnemyInfo_Droid_Decagram_AR"
+    },
+    {
+        "Id": 7301501,
+        "Icon": "EnemyInfo_Droid_Decagram_AR"
+    },
+    {
+        "Id": 7301601,
+        "Icon": "EnemyInfo_Droid_Decagram_AR"
+    },
+    {
+        "Id": 7301101,
+        "Icon": "EnemyInfo_Droid_Decagram_AR"
+    },
+    {
+        "Id": 7301201,
+        "Icon": "EnemyInfo_Droid_Decagram_AR"
+    },
+    {
+        "Id": 7301301,
+        "Icon": "EnemyInfo_Droid_Decagram_AR"
+    },
+    {
+        "Id": 7301401,
+        "Icon": "EnemyInfo_Droid_Decagram_AR"
+    },
+    {
+        "Id": 7301501,
+        "Icon": "EnemyInfo_Droid_Decagram_AR"
+    },
+    {
+        "Id": 7301601,
+        "Icon": "EnemyInfo_Droid_Decagram_AR"
+    },
+    {
+        "Id": 7301103,
+        "Icon": "EnemyInfo_Drone_Decagram_Missile"
+    },
+    {
+        "Id": 7301203,
+        "Icon": "EnemyInfo_Drone_Decagram_Missile"
+    },
+    {
+        "Id": 7301303,
+        "Icon": "EnemyInfo_Drone_Decagram_Missile"
+    },
+    {
+        "Id": 7301403,
+        "Icon": "EnemyInfo_Drone_Decagram_Missile"
+    },
+    {
+        "Id": 7301503,
+        "Icon": "EnemyInfo_Drone_Decagram_Missile"
+    },
+    {
+        "Id": 7301603,
+        "Icon": "EnemyInfo_Drone_Decagram_Missile"
+    },
+    {
+        "Id": 7301105,
+        "Icon": "EnemyInfo_Drone_Decagram_Vulcan"
+    },
+    {
+        "Id": 7301205,
+        "Icon": "EnemyInfo_Drone_Decagram_Vulcan"
+    },
+    {
+        "Id": 7301305,
+        "Icon": "EnemyInfo_Drone_Decagram_Vulcan"
+    },
+    {
+        "Id": 7301405,
+        "Icon": "EnemyInfo_Drone_Decagram_Vulcan"
+    },
+    {
+        "Id": 7301505,
+        "Icon": "EnemyInfo_Drone_Decagram_Vulcan"
+    },
+    {
+        "Id": 7301605,
+        "Icon": "EnemyInfo_Drone_Decagram_Vulcan"
+    },
+    {
+        "Id": 7301107,
+        "Icon": "EnemyInfo_GuardTower_Decargam_Grenade"
+    },
+    {
+        "Id": 7301207,
+        "Icon": "EnemyInfo_GuardTower_Decargam_Grenade"
+    },
+    {
+        "Id": 7301307,
+        "Icon": "EnemyInfo_GuardTower_Decargam_Grenade"
+    },
+    {
+        "Id": 7301407,
+        "Icon": "EnemyInfo_GuardTower_Decargam_Grenade"
+    },
+    {
+        "Id": 7301507,
+        "Icon": "EnemyInfo_GuardTower_Decargam_Grenade"
+    },
+    {
+        "Id": 7301607,
+        "Icon": "EnemyInfo_GuardTower_Decargam_Grenade"
+    },
+    {
+        "Id": 7301109,
+        "Icon": "EnemyInfo_Goliath_Decagram_Vulcan"
+    },
+    {
+        "Id": 7301209,
+        "Icon": "EnemyInfo_Goliath_Decagram_Vulcan"
+    },
+    {
+        "Id": 7301309,
+        "Icon": "EnemyInfo_Goliath_Decagram_Vulcan"
+    },
+    {
+        "Id": 7301409,
+        "Icon": "EnemyInfo_Goliath_Decagram_Vulcan"
+    },
+    {
+        "Id": 7301509,
+        "Icon": "EnemyInfo_Goliath_Decagram_Vulcan"
+    },
+    {
+        "Id": 7301609,
+        "Icon": "EnemyInfo_Goliath_Decagram_Vulcan"
+    },
+    {
+        "Id": 7310100,
+        "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
+    },
+    {
+        "Id": 7310200,
+        "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
+    },
+    {
+        "Id": 7310300,
+        "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
+    },
+    {
+        "Id": 7311000,
+        "Icon": "EnemyInfo_Wakamo_Swimsuit_Original"
+    },
+    {
+        "Id": 7311100,
+        "Icon": "EnemyInfo_Wakamo_Swimsuit_Original"
+    },
+    {
+        "Id": 7311200,
+        "Icon": "EnemyInfo_Wakamo_Swimsuit_Original"
+    },
+    {
+        "Id": 7308104,
+        "Icon": "EnemyInfo_Terror_KumabotPapa_Slumpia_SG"
+    },
+    {
+        "Id": 7308204,
+        "Icon": "EnemyInfo_Terror_KumabotPapa_Slumpia_SG"
+    },
+    {
+        "Id": 7308304,
+        "Icon": "EnemyInfo_Terror_KumabotPapa_Slumpia_SG"
+    },
+    {
+        "Id": 7308404,
+        "Icon": "EnemyInfo_Terror_KumabotPapa_Slumpia_SG"
+    },
+    {
+        "Id": 7308504,
+        "Icon": "EnemyInfo_Terror_KumabotPapa_Slumpia_SG"
+    },
+    {
+        "Id": 7308604,
+        "Icon": "EnemyInfo_Terror_KumabotPapa_Slumpia_SG"
+    },
+    {
+        "Id": 7308105,
+        "Icon": "EnemyInfo_Terror_Usagibot_Slumpia_AR"
+    },
+    {
+        "Id": 7308205,
+        "Icon": "EnemyInfo_Terror_Usagibot_Slumpia_AR"
+    },
+    {
+        "Id": 7308305,
+        "Icon": "EnemyInfo_Terror_Usagibot_Slumpia_AR"
+    },
+    {
+        "Id": 7308405,
+        "Icon": "EnemyInfo_Terror_Usagibot_Slumpia_AR"
+    },
+    {
+        "Id": 7308505,
+        "Icon": "EnemyInfo_Terror_Usagibot_Slumpia_AR"
+    },
+    {
+        "Id": 7308605,
+        "Icon": "EnemyInfo_Terror_Usagibot_Slumpia_AR"
     }
 ]
