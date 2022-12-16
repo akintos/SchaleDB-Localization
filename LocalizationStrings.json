@@ -412,13 +412,13 @@
             },
             "StabilityPoint": {
                 "CodeKey": 3571156956,
-                "Cn": "稳定性",
+                "Cn": "稳定点",
                 "Th": "ค่าความเสถียร"
             },
             "StabilityRate": {
                 "CodeKey": 1441398521,
                 "En": "Stability Rate",
-                "Cn": "稳定性",
+                "Cn": "稳定率",
                 "Th": "ค่าความเสถียร"
             },
             "Range": {
@@ -3414,7 +3414,7 @@
                 "Kr": null,
                 "Th": "เอฟเฟกต์อันตรายบนตัวศัตรู",
                 "Tw": null,
-                "Cn": null
+                "Cn": "敌人减益效果"
             },
             "enemy_select": {
                 "En": "Select Enemy",
@@ -3422,7 +3422,7 @@
                 "Kr": null,
                 "Th": "เลือกศัตรู",
                 "Tw": null,
-                "Cn": null
+                "Cn": "选择敌人"
             },
             "buff_custom": {
                 "En": "Custom Buffs",
@@ -3438,7 +3438,7 @@
                 "Kr": null,
                 "Th": "บัพแบบกำหนดเองของศัตรู",
                 "Tw": null,
-                "Cn": null
+                "Cn": "敌人自定义增益效果"
             },
             "buff_custom_base": {
                 "En": "Add as base amount",
@@ -3462,7 +3462,7 @@
                 "Kr": null,
                 "Th": "ชื่อ (ไม่จำเป็น)",
                 "Tw": null,
-                "Cn": null
+                "Cn": "名称 (可选)"
             },
             "buff_custom_value_placeholder": {
                 "En": "Value",
@@ -3470,7 +3470,7 @@
                 "Kr": null,
                 "Th": "จำนวนค่าที่ต้องการ",
                 "Tw": null,
-                "Cn": null
+                "Cn": "值"
             },
             "supportstats_search": {
                 "En": "Search for Special Student",
@@ -3518,7 +3518,7 @@
                 "Kr": null,
                 "Th": "อัปเกรด",
                 "Tw": null,
-                "Cn": null
+                "Cn": "升级"
             },
             "student_skills_materials": {
                 "En": "Materials",
@@ -4681,7 +4681,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "ค่าที่ใส่ลงไปไม่ถูกต้อง",
-                "Tw": null,
+                "Tw": "鍵入的數值無效",
                 "Cn": "输入的数值无效"
             },
             "stat_defense_tooltip": {
@@ -4753,7 +4753,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "ยินดีต้อนรับเหล่าเซ็นเซย์ทุกท่านค่ะ!",
-                "Tw": null,
+                "Tw": "歡迎回來，老師！",
                 "Cn": "欢迎回来，老师！"
             },
             "home_introduction": {
@@ -4761,15 +4761,15 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "Schale DB เป็นศูนย์รวมข้อมูลอย่างไม่เป็นทางการของเกมมือถือ <i class=\"text-bold\">Blue Archive</i> ที่พัฒนาโดยทาง Nexon Games และได้รับการเผยแพร่โดย Yostar (เซิร์ฟเวอร์ญี่ปุ่น) และ Nexon (เซิร์ฟเวอร์โกลบอล) ทั้งในระบบ iOS และ Android",
-                "Tw": null,
-                "Cn": "Schale DB 是由 Nexon Games 开发，悠星（日服）和Nexon（国际服）运营的手游<i class=\"text-bold\">蔚蓝档案</i>的非官方数据库。"
+                "Tw": "Schale DB 是 Nexon Games 開發，日服由 Yostar、國際服由 Nexon 運營的手游<i class=\"text-bold\">蔚藍檔案</i>的非官方數據庫。",
+                "Cn": "Schale DB 是 Nexon Games 开发，日服由 Yostar、国际服由 Nexon 运营的手游<i class=\"text-bold\">蔚蓝档案</i>的非官方数据库。"
             },
             "home_change_server": {
                 "En": "Please select your game server using the settings menu <i class=\"fa-solid fa-gear mx-1\"></i> to see only information that has been released on that server.",
                 "Jp": null,
                 "Kr": null,
                 "Th": "กรุณาเลือกเซิร์ฟเวอร์เกมของคุณในหน้าเมนูตั้งค่า <i class=\"fa-solid fa-gear mx-1\"></i> เพื่อมองเห็นเฉพาะข้อมูลที่ได้รับการอัปเดทแล้วในเซิร์ฟเวอร์นั้นๆ",
-                "Tw": null,
+                "Tw": "請使用設置菜單 <i class=\"fa-solid fa-gear mx-1\"></i> 選擇日服/國際服以顯示對應伺服器的内容。",
                 "Cn": "请使用设置菜单 <i class=\"fa-solid fa-gear mx-1\"></i> 选择日服/国际服以显示对应服务器的内容。"
             },
             "home_features": {
@@ -4777,7 +4777,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "คุณสมบัติต่างๆ",
-                "Tw": null,
+                "Tw": "特性",
                 "Cn": "特性"
             },
             "home_translations_help": {
@@ -4785,15 +4785,15 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "ในปัจจุบัน Schale DB สามารถใช้งานได้ใน 6 ภาษา อยากให้ความช่วยเหลือในการแปลภาษา? กรุณาติดต่อได้ทาง Discord (lonqie#2708) หรือลองเข้าไปตรวจสอบใน<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">โปรเจคแปลภาษา</a>ได้เลย! ",
-                "Tw": null,
-                "Cn": "Schale DB 目前支持6种语言。如果想帮助翻译请通过Discord (lonqie#2708)联系或查看<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">本地化项目</a>！"
+                "Tw": "Schale DB 目前支援6種語言。如果你想幫忙翻譯請透過Discord(lonqie#2708)聯係或查看<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">本地化項目</a>！",
+                "Cn": "Schale DB 目前支持6种语言。如果你想帮助翻译请通过Discord(lonqie#2708)联系或查看<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\" target=\"_blank\">本地化项目</a>！"
             },
             "home_features_list": {
                 "En": "<li>Full information on all students and skills, including summons or vehicles.</li><li>Comprehensive stats calculation that can display a student's stats under any configuration of stars, level, equipment, and buffs from skills.</li><li>Complete Items, Equipment and Furniture database.</li><li>Reward drops, maps and detailed enemy information for all Campaign, Event Quest, Challenge and Daily stages.</li><li>Stats and Skill information for Total Assault bosses and Joint Firing Drill events.</li><li>View the chances of possible items received from crafting nodes.</li>",
                 "Jp": null,
                 "Kr": null,
                 "Th": "<li>ข้อมูลของนักเรียนและสกิลทุกคนอย่างครบถ้วน รวมไปถึงยานพาหนะ, วัตถุอัญเชิญและวัตถุกำบัง</li><li>หน้าต่างคำนวนค่าสถานะต่างๆ ของนักเรียนภายใต้เงื่อนไขทุกรูปแบบไม่ว่าจะเป็นจำนวนดาว, เลเวล, อุปกรณ์สวมใส่หรือบัพจากสกิลต่างๆ</li><li>ลิสของไอเทม, อุปกรณ์สวมใส่และเฟอร์นิเจอร์อย่างครบถ้วน</li><li>รางวัลที่ได้รับ, แผนที่และข้อมูลของศัตรูแบบละเอียดสำหรับทุกภารกิจหลัก, เควสอีเวนท์, ชาเลนจ์และด่านเควสรายวัน</li><li>ค่าสถานะและข้อมูลสกิลสำหรับอีเวนท์เรดบอสและการสอบประมวลผล</li><li>ดูตารางและอัตราการได้รับไอเทมต่างๆ จากการคราฟไอเทม</li>",
-                "Tw": null,
+                "Tw": "<li>有關全體學生和技能，包含召喚單位與載具單位的完整信息。</li><li>全面的數據計算，可以顯示學生在任何星級、等級、裝備和技能的增益效果下的面板數據。</li><li>完整的物品、裝備和傢俱數據庫。</li><li>所有關卡的獎勵掉落、地圖和詳細的敵人信息。</li><li>總力戰BOSS與綜合戰術考試的數據與技能信息。</li><li>查看從合成節點可能獲取物品的幾率。</li>",
                 "Cn": "<li>有关全体学生和技能，包含召唤单位与载具单位的完整信息。</li><li>全面的数据计算，可以显示学生在任何星级、等级、装备和技能的增益效果下的面板数据。</li><li>完整的物品、装备和家具数据库。</li><li>所有关卡的奖励掉落、地图和详细的敌人信息。</li><li>总力战BOSS与综合战术考试的数据与技能信息。</li><li>查看从合成节点可能获取物品的几率。</li>"
             },
             "home_footer_text": {
@@ -4801,15 +4801,15 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "Schale DB พัฒนาและอัปเดทโดย lonqie โดยได้รับความช่วยเหลือในการแปลภาษาเพิ่มเติมจาก Blue-Roar และ TKRotund\nSchale DB นั้นไม่ได้มีส่วนเกี่ยวข้องใดๆ กับทาง Nexon, Nexon Games หรือ Yostar รูปภาพและข้อมูลต่างๆ ที่ใช้ในฐานข้อมูลนี้ถือเป็นสมบัติและทรัพย์สินทางปัญญาของผู้ถือครองลิขสิทธิ์ดั้งเดิม",
-                "Tw": null,
-                "Cn": "Schale DB 由 lonqie 开发与维护，Blue-Roar 与 TKRotund 提供额外翻译。\nSchale DB 与悠星、Nexon、Nexon Games 没有关联。本数据库中使用的所有游戏作品、信息和素材均为各自作者的财产和版权。"
+                "Tw": "Schale DB 由 lonqie 開發與維護，Blue-Roar 与 TKRotund 提供額外翻譯。\nSchale DB 與 Yostar、Nexon、Nexon Games 沒有關聯。本數據庫中使用的所有游戲作品、信息和素材均爲各自作者的財產和版權。",
+                "Cn": "Schale DB 由 lonqie 开发与维护，Blue-Roar 与 TKRotund 提供额外翻译。\nSchale DB 与 Yostar、Nexon、Nexon Games 没有关联。本数据库中使用的所有游戏作品、信息和素材均为各自作者的财产和版权。"
             },
             "changelog": {
                 "En": "Changelog",
                 "Jp": null,
                 "Kr": null,
                 "Th": "บันทึกการอัปเดท",
-                "Tw": null,
+                "Tw": "更新日志",
                 "Cn": "更新日志"
             },
             "skillinfo_empty": {
@@ -4818,7 +4818,7 @@
                 "Kr": null,
                 "Th": "นักเรียนที่เลือกไม่มีสกิลสร้างความเสียหายหรือสกิลรักษาที่จะแสดงให้ดู",
                 "Tw": null,
-                "Cn": null
+                "Cn": "选中的角色没有可显示的造成伤害或恢复体力的技能。"
             },
             "skill_normalattack": {
                 "En": "Normal Attack",
@@ -4826,7 +4826,7 @@
                 "Kr": null,
                 "Th": "การโจมตีปกติ",
                 "Tw": null,
-                "Cn": null
+                "Cn": "普通攻击"
             },
             "skill_normalattack_target": {
                 "En": "Deals <?1> damage to one enemy.",
@@ -4834,7 +4834,7 @@
                 "Kr": null,
                 "Th": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรู 1 เป้าหมาย",
                 "Tw": null,
-                "Cn": null
+                "Cn": "对一个敌人造成<?1>伤害。"
             },
             "skill_normalattack_circle": {
                 "En": "Deals <?1> damage to enemies in a circular area.",
@@ -4842,7 +4842,7 @@
                 "Kr": null,
                 "Th": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูในรัศมี",
                 "Tw": null,
-                "Cn": null
+                "Cn": "对圆形范围内敌人造成<?1>伤害。"
             },
             "skill_normalattack_line": {
                 "En": "Deals <?1> damage to enemies in a straight line.",
@@ -4850,7 +4850,7 @@
                 "Kr": null,
                 "Th": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูในแนวเส้นตรง",
                 "Tw": null,
-                "Cn": null
+                "Cn": "对直线范围内敌人造成<?1>伤害。"
             },
             "type_effectiveness": {
                 "En": "Type Effectiveness",
@@ -4858,7 +4858,7 @@
                 "Kr": null,
                 "Th": "ประสิทธิภาพของการโจมตี",
                 "Tw": null,
-                "Cn": null
+                "Cn": "类型效益"
             },
             "level_difference": {
                 "En": "Level Difference",
@@ -4866,7 +4866,7 @@
                 "Kr": null,
                 "Th": "ค่าตัวแปรความต่างของเลเวล",
                 "Tw": null,
-                "Cn": null
+                "Cn": "等级差异"
             },
             "hit_chance": {
                 "En": "Hit Chance",
@@ -4874,7 +4874,7 @@
                 "Kr": null,
                 "Th": "โอกาสโจมตีโดนเป้าหมาย",
                 "Tw": null,
-                "Cn": null
+                "Cn": "命中几率"
             },
             "crit_chance": {
                 "En": "Crit Chance",
@@ -4890,7 +4890,7 @@
                 "Kr": null,
                 "Th": "ค่าตัวแปรความเสถียร",
                 "Tw": null,
-                "Cn": null
+                "Cn": "稳定性差异"
             },
             "dmginfo_hit_count": {
                 "En": "Hit Count",
@@ -4898,7 +4898,7 @@
                 "Kr": null,
                 "Th": "จำนวนครั้งที่โจมตี",
                 "Tw": null,
-                "Cn": null
+                "Cn": "命中次数"
             },
             "dmginfo_heal_count": {
                 "En": "Heal Count",
@@ -4906,7 +4906,7 @@
                 "Kr": null,
                 "Th": "จำนวนครั้งที่ฟื้นฟู",
                 "Tw": null,
-                "Cn": null
+                "Cn": "治疗次数"
             },
             "dmginfo_ignore_def": {
                 "En": "Ignore DEF",
@@ -4914,7 +4914,7 @@
                 "Kr": null,
                 "Th": "อัตราค่าป้องกันที่ไม่สน",
                 "Tw": null,
-                "Cn": null
+                "Cn": "无视防御"
             },
             "dmginfo_hit_avg": {
                 "En": "Avg. Hit DMG",
@@ -4922,7 +4922,7 @@
                 "Kr": null,
                 "Th": "ความเสียหายต่อครั้งโดยเฉลี่ย",
                 "Tw": null,
-                "Cn": null
+                "Cn": "平均命中伤害"
             },
             "dmginfo_crit": {
                 "En": " (Crit)",
@@ -4930,7 +4930,7 @@
                 "Kr": null,
                 "Th": " (คริ)",
                 "Tw": null,
-                "Cn": null
+                "Cn": " (暴击)"
             },
             "dmginfo_total_avg": {
                 "En": "Avg. Total DMG",
@@ -4938,7 +4938,7 @@
                 "Kr": null,
                 "Th": "ความเสียหายรวมโดยเฉลี่ย",
                 "Tw": null,
-                "Cn": null
+                "Cn": "平均总伤害"
             },
             "dmginfo_dmg": {
                 "En": "DMG",
@@ -4946,7 +4946,7 @@
                 "Kr": null,
                 "Th": "ความเสียหาย",
                 "Tw": null,
-                "Cn": null
+                "Cn": "伤害"
             },
             "dmginfo_dmg_avg": {
                 "En": "Average DMG",
@@ -4954,7 +4954,7 @@
                 "Kr": null,
                 "Th": "ความเสียหายโดยเฉลี่ย",
                 "Tw": null,
-                "Cn": null
+                "Cn": "平均伤害"
             },
             "dmginfo_rate_of_fire": {
                 "En": "Rate of Fire",
@@ -4962,7 +4962,7 @@
                 "Kr": null,
                 "Th": "อัตราการยิง",
                 "Tw": null,
-                "Cn": null
+                "Cn": "开火速率"
             },
             "time_seconds": {
                 "En": "{0}s",
@@ -4970,7 +4970,7 @@
                 "Kr": null,
                 "Th": "{0} วินาที",
                 "Tw": null,
-                "Cn": null
+                "Cn": "{0}秒"
             },
             "time_seconds_frames": {
                 "En": "{0}s ({1} frames)",
@@ -4978,7 +4978,7 @@
                 "Kr": null,
                 "Th": "{0} วินาที ({1} เฟรม)",
                 "Tw": null,
-                "Cn": null
+                "Cn": "{0}秒 ({1}帧)"
             },
             "normalattack_burst": {
                 "En": "burst",
@@ -4986,7 +4986,7 @@
                 "Kr": null,
                 "Th": "ชุด",
                 "Tw": null,
-                "Cn": null  
+                "Cn": "爆裂"
             },
             "dmginfo_rate_of_fire_tooltip": {
                 "En": "Attack Duration: {0}\nAttack Delay: {1}",
@@ -4994,7 +4994,7 @@
                 "Kr": null,
                 "Th": "ระยะเวลาในการโจมตี: {0}\nดีเลย์ในการโจมตี: {1}",
                 "Tw": null,
-                "Cn": null
+                "Cn": "攻击持续：{0}\n攻击延迟：{1}"
             },
             "dmginfo_reload_time": {
                 "En": "Reload Time",
@@ -5002,7 +5002,7 @@
                 "Kr": null,
                 "Th": "ระยะเวลารีโหลด",
                 "Tw": null,
-                "Cn": null
+                "Cn": "换弹时间"
             },
             "dmginfo_reload_time_tooltip": {
                 "En": "Reload Duration: {0}\nStart Delay: {1}\nEnd Delay: {2}",
@@ -5010,7 +5010,7 @@
                 "Kr": null,
                 "Th": "ระยะเวลารีโหลด: {0}\nดีเลย์ตอนเริ่ม: {1}\nดีเลย์ตอนจบ: {2}",
                 "Tw": null,
-                "Cn": null
+                "Cn": "换弹持续：{0}\n开始延迟：{1}\n结束延迟：{2}"
             },
             "dmginfo_avg_dps": {
                 "En": "Average DPS",
@@ -5018,7 +5018,7 @@
                 "Kr": null,
                 "Th": "ความเสียหายที่ทำได้ต่อวินาทีโดยเฉลี่ย",
                 "Tw": null,
-                "Cn": null
+                "Cn": "平均 DPS"
             },
             "dmginfo_heal_amount": {
                 "En": "Amount Healed",
@@ -5026,7 +5026,7 @@
                 "Kr": null,
                 "Th": "ปริมาณ HP ที่รักษา",
                 "Tw": null,
-                "Cn": null
+                "Cn": "治愈量"
             },
             "dmginfo_shield_amount": {
                 "En": "Barrier HP",
@@ -5034,7 +5034,7 @@
                 "Kr": null,
                 "Th": "HP ของบาเรีย",
                 "Tw": null,
-                "Cn": null
+                "Cn": "护盾 HP"
             },
             "dmginfo_cc_effect_chance": {
                 "En": "{0} Chance",
@@ -5042,7 +5042,7 @@
                 "Kr": null,
                 "Th": "โอกาสในการ {0}",
                 "Tw": null,
-                "Cn": null
+                "Cn": "{0} 几率"
             },
             "dmginfo_cc_effect_duration": {
                 "En": "{0} Duration (Hod Insane)",
@@ -5058,7 +5058,7 @@
                 "Kr": null,
                 "Th": "ความเสียหายถูกจำกัดที่ {0}",
                 "Tw": null,
-                "Cn": null
+                "Cn": "{0} 伤害限制"
             }
         }
     }
