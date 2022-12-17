@@ -10473,7 +10473,7 @@
         {
             "SkillId": 10036500,
             "NameCn": "重的交给我！",
-            "DescriptionCn": "攻击时对<b>medium</b>体型目标造成攻击力<?1>的额外伤害",
+            "DescriptionCn": "攻击时对<b>中等</b>体型目标造成攻击力<?1>的额外伤害",
             "ParametersCn": [
                 [
                     "21.8%",
@@ -10995,7 +10995,7 @@
         {
             "SkillId": 20015200,
             "NameCn": "发射信号弹！！",
-            "DescriptionCn": "Grants a <b:Shield> to all allies in a circular area with HP equal to <?1> of Healing lasting up to 16s.",
+            "DescriptionCn": "赋予圆形范围内友军治愈力<?1>的<b:Shield> (16秒内)",
             "ParametersCn": [
                 [
                     "144%",
@@ -11008,7 +11008,7 @@
         },
         {
             "SkillId": 20015300,
-            "NameCn": "カブトムシシールド！",
+            "NameCn": "独角仙之盾！",
             "DescriptionCn": "每40秒提升防御力最高友军<?1><b:DEF> (33秒内)",
             "ParametersCn": [
                 [
@@ -11027,7 +11027,7 @@
         },
         {
             "SkillId": 20015400,
-            "NameCn": "癒しの波动、とりゃぁっ！",
+            "NameCn": "治愈波动！看招！",
             "DescriptionCn": "<b:HealPower>增加<?1>",
             "ParametersCn": [
                 [
@@ -11046,7 +11046,7 @@
         },
         {
             "SkillId": 20015500,
-            "NameCn": "まだまだ顽张れるよ！",
+            "NameCn": "还能再拼！",
             "DescriptionCn": "提升全体友军<?1><b:MAXHP>",
             "ParametersCn": [
                 [
@@ -11265,7 +11265,7 @@
         {
             "SkillId": 16009500,
             "NameCn": "满流忍法！奥义发动！",
-            "DescriptionCn": "<b:CriticalDamage>增加<?1> Effect is increased by an additional <?2> for every other Ninjutsu Research Club student in the same unit (up to a maximum of 3 times).",
+            "DescriptionCn": "<b:CriticalDamage>增加<?1>\n除自己外，队伍内每多一名忍法研究部学生，效果额外增加<?2>（最多3人）",
             "ParametersCn": [
                 [
                     "8.4%",
@@ -11348,7 +11348,7 @@
         {
             "SkillId": 10040300,
             "NameCn": "疯狂练习手里剑！",
-            "DescriptionCn": "每7次常规攻击对一个敌人造成<?1>伤害。如果为<b>medium</b>体型敌人，降低其<?2><d:DEF> (20秒内)",
+            "DescriptionCn": "每7次常规攻击对一个敌人造成<?1>伤害。如果为<b>中等</b>体型敌人，降低其<?2><d:DEF> (20秒内)",
             "ParametersCn": [
                 [
                     "418%",
@@ -11398,7 +11398,7 @@
         {
             "SkillId": 10040500,
             "NameCn": "我还不能倒下！",
-            "DescriptionCn": "Whenever Tsukuyo is inflicted with a crowd-control effect, restores own HP by <?1> of Healing.",
+            "DescriptionCn": "每当月咏得到群控效果时，自身体力以治愈力治癒力<?1>恢复",
             "ParametersCn": [
                 [
                     "97.5%",

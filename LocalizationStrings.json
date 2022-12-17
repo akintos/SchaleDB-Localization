@@ -3909,8 +3909,8 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "จำลองเป้าหมาย",
-                "Tw": null,
-                "Cn": null
+                "Tw": "目標",
+                "Cn": "目标"
             },
             "summon": {
                 "En": "Summon",
@@ -4114,7 +4114,7 @@
                 "Kr": "상세",
                 "Th": "รายละเอียด",
                 "Tw": "詳情",
-                "Cn": "詳情"
+                "Cn": "详情"
             },
             "options_short": {
                 "En": "Opts.",
