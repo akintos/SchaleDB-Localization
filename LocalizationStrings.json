@@ -542,6 +542,14 @@
             }
         },
         "IsLimited": {
+            "0": {
+                "En": "Permanent",
+                "Jp": null,
+                "Kr": null,
+                "Tw": null,
+                "Cn": null,
+                "Th": null
+            },
             "1": {
                 "En": "Unique",
                 "Jp": "限定",
@@ -3791,6 +3799,14 @@
                 "Th": "หายาก",
                 "Tw": "稀有度",
                 "Cn": "稀有度"
+            },
+            "availability": {
+                "En": "Availability",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             },
             "attacktype": {
                 "En": "Attack Type",

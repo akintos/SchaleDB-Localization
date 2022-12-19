@@ -961,16 +961,6 @@
             "Comment": "Event 803-3 Challenge"
         },
         {
-            "Key": null,
-            "Cn": "银沙滩海水浴场",
-            "Comment": "Event 803-4 Challenge"
-        },
-        {
-            "Key": null,
-            "Cn": "迎月海边",
-            "Comment": "Event 803-5 Challenge"
-        },
-        {
             "Key": 1797060079,
             "Cn": "都更预定B区",
             "Comment": "Event 804-1 Quest"
@@ -1976,6 +1966,91 @@
             "Comment": "Event 818-5 Challenge"
         },
         {
+            "Key": 675634209,
+            "Cn": null,
+            "Comment": "Event 819-1 Quest"
+        },
+        {
+            "Key": 2686467662,
+            "Cn": null,
+            "Comment": "Event 819-2 Quest"
+        },
+        {
+            "Key": 3104015278,
+            "Cn": null,
+            "Comment": "Event 819-3 Quest"
+        },
+        {
+            "Key": 2631577127,
+            "Cn": null,
+            "Comment": "Event 819-4 Quest"
+        },
+        {
+            "Key": 2364551832,
+            "Cn": null,
+            "Comment": "Event 819-5 Quest"
+        },
+        {
+            "Key": 245813537,
+            "Cn": null,
+            "Comment": "Event 819-6 Quest"
+        },
+        {
+            "Key": 931115354,
+            "Cn": null,
+            "Comment": "Event 819-7 Quest"
+        },
+        {
+            "Key": 2118455124,
+            "Cn": null,
+            "Comment": "Event 819-8 Quest"
+        },
+        {
+            "Key": 424766896,
+            "Cn": null,
+            "Comment": "Event 819-9 Quest"
+        },
+        {
+            "Key": 1671545474,
+            "Cn": null,
+            "Comment": "Event 819-10 Quest"
+        },
+        {
+            "Key": 3524278567,
+            "Cn": null,
+            "Comment": "Event 819-11 Quest"
+        },
+        {
+            "Key": 2524827298,
+            "Cn": null,
+            "Comment": "Event 819-12 Quest"
+        },
+        {
+            "Key": 3058521658,
+            "Cn": null,
+            "Comment": "Event 819-1 Challenge"
+        },
+        {
+            "Key": 479342107,
+            "Cn": null,
+            "Comment": "Event 819-2 Challenge"
+        },
+        {
+            "Key": 21806566,
+            "Cn": null,
+            "Comment": "Event 819-3 Challenge"
+        },
+        {
+            "Key": 3210188579,
+            "Cn": null,
+            "Comment": "Event 819-4 Challenge"
+        },
+        {
+            "Key": 323770345,
+            "Cn": null,
+            "Comment": "Event 819-5 Challenge"
+        },
+        {
             "Key": 3901590947,
             "Cn": "阿拜多斯废墟1区",
             "Comment": "Event 701-1 Quest"
@@ -2044,6 +2119,71 @@
             "Key": 3456757681,
             "Cn": null,
             "Comment": "Event 701-4 Challenge"
+        },
+        {
+            "Key": 3207442653,
+            "Cn": null,
+            "Comment": "Event 10801-1 Challenge"
+        },
+        {
+            "Key": 3276651336,
+            "Cn": null,
+            "Comment": "Event 10801-2 Challenge"
+        },
+        {
+            "Key": 2079256914,
+            "Cn": null,
+            "Comment": "Event 10801-3 Challenge"
+        },
+        {
+            "Key": 3972335602,
+            "Cn": null,
+            "Comment": "Event 10802-4 Challenge"
+        },
+        {
+            "Key": 724247144,
+            "Cn": null,
+            "Comment": "Event 10802-5 Challenge"
+        },
+        {
+            "Key": 1936111840,
+            "Cn": "银沙滩海水浴场",
+            "Comment": "Event 10803-4 Challenge"
+        },
+        {
+            "Key": 2890432783,
+            "Cn": "迎月海边",
+            "Comment": "Event 10803-5 Challenge"
+        },
+        {
+            "Key": 38863592,
+            "Cn": null,
+            "Comment": "Event 10804-4 Challenge"
+        },
+        {
+            "Key": 3940915386,
+            "Cn": null,
+            "Comment": "Event 10804-5 Challenge"
+        },
+        {
+            "Key": 3587759542,
+            "Cn": null,
+            "Comment": "Event 10805-4 Challenge"
+        },
+        {
+            "Key": 4285285142,
+            "Cn": null,
+            "Comment": "Event 10805-5 Challenge"
+        },
+        {
+            "Key": 318476605,
+            "Cn": null,
+            "Comment": "Event 10806-4 Challenge"
+        },
+        {
+            "Key": 4262463361,
+            "Cn": null,
+            "Comment": "Event 10806-5 Challenge"
         },
         {
             "Key": 2364214295,
