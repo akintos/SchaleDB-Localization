@@ -3800,13 +3800,13 @@
                 "Tw": "稀有度",
                 "Cn": "稀有度"
             },
-            "availability": {
-                "En": "Availability",
-                "Jp": null,
-                "Kr": null,
-                "Th": null,
-                "Tw": null,
-                "Cn": null
+            "rarity_availability": {
+                "En": "Rarity / Availability",
+                "Jp": "レア度",
+                "Kr": "희귀도",
+                "Th": "หายาก",
+                "Tw": "稀有度",
+                "Cn": "稀有度"
             },
             "attacktype": {
                 "En": "Attack Type",
@@ -4964,6 +4964,14 @@
                 "Tw": null,
                 "Cn": "伤害"
             },
+            "dmginfo_heal": {
+                "En": "Heal",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
             "dmginfo_dmg_avg": {
                 "En": "Average DMG",
                 "Jp": null,
@@ -5045,12 +5053,12 @@
                 "Cn": "治愈量"
             },
             "dmginfo_shield_amount": {
-                "En": "Barrier HP",
+                "En": "{0} HP",
                 "Jp": null,
                 "Kr": null,
-                "Th": "HP ของบาเรีย",
+                "Th": "HP {0}",
                 "Tw": null,
-                "Cn": "护盾 HP"
+                "Cn": "{0} HP"
             },
             "dmginfo_cc_effect_chance": {
                 "En": "{0} Chance",
