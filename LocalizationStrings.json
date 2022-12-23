@@ -538,7 +538,7 @@
                 "Kr": null,
                 "Th": "จำนวนการโจมตีของสกิล EX",
                 "Tw": null,
-                "Cn": null
+                "Cn": "EX 技能击中次数"
             }
         },
         "IsLimited": {
@@ -547,7 +547,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "永久",
                 "Th": null
             },
             "1": {
@@ -4970,7 +4970,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": null
+                "Cn": "治愈"
             },
             "dmginfo_dmg_avg": {
                 "En": "Average DMG",
@@ -5074,7 +5074,7 @@
                 "Kr": null,
                 "Th": "ระยะเวลา {0} (Hod Insane)",
                 "Tw": null,
-                "Cn": null
+                "Cn": "{0} 持续时长 (霍德Insane)"
             },
             "dmginfo_accumulation_limit": {
                 "En": "{0} DMG Limit",

@@ -11065,7 +11065,7 @@
         },
         {
             "SkillId": 20015450,
-            "NameCn": "癒しの波动、とりゃぁっ！+",
+            "NameCn": "治愈波动！看招！+",
             "DescriptionCn": "<b:HealPower>增加<?1>+额外<?2>",
             "ParametersCn": [
                 [
@@ -11448,7 +11448,7 @@
         {
             "SkillId": 10041200,
             "NameCn": "虚无的世界",
-            "DescriptionCn": "Creates 7 points that continuously deal <?1> damage to enemies in a circular area around them every 4s (48秒内) If this skill is used again before the duration expires, the previously created points will disappear.",
+            "DescriptionCn": "对7个圆形范围内的敌人每4秒持续造成攻击力<?1>的伤害(48秒内)\n（使用EX技能时，先前使用EX技能的效果范围将消失。）",
             "ParametersCn": [
                 [
                     "7.5%",
@@ -11500,7 +11500,7 @@
         {
             "SkillId": 10041500,
             "NameCn": "等价交换",
-            "DescriptionCn": "Deals <?1>/<?2>/<?3>/<?4>/<?5> damage as an additional hit to enemies depending on the number of debuffs inflicted on them (up to a maximum of 5).",
+            "DescriptionCn": "攻击拥有危险效果的敌人时，依据危险效果的个数，造成攻击力<?1>/<?2>/<?3>/<?4>/<?5>的额外伤害（最多5个）",
             "ParametersCn": [
                 [
                     "1.1%",
@@ -11598,7 +11598,7 @@
         {
             "SkillId": 20017200,
             "NameCn": "我、我来支援！",
-            "DescriptionCn": "Fires a bullet in a straight line that deals <?1> damage to the first enemy it hits and decreases their <d:DEF> by <?2> if there are fewer than 3 Arius students in the same unit, or <?3> if there are 3 or more (30秒内)",
+            "DescriptionCn": "发射子弹。子弹朝直线飞去，对命中的第1个敌人造成攻击力<?1>的伤害\n部队的阿里乌斯小队学生为2人以下时，命中的敌人<d:DEF>减少<?2>;为3人以上时，命中的敌人<d:DEF>减少<?3>(30秒内)",
             "ParametersCn": [
                 [
                     "207%",
