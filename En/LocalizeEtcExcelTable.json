@@ -685,6 +685,18 @@
             "NameEn": "Hanae (Christmas)"
         },
         {
+            "Key": 3919399192,
+            "NameEn": "Haruna (New Year)"
+        },
+        {
+            "Key": 1181250992,
+            "NameEn": "Fuuka (New Year)"
+        },
+        {
+            "Key": 2212269255,
+            "NameEn": "Junko (New Year)"
+        },
+        {
             "Key": 1311123432,
             "NameEn": "Light Sweeper",
             "DescriptionEn": ""
@@ -803,7 +815,12 @@
             "Key": 1666012841,
             "NameEn": "Cheshire Cat",
             "DescriptionEn": "(X)"
-          },
+        },
+        {
+            "Key": 3800106674,
+            "NameEn": "Premium Ingredients Transport",
+            "DescriptionEn": "(X)"
+        },
         {
             "Key": 493517636,
             "NameEn": "Perorodzilla",
@@ -1014,7 +1031,7 @@
             "Key": 328739473,
             "Force": true,
             "NameEn": "Decreases ATK when defeating enemies. Reduction is removed when healed.",
-            "DescriptionEn": "Decreases the <d:ATK> of allies by 20% each time an enemy is defeated (effect stacks up to <b>50</b> times). Healing an ally will remove up to 5 stacks of this debuff from them. "
+            "DescriptionEn": "Each time an ally defeats an enemy, their <d:ATK> decreases by 5% (effect stacks up to <b>50</b> times). Healing an ally will remove up to 5 stacks of this debuff from them."
         },
         {
             "Key": 3427259164,

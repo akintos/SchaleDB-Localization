@@ -41,6 +41,46 @@
             "Comment": "Campaign 20-3 Hard"
         },
         {
+            "Key": 3082730780,
+            "Th": "アリウス本館入口",
+            "Comment": "Campaign 21-1 Normal"
+        },
+        {
+            "Key": 2287503718,
+            "Th": "旧市街地出口",
+            "Comment": "Campaign 21-2 Normal"
+        },
+        {
+            "Key": 4286042601,
+            "Th": "ポルタパシス広場",
+            "Comment": "Campaign 21-3 Normal"
+        },
+        {
+            "Key": 2113555653,
+            "Th": "影通り出口",
+            "Comment": "Campaign 21-4 Normal"
+        },
+        {
+            "Key": 1010235753,
+            "Th": "トレウ大聖堂・周辺",
+            "Comment": "Campaign 21-5 Normal"
+        },
+        {
+            "Key": 223027400,
+            "Th": "聖人への道",
+            "Comment": "Campaign 21-1 Hard"
+        },
+        {
+            "Key": 1242172358,
+            "Th": "堆積への道",
+            "Comment": "Campaign 21-2 Hard"
+        },
+        {
+            "Key": 2293055381,
+            "Th": "バシリカへの道",
+            "Comment": "Campaign 21-3 Hard"
+        },
+        {
             "Key": 68779473,
             "Th": "リゾート指定海水浴場入口",
             "Comment": "Event 814-1 Quest"
@@ -464,6 +504,91 @@
             "Key": 323770345,
             "Th": "ブルーガーデン8番街",
             "Comment": "Event 819-5 Challenge"
+        },
+        {
+            "Key": 3335303591,
+            "Th": "食べ歩き通り1番街",
+            "Comment": "Event 820-1 Quest"
+        },
+        {
+            "Key": 2581553895,
+            "Th": "食べ歩き通り3番街",
+            "Comment": "Event 820-2 Quest"
+        },
+        {
+            "Key": 1168037982,
+            "Th": "グルメロード249番地",
+            "Comment": "Event 820-3 Quest"
+        },
+        {
+            "Key": 160021596,
+            "Th": "グルメロード249番地・裏側",
+            "Comment": "Event 820-4 Quest"
+        },
+        {
+            "Key": 282882819,
+            "Th": "食いしん坊通り4番街",
+            "Comment": "Event 820-5 Quest"
+        },
+        {
+            "Key": 2878746313,
+            "Th": "食いしん坊通り7番街",
+            "Comment": "Event 820-6 Quest"
+        },
+        {
+            "Key": 324347411,
+            "Th": "赤い風車通り2-4路",
+            "Comment": "Event 820-7 Quest"
+        },
+        {
+            "Key": 1762962802,
+            "Th": "ショップ・ラウントリーの表通り",
+            "Comment": "Event 820-8 Quest"
+        },
+        {
+            "Key": 1002536313,
+            "Th": "ペリカンベーカリー・西側",
+            "Comment": "Event 820-9 Quest"
+        },
+        {
+            "Key": 2348427955,
+            "Th": "ホライゾンツリー・東側",
+            "Comment": "Event 820-10 Quest"
+        },
+        {
+            "Key": 1445204126,
+            "Th": "商人街8-2番街",
+            "Comment": "Event 820-11 Quest"
+        },
+        {
+            "Key": 3972520230,
+            "Th": "おやつ通り・北側",
+            "Comment": "Event 820-12 Quest"
+        },
+        {
+            "Key": 2964980144,
+            "Th": "キツネ亭裏側の路地",
+            "Comment": "Event 820-1 Challenge"
+        },
+        {
+            "Key": 1745565439,
+            "Th": "商人街進入路",
+            "Comment": "Event 820-2 Challenge"
+        },
+        {
+            "Key": 972124863,
+            "Th": "商人街の高架橋",
+            "Comment": "Event 820-3 Challenge"
+        },
+        {
+            "Key": 193203788,
+            "Th": "海産市場の表通り",
+            "Comment": "Event 820-4 Challenge"
+        },
+        {
+            "Key": 1051909185,
+            "Th": "場外市場小路",
+            "Comment": "Event 820-5 Challenge"
         },
         {
             "Key": 310980935,

@@ -939,8 +939,12 @@
                 "Cn": "Get Set, Go! ~ 基沃托斯大运动会 晄轮大祭"
             },
             "819": {
-                "CodeKey": 3033516854,
-                "En": "Merry Christmas in the Cathedral"
+                "ScenarioKey": 2558784607,
+                "En": "Christmas in the Cathedral: The Remedial Knights' Gift"
+            },
+            "820": {
+                "ScenarioKey": 3515690501,
+                "En": "A Game Before the New Year's Feast"
             }
         },
         "StageType": {

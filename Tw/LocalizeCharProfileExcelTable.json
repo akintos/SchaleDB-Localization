@@ -307,6 +307,48 @@
             "CharacterVoiceTw": "優木かな",
             "WeaponNameTw": "ハッピースマイリー",
             "WeaponDescTw": "ハナエのアサルトライフル。\n\nクリスマスにも彼女の銃は幸せな笑みを広げる。"
+        },
+        {
+            "CharacterId": 10057,
+            "FamilyNameTw": "黒舘",
+            "PersonalNameTw": "ハルナ",
+            "SchoolYearTw": "3年生",
+            "CharacterAgeTw": "17歳",
+            "BirthdayTw": "3月1日",
+            "CharacterSSRNewTw": "この時期のお料理はどれも魅力的ですね……。\nお正月といえば、おせちやお雑煮、お汁粉……。\nああ……お腹が空いてきましたわ",
+            "ProfileIntroductionTw": "ゲヘナ学園所属、新年を迎え、着物に着替えた美食研究会の会長。\n\n美食において、時節に合った装いをする事も美食探究の一環であるという信念のもと、晴れ着を纏って美食の道を歩む。見た目だけはこの上なく優雅なお嬢さんなのだが……\n\n彼女の美食に相応しい食べ物が用意される事を祈ろう。",
+            "HobbyTw": "美味しいもの探し",
+            "CharacterVoiceTw": "田所あずさ",
+            "WeaponNameTw": "アイディール",
+            "WeaponDescTw": "ハルナが扱うスナイパーライフル。\n\n年が変わろうとも、彼女の美食探究にふさわしいパートナーはこの銃以外にいないだろう。"
+        },
+        {
+            "CharacterId": 20022,
+            "FamilyNameTw": "愛清",
+            "PersonalNameTw": "フウカ",
+            "SchoolYearTw": "2年生",
+            "CharacterAgeTw": "16歳",
+            "BirthdayTw": "4月30日",
+            "CharacterSSRNewTw": "先生、年越しそばは食べましたか？\n今年はお互い、穏やかな一年でありますように",
+            "ProfileIntroductionTw": "ゲヘナ学園所属、新年を迎え、着物に着替えた給食部の部員。\n\n今年こそどうか平穏な日々が続くようにと願っているものの、周囲の環境がそれを許してくれるかはまだ未知数のようだ。",
+            "HobbyTw": "家庭料理、お弁当作り",
+            "CharacterVoiceTw": "ファイルーズあい",
+            "WeaponNameTw": "給食部の護身用銃typeA",
+            "WeaponDescTw": "フウカが常に携帯しているサブマシンガン。\n\n新年を迎え、使われる事がないようにと願うフウカだが、世の中はままならぬもので……"
+        },
+        {
+            "CharacterId": 16012,
+            "FamilyNameTw": "赤司",
+            "PersonalNameTw": "ジュンコ",
+            "SchoolYearTw": "1年生",
+            "CharacterAgeTw": "15歳",
+            "BirthdayTw": "12月27日",
+            "CharacterSSRNewTw": "",
+            "ProfileIntroductionTw": "ゲヘナ学園所属、新年を迎え、着物に着替えた美食研究会の部員。\n\n新年の料理を楽しみに、装いを新たにしたジュンコ。食べる時に邪魔が入ってくる事には、未だ我慢できない様子。",
+            "HobbyTw": "グルメ巡り",
+            "CharacterVoiceTw": "金元 寿子",
+            "WeaponNameTw": "ダイナーズアウトロー",
+            "WeaponDescTw": "ジュンコが使用する2丁のアサルトライフル。\n\n彼女の美食を邪魔する者は、何人たりとも許されはしない。"
         }
     ]
 }
