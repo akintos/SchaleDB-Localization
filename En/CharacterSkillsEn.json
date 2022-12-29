@@ -4289,7 +4289,16 @@
         {
             "SkillId": 20010200,
             "NameEn": "Hot Springs Resort No. 227, Open for Business!",
-            "DescriptionEn": "Deploys Nodoka (Hot Springs) at the selected location for 32s. Every 3s, Nodoka throws one of three snacks that restore HP by different amounts of Healing, to the ally with the lowest HP in range.\n<b>Hot Spring Manju</b>: <?1> of Healing.\n<b>Corn Stick</b>: <?2> of Healing.\n<b>Milk</b>: <?3> of Healing.",
+            "DescriptionEn": "Summons Nodoka to the selected location for 32s. Every 3s, Nodoka throws one of three snacks that restore HP by different amounts of Healing, to the ally with the lowest HP in range.\n<b>Hot Spring Manju</b>: <?1> of Healing.\n<b>Corn Stick</b>: <?2> of Healing.\n<b>Milk</b>: <?3> of Healing.",
+            "ParametersEn": [
+                [ "20.3%", "23.3%", "29.4%", "32.5%", "38.6%" ],
+                [ "24.8%", "28.5%", "36%"  , "39.7%", "47.1%" ],
+                [ "29.3%", "33.7%", "42.5%", "46.9%", "55.7%" ]
+            ]
+        },
+        {
+            "SkillId": 40007300,
+            "DescriptionEn": "Every 3s, Nodoka throws one of three snacks that restore HP by different amounts of Healing, to the ally with the lowest HP in range.\n<b>Hot Spring Manju</b>: <?1> of Healing.\n<b>Corn Stick</b>: <?2> of Healing.\n<b>Milk</b>: <?3> of Healing.",
             "ParametersEn": [
                 [ "20.3%", "23.3%", "29.4%", "32.5%", "38.6%" ],
                 [ "24.8%", "28.5%", "36%"  , "39.7%", "47.1%" ],

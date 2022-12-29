@@ -78,6 +78,16 @@
         "NameTh": "สายฟ้า MK-II", 
         "NameTw": "雷霆MK-II", 
         "NameCn": "雷霆MK-II"
+    },
+    {
+        "Id": 40007, 
+        "DevName": "SM016501", 
+        "NameEn": "Nodoka (Summoned)", 
+        "NameJp": "ノドカ", 
+        "NameKr": "노도카", 
+        "NameTh": "โนโดกะ", 
+        "NameTw": "和香", 
+        "NameCn": "和香"
     }, 
     {
         "Id": 99999, 
