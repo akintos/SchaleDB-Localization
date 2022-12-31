@@ -439,7 +439,7 @@
             },
             "DamagedRatio": {
                 "En": "Incoming DMG RES",
-                "Jp": "受けるダメージ量",
+                "Jp": "被ダメージ抵抗",
                 "Kr": "받는 대미지량",
                 "Th": "ความเสียหายที่ได้รับ",
                 "Tw": "遭受的傷害量",
@@ -544,7 +544,7 @@
         "IsLimited": {
             "0": {
                 "En": "Permanent",
-                "Jp": null,
+                "Jp": "恒常",
                 "Kr": null,
                 "Tw": null,
                 "Cn": "永久",
@@ -560,7 +560,7 @@
             },
             "2": {
                 "En": "Event",
-                "Jp": "イベント",
+                "Jp": "イベント配布",
                 "Kr": "이벤트",
                 "Tw": "活動",
                 "Cn": "活动",
@@ -741,7 +741,7 @@
             },
             "WeaponExpGrowth": {
                 "En": "Weapon Parts",
-                "Jp": "パーツ",
+                "Jp": "武器パーツ",
                 "Kr": "무기 부품",
                 "Th": "อะไหล่อาวุธ",
                 "Tw": "武器零件",
@@ -1150,7 +1150,7 @@
             },
             "Summoned": {
                 "En": "Summon",
-                "Jp": "召喚",
+                "Jp": "召喚物",
                 "Kr": "Summon",
                 "Tw": "Summon",
                 "Cn": "Summon"
@@ -1229,7 +1229,7 @@
         "WeaponPartExpBonus": {
             "WeaponExpGrowthA": {
                 "En": "Provides 1.5&times; EXP when used to enhance SMG, SG and HG type weapons.",
-                "Jp": "SMG、SG、HGの固有武器の強化に使用すると、獲得EXPが1.5倍になる。",
+                "Jp": "SMG、SG、HGの固有武器の強化時に、獲得EXPが1.5倍になる。",
                 "Kr": null,
                 "Tw": "用於強化 SMG、SG、HG 類型武器時提供 1.5 倍經驗",
                 "Cn": "用于强化 SMG、SG、HG 类型武器时提供 1.5 倍经验",
@@ -1237,7 +1237,7 @@
             },
             "WeaponExpGrowthB": {
                 "En": "Provides 1.5&times; EXP when used to enhance AR, GL and RL type weapons.",
-                "Jp": "AR、GL、RLの固有武器の強化に使用すると、獲得EXPが1.5倍になる。",
+                "Jp": "AR、GL、RLの固有武器の強化時に、獲得EXPが1.5倍になる。",
                 "Kr": null,
                 "Tw": "用於強化 AR、GL、RL 類型武器時提供 1.5 倍經驗",
                 "Cn": "用于强化 AR、GL、RL 类型武器时提供 1.5 倍经验",
@@ -1245,7 +1245,7 @@
             },
             "WeaponExpGrowthC": {
                 "En": "Provides 1.5&times; EXP when used to enhance MG, SR, MT and RG type weapons.",
-                "Jp": "MG、SR、MT、RGの固有武器の強化に使用すると、獲得EXPが1.5倍になる。",
+                "Jp": "MG、SR、MT、RGの固有武器の強化時に、獲得EXPが1.5倍になる。",
                 "Kr": null,
                 "Tw": "用於強化 MG、SR、MT、RG 類型武器時提供 1.5 倍經驗",
                 "Cn": "用于强化 MG、SR、MT、RG 类型武器时提供 1.5 倍经验",
@@ -1253,7 +1253,7 @@
             },
             "WeaponExpGrowthZ": {
                 "En": "Provides 1.5&times; EXP when used to enhance any type of weapon.",
-                "Jp": "あらゆる固有武器の強化に使用すると、獲得EXPが1.5倍になる。",
+                "Jp": "すべて武器種の固有武器の強化時に、獲得EXPが1.5倍になる。",
                 "Kr": null,
                 "Tw": "用於強化任何類型武器時提供 1.5 倍經驗",
                 "Cn": "用于强化任何类型武器时提供 1.5 倍经验",
@@ -1287,7 +1287,7 @@
             },
             "Special": {
                 "En": "Status Effect",
-                "Jp": "ステータス",
+                "Jp": "特殊状態",
                 "Kr": null,
                 "Th": "เอฟเฟกต์พิเศษ",
                 "Tw": "狀態效果",
@@ -1863,7 +1863,7 @@
             },
             "CC_Paralysis": {
                 "En": "Paralysis",
-                "Jp": null,
+                "Jp": "麻痺",
                 "Kr": null,
                 "Th": "อัมพาต",
                 "Tw": "癱瘓",
@@ -1895,6 +1895,7 @@
             },
             "Special_ImmuneDamage": {
                 "En": "Invulnerable",
+                "Jp": "ダメージ無効",
                 "Th": "ไม่ได้รับความเสียหาย",
                 "Tw": "免傷",
                 "Cn": "免伤"
@@ -1933,12 +1934,14 @@
             },
             "Special_CostRegenBan": {
                 "En": "Recovery Stop",
+                "Jp": "コスト回復停止",
                 "Th": "หยุดการฟื้นฟูค่าใช้สกิล EX",
                 "Tw": "COST停止恢復",
                 "Cn": "COST停止回复"
             },
             "Special_ImmuneCC": {
                 "En": "CC Immune",
+                "Jp": "CC無効",
                 "Th": "ต้านทานเอฟเฟกต์กดขี่",
                 "Tw": "群控免疫",
                 "Cn": "群控免疫"
@@ -1971,66 +1974,77 @@
         "BuffNameLong": {
             "Buff_AmmoCount": {
                 "En": "Mag Count Up",
+                "Jp": "装弾数増加",
                 "Th": "จำนวนกระสุนเพิ่มขึ้น",
                 "Tw": "裝彈數提升",
                 "Cn": "载弹量提升"
             },
             "Buff_ATK": {
                 "En": "ATK Up",
+                "Jp": "攻撃力増加",
                 "Th": "ค่าโจมตีเพิ่มขึ้น",
                 "Tw": "攻擊力提升",
                 "Cn": "攻击力提升"
             },
             "Buff_AttackSpeed": {
                 "En": "ATK SPD Up",
+                "Jp": "攻撃速度増加",
                 "Th": "ความเร็วโจมตีเพิ่มขึ้น",
                 "Tw": "攻擊速度提升",
                 "Cn": "攻速提升"
             },
             "Buff_BlockRate": {
                 "En": "Block Rate Up",
+                "Jp": "遮蔽成功値増加",
                 "Th": "อัตรากำบังสำเร็จเพิ่มขึ้น",
                 "Tw": "掩護成功率提升",
                 "Cn": "掩护成功率提升"
             },
             "Buff_ConcentratedTarget": {
                 "En": "Focused Assault",
+                "Jp": "集中砲火",
                 "Th": "ล็อคเป้า",
                 "Tw": "集中攻擊",
                 "Cn": "集中攻击"
             },
             "Buff_CostChange": {
                 "En": "EX Cost Down",
+                "Jp": "スキルコスト減少",
                 "Th": "ค่าใช้สกิล EX ลดลง",
                 "Tw": "EX 技能費用降低",
                 "Cn": "EX 技能费用降低"
             },
             "Buff_CostRegen": {
                 "En": "Cost Recovery Up",
+                "Jp": "コスト回復力増加",
                 "Th": "ค่าฟื้นฟู Cost เพิ่มขึ้น",
                 "Tw": "COST恢復力提升",
                 "Cn": "COST回复力提升"
             },
             "Buff_CriticalChance": {
                 "En": "Crit Up",
+                "Jp": "会心値増加",
                 "Th": "ค่าคริเพิ่มขึ้น",
                 "Tw": "暴擊數值提升",
                 "Cn": "暴击值提升"
             },
             "Buff_CriticalChanceResistPoint": {
                 "En": "Crit RES Up",
+                "Jp": "会心抵抗値増加",
                 "Th": "ค่าต้านทานคริเพิ่มขึ้น",
                 "Tw": "暴擊抵抗力提升",
                 "Cn": "暴击抵抗力提升"
             },
             "Buff_CriticalDamage": {
                 "En": "Crit DMG Up",
+                "Jp": "会心ダメージ率増加",
                 "Th": "ความเสียหายคริเพิ่มขึ้น",
                 "Tw": "暴擊傷害提升",
                 "Cn": "暴击伤害提升"
             },
             "Buff_CriticalDamageRateResist": {
                 "En": "Crit DMG RES Up",
+                "Jp": "会心ダメージ低効率増加",
                 "Th": "อัตราต้านทานความเสียหายคริเพิ่มขึ้น",
                 "Tw": "暴擊傷害抵抗率提升",
                 "Cn": "暴击伤害抵抗率提升"
@@ -2045,49 +2059,56 @@
             },
             "Buff_DamagedRatio": {
                 "En": "Incoming Damage Down",
+                "Jp": "被ダメージ減少",
                 "Th": "ความเสียหายที่ได้รับลดลง",
                 "Tw": "遭受的傷害量降低",
                 "Cn": "遭受伤害量降低"
             },
             "Buff_DEF": {
                 "En": "DEF Up",
+                "Jp": "防御力増加",
                 "Th": "ค่าป้องกันเพิ่มขึ้น",
                 "Tw": "防禦力提升",
                 "Cn": "防御力提升"
             },
             "Buff_Dodge": {
                 "En": "Evasion Up",
+                "Jp": "回避値増加",
                 "Th": "ค่าหลบหลีกเพิ่มขึ้น",
                 "Tw": "迴避數值提升",
                 "Cn": "回避值提升"
             },
             "Buff_DotHeal": {
                 "En": "HP Regeneration",
+                "Jp": "持続回復",
                 "Th": "ฟื้นฟู HP ต่อเนื่อง",
                 "Tw": "持續恢復",
                 "Cn": "持续恢复"
             },
             "Buff_EnhanceExplosionRate": {
                 "En": "Explosive Effectiveness Up",
+                "Jp": "爆発特効",
                 "Th": "ประสิทธิภาพความเสียหายระเบิดเพิ่มขึ้น",
                 "Tw": "爆發傷害加成提升",
                 "Cn": "爆发伤害加成提升"
             },
             "Buff_EnhancePierceRate": {
                 "En": "Piercing Effectiveness Up",
+                "Jp": "貫通特効",
                 "Th": "ประสิทธิภาพความเสียหายเจาะเกราะเพิ่มขึ้น",
                 "Tw": "貫穿傷害加成提升",
                 "Cn": "贯穿伤害加成提升"
             },
             "Buff_EnhanceMysticRate": {
                 "En": "Mystic Effectiveness Up",
+                "Jp": "神秘特効",
                 "Th": "ประสิทธิภาพความเสียหายลึกลับเพิ่มขึ้น",
                 "Tw": "神秘傷害加成提升",
                 "Cn": "神秘伤害加成提升"
             },
             "Buff_ExtendBuffDuration": {
                 "En": "Buff Duration Up",
-                "Jp": "バフ効果持続力",
+                "Jp": "バフ効果持続力増加",
                 "Kr": "이로운 효과 유지력",
                 "Th": "ระยะเวลาบัฟเพิ่มขึ้น",
                 "Tw": null,
@@ -2095,7 +2116,7 @@
             },
             "Buff_ExtendDebuffDuration": {
                 "En": "Debuff Duration Up",
-                "Jp": "弱体状態持続力",
+                "Jp": "弱体状態持続力増加",
                 "Kr": "해로운 효과 유지력",
                 "Th": "ระยะเวลาเอฟเฟกต์อันตรายเพิ่มขึ้น",
                 "Tw": null,
@@ -2103,7 +2124,7 @@
             },
             "Buff_ExtendCrowdControlDuration": {
                 "En": "CC Duration Up",
-                "Jp": "CC状態持続力",
+                "Jp": "CC状態持続力増加",
                 "Kr": "군중제어 유지력",
                 "Th": "ระยะเวลาเอฟเฟกต์กดขี่เพิ่มขึ้น",
                 "Tw": null,
@@ -2111,102 +2132,119 @@
             },
             "Buff_HealByHit_Damaged": {
                 "En": "Heal When Hit",
+                "Jp": "被攻撃時回復",
                 "Th": "ฟื้นฟูเมื่อได้รับความเสียหาย",
                 "Tw": "受攻擊時，適用恢復",
                 "Cn": "击中回复"
             },
             "Buff_HealEffectiveness": {
                 "En": "Recovery Boost Up",
+                "Jp": "被回復率増加",
                 "Th": "อัตราเร่งการฟื้นฟูเพิ่มขึ้น",
                 "Tw": "所受恢復效果強化率提升",
                 "Cn": "所受恢复效果强化率提升"
             },
             "Buff_HealPower": {
                 "En": "Healing Up",
+                "Jp": "治癒力増加",
                 "Th": "ค่ารักษาเพิ่มขึ้น",
                 "Tw": "治癒力提升",
                 "Cn": "治愈力提升"
             },
             "Buff_HIT": {
                 "En": "Accuracy Up",
+                "Jp": "命中値増加",
                 "Th": "ค่าความแม่นยำเพิ่มขึ้น",
                 "Tw": "命中數值提升",
                 "Cn": "命中率提升"
             },
             "Buff_MAXHP": {
                 "En": "Max HP Up",
+                "Jp": "HP増加",
                 "Th": "HP สูงสุดเพิ่มขึ้น",
                 "Tw": "最大體力提升",
                 "Cn": "生命值提升"
             },
             "Buff_MoveSpeed": {
                 "En": "MOV SPD Up",
+                "Jp": "移動速度増加",
                 "Th": "ความเร็วเคลื่อนที่เพิ่มขึ้น",
                 "Tw": "移動速度提升",
                 "Cn": "移速提升"
             },
             "Buff_OppressionPower": {
                 "En": "CC Power Up",
+                "Jp": "CC強化力増加",
                 "Th": "ประสิทธิภาพกดขี่เพิ่มขึ้น",
                 "Tw": "群控強化力提升",
                 "Cn": "群控强化力提升"
             },
             "Buff_OppressionResist": {
                 "En": "CC RES Up",
+                "Jp": "CC抵抗力増加",
                 "Th": "ต้านทานการกดขี่เพิ่มขึ้น",
                 "Tw": "群控抵抗力提升",
                 "Cn": "群控抵抗力提升"
             },
             "Buff_Penetration": {
                 "En": "Defense Piercing Up",
+                "Jp": "防御貫通値増加",
                 "Th": "ค่าเจาะเกราะเพิ่มขึ้น",
                 "Tw": "防禦貫穿數值提升",
                 "Cn": "防御贯穿数值提升"
             },
             "Buff_Range": {
                 "En": "Range Up",
+                "Jp": "射程増加",
                 "Th": "ระยะโจมตีเพิ่มขึ้น",
                 "Tw": "射程增加",
                 "Cn": "射程增加"
             },
             "Buff_Shield": {
                 "En": "Barrier",
+                "Jp": "シールド",
                 "Th": "บาเรีย",
                 "Tw": "護盾",
                 "Cn": "护盾"
             },
             "Buff_Stability": {
                 "En": "Stability Up",
+                "Jp": "安定値増加",
                 "Th": "ค่าความเสถียรเพิ่มขึ้น",
                 "Tw": "安定數值提升",
                 "Cn": "稳定值提升"
             },
             "Debuff_AmmoCount": {
                 "En": "Mag Count Down",
+                "Jp": "装弾数減少",
                 "Th": "จำนวนกระสุนลดลง",
                 "Tw": "裝彈數减少",
                 "Cn": "载弹量减少"
             },
             "Debuff_ATK": {
                 "En": "ATK Down",
+                "Jp": "攻撃力減少",
                 "Th": "ค่าโจมตีลดลง",
                 "Tw": "攻擊力下降",
                 "Cn": "攻击力下降"
             },
             "Debuff_AttackSpeed": {
                 "En": "ATK SPD Down",
+                "Jp": "攻撃速度減少",
                 "Th": "ความเร็วโจมตีลดลง",
                 "Tw": "攻擊速度下降",
                 "Cn": "攻速下降"
             },
             "Debuff_BlockRate": {
                 "En": "Block Rate Down",
+                "Jp": "遮蔽成功値減少",
                 "Th": "อัตรากำบังสำเร็จลดลง",
                 "Tw": "掩護成功率下降",
                 "Cn": "掩护成功率下降"
             },
             "Debuff_Burn": {
                 "En": "Burn",
+                "Jp": "火傷",
                 "Th": "เผาไหม้",
                 "Tw": "燒傷",
                 "Cn": "烧伤"
@@ -2219,84 +2257,98 @@
             },
             "Debuff_Chill": {
                 "En": "Chill",
+                "Jp": "悪寒",
                 "Th": "หนาวสั่น",
                 "Tw": "惡寒",
                 "Cn": "恶寒"
             },
             "Debuff_ConcentratedTarget": {
                 "En": "Focused Assault",
+                "Jp": "集中砲火",
                 "Th": "ล็อคเป้า",
                 "Tw": "集中攻擊",
                 "Cn": "集中攻击"
             },
             "Debuff_CostChange": {
                 "En": "EX Cost Up",
+                "Jp": "スキルコスト増加",
                 "Th": "ค่าใช้สกิล EX เพิ่มขึ้น",
                 "Tw": "EX 技能費用增加",
                 "Cn": "EX 技能费用增加"
             },
             "Debuff_CriticalChance": {
                 "En": "Crit Down",
+                "Jp": "会心値減少",
                 "Th": "ค่าคริลดลง",
                 "Tw": "暴擊數值下降",
                 "Cn": "暴击值下降"
             },
             "Debuff_CriticalChanceResistPoint": {
                 "En": "Crit RES Down",
+                "Jp": "会心抵抗値減少",
                 "Th": "ค่าต้านทานคริลดลง",
                 "Tw": "暴擊抵抗力下降",
                 "Cn": "暴击抵抗力下降"
             },
             "Debuff_CriticalDamage": {
                 "En": "Crit DMG Down",
+                "Jp": "会心ダメージ率減少",
                 "Th": "ความเสียหายคริลดลง",
                 "Tw": "暴擊傷害下降",
                 "Cn": "暴击伤害下降"
             },
             "Debuff_CriticalDamageRateResist": {
                 "En": "Crit DMG RES Down",
+                "Jp": "会心ダメージ低効率減少",
                 "Th": "อัตราต้านทานความเสียหายคริลดลง",
                 "Tw": "暴擊傷害抵抗率下降",
                 "Cn": "暴击伤害抵抗率下降"
             },
             "Debuff_DamageByHit_Damaged": {
                 "En": "Weakness Detection",
+                "Jp": "弱点把握",
                 "Th": "โจมตีจุดอ่อน",
                 "Tw": "掌握弱點",
                 "Cn": "弱点打击"
             },
             "Debuff_DamagedRatio": {
                 "En": "Incoming Damage Up",
+                "Jp": "被ダメージ増加",
                 "Th": "ความเสียหายที่ได้รับเพิ่มขึ้น",
                 "Tw": "遭受的傷害量增加",
                 "Cn": "遭受的伤害量增加"
             },
             "Debuff_DEF": {
                 "En": "DEF Down",
+                "Jp": "防御力減少",
                 "Th": "ค่าป้องกันลดลง",
                 "Tw": "防禦力下降",
                 "Cn": "防御力下降"
             },
             "Debuff_Dodge": {
                 "En": "Evasion Down",
+                "Jp": "回避値減少",
                 "Th": "ค่าหลบหลีกลดลง",
                 "Tw": "迴避數值下降",
                 "Cn": "回避值下降"
             },
             "Debuff_EnhanceExplosionRate": {
                 "En": "Explosive Effectiveness Down",
+                "Jp": "爆発特攻減少",
                 "Th": "ประสิทธิภาพความเสียหายระเบิดลดลง",
                 "Tw": "爆發傷害下降",
                 "Cn": "爆发伤害下降"
             },
             "Debuff_EnhancePierceRate": {
                 "En": "Piercing Effectiveness Down",
+                "Jp": "貫通特効減少",
                 "Th": "ประสิทธิภาพความเสียหายเจาะเกราะลดลง",
                 "Tw": "貫穿傷害下降",
                 "Cn": "贯穿伤害下降"
             },
             "Debuff_EnhanceMysticRate": {
                 "En": "Mystic Effectiveness Down",
+                "Jp": "神秘特効減少",
                 "Th": "ประสิทธิภาพความเสียหายลึกลับลดลง",
                 "Tw": "神秘傷害下降",
                 "Cn": "神秘伤害下降"
@@ -2311,103 +2363,119 @@
             },
             "Debuff_HealEffectiveness": {
                 "En": "Recovery Boost Down",
+                "Jp": "被回復率減少",
                 "Th": "อัตราเร่งการฟื้นฟูลดลง",
                 "Tw": "所受恢復效果強化率下降",
                 "Cn": "所受回复效果强化率下降"
             },
             "Debuff_HealPower": {
                 "En": "Healing Down",
+                "Jp": "治癒力減少",
                 "Th": "ค่ารักษาลดลง",
                 "Tw": "治癒力下降",
                 "Cn": "治愈力下降"
             },
             "Debuff_Hieronymus": {
                 "En": "Curse",
+                "Jp": "呪い",
                 "Th": "คำสาป",
                 "Tw": "詛咒",
                 "Cn": "诅咒"
             },
             "Debuff_HIT": {
                 "En": "Accuracy Down",
+                "Jp": "命中値減少",
                 "Th": "ค่าความแม่นยำลดลง",
                 "Tw": "命中數值下降",
                 "Cn": "准确度下降"
             },
             "Debuff_MAXHP": {
                 "En": "Max HP Down",
+                "Jp": "HP減少",
                 "Th": "HP สูงสุดลดลง",
                 "Tw": "最大體力下降",
                 "Cn": "生命值下降"
             },
             "Debuff_MoveSpeed": {
                 "En": "MOV SPD Down",
+                "Jp": "移動速度減少",
                 "Th": "ความเร็วเคลื่อนที่ลดลง",
                 "Tw": "移動速度下降",
                 "Cn": "移动速度下降"
             },
             "Debuff_OppressionPower": {
                 "En": "CC Power Down",
+                "Jp": "CC強化力減少",
                 "Th": "ประสิทธิภาพกดขี่ลดลง",
                 "Tw": "群控強化力下降",
                 "Cn": "群控强化力下降"
             },
             "Debuff_OppressionResist": {
                 "En": "CC RES Down",
+                "Jp": "CC抵抗力減少",
                 "Th": "ต้านทานการกดขี่ลดลง",
                 "Tw": "群控抵抗力下降",
                 "Cn": "群控抵抗力下降"
             },
             "Debuff_Penetration": {
                 "En": "Defense Piercing Down",
+                "Jp": "防御貫通値減少",
                 "Th": "ค่าเจาะเกราะลดลง",
                 "Tw": "防禦貫穿數值下降",
                 "Cn": "防御贯穿值下降"
             },
             "Debuff_Poison": {
                 "En": "Poison",
+                "Jp": "中毒",
                 "Th": "พิษ",
                 "Tw": "中毒",
                 "Cn": "中毒"
             },
             "Debuff_Range": {
                 "En": "Range Down",
+                "Jp": "射程減少",
                 "Th": "ระยะโจมตีลดลง",
                 "Tw": "射程下降",
                 "Cn": "射程下降"
             },
             "Debuff_Stability": {
                 "En": "Stability Down",
+                "Jp": "安定値減少",
                 "Th": "ค่าความเสถียรลดลง",
                 "Tw": "安定數值下降",
                 "Cn": "稳定值下降"
             },
             "Debuff_CostRegen": {
                 "En": "Cost Recovery Down",
+                "Jp": "コスト回復力減少",
                 "Th": "ค่าฟื้นฟู Cost ลดลง",
                 "Tw": "COST恢復力下降",
                 "Cn": "COST回复力下降"
             },
             "CC_Fear": {
                 "En": "Fear",
+                "Jp": "恐怖",
                 "Th": "กลัว",
                 "Tw": "恐懼",
                 "Cn": "恐惧"
             },
             "CC_Stunned": {
                 "En": "Stun",
+                "Jp": "気絶",
                 "Th": "หมดสติ",
                 "Tw": "昏厥",
                 "Cn": "昏厥"
             },
             "CC_Provoke": {
                 "En": "Taunt",
+                "Jp": "挑発",
                 "Th": "ยั่วยุ",
                 "Tw": "挑釁",
                 "Cn": "挑衅"
             },
             "CC_Paralysis": {
                 "En": "Paralysis",
-                "Jp": null,
+                "Jp": "麻痺",
                 "Kr": null,
                 "Th": "อัมพาต",
                 "Tw": "癱瘓",
@@ -2415,24 +2483,28 @@
             },
             "Special_EnergyBatteryHalf": {
                 "En": "Energy Charge",
+                "Jp": "エネルギーチャージ",
                 "Th": "ชาร์จ",
                 "Tw": "能量",
                 "Cn": "能量"
             },
             "Special_FormChange": {
                 "En": "Form Change",
+                "Jp": "攻撃方法変更",
                 "Th": "เปลี่ยนรูปแบบการโจมตี",
                 "Tw": "一般攻擊",
                 "Cn": "普通攻击"
             },
             "Special_Immortal": {
                 "En": "Immortal",
+                "Jp": "不死身",
                 "Th": "อมตะ",
                 "Tw": "不死",
                 "Cn": "不死"
             },
             "Special_ImmuneDamage": {
                 "En": "Invulnerable",
+                "Jp": "ダメージ無効",
                 "Th": "ไม่ได้รับความเสียหาย",
                 "Tw": "免傷",
                 "Cn": "免伤"
@@ -2440,35 +2512,41 @@
             "Special_Fury": {
                 "En": "Enraged",
                 "Th": "โกรธ",
+                "Jp": "怒り",
                 "Tw": "憤怒",
                 "Cn": "愤怒"
             },
             "Special_Misdeed": {
                 "En": "Evil Deeds",
+                "Jp": "悪行",
                 "Th": "ความชั่วร้าย",
                 "Tw": "惡行",
                 "Cn": "恶行"
             },
             "Special_LittleDevil": {
                 "En": "Imps",
+                "Jp": "小悪魔",
                 "Th": "ปีศาจน้อย",
                 "Tw": "小惡魔",
                 "Cn": "小恶魔"
             },
             "Special_Accumulation": {
                 "En": "DMG Accumulation",
+                "Jp": "ダメージ蓄積",
                 "Th": "ความเสียหายสะสม",
                 "Tw": "傷害累積",
                 "Cn": "累积伤害"
             },
             "Special_CostRegenBan": {
                 "En": "Cost Recovery Stop",
+                "Jp": "コスト回復停止",
                 "Th": "หยุดการฟื้นฟูค่าใช้สกิล EX",
                 "Tw": "COST停止恢復",
                 "Cn": "COST停止回复"
             },
             "Special_ImmuneCC": {
                 "En": "CC Immunity",
+                "Jp": "CC無効",
                 "Th": "ต้านทานเอฟเฟกต์กดขี่",
                 "Tw": "群控免疫",
                 "Cn": "群控免疫"
@@ -2501,238 +2579,293 @@
         "BuffTooltip": {
             "Buff_AmmoCount": {
                 "En": "Increases the maximum amount of weapon ammunition used by Normal Attacks.",
+                "Jp": "通常攻撃に使用する武器の最大装弾数を増加",
                 "Cn": "提升普通攻击武器载弹量",
                 "Th": "เพิ่มจำนวนกระสุนสูงสุดของอาวุธในการโจมตีปกติ"
             },
             "Buff_ATK": {
                 "En": "Increases the amount of damage dealt by attacks.",
+                "Jp": "攻撃によって与えるダメージを増加",
                 "Cn": "提升攻击造成的伤害",
                 "Th": "เพิ่มความเสียหายของการโจมตี"
             },
             "Buff_AttackSpeed": {
                 "En": "Increases the speed of Normal Attacks and reloads, and reduces attack delay.",
+                "Jp": "通常攻撃とリロードの速度を増加し攻撃間隔を減少",
                 "Cn": "提升普通攻击与换弹速度，同时降低攻击延迟",
                 "Th": "เพิ่มความเร็วในการโจมตี, รีโหลดและลดดีเลย์ในการโจมตี"
             },
             "Buff_BlockRate": {
                 "En": "Increases the chance of successfully blocking attacks when taking cover.",
+                "Jp": "遮蔽物使用時にブロックに成功する確率を増加",
                 "Cn": "提升掩蔽时阻挡攻击概率",
                 "Th": "เพิ่มโอกาสกำบังสำเร็จเมื่ออยู่ในกำบัง"
             },
             "Buff_ConcentratedTarget": {
                 "En": "Becomes the priority target of enemies' attacks.",
+                "Jp": "敵の攻撃の優先目標になる",
                 "Cn": "成为敌方优先攻击的目标",
                 "Th": "เป็นเป้าหมายหลักในการโจมตีของศัตรู"
             },
             "Buff_CostChange": {
                 "En": "Reduces the amount of skill cost required for using the EX Skill.",
+                "Jp": "EXスキルの使用に必要なコストを減少",
                 "Cn": "降低使用EX技能所需技能COST",
                 "Th": "ลดจำนวนค่าใช้สกิล EX ที่ต้องการในการใช้สกิล EX"
             },
             "Buff_CostRegen": {
                 "En": "Increases the rate at which skill cost is recovered.",
+                "Jp": "コスト回復速度を増加",
                 "Cn": "提升技能COST回复速率",
                 "Th": "เพิ่มความเร็วในการฟื้นฟูค่าใช้สกิล EX"
             },
             "Buff_CriticalChance": {
                 "En": "Increases the chance of landing a critical hit when attacking.",
+                "Jp": "攻撃時に会心攻撃が発生する確率を増加",
                 "Th": "เพิ่มโอกาสโจมตีติดคริติคอล"
             },
             "Buff_CriticalChanceResistPoint": {
                 "En": "Decerases the chance of receiving a critical hit when being attacked.",
+                "Jp": "被攻撃時に会心攻撃を受ける確率を減少",
                 "Th": "ลดโอกาสถูกโจมตีติดคริติคอล"
             },
             "Buff_CriticalDamage": {
                 "En": "Increases the damage dealt by critical hits.",
+                "Jp": "会心攻撃によって与えるダメージを増加",
                 "Cn": "提升暴击造成的伤害",
                 "Th": "เพิ่มความเสียหายของการโจมตีคริติคอล"
             },
             "Buff_CriticalDamageRateResist": {
                 "En": "Decreases the damage received from critical hits.",
+                "Jp": "会心攻撃によって受けるダメージを減少",
                 "Cn": "减少受到的暴击伤害",
                 "Th": "ลดความเสียหายของการถูกโจมตีคริติคอล"
             },
             "Buff_DamagedLimit": {
                 "En": "Limits the amount of damage received from attacks.",
+                "Jp": "攻撃によって受けるダメージを制限",
                 "Th": "จำกัดปริมาณความเสียหายที่ได้รับจากการโจมตี"
             },
             "Buff_DamagedRatio": {
                 "En": "Decreases all incoming damage by a percentage amount.",
+                "Jp": "すべての被ダメージを一定の比率減少",
                 "Cn": "以一定百分比减少受到的全部伤害",
                 "Th": "ลดความเสียหายที่ได้รับลงเป็นเปอร์เซ็นต์"
             },
             "Buff_DEF": {
                 "En": "Decreases the damage received from attacks.",
+                "Jp": "攻撃によって受けるダメージを減少",
                 "Cn": "减少受到的伤害",
                 "Th": "ลดความเสียหายเมื่อถูกโจมตี"
             },
             "Buff_Dodge": {
                 "En": "Increases the chance of successfully evading attacks.",
+                "Jp": "攻撃を回避する確率を増加",
                 "Cn": "躲避攻击几率提升",
                 "Th": "เพิ่มโอกาสหลบหลีกการโจมตีได้สำเร็จ"
             },
             "Buff_DotHeal": {
                 "En": "Continuously restores HP at set intervals.",
+                "Jp": "一定間隔でHPを持続的に回復",
                 "Cn": "以一定时间间隔持续回复生命值",
                 "Th": "ฟื้นฟู HP ช้าๆ เป็นเวลาต่อเนื่อง"
             },
             "Buff_EnhanceExplosionRate": {
                 "En": "Increases the damage bonus when dealing Explosive type attacks against Light Armor targets.",
+                "Jp": "軽装備の対象に爆発属性の攻撃を行う際のダメージ倍率を増加",
                 "Th": "เพิ่มความเสียหายของการโจมตีประเภทระเบิดเมื่อโจมตีใส่เป้าหมายที่มีเกราะเบา"
             },
             "Buff_EnhancePierceRate": {
                 "En": "Increases the damage bonus when dealing Piercing type attacks against Heavy Armor targets.",
+                "Jp": "重装甲の対象に貫通属性の攻撃を行う際のダメージ倍率を増加",
                 "Th": "เพิ่มความเสียหายของการโจมตีประเภทเจาะเกราะเมื่อโจมตีใส่เป้าหมายที่มีเกราะหนัก"
             },
             "Buff_EnhanceMysticRate": {
                 "En": "Increases the damage bonus when dealing Mystic type attacks against Special Armor targets.",
+                "Jp": "特殊装甲の対象に神秘属性の攻撃を行う際のダメージ倍率を増加",
                 "Th": "เพิ่มความเสียหายของการโจมตีประเภทลึกลับเมื่อโจมตีใส่เป้าหมายที่มีเกราะพิเศษ"
             },
             "Buff_ExtendBuffDuration": {
                 "En": "Increases the duration of buffs granted to self and allies.",
+                "Jp": "自分や味方に付与するバフの持続時間を増加",
                 "Th": "เพิ่มระยะเวลาของบัพที่ใช้กับตัวเองและฝ่ายเรา"
             },
             "Buff_ExtendDebuffDuration": {
                 "En": "Increases the duration of debuffs inflicted on enemies.",
+                "Jp": "敵に付与するデバフの持続時間を増加",
                 "Th": "เพิ่มระยะเวลาของเอฟเฟกต์อันตรายที่ใช้ใส่ฝ่ายศัตรู"
             },
             "Buff_ExtendCrowdControlDuration": {
                 "En": "Increases the duration of Crowd Control effects inflicted on enemies.",
+                "Jp": "敵に付与するCC状態の持続時間を増加",
                 "Th": "เพิ่มระยะเวลาของเอฟเฟกต์กดขี่ที่ใช้ใส่ฝ่ายศัตรู"
             },
             "Buff_HealByHit_Damaged": {
                 "En": "Restores HP each time damage is taken from an attack.",
+                "Jp": "攻撃によってダメージを受けるたびにHPを回復",
                 "Th": "ฟื้นฟู HP ทุกครั้งที่ได้รับความเสียหายจากการโจมตี"
             },
             "Buff_HealEffectiveness": {
                 "En": "Increases the amount of HP restored from healing abilities that target this character.",
+                "Jp": "このキャラクターを対象とした回復スキルによるHP回復量を増加",
                 "Th": "เพิ่มจำนวน HP ที่ฟื้นฟูจากความสามารถรักษา"
             },
             "Buff_HealPower": {
                 "En": "Increases the amount of HP restored by healing abilities, and damage absorbed by barrier abilities.",
+                "Jp": "回復スキルによるHP回復量やシールドが吸収するダメージ量を増加",
                 "Th": "เพิ่มจำนวน HP ที่ฟื้นฟูจากความสามารถรักษาและความเสียหายที่ความสามารถบาเรียดูดซับได้"
             },
             "Buff_HIT": {
                 "En": "Decreases the chance of missing when attacking.",
+                "Jp": "攻撃時にMISSが発生する確率を減少",
                 "Th": "ลดโอกาสที่จะโจมตีไม่โดนเป้าหมายลง"
             },
             "Buff_MAXHP": {
                 "En": "Increases maximum HP.",
+                "Jp": "最大HPを増加",
                 "Cn": "生命值提升",
                 "Th": "เพิ่มจำนวน HP สูงสุด"
             },
             "Buff_MoveSpeed": {
                 "En": "Increases movement speed.",
+                "Jp": "移動速度を増加",
                 "Cn": "移动速度提升",
                 "Th": "เพิ่มความเร็วเคลื่อนที่"
             },
             "Buff_OppressionPower": {
                 "En": "Increases the chance of successfully inflicting Crowd Control effects.",
+                "Jp": "CC状態を付与する確率を増加",
                 "Th": "เพิ่มโอกาสในการส่งผลเอฟเฟกต์กดขี่สำเร็จ"
             },
             "Buff_OppressionResist": {
                 "En": "Decreases the chance of being inflicting with Crowd Control effects.",
+                "Jp": "CC状態を付与される確率を減少",
                 "Th": "ลดโอกาสในการได้รับผลจากเอฟเฟกต์กดขี่"
             },
             "Buff_Penetration": {
                 "En": "Increases the amount of enemy defense that will be ignored by attacks.",
+                "Jp": "攻撃時に無視される敵の防御力の値を増加",
                 "Th": "เพิ่มจำนวนค่าป้องกันที่จะไม่สนใจในการโจมตี"
             },
             "Buff_Range": {
                 "En": "Increases the distance from which Normal Attacks can be performed.",
+                "Jp": "通常攻撃が行える距離を増加",
                 "Th": "เพิ่มระยะในการการโจมตีปกติ"
             },
             "Buff_Shield": {
                 "En": "Absorbs a set amount of damage.",
+                "Jp": "一定量のダメージを吸収",
                 "Cn": "吸收一定量伤害",
                 "Th": "ดูดซับความเสียหายที่ได้รับเป็นจำนวนหนึ่ง"
             },
             "Buff_Stability": {
                 "En": "Increases the minimum damage dealt by attacks due to random damage variance.",
+                "Jp": "乱数による与ダメージの下限を増加",
                 "Th": "เพิ่มความเสียหายขั้นต่ำที่สามารถทำได้ในการโจมตี"
             },
             "Debuff_AmmoCount": {
                 "En": "Decreases the maximum amount of weapon ammunition used by Normal Attacks.",
+                "Jp": "通常攻撃に使用する武器の最大装弾数を減少",
                 "Th": "ลดจำนวนกระสุนสูงสุดของอาวุธในการโจมตีปกติ"
             },
             "Debuff_ATK": {
                 "En": "Decreases the amount of damage dealt by attacks.",
+                "Jp": "攻撃によって与えるダメージを減少",
                 "Th": "ลดความเสียหายของการโจมตี"
             },
             "Debuff_AttackSpeed": {
                 "En": "Decreases the speed of Normal Attacks and reloads, and increases attack delay.",
+                "Jp": "通常攻撃とリロードの速度を減少し攻撃間隔を増加",
                 "Th": "ลดความเร็วการโจมตี, รีโหลดและเพิ่มดีเลย์ในการโจมตี"
             },
             "Debuff_BlockRate": {
                 "En": "Decreases the chance of successfully blocking attacks when taking cover.",
+                "Jp": "遮蔽物使用時にブロックに成功する確率を減少",
                 "Th": "ลดโอกาสกำบังสำเร็จเมื่ออยู่ในกำบัง"
             },
             "Debuff_Burn": {
                 "En": "Continuously receives Burn damage at set intervals. This damage cannot critically hit.",
+                "Jp": "一定間隔で火傷ダメージを受ける。このダメージでは会心は発生しない。",
                 "Th": "ได้รับความเสียหายเผาไหม้ต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้"
             },
             "Debuff_Cheerleading": {
                 "En": "Continuously receives damage at set intervals. This damage cannot critically hit.",
+                "Jp": "一定間隔でダメージを受ける。このダメージでは会心は発生しない。",
                 "Th": "ได้รับความเสียหายร้อนแรงต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้"
             },
             "Debuff_Chill": {
                 "En": "Continuously receives Chill damage at set intervals. This damage cannot critically hit.",
+                "Jp": "一定間隔で悪寒ダメージを受ける。このダメージでは会心は発生しない。",
                 "Th": "ได้รับความเสียหายหนาวสั่นต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้"
             },
             "Debuff_ConcentratedTarget": {
                 "En": "Becomes the priority target of enemies' attacks.",
+                "Jp": "敵の攻撃の優先目標になる",
                 "Th": "เป็นเป้าหมายหลักในการโจมตีของศัตรู"
             },
             "Debuff_CostChange": {
                 "En": "Increases the amount of skill cost required for using the EX Skill.",
+                "Jp": "EXスキルの使用に必要なコストを増加",
                 "Th": "เพิ่มจำนวนค่าใช้สกิล EX ที่ต้องการในการใช้สกิล EX"
             },
             "Debuff_CostRegen": {
                 "En": "Decreases the rate at which skill cost is recovered.",
+                "Jp": "コスト回復速度を減少",
                 "Th": "ลดความเร็วในการฟื้นฟูค่าใช้สกิล EX"
             },
             "Debuff_CriticalChance": {
                 "En": "Decreases the chance of landing a critical hit when attacking.",
+                "Jp": "攻撃時に会心攻撃が発生する確率を減少",
                 "Th": "ลดโอกาสโจมตีติดคริติคอล"
             },
             "Debuff_CriticalChanceResistPoint": {
                 "En": "Increases the chance of receiving a critical hit when being attacked.",
+                "Jp": "被攻撃時に会心攻撃を受ける確率を増加",
                 "Th": "เพิ่มโอกาสถูกโจมตีติดคริติคอล"
             },
             "Debuff_CriticalDamage": {
                 "En": "Decreases the damage dealt by critical hits.",
+                "Jp": "会心攻撃によって与えるダメージを減少",
                 "Th": "ลดความเสียหายของการโจมตีคริติคอล"
             },
             "Debuff_CriticalDamageRateResist": {
                 "En": "Increases the damage received from critical hits.",
+                "Jp": "会心攻撃によって受けるダメージを増加",
                 "Th": "เพิ่มความเสียหายของการถูกโจมตีคริติคอล"
             },
             "Debuff_DamageByHit_Damaged": {
                 "En": "Receives additional damage when being attacked.",
+                "Jp": "攻撃される際に追加でダメージを受ける",
                 "Th": "ได้รับความเสียหายเพิ่มเติมทุกครั้งที่ถูกโจมตี"
             },
             "Debuff_DamagedRatio": {
                 "En": "Increases all incoming damage by a percentage amount.",
+                "Jp": "すべての被ダメージを一定の比率増加",
                 "Th": "เพิ่มความเสียหายที่ได้รับขึ้นเป็นเปอร์เซ็นต์"
             },
             "Debuff_DEF": {
                 "En": "Increases the damage received from attacks.",
+                "Jp": "攻撃によって受けるダメージを増加",
                 "Th": "เพิ่มความเสียหายเมื่อถูกโจมตี"
             },
             "Debuff_Dodge": {
                 "En": "Decreases the chance of successfully evading attacks.",
+                "Jp": "攻撃を回避する確率を減少",
                 "Th": "ลดโอกาสหลบหลีกการโจมตีได้สำเร็จ"
             },
             "Debuff_EnhanceExplosionRate": {
                 "En": "Decreases the damage bonus when dealing Explosive type attacks against Light Armor targets.",
+                "Jp": "軽装備の対象に爆発属性の攻撃を行う際のダメージ倍率を減少",
                 "Th": "ลดความเสียหายของการโจมตีประเภทระเบิดเมื่อโจมตีใส่เป้าหมายที่มีเกราะเบา"
             },
             "Debuff_EnhancePierceRate": {
                 "En": "Decreases the damage bonus when dealing Piercing type attacks against Heavy Armor targets.",
+                "Jp": "重装甲の対象に貫通属性の攻撃を行う際のダメージ倍率を減少",
                 "Th": "ลดความเสียหายของการโจมตีประเภทเจาะเกราะเมื่อโจมตีใส่เป้าหมายที่มีเกราะหนัก"
             },
             "Debuff_EnhanceMysticRate": {
                 "En": "Decreases the damage bonus when dealing Mystic type attacks against Special Armor targets.",
+                "Jp": "特殊装甲の対象に神秘属性の攻撃を行う際のダメージ倍率を減少",
                 "Th": "ลดความเสียหายของการโจมตีประเภทลึกลับเมื่อโจมตีใส่เป้าหมายที่มีเกราะพิเศษ"
             },
             "Debuff_HealedLimit": {
@@ -2741,70 +2874,85 @@
             },
             "Debuff_HealEffectiveness": {
                 "En": "Decreases the amount of HP restored from healing abilities that target this character.",
+                "Jp": "このキャラクターを対象とした回復スキルによるHP回復量を減少",
                 "Th": "ลดจำนวน HP ที่ฟื้นฟูจากความสามารถรักษา"
             },
             "Debuff_HealPower": {
                 "En": "Decreases the amount of HP restored by healing abilities, and damage absorbed by barrier abilities.",
+                "Jp": "回復スキルによるHP回復量やシールドが吸収するダメージ量を減少",
                 "Th": "ลดจำนวน HP ที่ฟื้นฟูจากความสามารถรักษาและความเสียหายที่ความสามารถบาเรียดูดซับได้"
             },
             "Debuff_Hieronymus": {
                 "En": "Inflicts continuous damage over time. Inflicts a large amount of damage in a circular area around the target if this debuff is not removed before it expires. This debuff can only be removed by healing the afflicted to 100% HP.",
+                "Jp": "持続ダメージ状態を付与。この状態が制限時間内に解除されなかった時、その対象を中心とした円形範囲内の敵に大ダメージを与える。この状態の付与時に対象のHPが100％だった場合、または対象のHPを100％まで回復した場合にこの状態は解除される。",
                 "Th": "สร้างความเสียหายอย่างต่อเนื่อง<br>สร้างความเสียหายรุนแรงในรัศมีรอบเป้าหมายหากดีบัฟไม่ถูกล้างออกก่อนระยะเวลาดีบัฟจบลง<br>ดีบัฟสามารถถูกล้างออกด้วยการรักษาเป้าหมายให้ HP เป็น 100%"
             },
             "Debuff_HIT": {
                 "En": "Increases the chance of missing when attacking.",
+                "Jp": "攻撃時にMISSが発生する確率が増加",
                 "Th": "เพิ่มโอกาสที่จะโจมตีไม่โดนเป้าหมายขึ้น"
             },
             "Debuff_MAXHP": {
                 "En": "Decreases maximum HP.",
+                "Jp": "最大HPを減少",
                 "Cn": "生命值下降",
                 "Th": "ลดจำนวน HP สูงสุด"
             },
             "Debuff_MoveSpeed": {
                 "En": "Decreases movement speed.",
+                "Jp": "移動速度を減少",
                 "Cn": "移动速度下降",
                 "Th": "ลดความเร็วเคลื่อนที่"
             },
             "Debuff_OppressionPower": {
                 "En": "Decreases the chance of successfully inflicting Crowd Control effects.",
+                "Jp": "CC状態を付与する確率が減少",
                 "Th": "ลดโอกาสในการส่งผลเอฟเฟกต์กดขี่สำเร็จ"
             },
             "Debuff_OppressionResist": {
                 "En": "Increases the chance of being inflicting with Crowd Control effects.",
+                "Jp": "CC状態を付与する確率が減少",
                 "Th": "เพิ่มโอกาสในการได้รับผลจากเอฟเฟกต์กดขี่"
             },
             "Debuff_Penetration": {
                 "En": "Decreases the amount of enemy defense that will be ignored by attacks.",
+                "Jp": "攻撃時に無視される敵の防御力の値が減少",
                 "Th": "ลดจำนวนค่าป้องกันที่จะไม่สนใจในการโจมตี"
             },
             "Debuff_Poison": {
                 "En": "Continuously receives poison damage at set intervals. This damage cannot critically hit.",
+                "Jp": "一定間隔で中毒ダメージを受ける。このダメージでは会心は発生しない。",
                 "Th": "ได้รับความเสียหายพิษต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้"
             },
             "Debuff_Range": {
                 "En": "Decreases the distance from which Normal Attacks can be performed.",
+                "Jp": "通常攻撃を行える距離が減少",
                 "Th": "ลดระยะในการการโจมตีปกติ"
             },
             "Debuff_Stability": {
                 "En": "Decreases the minimum damage dealt by attacks due to random damage variance.",
+                "Jp": "乱数による与ダメージの下限が低下",
                 "Th": "ลดความเสียหายขั้นต่ำที่สามารถทำได้ในการโจมตี"
             },
             "CC_Fear": {
                 "En": "Unable to act and will slowly move away from whoever inflicted fear on them. Also interrupts any active skills.",
+                "Jp": "行為不能になり恐怖を付与してきた対象からゆっくりと離れる。発生中のスキルも妨害される。",
                 "Th": "ไม่สามารถตอบสนองได้และจะค่อยๆ เคลื่อนที่ออกจากคนที่ส่งผลเอฟเฟกต์กลัว นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก"
             },
             "CC_Stunned": {
                 "En": "Unable to act and interrupts any active skills.",
+                "Jp": "行為不能になり発生中のスキルが妨害される。",
                 "Th": "ไม่สามารถตอบสนองได้ นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก",
                 "Cn": "无法行动并打断任何主动技能。"
             },
             "CC_Provoke": {
                 "En": "Forced to attack whoever inflicted taunt on them. Also interrupts any active skills.",
+                "Jp": "挑発状態を付与してきた対象を強制的に攻撃する。発生中のスキルも妨害される。",
                 "Th": "ถูกบังคับให้โจมตีใส่คนที่ส่งผลเอฟเฟกต์ยั่วยุ นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก"
             },
             "CC_Paralysis": {
                 "En": "Unable to act and interrupts any active skills.",
-                "Jp": null,
+                "Jp": "行為不能になり発生中のスキルが妨害される。",
                 "Kr": null,
                 "Th": "ไม่สามารถตอบสนองได้ นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก",
                 "Tw": null,
@@ -2812,63 +2960,75 @@
             },
             "Special_EnergyBatteryHalf": {
                 "En": "Increases the effectiveness of Aris's EX and Sub skills by 1.5&times; (half) or 2&times; (full).\nCharge level resets to empty after EX skill use.",
+                "Jp": "アリスのEXスキルとサブスキルの効果を1.5倍（1段階チャージ時）または2倍（2段階チャージ時）に増加する。EXスキルを使用すると初期化される。",
                 "Th": "เพิ่มประสิทธิภาพสกิล EX และสกิลรองของอาริสึขึ้น 1.5&times; (ครึ่งหนึ่ง) หรือ 2&times; (เต็ม)\nระดับการชาร์จจะถูกรีเซ็ทเป็น 0 หลังการใช้งานสกิล EX"
             },
             "Special_FormChange": {
                 "En": "Augments Normal Attacks.",
+                "Jp": "通常攻撃を強化",
                 "Cn": "增强普通攻击力。",
                 "Th": "เปลี่ยนรูปแบบของการโจมตีปกติ"
             },
             "Special_Immortal": {
                 "En": "Able to survive lethal damage with 1 HP for the duration of the effect.",
+                "Jp": "効果時間中は致死ダメージを受けてもHP1で生存可能",
                 "Th": "เมื่อได้รับความเสียหายถึงตาย, HP จะไม่ลดลงไปต่ำกว่า 1 จนกว่าระยะเวลาของเอฟเฟกต์จะหมดลง"
             },
             "Special_ImmuneDamage": {
                 "En": "Immune to some or all types of incoming damage.",
+                "Jp": "特定のタイプまたはすべてのタイプのダメージが無効",
                 "Cn": "免疫遭受的部分或全部类型伤害",
                 "Th": "ไม่ได้รับความเสียหายใดๆ"
             },
             "Special_Fury": {
                 "En": "Increases the damage dealt by Neru's EX Skill.",
+                "Jp": "ネルのEXスキルのダメージが増加",
                 "Cn": "尼禄EX技能造成的伤害提升",
                 "Th": "เพิ่มความเสียหายที่ทำได้จากสกิล EX ของเนรุ"
             },
             "Special_Misdeed": {
                 "En": "Decreases DEF with each stack held and generates skill cost when Aru (New Year) uses her EX Skill.",
+                "Jp": "保有数に応じて防御力が減少し、アル（正月）がEXスキルを使用した時に保有数に応じてスキルコストを獲得",
                 "Th": "ลดค่าป้องกันต่อจำนวนที่ถือครองและคืนค่าใช้สกิล EX ให้เมื่ออารุ (ปีใหม่) ใช้สกิล EX"
             },
             "Special_LittleDevil": {
                 "En": "Increases Crit DMG with each stack held and increases the damage dealt by Mutuski (New Year)'s Basic Skill when at 6 stacks.",
+                "Jp": "保有数に応じて会心ダメージ率を増加し、6個保有されているとムツキ（正月）のノーマルスキルによるダメージが増加",
                 "Th": "เพิ่มความเสียหายคริติคอลต่อจำนวนที่ถือครองและเพิ่มความเสียหายที่ทำได้จากสกิลพื้นฐานของมุทซึกิ (ปีใหม่) เมื่อซ้อนทับถึง 6 ชั้น"
             },
             "Special_Accumulation": {
                 "En": "All damage dealt to this target for the duration of the effect will be accumulated and dealt again as an additional hit once this expires.",
+                "Jp": "効果時間内にダメージ蓄積状態の対象に与えられたダメージは蓄積し効果時間終了時に再び蓄積分のダメージを与える。",
                 "Cn": "效果持续期间对该目标造成的所有伤害将被累积，并在效果过期后作为额外打击再次造成伤害。",
                 "Th": "ทุกความเสียหายที่ทำใส่เป้าหมายในระยะเวลาของเอฟเฟกต์นี้จะถูกสะสมและเปลี่ยนเป็นความเสียหายลึกลับเพิ่มเติมใส่เป้าหมายอีกครั้งเมื่อระยะเวลาของเอฟเฟกต์นี้จบลง"
             },
             "Special_CostRegenBan": {
                 "En": "Cost Recovery is reduced to 0.",
+                "Jp": "コスト回復力が0に減少",
                 "Cn": "COST回复力降低为0",
                 "Th": "อัตราการฟื้นฟูค่าใช้สกิล EX ถูกลดลงเป็น 0"
             },
             "Special_ImmuneCC": {
                 "En": "Immune to all Crowd Control effects.",
+                "Jp": "すべてのCC状態が無効",
                 "Cn": "免疫所有群控效果",
                 "Th": "ไม่ได้รับผลจากเอฟเฟกต์กดขี่ใดๆ"
             },
             "Special_SuddenDeath": {
                 "En": "A stack of 5 will deal lethal damage to the character.",
+                "Jp": "5個たまると対象キャラクターに致死ダメージを与える",
                 "Cn": "5层叠加将对人物造成致命伤害。",
                 "Th": "เมื่อซ้อนทับครบ 5 ชั้น, สร้างความเสียหายที่จะสังหารเป้าหมายทันที"
             },
             "Special_Stamp": {
                 "En": "Reduces allies' EX skill cost and restores own HP when Kokona reaches 5 stacks.",
+                "Jp": "ココナが5個獲得した時自身のHPを回復し自信を除く味方のスキルコストを1減少",
                 "Cn": "当心奈进行5次攻击时降低队伍中其他学生的EX技能费用并恢复自身生命值。",
                 "Th": "ลดค่าใช้สกิล EX ของฝ่ายเรายกเว้นตัวเองลง 1 และฟื้นฟู HP ของตัวเองเมื่อสะสมครบ 5 ชั้น\nสแตมป์ดอกไม้จะถูกรีเซ็ทเป็น 0 หลังการใช้งานสกิลรอง"
             },
             "Special_Holiday": {
                 "En": "Increases the effects of certain EX skills on this character.",
-                "Jp": null,
+                "Jp": "保有キャラクターに対する特定のEXスキルの効果を増加",
                 "Kr": null,
                 "Th": "เพิ่มประสิทธิภาพของสกิล EX บางสกิลที่ส่งผลกับเป้าหมายที่มีเอฟเฟกต์นี้",
                 "Tw": null,
@@ -3054,7 +3214,7 @@
             },
             "navbar_settings_theme_description": {
                 "En": "Auto will use your device theme.",
-                "Jp": "Autoはお使いの端末のテーマが使用されます。",
+                "Jp": "Autoを選択すると御使用端末のテーマが適用されます。",
                 "Kr": null,
                 "Th": "Auto จะตั้งค่าตามธีมของอุปกรณ์คุณ",
                 "Tw": "選擇 Auto 匹配設備主題。",
@@ -3070,7 +3230,7 @@
             },
             "navbar_settings_contrast_description": {
                 "En": "Disables blur and transparency effects.<br>May also improve performance.",
-                "Jp": "ブラーと透明度を無効にする。<br>パフォーマンスを向上させる可能性がある。",
+                "Jp": "ぼかし効果と透過効果を無効にします。<br>パフォーマンスが向上することがあります。",
                 "Kr": null,
                 "Th": "ลบเอฟเฟคเบลอและโปร่งใสออก <br>อาจจะเพิ่มประสิทธิภาพการทำงาน",
                 "Tw": "禁用模糊與透明效果。<br>可能提升性能。",
@@ -3078,7 +3238,7 @@
             },
             "navbar_settings_collection": {
                 "En": "Manage Collection Data",
-                "Jp": null,
+                "Jp": "所持生徒データの管理",
                 "Kr": null,
                 "Th": "จัดการข้อมูลในคอลเลคชั่น",
                 "Tw": "管理集合數據",
@@ -3086,7 +3246,7 @@
             },
             "navbar_settings_collection_description": {
                 "En": "Import or export your student collection data.",
-                "Jp": null,
+                "Jp": "あなたの所持生徒データのインポートやエクスポートを行います。",
                 "Kr": null,
                 "Th": "นำเข้าหรือส่งออกข้อมูลนักเรียนในคอลเลคชั่น",
                 "Tw": "導入或導出你的學生集數據。",
@@ -3094,7 +3254,7 @@
             },
             "navbar_settings_custombuffs": {
                 "En": "Enable Custom Buffs",
-                "Jp": null,
+                "Jp": "カスタムバフを有効化",
                 "Kr": null,
                 "Th": "ใช้งานโหมดบัพแบบกำหนดเอง",
                 "Tw": null,
@@ -3102,7 +3262,7 @@
             },
             "navbar_settings_custombuffs_description": {
                 "En": "(Experimental) Allows for setting custom buff values on student's stat display options screen.",
-                "Jp": null,
+                "Jp": "（試験段階）詳細ステータス/スキル画面で自由にバフ量を設定できるようになります。",
                 "Kr": null,
                 "Th": "(อยู่ในการทดสอบ) เปิดใช้งานการเพิ่มบัพแบบกำหนดเองให้กับนักเรียนในหน้าค่าสถานะของนักเรียน",
                 "Tw": null,
@@ -3118,7 +3278,7 @@
             },
             "filter_by_name": {
                 "En": "Filter by name",
-                "Jp": "名前しでフィルタ",
+                "Jp": "名前でフィルター",
                 "Kr": null,
                 "Th": "กรองด้วยชื่อ",
                 "Tw": "以名稱過濾",
@@ -3126,7 +3286,7 @@
             },
             "collection_export_collection": {
                 "En": "Export Collection",
-                "Jp": null,
+                "Jp": "所持生徒データのエクスポート",
                 "Kr": null,
                 "Th": "ส่งออกคอลเลคชั่น",
                 "Tw": "導出集合",
@@ -3134,7 +3294,7 @@
             },
             "collection_import_collection": {
                 "En": "Import Collection",
-                "Jp": null,
+                "Jp": "所持生徒データのインポート",
                 "Kr": null,
                 "Th": "นำเข้าคอลเลคชั่น",
                 "Tw": "導入集合",
@@ -3142,7 +3302,7 @@
             },
             "collection_import_warning": {
                 "En": "This will overwrite your current collection",
-                "Jp": null,
+                "Jp": "現在の所持生徒データを上書きします",
                 "Kr": null,
                 "Th": "นี่จะเป็นการแทนที่คอลเลคชั่นของคุณในปัจจุบัน",
                 "Tw": "這會覆蓋你的當前集合",
@@ -3150,7 +3310,7 @@
             },
             "collection_export_placeholder": {
                 "En": "Click export to generate an export string from your collection",
-                "Jp": null,
+                "Jp": "エクスポートをクリックして所持生徒データからエクスポート用文字列を生成",
                 "Kr": null,
                 "Th": "กดส่งออกเพื่อสร้างรหัสส่งออกจากคอลเลคชั่นของคุณ",
                 "Tw": "點擊導出以生成集合的導出字符串",
@@ -3158,7 +3318,7 @@
             },
             "collection_import_placeholder": {
                 "En": "Paste export string here and click Import",
-                "Jp": null,
+                "Jp": "ここにエクスポート用文字列を張り付けてインポートをクリック",
                 "Kr": null,
                 "Th": "วางรหัสส่งออกที่นี่แล้วกดนำเข้า",
                 "Tw": "將導出字符串粘貼與此処並點擊導入",
@@ -3166,7 +3326,7 @@
             },
             "collection_export": {
                 "En": "Export",
-                "Jp": null,
+                "Jp": "エクスポート",
                 "Kr": null,
                 "Th": "ส่งออก",
                 "Tw": "導出",
@@ -3174,7 +3334,7 @@
             },
             "collection_import": {
                 "En": "Import",
-                "Jp": null,
+                "Jp": "インポート",
                 "Kr": null,
                 "Th": "นำเข้า",
                 "Tw": "導入",
@@ -3182,7 +3342,7 @@
             },
             "collection_import_planner": {
                 "En": "Import from Resource Planner",
-                "Jp": null,
+                "Jp": "Resource Plannerからインポート",
                 "Kr": null,
                 "Th": "นำเข้ามาจาก Resource Planner",
                 "Tw": "從 Resource Planner 導入",
@@ -3190,7 +3350,7 @@
             },
             "setting_off": {
                 "En": "OFF",
-                "Jp": null,
+                "Jp": "オフ",
                 "Kr": null,
                 "Th": "ปิด",
                 "Tw": "関",
@@ -3198,7 +3358,7 @@
             },
             "setting_on": {
                 "En": "ON",
-                "Jp": null,
+                "Jp": "オン",
                 "Kr": null,
                 "Th": "เปิด",
                 "Tw": "開",
@@ -3206,7 +3366,7 @@
             },
             "setting_open": {
                 "En": "Open",
-                "Jp": null,
+                "Jp": "開く",
                 "Kr": null,
                 "Th": "เปิด",
                 "Tw": "打開",
@@ -3230,7 +3390,7 @@
             },
             "event_starts": {
                 "En": "Starts in <b>{0} days, {1} hours and {2} minutes</b>.",
-                "Jp": null,
+                "Jp": "<b>{0}日{1}時間{2}分</b>後に開始",
                 "Kr": null,
                 "Th": "เริ่มต้นในอีก <b>{0} วัน, {1} ชั่วโมง {2} นาที</b>",
                 "Tw": "<b>{0}天{1}小時{2}分鐘</b>後開始",
@@ -3238,7 +3398,7 @@
             },
             "event_ends": {
                 "En": "Ends in <b>{0} days, {1} hours and {2} minutes</b>.",
-                "Jp": null,
+                "Jp": "<b>{0}日{1}時間{2}分</b>後に終了",
                 "Kr": null,
                 "Th": "สิ้นสุดในอีก <b>{0} วัน, {1} ชั่วโมง {2} นาที</b>",
                 "Tw": "<b>{0}天{1}小時{2}分鐘</b>後結束",
@@ -3246,7 +3406,7 @@
             },
             "student_birthdays": {
                 "En": "The following students are celebrating their birthday this week!",
-                "Jp": "今週は、以下の生徒が誕生日を迎えます。",
+                "Jp": "今週に誕生日を迎える生徒の皆さんです！",
                 "Kr": null,
                 "Th": "นักเรียนที่มีวันเกิดอยู่ในสัปดาห์นี้!",
                 "Tw": "以下學生在本周迎來生日。",
@@ -3342,7 +3502,7 @@
             },
             "student_bond_alt": {
                 "En": "Alt Relationship Rank",
-                "Jp": "絆ランク",
+                "Jp": "絆ランク（別衣装）",
                 "Kr": "인연랭크",
                 "Th": "ระดับสายใย",
                 "Tw": "羈絆等級",
@@ -3350,7 +3510,7 @@
             },
             "tooltip_supportstats": {
                 "En": "Support Stats",
-                "Jp": "能力の補助値",
+                "Jp": "支援値",
                 "Kr": "보조 능력치",
                 "Th": "รายการค่าพลังเสริม",
                 "Tw": "輔助能力值",
@@ -3358,7 +3518,7 @@
             },
             "tooltip_vehiclestats": {
                 "En": "Vehicle/Summon Stats",
-                "Jp": "車両/召喚のステータス",
+                "Jp": "搭乗物/召喚物のステータス",
                 "Kr": null,
                 "Th": "ค่าสถานะของยานพาหนะ/วัตถุที่ถูกเรียก",
                 "Tw": "車輛/召喚物數據",
@@ -3366,7 +3526,7 @@
             },
             "tooltip_import_planner": {
                 "En": "Imports collection from Justin163's Resource Planner (justin163.com/planner)",
-                "Jp": null,
+                "Jp": "Justin163のResource Planner（justin163.com/planner）から生徒データをインポートします",
                 "Kr": null,
                 "Th": "นำเข้าคอลเลคชั่นจาก Justin163's Resource Planner (justin163.com/planner)",
                 "Tw": "從 Justin163's Resource Planner (justin163.com/planner) 導入集合",
@@ -3382,7 +3542,7 @@
             },
             "add_own": {
                 "En": "Add Own/Selected Specials",
-                "Jp": null,
+                "Jp": "自身と選択したスペシャルを追加",
                 "Kr": null,
                 "Th": "เพิ่มนักเรียน Special ที่มี/เลือกไว้",
                 "Tw": null,
@@ -3390,7 +3550,7 @@
             },
             "buff_transferable": {
                 "En": "Other Buffs",
-                "Jp": null,
+                "Jp": "その他のバフ",
                 "Kr": null,
                 "Th": "บัพอื่นๆ",
                 "Tw": null,
@@ -3398,7 +3558,7 @@
             },
             "buff_transferable_search": {
                 "En": "Search for Student or Skill Name",
-                "Jp": null,
+                "Jp": "生徒名やスキル名で検索",
                 "Kr": null,
                 "Th": "ค้นหาชื่อนักเรียนหรือชื่อสกิล",
                 "Tw": null,
@@ -3406,7 +3566,7 @@
             },
             "buff_transferable_conflict": {
                 "En": "Some of the selected buffs' effects conflict with each other. Only the first effect will be applied.",
-                "Jp": null,
+                "Jp": "選択されたバフ効果の中に重複しないものがあります。最初の効果だけが適用されます。",
                 "Kr": null,
                 "Th": "เอฟเฟกต์บัพที่เลือกมีบางบัพที่ไม่สามารถใช้ร่วมกันได้ จะมีเพียงเอฟเฟกต์อันแรกเท่านั้นที่ส่งผล",
                 "Tw": null,
@@ -3414,7 +3574,7 @@
             },
             "buff_transferable_incompatible": {
                 "En": "Some of the selected buffs cannot be applied to the current character.",
-                "Jp": null,
+                "Jp": "選択されたバフ効果の中にこのキャラクターに適用できないものがあります。",
                 "Kr": null,
                 "Th": "เอฟเฟกต์บัพที่เลือกมีบางบัพที่ไม่สามารถใช้ได้กับตัวละครปัจจุบันที่เลือก",
                 "Tw": null,
@@ -3422,7 +3582,7 @@
             },
             "enemy_debuffs": {
                 "En": "Enemy Debuffs",
-                "Jp": null,
+                "Jp": "敵デバフ",
                 "Kr": null,
                 "Th": "เอฟเฟกต์อันตรายบนตัวศัตรู",
                 "Tw": null,
@@ -3430,7 +3590,7 @@
             },
             "enemy_select": {
                 "En": "Select Enemy",
-                "Jp": null,
+                "Jp": "敵を選択",
                 "Kr": null,
                 "Th": "เลือกศัตรู",
                 "Tw": null,
@@ -3438,7 +3598,7 @@
             },
             "buff_custom": {
                 "En": "Custom Buffs",
-                "Jp": null,
+                "Jp": "カスタムバフ",
                 "Kr": null,
                 "Th": "บัพแบบกำหนดเอง",
                 "Tw": null,
@@ -3446,7 +3606,7 @@
             },
             "buff_custom_enemy": {
                 "En": "Enemy Custom Buffs",
-                "Jp": null,
+                "Jp": "敵カスタムバフ",
                 "Kr": null,
                 "Th": "บัพแบบกำหนดเองของศัตรู",
                 "Tw": null,
@@ -3454,7 +3614,7 @@
             },
             "buff_custom_base": {
                 "En": "Add as base amount",
-                "Jp": null,
+                "Jp": "基礎値として追加",
                 "Kr": null,
                 "Th": "เพิ่มค่าเป็นค่าพื้นฐาน",
                 "Tw": null,
@@ -3462,7 +3622,7 @@
             },
             "buff_custom_coefficient": {
                 "En": "Add as percentage amount",
-                "Jp": null,
+                "Jp": "%値として追加",
                 "Kr": null,
                 "Th": "เพิ่มค่าเป็นเปอร์เซ็นต์",
                 "Tw": null,
@@ -3470,7 +3630,7 @@
             },
             "buff_custom_name_placeholder": {
                 "En": "Name (Optional)",
-                "Jp": null,
+                "Jp": "バフ名（任意）",
                 "Kr": null,
                 "Th": "ชื่อ (ไม่จำเป็น)",
                 "Tw": null,
@@ -3478,7 +3638,7 @@
             },
             "buff_custom_value_placeholder": {
                 "En": "Value",
-                "Jp": null,
+                "Jp": "バフ値",
                 "Kr": null,
                 "Th": "จำนวนค่าที่ต้องการ",
                 "Tw": null,
@@ -3486,7 +3646,7 @@
             },
             "supportstats_search": {
                 "En": "Search for Special Student",
-                "Jp": null,
+                "Jp": "スペシャルの生徒を検索",
                 "Kr": null,
                 "Th": "ค้นหานักเรียน Special",
                 "Tw": null,
@@ -3526,7 +3686,7 @@
             },
             "student_skills_upgrades": {
                 "En": "Upgrades",
-                "Jp": null,
+                "Jp": "＋に強化",
                 "Kr": null,
                 "Th": "อัปเกรด",
                 "Tw": null,
@@ -3534,7 +3694,7 @@
             },
             "student_skills_materials": {
                 "En": "Materials",
-                "Jp": "材料リスト",
+                "Jp": "必要素材",
                 "Kr": "재료 리스트",
                 "Th": "วัตถุดิบ",
                 "Tw": "材料清單",
@@ -3542,7 +3702,7 @@
             },
             "student_skills_materials_none": {
                 "En": "No materials required.",
-                "Jp": "成長材料が不要。",
+                "Jp": "育成素材は不要です。",
                 "Kr": null,
                 "Th": "ไม่มีวัตถุดิบที่ต้องการ",
                 "Tw": "無需成長材料。",
@@ -3550,7 +3710,7 @@
             },
             "student_weapon_rank_2star_desc": {
                 "En": "Exclusive Weapon Max Level Lv.30 → <b>Lv.40</b> / Upgrades Enhanced Skill",
-                "Jp": "固有武器のMax Level Lv.30 → <b>Lv.40</b> / パッシブスキル+をアンロック",
+                "Jp": "固有武器のMax Level Lv.30 → <b>Lv.40</b> / パッシブスキル＋を開放",
                 "Kr": null,
                 "Th": "เลเวลสูงสุดของอาวุธเฉพาะ Lv.30 → <b>Lv.40</b> / อัปเกรดสกิลติดตัว+",
                 "Tw": "固有武器最大等級 Lv.30 → <b>Lv.40</b> / 解鎖強化技能+",
@@ -3558,7 +3718,7 @@
             },
             "student_weapon_rank_3star_desc": {
                 "En": "Exclusive Weapon Max Level Lv.40 → <b>Lv.50</b> / Upgrades Terrain Strength",
-                "Jp": "固有武器のMax Level Lv.40 → <b>Lv.50</b> / 地形別戦闘力の強化",
+                "Jp": "固有武器のMax Level Lv.40 → <b>Lv.50</b> / 地形別戦闘力を強化",
                 "Kr": null,
                 "Th": "เลเวลสูงสุดของอาวุธเฉพาะ Lv.40 → <b>Lv.50</b> / อัปเกรดความคุ้นชินพื้นที่",
                 "Tw": "固有武器最大等級 Lv.40 → <b>Lv.50</b> / 地形战力强化",
@@ -3566,7 +3726,7 @@
             },
             "student_gear_t2_desc": {
                 "En": "Unlocks Basic Skill+",
-                "Jp": "ノーマルスキル+をアンロック",
+                "Jp": "ノーマルスキル＋を開放",
                 "Kr": null,
                 "Th": "อัปเกรดสกิลพื้นฐาน+",
                 "Tw": "解鎖基本技能+",
@@ -3582,7 +3742,7 @@
             },
             "attack_type_normal_desc": {
                 "En": "Deals <b>1&times;</b> damage to <b class='ba-col-explosion'>Light</b>, <b class='ba-col-pierce'>Heavy</b> and <b class='ba-col-mystic'>Special</b> armor targets.<br>Deals <b>0.5&times;</b> damage to <b class='ba-col-siege'>Structures</b>.",
-                "Jp": "すべての防御タイプに<b>1倍</b>のダメージを与える<br>構造物に<b>0.5倍</b>のダメージを与える。",
+                "Jp": "すべての防御タイプに<b>等倍</b>のダメージを与える<br>構造物に<b>0.5倍</b>のダメージを与える。",
                 "Kr": null,
                 "Th": "สร้างความเสียหาย <b>1&times;</b> ให้กับเป้าหมายประเภท<b class='ba-col-explosion'>เกราะเบา</b>, <b class='ba-col-pierce'>เกราะหนัก</b>และ<b class='ba-col-mystic'>เกราะพิเศษ</b><br>สร้างความเสียหาย <b>0.5&times;</b> ให้กับเป้าหมายประเภท<b class='ba-col-siege'>สิ่งปลูกสร้าง</b>",
                 "Tw": "對<b class='ba-col-explosion'>輕裝甲</b>、<b class='ba-col-pierce'>重裝甲</b>與<b class='ba-col-mystic'>神秘裝甲</b>目標造成<b>1倍</b>傷害。<br>對<b class='ba-col-siege'>構造物</b>造成<b>0.5倍</b>傷害。",
@@ -3598,7 +3758,7 @@
             },
             "defense_type_normal_desc": {
                 "En": "Receives <b>1&times;</b> damage from <b class='ba-col-explosion'>Explosive</b>, <b class='ba-col-pierce'>Piercing</b> and <b class='ba-col-mystic'>Mystic</b> attacks.",
-                "Jp": null,
+                "Jp": "<b class='ba-col-explosion'>爆発</b>、<b class='ba-col-pierce'>貫通</b>、および<b class='ba-col-mystic'>神秘</b>攻撃から<b>等倍</b>のダメージを受ける。",
                 "Kr": null,
                 "Th": "ได้รับความเสียหาย <b>1&times;</b> จากการโจมตีประเภท<b class='ba-col-explosion'>ระเบิด</b>, <b class='ba-col-pierce'>เจาะเกราะ</b>และ<b class='ba-col-mystic'>ลึกลับ</b>",
                 "Tw": "承受<b>1倍</b><b class='ba-col-explosion'>爆炸</b>、<b class='ba-col-pierce'>貫穿</b>與<b class='ba-col-mystic'>神秘</b>攻擊傷害。",
@@ -3686,7 +3846,7 @@
             },
             "favoritem_title": {
                 "En": "Favorite Gifts",
-                "Jp": "贈り物",
+                "Jp": "お気に入りの贈り物",
                 "Kr": "선물",
                 "Th": "ของขวัญ",
                 "Tw": "禮物",
@@ -3694,7 +3854,7 @@
             },
             "favoritem_none": {
                 "En": "This student does not have any favourite gifts.",
-                "Jp": "この生徒には好きな贈り物はありません。",
+                "Jp": "この生徒にはお気に入りの贈り物がありません。",
                 "Kr": null,
                 "Th": "นักเรียนนี้ไม่มีของขวัญที่ชื่นชอบเป็นพิเศษ",
                 "Tw": "此學生沒有任何喜歡的禮物。",
@@ -3702,7 +3862,7 @@
             },
             "furniture_title": {
                 "En": "Furniture Interaction",
-                "Jp": "家具モーション",
+                "Jp": "家具モーションのある家具",
                 "Kr": "상호작용",
                 "Th": "โต้ตอบได้",
                 "Tw": "交互作用",
@@ -3710,7 +3870,7 @@
             },
             "furniture_none": {
                 "En": "This student does not interact with any cafe furniture.",
-                "Jp": "この生徒には「家具モーション」がありません。",
+                "Jp": "この生徒には家具モーションのある家具がありません。",
                 "Kr": null,
                 "Th": "นักเรียนนี้ไม่มีการโต้ตอบกับเฟอร์นิเจอร์",
                 "Tw": "此學生不與任何咖啡廳家具互動。",
@@ -3734,7 +3894,7 @@
             },
             "student_search_filters_clear": {
                 "En": "Clear all Filters",
-                "Jp": "フィルターを外す",
+                "Jp": "フィルターをすべて解除",
                 "Kr": null,
                 "Th": "ล้างตัวกรองทั้งหมด",
                 "Tw": "清空過濾器",
@@ -3742,7 +3902,7 @@
             },
             "student_search_info": {
                 "En": "Show all Info",
-                "Jp": null,
+                "Jp": "すべての情報を表示",
                 "Kr": null,
                 "Th": "แสดงข้อมูลทั้งหมด",
                 "Tw": "顯示所有信息",
@@ -3806,7 +3966,7 @@
             },
             "rarity_availability": {
                 "En": "Rarity / Availability",
-                "Jp": "レア度",
+                "Jp": "レア度 / 入手機会",
                 "Kr": "희귀도",
                 "Th": "หายาก",
                 "Tw": "稀有度",
@@ -3830,7 +3990,7 @@
             },
             "school": {
                 "En": "Academy",
-                "Jp": "学校",
+                "Jp": "学園",
                 "Kr": "학원",
                 "Th": "โรงเรียน",
                 "Tw": "學園",
@@ -3886,7 +4046,7 @@
             },
             "memory_lobby_unlock": {
                 "En": "Unlocks after reaching relationship rank {0} with {1}",
-                "Jp": "{1}との絆ランク{0}になると獲得できる。",
+                "Jp": "{1}との絆ランクが{0}になると開放",
                 "Kr": null,
                 "Th": "ปลดล็อคหลังจากระดับสายใยของ{1}ถึงระดับ {0}",
                 "Tw": "{1}羈絆等級達成{0}後解鎖",
@@ -3902,7 +4062,7 @@
             },
             "terrain_adaption_details": {
                 "En": "Deals <b>{0}&times;</b> damage in <b>{1}</b> terrain.\nBlock rate when taking cover <b>+{2}%</b>.\nChance to ignore block when attacking <b>+{2}%</b>",
-                "Jp": "{1}では<b>{0}倍</b>のダメージを与える。\n隠れている時、遮蔽成功値を<b>{2}%</b>増加。\n遮蔽貫通値を<b>{2}%</b>増加。",
+                "Jp": "{1}では<b>{0}倍</b>のダメージを与える。\n遮蔽ブロック率<b>{2}%</b>。\n遮蔽貫通率<b>{2}%</b>。",
                 "Kr": null,
                 "Th": "สร้างความเสียหาย <b>{0}&times;</b> ในพื้นที่<b>{1}</b>\nอัตรากำบังสำเร็จเมื่ออยู่ในกำบัง <b>+{2}%</b>\nอัตราไม่สนใจกำบังศัตรูเมื่อโจมตี <b>+{2}%</b>",
                 "Tw": "在<b>{1}</b>地形造成<b>{0}倍</b>傷害。\n尋找掩體時掩護成功率<b>+{2}%</b>。\n攻擊時繞過掩體概率<b>增加{2}%</b>。",
@@ -3910,7 +4070,7 @@
             },
             "statpreview_title": {
                 "En": "Stat / Skill Details",
-                "Jp": "ステータスオプション",
+                "Jp": "詳細ステータス / スキル",
                 "Kr": null,
                 "Th": "รายละเอียดค่าสเตตัส/สกิล",
                 "Tw": "數據預覽選項",
@@ -3925,7 +4085,7 @@
                 "Cn": "增益效果"
             },
             "enemy_target": {
-                "En": "Target",
+                "En": "対象",
                 "Jp": null,
                 "Kr": null,
                 "Th": "จำลองเป้าหมาย",
@@ -3934,7 +4094,7 @@
             },
             "summon": {
                 "En": "Summon",
-                "Jp": "召喚",
+                "Jp": "召喚物",
                 "Kr": null,
                 "Th": "วัตถุอัญเชิญ/วัตถุกำบัง",
                 "Tw": null,
@@ -3942,7 +4102,7 @@
             },
             "summon_inheritance": {
                 "En": "Inherits {0} of {1}'s {2}",
-                "Jp": null,
+                "Jp": "{1}の{2}の{0}を引き継ぐ",
                 "Kr": null,
                 "Th": "ได้รับ{2} {0} ของ{2}ของ{1}",
                 "Tw": null,
@@ -3950,7 +4110,7 @@
             },
             "stability_mindamage": {
                 "En": "Minimum Damage: {0}",
-                "Jp": null,
+                "Jp": "最小ダメージ: {0}",
                 "Kr": null,
                 "Th": "ความเสียหายขั้นต่ำ: {0}",
                 "Tw": "最低傷害：{0}",
@@ -3974,7 +4134,7 @@
             },
             "stage_rewards": {
                 "En": "Rewards",
-                "Jp": "獲得可能報酬",
+                "Jp": "獲得期待報酬",
                 "Kr": "획득 가능 보상",
                 "Th": "รางวัลที่มีโอกาสได้รับ",
                 "Tw": "可獲得獎勵",
@@ -3982,7 +4142,7 @@
             },
             "rewards_none": {
                 "En": "No rewards.",
-                "Jp": "報酬はありません。",
+                "Jp": "報酬は獲得できません。",
                 "Kr": null,
                 "Th": "ไม่มีรางวัลที่ได้รับ",
                 "Tw": "無報酬",
@@ -3990,7 +4150,7 @@
             },
             "rewards_findgift_msg": {
                 "En": "Each enemy defeated will drop one of the following items:",
-                "Jp": null,
+                "Jp": "倒した敵一体につき以下のアイテムのうち一つを獲得:",
                 "Kr": null,
                 "Th": "ศัตรูแต่ละตัวที่ถูกกำจัดจะดรอปไอเทมต่อไปนี้",
                 "Tw": "每個擊敗的敵人會掉落以下物品中的一項：",
@@ -4116,6 +4276,7 @@
             },
             "others": {
                 "En": "Other",
+                "Jp": "その他",
                 "Th": "อื่นๆ",
                 "Tw": "其它",
                 "Cn": "其它"
@@ -4146,7 +4307,7 @@
             },
             "raid_rules": {
                 "En": "Rules",
-                "Jp": "ルール",
+                "Jp": "特殊ルール",
                 "Kr": "규칙",
                 "Th": "กฏพิเศษ",
                 "Tw": "規則",
@@ -4162,7 +4323,7 @@
             },
             "craft_rewards": {
                 "En": "Possible Items",
-                "Jp": null,
+                "Jp": "獲得可能アイテム",
                 "Kr": null,
                 "Th": "ไอเทมที่สามารถได้รับ",
                 "Tw": "可能道具",
@@ -4174,7 +4335,7 @@
             },
             "craft_recipe_items": {
                 "En": "Required Items",
-                "Jp": null,
+                "Jp": "必要素材",
                 "Kr": null,
                 "Th": "วัตถุดิบที่ต้องการ",
                 "Tw": "必要道具",
@@ -4182,7 +4343,7 @@
             },
             "craft_using": {
                 "En": "Crafted using the following items",
-                "Jp": null,
+                "Jp": "以下の素材を消費して獲得できる",
                 "Kr": null,
                 "Th": "คราฟโดยใช้ไอเทมต่อไปนี้",
                 "Tw": "使用以下道具製造",
@@ -4190,7 +4351,7 @@
             },
             "craft_toggle_chance": {
                 "En": "Show Node Appearance Rates",
-                "Jp": null,
+                "Jp": "ノード出現率を表示",
                 "Kr": null,
                 "Th": "แสดง/ซ่อนอัตราการปรากฏของโหนด",
                 "Tw": "切換節點出現概率",
@@ -4198,7 +4359,7 @@
             },
             "bond_req_equip": {
                 "En": "Requires <i class='ms-1 fa-solid fa-heart'></i> {0} with {1} to equip",
-                "Jp": null,
+                "Jp": "装備には{1}の絆ランク<i class='ms-1 fa-solid fa-heart'></i>{0}が必要",
                 "Kr": null,
                 "Th": "ต้องการ <i class='ms-1 fa-solid fa-heart'></i> ของ {1} ระดับ {0} เพื่อสวมใส่",
                 "Tw": "需要 {1} 羈絆等級 <i class='ms-1 fa-solid fa-heart'></i> {0} 以裝備",
@@ -4206,7 +4367,7 @@
             },
             "bond_req_upgrade": {
                 "En": "Requires <i class='ms-1 fa-solid fa-heart'></i> {0} with {1} to upgrade",
-                "Jp": null,
+                "Jp": "強化には{1}の絆ランク<i class='ms-1 fa-solid fa-heart'></i>{0}が必要",
                 "Kr": null,
                 "Th": "ต้องการ <i class='ms-1 fa-solid fa-heart'></i> ของ {1} ระดับ {0} เพื่ออัปเกรด",
                 "Tw": "需要 {1} 羈絆等級 <i class='ms-1 fa-solid fa-heart'></i> {0} 以升級",
@@ -4254,7 +4415,7 @@
             },
             "rewards_season": {
                 "En": "Season Reward",
-                "Jp": "シーズン報酬",
+                "Jp": "総合ランキングPt報酬",
                 "Kr": "시즌 보상",
                 "Th": "รางวัลซีซั่น",
                 "Tw": "賽季獎勵",
@@ -4270,7 +4431,7 @@
             },
             "raid_season_select": {
                 "En": "Select Season",
-                "Jp": null,
+                "Jp": "シーズンを選択",
                 "Kr": null,
                 "Th": "เลือกซีซั่น",
                 "Tw": "選擇賽季",
@@ -4302,7 +4463,7 @@
             },
             "item_tab_currency": {
                 "En": "Currency",
-                "Jp": "アイテム",
+                "Jp": "通貨",
                 "Kr": "재화",
                 "Th": "ไอเทม",
                 "Tw": "貨幣",
@@ -4326,12 +4487,14 @@
             },
             "list_style_detailed": {
                 "En": "Detailed View",
+                "Jp": "詳細表示",
                 "Th": "มุมมองแบบละเอียด",
                 "Tw": "詳細視圖",
                 "Cn": "详细视图"
             },
             "list_style_compact": {
                 "En": "Compact View",
+                "Jp": "簡易表示",
                 "Th": "มุมมองแบบย่อ",
                 "Tw": "緊湊視圖",
                 "Cn": "紧凑视图"
@@ -4354,7 +4517,7 @@
             },
             "item_likedbystudent_list_0": {
                 "En": "Loved {0} by the following students",
-                "Jp": null,
+                "Jp": "以下の生徒の大のお気に入り{0}",
                 "Kr": null,
                 "Th": "เป็นที่รัก {0} โดยนักเรียนดังต่อไปนี้",
                 "Tw": "被以下學生喜愛 {0}",
@@ -4362,7 +4525,7 @@
             },
             "item_likedbystudent_list_1": {
                 "En": "Liked {0} by the following students",
-                "Jp": null,
+                "Jp": "以下の生徒のお気に入り{0}",
                 "Kr": null,
                 "Th": "ชื่นชอบ {0} โดยนักเรียนดังต่อไปนี้",
                 "Tw": "被以下學生喜歡 {0}",
@@ -4370,7 +4533,7 @@
             },
             "item_usedby_gear": {
                 "En": "Used to improve the following students' favorite item",
-                "Jp": null,
+                "Jp": "以下の生徒の愛用品の強化に必要",
                 "Kr": null,
                 "Th": "ใช้การอัปเกรดอุปกรณ์โปรดของนักเรียนดังต่อไปนี้",
                 "Tw": "用於强化以下學生的愛用品",
@@ -4378,7 +4541,7 @@
             },
             "item_specialgift": {
                 "En": "This gift will be treated as a liked item {0} when given to any student",
-                "Jp": null,
+                "Jp": "この贈り物はすべての生徒のお気に入り{0}として扱われる",
                 "Kr": null,
                 "Th": "ของขวัญชิ้นนี้จะถือว่าเป็นของขวัญที่เป็นที่รัก {0} เมื่อมอบให้กับนักเรียนคนไหนก็ตาม",
                 "Tw": "此禮物在贈予任何學生時會被當做喜歡的項目{0}看待",
@@ -4386,7 +4549,7 @@
             },
             "item_usedby": {
                 "En": "Used by the following students",
-                "Jp": null,
+                "Jp": "以下の生徒が装備可能",
                 "Kr": null,
                 "Th": "ใช้โดยนักเรียนดังต่อไปนี้",
                 "Tw": "被以下學生使用",
@@ -4394,7 +4557,7 @@
             },
             "item_usedby_skill": {
                 "En": "Used to improve the following students' skills",
-                "Jp": null,
+                "Jp": "以下の生徒のスキル強化に必要",
                 "Kr": null,
                 "Th": "ใช้เพื่อพัฒนาสกิลของนักเรียนดังต่อไปนี้",
                 "Tw": "用於增強以下學生的技能",
@@ -4402,7 +4565,7 @@
             },
             "item_usedby_eleph": {
                 "En": "Used to unlock mystic in the following student",
-                "Jp": null,
+                "Jp": "以下の生徒の神秘開放に必要",
                 "Kr": null,
                 "Th": "ใช้เพื่อเพิ่มดาวนักเรียนดังต่อไปนี้",
                 "Tw": "用於解鎖以下學生",
@@ -4410,7 +4573,7 @@
             },
             "item_obtainedfrom_stage": {
                 "En": "Obtained from the following stages",
-                "Jp": null,
+                "Jp": "以下のステージで獲得可能",
                 "Kr": null,
                 "Th": "ได้รับจากด่านดังต่อไปนี้",
                 "Tw": "從以下場景獲得",
@@ -4418,7 +4581,7 @@
             },
             "item_purchasedfrom": {
                 "En": "Purchased from the following shops",
-                "Jp": null,
+                "Jp": "以下のショップで購入可能",
                 "Kr": null,
                 "Th": "ซื้อได้จากร้านค้าดังต่อไปนี้",
                 "Tw": "從以下商店購買",
@@ -4458,7 +4621,7 @@
             },
             "tooltip_relationship_bonus": {
                 "En": "Include {0}'s Relationship Bonus",
-                "Jp": null,
+                "Jp": "{0}の絆ランクボーナスを含める",
                 "Kr": null,
                 "Th": "เปิด/ปิดโบนัสระดับสายใย",
                 "Tw": "切換羈絆等級加成",
@@ -4466,7 +4629,7 @@
             },
             "tooltip_relationship_bonus_alt": {
                 "En": "Include Alt Relationship Bonus",
-                "Jp": null,
+                "Jp": "別衣装の絆ランクボーナスを含める",
                 "Kr": null,
                 "Th": "เปิด/ปิดโบนัสระดับสายใยของร่างอื่นๆ",
                 "Tw": "切換另一羈絆等級加成",
@@ -4474,7 +4637,7 @@
             },
             "tooltip_equipment_bonus": {
                 "En": "Include Equipment Bonus",
-                "Jp": null,
+                "Jp": "装備ボーナスを含める",
                 "Kr": null,
                 "Th": "เปิด/ปิดโบนัสอุปกรณ์สวมใส่",
                 "Tw": "切換裝備加成",
@@ -4482,7 +4645,7 @@
             },
             "tooltip_passiveskill_bonus": {
                 "En": "Include Enhanced Skill Buff",
-                "Jp": null,
+                "Jp": "パッシブスキルバフを含める",
                 "Kr": null,
                 "Th": "เปิด/ปิดโบนัสสกิลติดตัว",
                 "Tw": "切換增強技能加成",
@@ -4490,7 +4653,7 @@
             },
             "tooltip_buffs_bonus": {
                 "En": "Include {0} Selected Buffs",
-                "Jp": null,
+                "Jp": "{0}選択済みのバフを含める",
                 "Kr": null,
                 "Th": "เปิด/ปิด {0} บัพที่เลือกไว้",
                 "Tw": null,
@@ -4498,7 +4661,7 @@
             },
             "tooltip_compare": {
                 "En": "Compare with Student",
-                "Jp": null,
+                "Jp": "別の生徒と比較",
                 "Kr": null,
                 "Th": "เปรียบเทียบกับนักเรียนคนอื่น",
                 "Tw": "對比學生",
@@ -4506,7 +4669,7 @@
             },
             "tooltip_compare_remove": {
                 "En": "Remove Comparison",
-                "Jp": null,
+                "Jp": "比較をやめる",
                 "Kr": null,
                 "Th": "ยกเลิกการเปรียบเทียบ",
                 "Tw": "移除對比",
@@ -4514,7 +4677,7 @@
             },
             "tooltip_collection_add": {
                 "En": "Add to Collection\n<small>(Saves selected stats)</small>",
-                "Jp": null,
+                "Jp": "所持生徒データに追加\n<small>(選択されたステータスを保存します)</small>",
                 "Kr": null,
                 "Th": "เพิ่มลงในคอลเลคชั่น",
                 "Tw": "添加到集合",
@@ -4522,7 +4685,7 @@
             },
             "tooltip_collection_remove": {
                 "En": "Remove from Collection",
-                "Jp": null,
+                "Jp": "所持生徒データから削除",
                 "Kr": null,
                 "Th": "เอาออกจากคอลเลคชั่น",
                 "Tw": "從集合中移除",
@@ -4538,7 +4701,7 @@
             },
             "collection": {
                 "En": "Collection",
-                "Jp": null,
+                "Jp": "所持状況",
                 "Kr": null,
                 "Th": "คอลเลคชั่น",
                 "Tw": "集合",
@@ -4546,7 +4709,7 @@
             },
             "collection_owned": {
                 "En": "Owned",
-                "Jp": null,
+                "Jp": "所持",
                 "Kr": null,
                 "Th": "มีแล้ว",
                 "Tw": "已擁有",
@@ -4554,7 +4717,7 @@
             },
             "collection_notowned": {
                 "En": "Not Owned",
-                "Jp": null,
+                "Jp": "未所持",
                 "Kr": null,
                 "Th": "ยังไม่มี",
                 "Tw": "未擁有",
@@ -4562,7 +4725,7 @@
             },
             "maptile_spawn": {
                 "En": "Spawn Tile",
-                "Jp": null,
+                "Jp": "生成タイル",
                 "Kr": null,
                 "Th": "เพิ่มช่อง",
                 "Tw": "生成方格",
@@ -4570,7 +4733,7 @@
             },
             "maptile_drone": {
                 "En": "Drone (Reveals surrounding tiles)",
-                "Jp": null,
+                "Jp": "ドローンライト（周囲のタイルを表示）",
                 "Kr": null,
                 "Th": "โดรน (แสดงช่องรอบข้าง)",
                 "Tw": "無人機（照亮周遭視野）",
@@ -4578,7 +4741,7 @@
             },
             "maptile_remove": {
                 "En": "Remove Tile",
-                "Jp": null,
+                "Jp": "消滅タイル",
                 "Kr": null,
                 "Th": "ลบช่อง",
                 "Tw": "移除方格",
@@ -4586,7 +4749,7 @@
             },
             "maptile_teleport_oneway_entrance": {
                 "En": "One-way Teleporter Entrance",
-                "Jp": null,
+                "Jp": "一方通行テレポート入口",
                 "Kr": null,
                 "Th": "ทางเข้าเทเลพอร์ททางเดียว",
                 "Tw": "單向移動入口",
@@ -4594,7 +4757,7 @@
             },
             "maptile_teleport_oneway_exit": {
                 "En": "One-way Teleporter Exit",
-                "Jp": null,
+                "Jp": "一方通行テレポート出口",
                 "Kr": null,
                 "Th": "ทางออกเทเลพอร์ททางเดียว",
                 "Tw": "單向移動出口",
@@ -4602,7 +4765,7 @@
             },
             "maptile_teleport_twoway": {
                 "En": "Two-way Teleporter",
-                "Jp": null,
+                "Jp": "双方向テレポート",
                 "Kr": null,
                 "Th": "เทเลพอร์ทสองทาง",
                 "Tw": "雙向移動",
@@ -4610,7 +4773,7 @@
             },
             "maptile_item_food": {
                 "En": "Food Pickup\n(Heals unit for 50% of their Max HP)",
-                "Jp": null,
+                "Jp": "食物タイル\n（最大HPの50%を回復）",
                 "Kr": null,
                 "Th": "จุดเก็บอาหาร\n(ฟื้นฟู HP 50% ของ Max HP ให้กับยูนิทที่เก็บ)",
                 "Tw": "食物拾取\n(恢複學生 50% 最大體力)",
@@ -4618,7 +4781,7 @@
             },
             "maptile_item_atk": {
                 "En": "Gun Pickup\n(Increases unit's ATK by 10% for the next two turns)",
-                "Jp": null,
+                "Jp": "銃タイル\n（2ターンの間攻撃力を10%増加）",
                 "Kr": null,
                 "Th": "จุดเก็บปืน\n(เพิ่มค่าโจมตี 10% ให้กับยูนิทที่เก็บในอีก 2 เทิร์นถัดไป)",
                 "Tw": "武器拾取\n(兩回合內學生攻擊力增加 10%)",
@@ -4626,7 +4789,7 @@
             },
             "maptile_item_def": {
                 "En": "Armor Pickup\n(Increases unit's DEF by 10% for the next two turns)",
-                "Jp": null,
+                "Jp": "盾タイル\n（2ターンの間防御力を10%増加）",
                 "Kr": null,
                 "Th": "จุดเก็บเกราะ\n(เพิ่มค่าป้องกัน 10% ให้กับยูนิทที่เก็บในอีก 2 เทิร์นถัดไป)",
                 "Tw": "護甲拾取\n(兩回合內學生防禦力增加 10%)",
@@ -4634,7 +4797,7 @@
             },
             "maptile_switch_down": {
                 "En": "Lowered Switch Tile",
-                "Jp": null,
+                "Jp": "下がったスイッチタイル",
                 "Kr": null,
                 "Th": "พื้นสวิทช์ลดระดับ",
                 "Tw": "降低的交換方格",
@@ -4642,7 +4805,7 @@
             },
             "maptile_switch_up": {
                 "En": "Raised Switch Tile",
-                "Jp": null,
+                "Jp": "上がったスイッチタイル",
                 "Kr": null,
                 "Th": "พื้นสวิทช์ยกระดับ",
                 "Tw": "升高的交換方格",
@@ -4650,7 +4813,7 @@
             },
             "maptile_switch_target_down": {
                 "En": "Lowered Tile",
-                "Jp": null,
+                "Jp": "下がったタイル",
                 "Kr": null,
                 "Th": "พื้นลดระดับ",
                 "Tw": "降低的方格",
@@ -4658,7 +4821,7 @@
             },
             "maptile_switch_target_up": {
                 "En": "Raised Tile",
-                "Jp": null,
+                "Jp": "上がったタイル",
                 "Kr": null,
                 "Th": "พื้นยกระดับ",
                 "Tw": "升高的方格",
@@ -4666,7 +4829,7 @@
             },
             "maptile_enemy_default_msg": {
                 "En": "Click on an enemy unit on the map to view a list of enemies.",
-                "Jp": null,
+                "Jp": "マップ上の敵をクリックすると敵一覧が表示されます。",
                 "Kr": null,
                 "Th": "คลิกยูนิทศัตรูบนแผนที่เพื่อดูรายชื่อของศัตรู",
                 "Tw": "單擊地圖上的敵方單位以預覽敵人列表。",
@@ -4674,7 +4837,7 @@
             },
             "toast_import_success": {
                 "En": "Successfully imported student collection",
-                "Jp": null,
+                "Jp": "所持生徒データのインポートに成功しました",
                 "Kr": null,
                 "Th": "นำเข้าข้อมูลนักเรียนในคอลเลคชั่นสำเร็จ",
                 "Tw": "導入學生集成功",
@@ -4682,7 +4845,7 @@
             },
             "toast_import_failure": {
                 "En": "Error importing student collection",
-                "Jp": null,
+                "Jp": "所持生徒データのインポート時にエラーが発生しました",
                 "Kr": null,
                 "Th": "ประสบปัญหาในการนำเข้าข้อมูลนักเรียนในคอลเลคชั่น",
                 "Tw": "導入學生集出錯",
@@ -4690,7 +4853,7 @@
             },
             "toast_import_copy": {
                 "En": "Copied import string to clipboard",
-                "Jp": null,
+                "Jp": "インポート用文字列をクリップボードにコピーしました",
                 "Kr": null,
                 "Th": "คัดลอกรหัสนำเข้าลงในคลิปบอร์ด",
                 "Tw": "已複製導入字符串到剪貼板",
@@ -4706,7 +4869,7 @@
             },
             "stat_defense_tooltip": {
                 "En": "DMG Reduction: {0}",
-                "Jp": null,
+                "Jp": "ダメージ軽減：{0}",
                 "Kr": null,
                 "Th": "ลดความเสียหายที่ได้รับลง: {0}",
                 "Tw": "受到傷害降低：{0}",
@@ -4714,15 +4877,15 @@
             },
             "stat_crit_tooltip": {
                 "En": "Crit Chance:",
-                "Jp": null,
+                "Jp": "会心確率：",
                 "Kr": null,
                 "Th": "อัตราการติดคริ:",
                 "Tw": "暴擊幾率：",
                 "Cn": "暴击几率："
             },
             "stat_crit_amount_tooltip": {
-                "En": "{0}&nbsp;<small><i>({1} Crit RES)</i></small>",
-                "Jp": null,
+                "En": "{0}&nbsp;<small><i>（会心抵抗値{1}）</i></small>",
+                "Jp": "{0}&nbsp;<small><i>({1} Crit RES)</i></small>",
                 "Kr": null,
                 "Th": "{0}&nbsp;<small><i>(ใส่เป้าหมายที่มีค่าต้านทานคริ {1})</i></small>",
                 "Tw": "{0}&nbsp;<small><i>(對於一個暴擊抵抗力{1}的敵人)</i></small>",
@@ -4730,7 +4893,7 @@
             },
             "stat_stability_tooltip": {
                 "En": "Minimum DMG: {0}",
-                "Jp": null,
+                "Jp": "ダメージ下限：{0}",
                 "Kr": null,
                 "Th": "ความเสียหายขั้นต่ำ: {0}",
                 "Tw": "最低傷害：{0}",
@@ -4738,7 +4901,7 @@
             },
             "stat_ammocount_tooltip": {
                 "En": "Normal Attack consumes {0} ammo and deals {1} hit(s)",
-                "Jp": null,
+                "Jp": "通常攻撃は弾薬{0}を消費し{1}回ヒットする",
                 "Kr": null,
                 "Th": "การโจมตีปกติใช้กระสุน {0} นัดและสร้างความเสียหายจำนวน {1} ครั้ง",
                 "Tw": "普通攻擊消耗{0}彈藥並造成{1}次打擊",
@@ -4746,7 +4909,7 @@
             },
             "stat_ammocount_tooltip_area": {
                 "En": "Normal Attack consumes {0} ammo and deals {1} hit(s) to enemies in a circular area",
-                "Jp": null,
+                "Jp": "通常攻撃は弾薬{0}を消費し円形範囲内の敵に{1}回ヒットする",
                 "Kr": null,
                 "Th": "การโจมตีปกติใช้กระสุน {0} นัดและสร้างความเสียหายจำนวน {1} ครั้งให้กับศัตรูในรัศมี",
                 "Tw": "普通攻擊消耗{0}彈藥並對圓形範圍內敵軍造成{1}次打擊",
@@ -4754,7 +4917,7 @@
             },
             "stat_ammocount_tooltip_line": {
                 "En": "Normal Attack consumes {0} ammo and deals {1} hit(s) to enemies in a straight line",
-                "Jp": null,
+                "Jp": "通常攻撃は弾薬{0}を消費し直線範囲内の敵に{1}回ヒットする",
                 "Kr": null,
                 "Th": "การโจมตีปกติใช้กระสุน {0} นัดและสร้างความเสียหายจำนวน {1} ครั้งให้กับศัตรูในแนวเส้นตรง",
                 "Tw": "普通攻擊消耗{0}彈藥並對直綫上敵軍造成{1}次打擊",
@@ -4762,7 +4925,7 @@
             },
             "skill_hits_tooltip": {
                 "En": "Deals a total of {0} hit(s)",
-                "Jp": null,
+                "Jp": "合計{0}回ヒットする",
                 "Kr": null,
                 "Th": "สร้างความเสียหายจำนวน {0} ครั้ง",
                 "Tw": "共造成{0}次打擊",
@@ -4770,7 +4933,7 @@
             },
             "home_welcome": {
                 "En": "Welcome, Sensei!",
-                "Jp": null,
+                "Jp": "ようこそ、先生！",
                 "Kr": null,
                 "Th": "ยินดีต้อนรับเหล่าเซ็นเซย์ทุกท่านค่ะ!",
                 "Tw": "歡迎回來，老師！",
@@ -4778,7 +4941,7 @@
             },
             "home_introduction": {
                 "En": "Schale DB is an unofficial database for the mobile game <i class=\"text-bold\">Blue Archive</i> developed by Nexon Games and published by Yostar (Japan) and Nexon (Global) for iOS and Android.",
-                "Jp": null,
+                "Jp": "Schale DBは、Nexson Gamesが開発しYostar（日本）またはNexson（グローバル）が運営するスマートフォン向けゲーム<i class=\"text-bold\">ブルーアーカイブ</i>の非公式データベースです。",
                 "Kr": null,
                 "Th": "Schale DB เป็นศูนย์รวมข้อมูลอย่างไม่เป็นทางการของเกมมือถือ <i class=\"text-bold\">Blue Archive</i> ที่พัฒนาโดยทาง Nexon Games และได้รับการเผยแพร่โดย Yostar (เซิร์ฟเวอร์ญี่ปุ่น) และ Nexon (เซิร์ฟเวอร์โกลบอล) ทั้งในระบบ iOS และ Android",
                 "Tw": "Schale DB 是 Nexon Games 開發，日服由 Yostar、國際服由 Nexon 運營的手游<i class=\"text-bold\">蔚藍檔案</i>的非官方數據庫。",
@@ -4786,7 +4949,7 @@
             },
             "home_change_server": {
                 "En": "Please select your game server using the settings menu <i class=\"fa-solid fa-gear mx-1\"></i> to see only information that has been released on that server.",
-                "Jp": null,
+                "Jp": "設定メニュー<i class=\"fa-solid fa-gear mx-1\"></i>からあなたが遊んでいるサーバーを選択するとそのサーバー向けの情報だけが表示されるようになります。",
                 "Kr": null,
                 "Th": "กรุณาเลือกเซิร์ฟเวอร์เกมของคุณในหน้าเมนูตั้งค่า <i class=\"fa-solid fa-gear mx-1\"></i> เพื่อมองเห็นเฉพาะข้อมูลที่ได้รับการอัปเดทแล้วในเซิร์ฟเวอร์นั้นๆ",
                 "Tw": "請使用設置菜單 <i class=\"fa-solid fa-gear mx-1\"></i> 選擇日服/國際服以顯示對應伺服器的内容。",
@@ -4794,7 +4957,7 @@
             },
             "home_features": {
                 "En": "Features",
-                "Jp": null,
+                "Jp": "当サイトの機能",
                 "Kr": null,
                 "Th": "คุณสมบัติต่างๆ",
                 "Tw": "特性",
@@ -4802,7 +4965,7 @@
             },
             "home_translations_help": {
                 "En": "Schale DB is currently available in 6 languages. Want to help translate? Please get in touch via Discord (lonqie#2708) or check out the <a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">localization project</a>!",
-                "Jp": null,
+                "Jp": "現在Schale DBは6つの言語で利用できます。翻訳を支援したい方はDiscord（lonqie#2708）で連絡いただくか<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">ローライズプロジェクトサイト</a>をご覧ください。",
                 "Kr": null,
                 "Th": "ในปัจจุบัน Schale DB สามารถใช้งานได้ใน 6 ภาษา อยากให้ความช่วยเหลือในการแปลภาษา? กรุณาติดต่อได้ทาง Discord (lonqie#2708) หรือลองเข้าไปตรวจสอบใน<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">โปรเจคแปลภาษา</a>ได้เลย! ",
                 "Tw": "Schale DB 目前支援6種語言。如果你想幫忙翻譯請透過Discord(lonqie#2708)聯係或查看<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">本地化項目</a>！",
@@ -4810,7 +4973,7 @@
             },
             "home_features_list": {
                 "En": "<li>Full information on all students and skills, including summons or vehicles.</li><li>Comprehensive stats calculation that can display a student's stats under any configuration of stars, level, equipment, and buffs from skills.</li><li>Complete Items, Equipment and Furniture database.</li><li>Reward drops, maps and detailed enemy information for all Campaign, Event Quest, Challenge and Daily stages.</li><li>Stats and Skill information for Total Assault bosses and Joint Firing Drill events.</li><li>View the chances of possible items received from crafting nodes.</li>",
-                "Jp": null,
+                "Jp": "<li>すべての生徒とスキルに関する召喚物や搭乗物も含めた詳細な情報。</li><li>星、レベル、装備、スキルバフのあらゆる組み合わせに対応した網羅的なステータス計算。</li><li>アイテム、装備、家具に関する完全なデータベース。</li><li>すべての任務、イベントクエスト、チャレンジ、デイリーステージに関する獲得報酬、マップ、敵の詳細な情報。</li><li>総力戦ボスと合同火力演習に関するステータスとスキル情報</li><li>製造ノードから入手可能なアイテムの入手確率。</li>",
                 "Kr": null,
                 "Th": "<li>ข้อมูลของนักเรียนและสกิลทุกคนอย่างครบถ้วน รวมไปถึงยานพาหนะ, วัตถุอัญเชิญและวัตถุกำบัง</li><li>หน้าต่างคำนวนค่าสถานะต่างๆ ของนักเรียนภายใต้เงื่อนไขทุกรูปแบบไม่ว่าจะเป็นจำนวนดาว, เลเวล, อุปกรณ์สวมใส่หรือบัพจากสกิลต่างๆ</li><li>ลิสของไอเทม, อุปกรณ์สวมใส่และเฟอร์นิเจอร์อย่างครบถ้วน</li><li>รางวัลที่ได้รับ, แผนที่และข้อมูลของศัตรูแบบละเอียดสำหรับทุกภารกิจหลัก, เควสอีเวนท์, ชาเลนจ์และด่านเควสรายวัน</li><li>ค่าสถานะและข้อมูลสกิลสำหรับอีเวนท์เรดบอสและการสอบประมวลผล</li><li>ดูตารางและอัตราการได้รับไอเทมต่างๆ จากการคราฟไอเทม</li>",
                 "Tw": "<li>有關全體學生和技能，包含召喚單位與載具單位的完整信息。</li><li>全面的數據計算，可以顯示學生在任何星級、等級、裝備和技能的增益效果下的面板數據。</li><li>完整的物品、裝備和傢俱數據庫。</li><li>所有關卡的獎勵掉落、地圖和詳細的敵人信息。</li><li>總力戰BOSS與綜合戰術考試的數據與技能信息。</li><li>查看從合成節點可能獲取物品的幾率。</li>",
@@ -4818,7 +4981,7 @@
             },
             "home_footer_text": {
                 "En": "Schale DB is developed and maintained by lonqie, with additional translation work by Blue-Roar & TKRotund.\nSchale DB is not affiliated with Nexon, Nexon Games or Yostar. All game artwork, information and assets used in this database are the property and copyright of the respective authors.",
-                "Jp": null,
+                "Jp":  "Schale DBはlonqiｅによって開発・運営されています。また、Blue-RoarとTKRotundから翻訳の支援を受けています。\nSchale DBはNexon、Nexon Games、およびYostarとは一切関係ありません。当データベースで使用されているゲーム画像、情報、およびアセットの所有権及び著作権はそれぞれの権利者に帰属します。",
                 "Kr": null,
                 "Th": "Schale DB พัฒนาและอัปเดทโดย lonqie โดยได้รับความช่วยเหลือในการแปลภาษาเพิ่มเติมจาก Blue-Roar และ TKRotund\nSchale DB นั้นไม่ได้มีส่วนเกี่ยวข้องใดๆ กับทาง Nexon, Nexon Games หรือ Yostar รูปภาพและข้อมูลต่างๆ ที่ใช้ในฐานข้อมูลนี้ถือเป็นสมบัติและทรัพย์สินทางปัญญาของผู้ถือครองลิขสิทธิ์ดั้งเดิม",
                 "Tw": "Schale DB 由 lonqie 開發與維護，Blue-Roar 与 TKRotund 提供額外翻譯。\nSchale DB 與 Yostar、Nexon、Nexon Games 沒有關聯。本數據庫中使用的所有游戲作品、信息和素材均爲各自作者的財產和版權。",
@@ -4826,7 +4989,7 @@
             },
             "changelog": {
                 "En": "Changelog",
-                "Jp": null,
+                "Jp": "更新履歴",
                 "Kr": null,
                 "Th": "บันทึกการอัปเดท",
                 "Tw": "更新日志",
@@ -4834,7 +4997,7 @@
             },
             "skillinfo_empty": {
                 "En": "The selected character has no damage-dealing or healing skills to display.",
-                "Jp": null,
+                "Jp": "選択されたキャラクターはダメージスキルまたは回復スキルを持っていません。",
                 "Kr": null,
                 "Th": "นักเรียนที่เลือกไม่มีสกิลสร้างความเสียหายหรือสกิลรักษาที่จะแสดงให้ดู",
                 "Tw": null,
@@ -4842,7 +5005,7 @@
             },
             "skill_normalattack": {
                 "En": "Normal Attack",
-                "Jp": null,
+                "Jp": "通常攻撃",
                 "Kr": null,
                 "Th": "การโจมตีปกติ",
                 "Tw": null,
@@ -4850,7 +5013,7 @@
             },
             "skill_normalattack_target": {
                 "En": "Deals <?1> damage to one enemy.",
-                "Jp": null,
+                "Jp": "敵1体に対して<?1>ダメージを与える。",
                 "Kr": null,
                 "Th": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรู 1 เป้าหมาย",
                 "Tw": null,
@@ -4858,7 +5021,7 @@
             },
             "skill_normalattack_circle": {
                 "En": "Deals <?1> damage to enemies in a circular area.",
-                "Jp": null,
+                "Jp": "円形範囲内の敵に対して<?1>ダメージを与える。",
                 "Kr": null,
                 "Th": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูในรัศมี",
                 "Tw": null,
@@ -4866,7 +5029,7 @@
             },
             "skill_normalattack_line": {
                 "En": "Deals <?1> damage to enemies in a straight line.",
-                "Jp": null,
+                "Jp": "直線範囲内の敵に対して<?1>ダメージを与える。",
                 "Kr": null,
                 "Th": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูในแนวเส้นตรง",
                 "Tw": null,
@@ -4874,7 +5037,7 @@
             },
             "type_effectiveness": {
                 "En": "Type Effectiveness",
-                "Jp": null,
+                "Jp": "タイプ特効",
                 "Kr": null,
                 "Th": "ประสิทธิภาพของการโจมตี",
                 "Tw": null,
@@ -4882,7 +5045,7 @@
             },
             "level_difference": {
                 "En": "Level Difference",
-                "Jp": null,
+                "Jp": "レベル差補正",
                 "Kr": null,
                 "Th": "ค่าตัวแปรความต่างของเลเวล",
                 "Tw": null,
@@ -4890,7 +5053,7 @@
             },
             "hit_chance": {
                 "En": "Hit Chance",
-                "Jp": null,
+                "Jp": "命中率",
                 "Kr": null,
                 "Th": "โอกาสโจมตีโดนเป้าหมาย",
                 "Tw": null,
@@ -4898,7 +5061,7 @@
             },
             "crit_chance": {
                 "En": "Crit Chance",
-                "Jp": null,
+                "Jp": "会心確率",
                 "Kr": null,
                 "Th": "อัตราการติดคริ",
                 "Tw": "暴擊幾率",
@@ -4906,7 +5069,7 @@
             },
             "stab_variance": {
                 "En": "Stability Variance",
-                "Jp": null,
+                "Jp": "安定値分散",
                 "Kr": null,
                 "Th": "ค่าตัวแปรความเสถียร",
                 "Tw": null,
@@ -4914,7 +5077,7 @@
             },
             "dmginfo_hit_count": {
                 "En": "Hit Count",
-                "Jp": null,
+                "Jp": "ヒット回数",
                 "Kr": null,
                 "Th": "จำนวนครั้งที่โจมตี",
                 "Tw": null,
@@ -4922,7 +5085,7 @@
             },
             "dmginfo_heal_count": {
                 "En": "Heal Count",
-                "Jp": null,
+                "Jp": "回復回数",
                 "Kr": null,
                 "Th": "จำนวนครั้งที่ฟื้นฟู",
                 "Tw": null,
@@ -4930,7 +5093,7 @@
             },
             "dmginfo_ignore_def": {
                 "En": "Ignore DEF",
-                "Jp": null,
+                "Jp": "防御力無視",
                 "Kr": null,
                 "Th": "อัตราค่าป้องกันที่ไม่สน",
                 "Tw": null,
@@ -4938,7 +5101,7 @@
             },
             "dmginfo_hit_avg": {
                 "En": "Avg. Hit DMG",
-                "Jp": null,
+                "Jp": "1ヒット平均ダメージ",
                 "Kr": null,
                 "Th": "ความเสียหายต่อครั้งโดยเฉลี่ย",
                 "Tw": null,
@@ -4946,7 +5109,7 @@
             },
             "dmginfo_crit": {
                 "En": " (Crit)",
-                "Jp": null,
+                "Jp": "（会心）",
                 "Kr": null,
                 "Th": " (คริ)",
                 "Tw": null,
@@ -4954,7 +5117,7 @@
             },
             "dmginfo_total_avg": {
                 "En": "Avg. Total DMG",
-                "Jp": null,
+                "Jp": "平均総ダメージ",
                 "Kr": null,
                 "Th": "ความเสียหายรวมโดยเฉลี่ย",
                 "Tw": null,
@@ -4962,7 +5125,7 @@
             },
             "dmginfo_dmg": {
                 "En": "DMG",
-                "Jp": null,
+                "Jp": "ダメージ",
                 "Kr": null,
                 "Th": "ความเสียหาย",
                 "Tw": null,
@@ -4970,7 +5133,7 @@
             },
             "dmginfo_heal": {
                 "En": "Heal",
-                "Jp": null,
+                "Jp": "回復",
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
@@ -4978,7 +5141,7 @@
             },
             "dmginfo_dmg_avg": {
                 "En": "Average DMG",
-                "Jp": null,
+                "Jp": "平均ダメージ",
                 "Kr": null,
                 "Th": "ความเสียหายโดยเฉลี่ย",
                 "Tw": null,
@@ -4986,7 +5149,7 @@
             },
             "dmginfo_rate_of_fire": {
                 "En": "Rate of Fire",
-                "Jp": null,
+                "Jp": "発射速度",
                 "Kr": null,
                 "Th": "อัตราการยิง",
                 "Tw": null,
@@ -4994,7 +5157,7 @@
             },
             "time_seconds": {
                 "En": "{0}s",
-                "Jp": null,
+                "Jp": "{0}秒",
                 "Kr": null,
                 "Th": "{0} วินาที",
                 "Tw": null,
@@ -5002,7 +5165,7 @@
             },
             "time_seconds_frames": {
                 "En": "{0}s ({1} frames)",
-                "Jp": null,
+                "Jp": "{0}秒（{1}フレーム）",
                 "Kr": null,
                 "Th": "{0} วินาที ({1} เฟรม)",
                 "Tw": null,
@@ -5010,7 +5173,7 @@
             },
             "normalattack_burst": {
                 "En": "burst",
-                "Jp": null,
+                "Jp": "発射",
                 "Kr": null,
                 "Th": "ชุด",
                 "Tw": null,
@@ -5018,7 +5181,7 @@
             },
             "dmginfo_rate_of_fire_tooltip": {
                 "En": "Attack Duration: {0}\nAttack Delay: {1}",
-                "Jp": null,
+                "Jp": "発射時間：{0}\n発射間隔：{1}",
                 "Kr": null,
                 "Th": "ระยะเวลาในการโจมตี: {0}\nดีเลย์ในการโจมตี: {1}",
                 "Tw": null,
@@ -5026,7 +5189,7 @@
             },
             "dmginfo_reload_time": {
                 "En": "Reload Time",
-                "Jp": null,
+                "Jp": "リロード時間",
                 "Kr": null,
                 "Th": "ระยะเวลารีโหลด",
                 "Tw": null,
@@ -5034,7 +5197,7 @@
             },
             "dmginfo_reload_time_tooltip": {
                 "En": "Reload Duration: {0}\nStart Delay: {1}\nEnd Delay: {2}",
-                "Jp": null,
+                "Jp": "リロード時間：{0}\nリロード前時間：{1}\nリロード後時間：{2}",
                 "Kr": null,
                 "Th": "ระยะเวลารีโหลด: {0}\nดีเลย์ตอนเริ่ม: {1}\nดีเลย์ตอนจบ: {2}",
                 "Tw": null,
@@ -5042,7 +5205,7 @@
             },
             "dmginfo_avg_dps": {
                 "En": "Average DPS",
-                "Jp": null,
+                "Jp": "平均DPS",
                 "Kr": null,
                 "Th": "ความเสียหายที่ทำได้ต่อวินาทีโดยเฉลี่ย",
                 "Tw": null,
@@ -5050,7 +5213,7 @@
             },
             "dmginfo_heal_amount": {
                 "En": "Amount Healed",
-                "Jp": null,
+                "Jp": "回復量",
                 "Kr": null,
                 "Th": "ปริมาณ HP ที่รักษา",
                 "Tw": null,
@@ -5058,7 +5221,7 @@
             },
             "dmginfo_shield_amount": {
                 "En": "{0} HP",
-                "Jp": null,
+                "Jp": "{0} HP",
                 "Kr": null,
                 "Th": "HP {0}",
                 "Tw": null,
@@ -5066,7 +5229,7 @@
             },
             "dmginfo_cc_effect_chance": {
                 "En": "{0} Chance",
-                "Jp": null,
+                "Jp": "{0} 確率",
                 "Kr": null,
                 "Th": "โอกาสในการ {0}",
                 "Tw": null,
@@ -5074,7 +5237,7 @@
             },
             "dmginfo_cc_effect_duration": {
                 "En": "{0} Duration (Hod Insane)",
-                "Jp": null,
+                "Jp": "{0} 持続時間（ホドINSANE）",
                 "Kr": null,
                 "Th": "ระยะเวลา {0} (Hod Insane)",
                 "Tw": null,
@@ -5082,7 +5245,7 @@
             },
             "dmginfo_accumulation_limit": {
                 "En": "{0} DMG Limit",
-                "Jp": null,
+                "Jp": "{0} ダメージ上限",
                 "Kr": null,
                 "Th": "ความเสียหายถูกจำกัดที่ {0}",
                 "Tw": null,
