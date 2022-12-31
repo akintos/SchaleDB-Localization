@@ -2672,17 +2672,17 @@
             },
             "Buff_EnhanceExplosionRate": {
                 "En": "Increases the damage bonus when dealing Explosive type attacks against Light Armor targets.",
-                "Jp": "軽装備の対象に爆発属性の攻撃を行う際のダメージ倍率を増加",
+                "Jp": "軽装備の対象に爆発タイプの攻撃を行う際のダメージ倍率を増加",
                 "Th": "เพิ่มความเสียหายของการโจมตีประเภทระเบิดเมื่อโจมตีใส่เป้าหมายที่มีเกราะเบา"
             },
             "Buff_EnhancePierceRate": {
                 "En": "Increases the damage bonus when dealing Piercing type attacks against Heavy Armor targets.",
-                "Jp": "重装甲の対象に貫通属性の攻撃を行う際のダメージ倍率を増加",
+                "Jp": "重装甲の対象に貫通タイプの攻撃を行う際のダメージ倍率を増加",
                 "Th": "เพิ่มความเสียหายของการโจมตีประเภทเจาะเกราะเมื่อโจมตีใส่เป้าหมายที่มีเกราะหนัก"
             },
             "Buff_EnhanceMysticRate": {
                 "En": "Increases the damage bonus when dealing Mystic type attacks against Special Armor targets.",
-                "Jp": "特殊装甲の対象に神秘属性の攻撃を行う際のダメージ倍率を増加",
+                "Jp": "特殊装甲の対象に神秘タイプの攻撃を行う際のダメージ倍率を増加",
                 "Th": "เพิ่มความเสียหายของการโจมตีประเภทลึกลับเมื่อโจมตีใส่เป้าหมายที่มีเกราะพิเศษ"
             },
             "Buff_ExtendBuffDuration": {
@@ -2855,17 +2855,17 @@
             },
             "Debuff_EnhanceExplosionRate": {
                 "En": "Decreases the damage bonus when dealing Explosive type attacks against Light Armor targets.",
-                "Jp": "軽装備の対象に爆発属性の攻撃を行う際のダメージ倍率を減少",
+                "Jp": "軽装備の対象に爆発タイプの攻撃を行う際のダメージ倍率を減少",
                 "Th": "ลดความเสียหายของการโจมตีประเภทระเบิดเมื่อโจมตีใส่เป้าหมายที่มีเกราะเบา"
             },
             "Debuff_EnhancePierceRate": {
                 "En": "Decreases the damage bonus when dealing Piercing type attacks against Heavy Armor targets.",
-                "Jp": "重装甲の対象に貫通属性の攻撃を行う際のダメージ倍率を減少",
+                "Jp": "重装甲の対象に貫通タイプの攻撃を行う際のダメージ倍率を減少",
                 "Th": "ลดความเสียหายของการโจมตีประเภทเจาะเกราะเมื่อโจมตีใส่เป้าหมายที่มีเกราะหนัก"
             },
             "Debuff_EnhanceMysticRate": {
                 "En": "Decreases the damage bonus when dealing Mystic type attacks against Special Armor targets.",
-                "Jp": "特殊装甲の対象に神秘属性の攻撃を行う際のダメージ倍率を減少",
+                "Jp": "特殊装甲の対象に神秘タイプの攻撃を行う際のダメージ倍率を減少",
                 "Th": "ลดความเสียหายของการโจมตีประเภทลึกลับเมื่อโจมตีใส่เป้าหมายที่มีเกราะพิเศษ"
             },
             "Debuff_HealedLimit": {
@@ -2911,7 +2911,7 @@
             },
             "Debuff_OppressionResist": {
                 "En": "Increases the chance of being inflicting with Crowd Control effects.",
-                "Jp": "CC状態を付与する確率が減少",
+                "Jp": "CC状態を付与される確率が増加",
                 "Th": "เพิ่มโอกาสในการได้รับผลจากเอฟเฟกต์กดขี่"
             },
             "Debuff_Penetration": {
@@ -3022,7 +3022,7 @@
             },
             "Special_Stamp": {
                 "En": "Reduces allies' EX skill cost and restores own HP when Kokona reaches 5 stacks.",
-                "Jp": "ココナが5個獲得した時自身のHPを回復し自信を除く味方のスキルコストを1減少",
+                "Jp": "ココナが5個獲得した時、自身のHPを回復し自身を除く味方のスキルコストを1減少",
                 "Cn": "当心奈进行5次攻击时降低队伍中其他学生的EX技能费用并恢复自身生命值。",
                 "Th": "ลดค่าใช้สกิล EX ของฝ่ายเรายกเว้นตัวเองลง 1 และฟื้นฟู HP ของตัวเองเมื่อสะสมครบ 5 ชั้น\nสแตมป์ดอกไม้จะถูกรีเซ็ทเป็น 0 หลังการใช้งานสกิลรอง"
             },
@@ -3214,7 +3214,7 @@
             },
             "navbar_settings_theme_description": {
                 "En": "Auto will use your device theme.",
-                "Jp": "Autoを選択すると御使用端末のテーマが適用されます。",
+                "Jp": "Autoを選択するとお使いの端末のテーマが適用されます。",
                 "Kr": null,
                 "Th": "Auto จะตั้งค่าตามธีมของอุปกรณ์คุณ",
                 "Tw": "選擇 Auto 匹配設備主題。",
@@ -3262,7 +3262,7 @@
             },
             "navbar_settings_custombuffs_description": {
                 "En": "(Experimental) Allows for setting custom buff values on student's stat display options screen.",
-                "Jp": "（試験段階）詳細ステータス/スキル画面で自由にバフ量を設定できるようになります。",
+                "Jp": "（試験段階）「詳細ステータス / スキル」画面で自由にバフ量を設定できるようになります。",
                 "Kr": null,
                 "Th": "(อยู่ในการทดสอบ) เปิดใช้งานการเพิ่มบัพแบบกำหนดเองให้กับนักเรียนในหน้าค่าสถานะของนักเรียน",
                 "Tw": null,
@@ -4884,8 +4884,8 @@
                 "Cn": "暴击几率："
             },
             "stat_crit_amount_tooltip": {
-                "En": "{0}&nbsp;<small><i>（会心抵抗値{1}）</i></small>",
-                "Jp": "{0}&nbsp;<small><i>({1} Crit RES)</i></small>",
+                "En": "En": "{0}&nbsp;<small><i>({1} Crit RES)</i></small>",
+                "Jp": "{0}&nbsp;<small><i>（会心抵抗値{1}）</i></small>",
                 "Kr": null,
                 "Th": "{0}&nbsp;<small><i>(ใส่เป้าหมายที่มีค่าต้านทานคริ {1})</i></small>",
                 "Tw": "{0}&nbsp;<small><i>(對於一個暴擊抵抗力{1}的敵人)</i></small>",
@@ -4941,7 +4941,7 @@
             },
             "home_introduction": {
                 "En": "Schale DB is an unofficial database for the mobile game <i class=\"text-bold\">Blue Archive</i> developed by Nexon Games and published by Yostar (Japan) and Nexon (Global) for iOS and Android.",
-                "Jp": "Schale DBは、Nexson Gamesが開発しYostar（日本）またはNexson（グローバル）が運営するスマートフォン向けゲーム<i class=\"text-bold\">ブルーアーカイブ</i>の非公式データベースです。",
+                "Jp": "Schale DBは、Nexson Gamesが開発しYostar（日本）およびNexson（グローバル）が運営するスマートフォン向けゲーム<i class=\"text-bold\">ブルーアーカイブ</i>の非公式データベースです。",
                 "Kr": null,
                 "Th": "Schale DB เป็นศูนย์รวมข้อมูลอย่างไม่เป็นทางการของเกมมือถือ <i class=\"text-bold\">Blue Archive</i> ที่พัฒนาโดยทาง Nexon Games และได้รับการเผยแพร่โดย Yostar (เซิร์ฟเวอร์ญี่ปุ่น) และ Nexon (เซิร์ฟเวอร์โกลบอล) ทั้งในระบบ iOS และ Android",
                 "Tw": "Schale DB 是 Nexon Games 開發，日服由 Yostar、國際服由 Nexon 運營的手游<i class=\"text-bold\">蔚藍檔案</i>的非官方數據庫。",
