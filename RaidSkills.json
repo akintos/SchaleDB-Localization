@@ -54,7 +54,7 @@
         },
         {
             "Id": "ChesedExSkill01",
-            "DescriptionEn": "Summons automaton soldiers. Chesed's ATG gauge gradually fills while soldiers are alive and resets after all soldiers have been defeated. Automaton soldiers also increase Chesed's groggy gauge <?1>when defeated.\nIf not killed within 20s, automaton soldiers will use the skill \"Self-Destruct Activated\", changing their <s:FormChange> to a self-destruct attack that deals 3000% damage to enemies in a circular area around them.\nWhenever a Goliath is defeated, releases an EMP blast that inflicts <c:Paralysis> on all other automaton soldiers in a circular area for 3s.",
+            "DescriptionEn": "Summons automaton soldiers. Chesed's ATG gauge gradually fills while soldiers are alive and resets after all soldiers have been defeated. Automaton soldiers also fill Chesed's groggy gauge (25% total per wave) <?1>when defeated.\nIf not killed within 20s, automaton soldiers will use the skill \"Self-Destruct Activated\", changing their <s:FormChange> to a self-destruct attack that deals 3000% damage to enemies in a circular area around them.\nWhenever a Goliath is defeated, releases an EMP blast that inflicts <c:Paralysis> on all other automaton soldiers in a circular area for 3s.",
             "ParametersEn": [
                 [
                     "",
@@ -207,7 +207,7 @@
         },
         {
             "Id": "ShiroEx04",
-            "DescriptionEn": "Summons a rolling bomb that deals <?1> damage to enemies in a straight line.\nThe bomb deals 300% damage to obstacles in its path. If an obstacle is hit but not destroyed, the bomb will bounce in the opposite direction towards Shiro, increasing her groggy gauge by a significant amount.<?2>",
+            "DescriptionEn": "Summons a rolling bomb that deals <?1> damage to enemies in a straight line.\nThe bomb deals 300% damage to obstacles in its path. If an obstacle is hit but not destroyed, the bomb will bounce in the opposite direction towards Shiro, filling her groggy gauge by <?3>.<?2>",
             "ParametersEn": [
                 [
                     "600%",
@@ -224,6 +224,14 @@
                     "",
                     "",
                     "\nIf an enemy with decreased <d:MoveSpeed> is hit, deals an additional <b>600,000</b> damage.\nIf Shiro is hit, also increases her <d:DamagedRatio> by 50% for 40s."
+                ],
+                [
+                    "43,000",
+                    "80,000",
+                    "110,000",
+                    "200,000",
+                    "1,500,000",
+                    "4,000,000"
                 ]
             ],
             "DescriptionJp": "敵に対して、攻撃力の<?1>分のダメージを与える爆弾を召喚\n遮蔽物に対しては攻撃力の300%分のダメージを与え、その遮蔽物が破壊されなかった場合、反対方向に跳ね返ります。<?2>",
@@ -289,7 +297,7 @@
         },
         {
             "Id": "KuroEx01",
-            "DescriptionEn": "Summons theme park rides that deals <?1> damage to enemies in a straight line.\nIf Kuro is hit by this attack herself, increases Kuro's groggy gauge by a significant amount.<?2>",
+            "DescriptionEn": "Summons theme park rides that deals <?1> damage to enemies in a straight line.\nIf Kuro is hit by this attack herself, fills Kuro's groggy gauge by <?3>.<?2>",
             "ParametersEn": [
                 [
                     "400%",
@@ -306,6 +314,14 @@
                     "",
                     "",
                     "\nIf an enemy with decreased <d:MoveSpeed> is hit, deals an additional <b>600,000</b> damage.\nIf Kuro is hit, also increases <d:DamagedRatio> by 50% for 40s."
+                ],
+                [
+                    "43,000",
+                    "80,000",
+                    "110,000",
+                    "200,000",
+                    "1,500,000",
+                    "4,000,000"
                 ]
             ],
             "DescriptionJp": "敵に対して、攻撃力の<?1>分のダメージ/\nATGが高いほど、ダメージが増加<?2>",
@@ -550,11 +566,11 @@
             "DescriptionEn": "When a relic is healed to 100% HP, it loses 95% of its HP while decreasing its <d:HealEffectiveness> by 50% for 20s and activates one of the following effects depending on the relic:\n<b>Green Relic</b>: Increases Hieronymus's <d:DamagedRatio> by 55% until the end of battle. Effect can stack up to 5 times.<?1>",
             "ParametersEn": [
                 [
-                    "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, increases Hieronymus's groggy gauge significantly and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
-                    "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, increases Hieronymus's groggy gauge significantly and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
-                    "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, increases Hieronymus's groggy gauge significantly and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
-                    "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, increases Hieronymus's groggy gauge significantly and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
-                    "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, increases Hieronymus's groggy gauge significantly and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
+                    "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, fills Hieronymus's groggy gauge to the maximum and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
+                    "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, fills Hieronymus's groggy gauge to the maximum and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
+                    "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, fills Hieronymus's groggy gauge to the maximum and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
+                    "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, fills Hieronymus's groggy gauge to the maximum and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
+                    "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, fills Hieronymus's groggy gauge to the maximum and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
                     ""
                 ]
             ],
@@ -681,7 +697,7 @@
         },
         {
             "Id": "KaitenFxMk0PassiveSkill01",
-            "DescriptionEn": "Every 20s, each component of KAITEN FX Mk.0 will activate in the following order: Right Arm (pink), Chest (red), Left Arm (green). When a component is activated, KAITEN FX Mk.0 will gain one of the following effects:\n<b>Right Arm (pink)</b>: Increases <b:ATK> by 50%.\n<b>Chest (red)</b>: KAITEN FX Mk.0's EX skills will also inflict <c:Stunned> for 5s.\n<b>Left Arm (green)</b>: Increases <b:DEF> by <b>1,000</b><?1>.\nIf a total of <b><?2></b> damage is dealt while a component is active, that component will be destroyed, increasing KAITEN FX Mk.0's groggy gauge significantly and disabling both the component from activating and the corresponding EX skill until the end of battle.",
+            "DescriptionEn": "Every 20s, each component of KAITEN FX Mk.0 will activate in the following order: Right Arm (pink), Chest (red), Left Arm (green). When a component is activated, KAITEN FX Mk.0 will gain one of the following effects:\n<b>Right Arm (pink)</b>: Increases <b:ATK> by 50%.\n<b>Chest (red)</b>: KAITEN FX Mk.0's EX skills will also inflict <c:Stunned> for 5s.\n<b>Left Arm (green)</b>: Increases <b:DEF> by <b>1,000</b><?1>.\nIf a total of <b><?2></b> damage is dealt while a component is active, that component will be destroyed, filling KAITEN FX Mk.0's groggy gauge to the maximum and disabling both the component from activating and the corresponding EX skill until the end of battle.",
             "ParametersEn": [
                 [
                     "",
@@ -920,7 +936,17 @@
         },
         {
             "Id": "Perorozilla01Ex04",
-            "DescriptionEn": "Absorbs all Perorominions. For every Perorominion that was knocked down, increases Perorodzilla's groggy gauge by a fixed amount. When Perorodzilla's groggy gauge is full, summons 5 Small Perorominions with reduced defense. Small Perorominions are <s:Immortal> and 100% of the damage taken by them will also be taken by Perorodzilla.",
+            "DescriptionEn": "Absorbs all Perorominions and increases ATG gauge by 50%. For every Perorominion that was knocked down, fills <?1> of Perorodzilla's groggy gauge. When Perorodzilla's groggy gauge is full, summons 5 Small Perorominions with reduced defense. Small Perorominions are <s:Immortal> and 100% of the damage taken by them will also be taken by Perorodzilla.",
+            "ParametersEn": [
+                [
+                    "<b>1/7th</b>",
+                    "<b>1/7th</b>",
+                    "<b>1/7th</b>",
+                    "<b>1/7th</b>",
+                    "<b>1/7th</b>",
+                    "<b>1/10th</b>"
+                ]
+            ],
             "DescriptionJp": "転倒している大きなペロロミニオンの数に比例して、グロッキーゲージが上昇",
             "DescriptionKr": "넘어진 빅 페로로 미니언의 수에 비례하여 그로기 게이지 증가",
             "DescriptionTh": "เกจมึนงงจะเพิ่มขึ้นตามจำนวนลูกสมุนบิ๊กเพโรโร่ที่ล้มลง/\nหากเกจมึนงงเต็ม เพโรโร่ซิลล่าจะอยู่ในสถานะมึนงงพร้อมกับเรียกลูกสมุนเพโรโร่ออกมา 5 ตัว เมื่อลูกสมุนเพโรโร่ได้รับความเสียหาย สร้างความเสียหาย 100% ของความเสียหายที่ได้รับให้กับเพโรโร่ซิลล่าด้วย",
@@ -1006,7 +1032,17 @@
             "Id": "HODEx03",
             "NameEn": "Generate Invader Pillar",
             "NameTh": "สร้างเสากัดกร่อน",
-            "DescriptionEn": "Summons an Erosion Tower, decreasing the <d:CostRegen> of enemies by <b>350</b> in a circular area around it and forcing nearby defense turrets to attack enemies instead of Hod. The tower's area of effect expands every 15s.",
+            "DescriptionEn": "Summons <?1> decreasing the <d:CostRegen> of enemies by <b>350</b> in a circular area around it (effect does not stack multiple times) and forcing nearby defense turrets to attack enemies instead of Hod. The tower's area of effect expands every 15s.\nWhen Erosion Towers summoned by Hod are defeated, decreases Hod's ATG gauge by 50% and fills Hod's groggy gauge by 25%.",
+            "ParametersEn": [
+                [
+                    "an Erosion Tower,",
+                    "an Erosion Tower,",
+                    "an Erosion Tower,",
+                    "an Erosion Tower,",
+                    "an Erosion Tower,",
+                    "two Erosion Towers, each"
+                ]
+            ],  
             "DescriptionJp": "インベイドピラーを召喚。インベイドピラーは15秒毎に、侵食範囲を拡大していきます。\n侵食範囲内に入った敵の<d:CostRegen>を350減少。侵食範囲内に入ったフィールドターレットは、ホドではなく敵を攻撃するようになります。",
             "DescriptionKr": "침식 타워를 소환합니다. 침식 타워는 15초마다 침식 범위를 넓혀갑니다. \n침식 범위 내에 들어온 적은 <d:CostRegen>이 350 감소합니다. 침식 범위 내에 들어온 방어 포탑은 아군을 공격합니다.",
             "DescriptionTh": "สร้างเสากัดกร่อนออกมา<?1> เสากัดกร่อนจะขยายขอบเขตการกัดกร่อนขึ้นทุก 15 วินาที\nลด<d:CostRegen> <b>350</b> กับศัตรูที่อยู่ในขอบเขตการกัดกร่อน\nป้อมปืนคุ้มกันที่เข้ามาในขอบเขตการกัดกร่อนจะโจมตีฝ่ายเรา",
@@ -1052,7 +1088,7 @@
             "Id": "HODPassive01",
             "NameEn": "Hidden Glory",
             "NameTh": "เบื้องหลังแห่งเกียรติยศ",
-            "DescriptionEn": "Hod and all summoned Erosion Towers are immune to the effects of Crowd Control. However, Crowd Control abilities will fill their circular <b>CC gauge</b> proportional to the duration of the effect that would've been inflicted.<?2>\nOnce the CC gauge reaches a total equivalent to <?1> of Crowd Control duration, inflicts the following effects:\n<b>Hod</b>: Increases <d:DamagedRatio> by 300% for 30s and decrease Hod's ATG gauge.\n<b>Erosion Tower</b>: Increases <d:DamagedRatio> by 300% for 30s and reduce the tower's area of effect by 1 stage.",
+            "DescriptionEn": "Hod and all summoned Erosion Towers are immune to the effects of Crowd Control. However, Crowd Control abilities will fill their circular <b>CC gauge</b> proportional to the duration of the effect that would've been inflicted.<?2>\nOnce the CC gauge reaches a total equivalent to <?1> of Crowd Control duration, inflicts the following effects:\n<b>Hod</b>: Increases <d:DamagedRatio> by 300% for 30s, decreases Hod's ATG gauge by 50% and fills Hod's groggy gauge by 25%.\n<b>Erosion Tower</b>: Increases <d:DamagedRatio> by 300% for 30s and reduces the tower's area of effect by 1 stage.",
             "ParametersEn": [
                 [
                     "6s",

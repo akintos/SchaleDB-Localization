@@ -539,6 +539,22 @@
                 "Th": "จำนวนการโจมตีของสกิล EX",
                 "Tw": null,
                 "Cn": "EX 技能击中次数"
+            },
+            "GroggyGauge": {
+                "En": "Groggy Gauge",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "GroggyTime": {
+                "En": "Groggy Duration",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             }
         },
         "IsLimited": {
@@ -3091,6 +3107,56 @@
                 "Cn": "Bounty Shop"
             }
         },
+        "GroggyCondition": {
+            "TypeDamage": {
+                "En": "Increases when dealt {0} damage.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "Chesed": {
+                "En": "Increases when automaton soldiers are defeated.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "Hieronymus": {
+                "En": "Increases when EX Skills are interrupted.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "KaitenFxMk0": {
+                "En": "Increases when components are destroyed.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "Perorozilla": {
+                "En": "Increases when stunned Perorominions are absorbed.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "HOD": {
+                "En": "Increases when Erosion Towers are destroyed or Hod's CC Gauge is filled.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            }
+        },
         "ui": {
             "navbar_home": {
                 "En": "Home",
@@ -3116,7 +3182,7 @@
                 "Tw": "學生",
                 "Cn": "学生"
             },
-            "navbar_stages": {
+            "stages": {
                 "En": "Stages",
                 "Jp": "ステージ",
                 "Kr": "스테이지",
@@ -4399,15 +4465,15 @@
             },
             "stage_reward_firstclear": {
                 "En": "1st Time",
-                "Jp": "初回クリア",
+                "Jp": "初回",
                 "Kr": "초회",
                 "Th": "ครั้งแรก",
                 "Tw": "首次",
                 "Cn": "首次"
             },
             "stage_reward_threestar": {
-                "En": "3 Stars",
-                "Jp": "星3クリア",
+                "En": "3★",
+                "Jp": "3★",
                 "Kr": "3★",
                 "Th": "3★",
                 "Tw": "3★",
@@ -4586,6 +4652,14 @@
                 "Th": "ซื้อได้จากร้านค้าดังต่อไปนี้",
                 "Tw": "從以下商店購買",
                 "Cn": "从以下商店购买"
+            },
+            "item_eventbonus": {
+                "En": "The following students earn bonus amounts of this currency.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             },
             "item_randombox_tier": {
                 "En": "Random {0} {1}",
