@@ -452,7 +452,7 @@
             },
             "BlockRate": {
                 "En": "Block Rate Bonus",
-                "Jp": "遮蔽成功値",
+                "Jp": "遮蔽ブロック率ボーナス",
                 "Kr": "엄폐 성공률",
                 "Th": "อัตรากำบังสำเร็จ",
                 "Tw": "掩護成功率",
@@ -542,7 +542,7 @@
             },
             "GroggyGauge": {
                 "En": "Groggy Gauge",
-                "Jp": null,
+                "Jp": "グロッキーゲージ",
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
@@ -550,7 +550,7 @@
             },
             "GroggyTime": {
                 "En": "Groggy Duration",
-                "Jp": null,
+                "Jp": "グロッキー持続時間",
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
@@ -1401,7 +1401,7 @@
             },
             "Buff_DamagedLimit": {
                 "En": "Incoming DMG Limit",
-                "Jp": null,
+                "Jp": "最大ダメージ制限",
                 "Kr": null,
                 "Th": "จำกัดความเสียหายที่ได้รับ",
                 "Tw": "限制遭受的傷害",
@@ -1911,7 +1911,7 @@
             },
             "Special_ImmuneDamage": {
                 "En": "Invulnerable",
-                "Jp": "ダメージ無効状態",
+                "Jp": "ダメージ無効化",
                 "Th": "ไม่ได้รับความเสียหาย",
                 "Tw": "免傷",
                 "Cn": "免伤"
@@ -1957,7 +1957,7 @@
             },
             "Special_ImmuneCC": {
                 "En": "CC Immune",
-                "Jp": "CC無効状態",
+                "Jp": "CC無効化",
                 "Th": "ต้านทานเอฟเฟกต์กดขี่",
                 "Tw": "群控免疫",
                 "Cn": "群控免疫"
@@ -2067,7 +2067,7 @@
             },
             "Buff_DamagedLimit": {
                 "En": "Incoming DMG Limit",
-                "Jp": null,
+                "Jp": "最大ダメージ制限",
                 "Kr": null,
                 "Th": "จำกัดความเสียหายที่ได้รับ",
                 "Tw": "限制遭受的傷害",
@@ -2520,7 +2520,7 @@
             },
             "Special_ImmuneDamage": {
                 "En": "Invulnerable",
-                "Jp": "ダメージ無効状態",
+                "Jp": "ダメージ無効化",
                 "Th": "ไม่ได้รับความเสียหาย",
                 "Tw": "免傷",
                 "Cn": "免伤"
@@ -2562,7 +2562,7 @@
             },
             "Special_ImmuneCC": {
                 "En": "CC Immunity",
-                "Jp": "CC無効状態",
+                "Jp": "CC無効化",
                 "Th": "ต้านทานเอฟเฟกต์กดขี่",
                 "Tw": "群控免疫",
                 "Cn": "群控免疫"
@@ -2659,7 +2659,7 @@
             },
             "Buff_DamagedLimit": {
                 "En": "Limits the amount of damage received from attacks.",
-                "Jp": "攻撃によって受けるダメージを制限する。",
+                "Jp": "攻撃によって受ける最大ダメージを制限する。",
                 "Th": "จำกัดปริมาณความเสียหายที่ได้รับจากการโจมตี"
             },
             "Buff_DamagedRatio": {
@@ -2796,7 +2796,7 @@
             },
             "Debuff_BlockRate": {
                 "En": "Decreases the chance of successfully blocking attacks when taking cover.",
-                "Jp": "遮蔽物使用時にブロックに成功する確率を減する。少",
+                "Jp": "遮蔽物使用時にブロックに成功する確率を減少する。",
                 "Th": "ลดโอกาสกำบังสำเร็จเมื่ออยู่ในกำบัง"
             },
             "Debuff_Burn": {
@@ -3110,7 +3110,7 @@
         "GroggyCondition": {
             "TypeDamage": {
                 "En": "Increases when dealt {0} damage.",
-                "Jp": null,
+                "Jp": "{0}ダメージを受けると増加する。",
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
@@ -3118,7 +3118,7 @@
             },
             "Chesed": {
                 "En": "Increases when automaton soldiers are defeated.",
-                "Jp": null,
+                "Jp": "自律兵器が破壊されると増加する。",
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
@@ -3126,7 +3126,7 @@
             },
             "Hieronymus": {
                 "En": "Increases when EX Skills are interrupted.",
-                "Jp": null,
+                "Jp": "EXスキルが中断されると増加する。",
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
@@ -3134,7 +3134,7 @@
             },
             "KaitenFxMk0": {
                 "En": "Increases when components are destroyed.",
-                "Jp": null,
+                "Jp": "パーツが破壊されると増加する。",
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
@@ -3142,7 +3142,7 @@
             },
             "Perorozilla": {
                 "En": "Increases when stunned Perorominions are absorbed.",
-                "Jp": null,
+                "Jp": "気絶状態のペロロミニオンを吸い込むと増加する。",
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
@@ -3150,7 +3150,7 @@
             },
             "HOD": {
                 "En": "Increases when Erosion Towers are destroyed or Hod's CC Gauge is filled.",
-                "Jp": null,
+                "Jp": "インベイドピラーが破壊されるかホドのCCゲージが一杯になると増加する。",
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
@@ -3264,7 +3264,7 @@
             },
             "navbar_settings_language_description": {
                 "En": "Depending on the server selected, some content may not be translated.",
-                "Jp": "選択された言語によっては一部の内容が翻訳されていない場合があります。",
+                "Jp": "選択されたサーバーによっては一部の内容が翻訳されていない場合があります。",
                 "Kr": null,
                 "Th": "ข้อมูลบางอย่างอาจจะยังไม่ได้รับการแปลอย่างสมบูรณ์, ขึ้นอยู่กับเซิร์ฟเวอร์ของเกมที่เลือก",
                 "Tw": "基於所選擇的服務器，部分內容可能未翻譯。",
@@ -3472,7 +3472,7 @@
             },
             "student_birthdays": {
                 "En": "The following students are celebrating their birthday this week!",
-                "Jp": "今週に誕生日を迎える生徒さんたちです！",
+                "Jp": "1週間のうちに誕生日を迎える生徒さんたちです！",
                 "Kr": null,
                 "Th": "นักเรียนที่มีวันเกิดอยู่ในสัปดาห์นี้!",
                 "Tw": "以下學生在本周迎來生日。",
@@ -3808,7 +3808,7 @@
             },
             "attack_type_normal_desc": {
                 "En": "Deals <b>1&times;</b> damage to <b class='ba-col-explosion'>Light</b>, <b class='ba-col-pierce'>Heavy</b> and <b class='ba-col-mystic'>Special</b> armor targets.<br>Deals <b>0.5&times;</b> damage to <b class='ba-col-siege'>Structures</b>.",
-                "Jp": "すべての防御タイプに<b>等倍</b>のダメージを与える<br>構造物に<b>0.5倍</b>のダメージを与える。",
+                "Jp": "すべての防御タイプに<b>1倍</b>のダメージを与える<br>構造物に<b>0.5倍</b>のダメージを与える。",
                 "Kr": null,
                 "Th": "สร้างความเสียหาย <b>1&times;</b> ให้กับเป้าหมายประเภท<b class='ba-col-explosion'>เกราะเบา</b>, <b class='ba-col-pierce'>เกราะหนัก</b>และ<b class='ba-col-mystic'>เกราะพิเศษ</b><br>สร้างความเสียหาย <b>0.5&times;</b> ให้กับเป้าหมายประเภท<b class='ba-col-siege'>สิ่งปลูกสร้าง</b>",
                 "Tw": "對<b class='ba-col-explosion'>輕裝甲</b>、<b class='ba-col-pierce'>重裝甲</b>與<b class='ba-col-mystic'>神秘裝甲</b>目標造成<b>1倍</b>傷害。<br>對<b class='ba-col-siege'>構造物</b>造成<b>0.5倍</b>傷害。",
@@ -3824,7 +3824,7 @@
             },
             "defense_type_normal_desc": {
                 "En": "Receives <b>1&times;</b> damage from <b class='ba-col-explosion'>Explosive</b>, <b class='ba-col-pierce'>Piercing</b> and <b class='ba-col-mystic'>Mystic</b> attacks.",
-                "Jp": "<b class='ba-col-explosion'>爆発</b>、<b class='ba-col-pierce'>貫通</b>、および<b class='ba-col-mystic'>神秘</b>攻撃から<b>等倍</b>のダメージを受ける。",
+                "Jp": "<b class='ba-col-explosion'>爆発</b>、<b class='ba-col-pierce'>貫通</b>、および<b class='ba-col-mystic'>神秘</b>攻撃から<b>1倍</b>のダメージを受ける。",
                 "Kr": null,
                 "Th": "ได้รับความเสียหาย <b>1&times;</b> จากการโจมตีประเภท<b class='ba-col-explosion'>ระเบิด</b>, <b class='ba-col-pierce'>เจาะเกราะ</b>และ<b class='ba-col-mystic'>ลึกลับ</b>",
                 "Tw": "承受<b>1倍</b><b class='ba-col-explosion'>爆炸</b>、<b class='ba-col-pierce'>貫穿</b>與<b class='ba-col-mystic'>神秘</b>攻擊傷害。",
@@ -4128,7 +4128,7 @@
             },
             "terrain_adaption_details": {
                 "En": "Deals <b>{0}&times;</b> damage in <b>{1}</b> terrain.\nBlock rate when taking cover <b>+{2}%</b>.\nChance to ignore block when attacking <b>+{2}%</b>",
-                "Jp": "{1}では<b>{0}倍</b>のダメージを与える。\n遮蔽ブロック率<b>{2}%</b>。\n遮蔽貫通率<b>{2}%</b>。",
+                "Jp": "{1}では<b>{0}倍</b>のダメージを与える。\n遮蔽物使用時に遮蔽ブロック率を<b>{2}%増加する</b>。\n遮蔽貫通率を<b>{2}%増加する。</b>。",
                 "Kr": null,
                 "Th": "สร้างความเสียหาย <b>{0}&times;</b> ในพื้นที่<b>{1}</b>\nอัตรากำบังสำเร็จเมื่ออยู่ในกำบัง <b>+{2}%</b>\nอัตราไม่สนใจกำบังศัตรูเมื่อโจมตี <b>+{2}%</b>",
                 "Tw": "在<b>{1}</b>地形造成<b>{0}倍</b>傷害。\n尋找掩體時掩護成功率<b>+{2}%</b>。\n攻擊時繞過掩體概率<b>增加{2}%</b>。",
@@ -4328,7 +4328,7 @@
             },
             "no_results": {
                 "En": "No results.",
-                "Th": "ไม่มีผลลัพธ์",
+                "Jp": "該当なし。",
                 "Tw": "無結果。",
                 "Cn": "无结果。"
             },
@@ -4663,7 +4663,7 @@
             },
             "item_randombox_tier": {
                 "En": "Random {0} {1}",
-                "Jp": null,
+                "Jp": "ランダム{0}{1}",
                 "Kr": null,
                 "Th": "สุ่ม {0} {1}",
                 "Tw": "隨機 {0} {1}",
@@ -4767,7 +4767,7 @@
             },
             "tooltip_sprite_toggle": {
                 "En": "Change Sprite",
-                "Jp": null,
+                "Jp": "立ち絵を切替",
                 "Kr": null,
                 "Th": "เปลี่ยนรูป",
                 "Tw": "切換CG圖像",
@@ -5271,7 +5271,7 @@
             },
             "dmginfo_reload_time_tooltip": {
                 "En": "Reload Duration: {0}\nStart Delay: {1}\nEnd Delay: {2}",
-                "Jp": "リロード時間：{0}\nリロード前時間：{1}\nリロード後時間：{2}",
+                "Jp": "リロード時間：{0}\nリロード前間隔：{1}\nリロード後間隔：{2}",
                 "Kr": null,
                 "Th": "ระยะเวลารีโหลด: {0}\nดีเลย์ตอนเริ่ม: {1}\nดีเลย์ตอนจบ: {2}",
                 "Tw": null,
