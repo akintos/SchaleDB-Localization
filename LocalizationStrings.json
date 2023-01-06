@@ -544,7 +544,7 @@
                 "En": "Groggy Gauge",
                 "Jp": "グロッキーゲージ",
                 "Kr": null,
-                "Th": null,
+                "Th": "เกจมึนงง",
                 "Tw": null,
                 "Cn": null
             },
@@ -552,7 +552,7 @@
                 "En": "Groggy Duration",
                 "Jp": "グロッキー持続時間",
                 "Kr": null,
-                "Th": null,
+                "Th": "ระยะเวลามึนงง",
                 "Tw": null,
                 "Cn": null
             }
@@ -3112,7 +3112,7 @@
                 "En": "Increases when dealt {0} damage.",
                 "Jp": "{0}ダメージを受けると増加する。",
                 "Kr": null,
-                "Th": null,
+                "Th": "เพิ่มเมื่อได้รับความเสียหาย {0} หน่วย",
                 "Tw": null,
                 "Cn": null
             },
@@ -3120,7 +3120,7 @@
                 "En": "Increases when automaton soldiers are defeated.",
                 "Jp": "自律兵器が破壊されると増加する。",
                 "Kr": null,
-                "Th": null,
+                "Th": "เพิ่มเมื่อทหารจักรกลถูกทำลาย (ไม่นับรวมหุ่นดูดฝุ่น)",
                 "Tw": null,
                 "Cn": null
             },
@@ -3128,7 +3128,7 @@
                 "En": "Increases when EX Skills are interrupted.",
                 "Jp": "EXスキルが中断されると増加する。",
                 "Kr": null,
-                "Th": null,
+                "Th": "เพิ่มเมื่อถูกเรลิกแดงขัดขวางการโจมตี",
                 "Tw": null,
                 "Cn": null
             },
@@ -3136,7 +3136,7 @@
                 "En": "Increases when components are destroyed.",
                 "Jp": "パーツが破壊されると増加する。",
                 "Kr": null,
-                "Th": null,
+                "Th": "เพิ่มเมื่อได้รับความเสียหายจนชิ้นส่วนถูกทำลาย",
                 "Tw": null,
                 "Cn": null
             },
@@ -3144,7 +3144,7 @@
                 "En": "Increases when stunned Perorominions are absorbed.",
                 "Jp": "気絶状態のペロロミニオンを吸い込むと増加する。",
                 "Kr": null,
-                "Th": null,
+                "Th": "เพิ่มเมื่อลูกสมุนเพโรโร่ที่ล้มลงถูกดูดซับ",
                 "Tw": null,
                 "Cn": null
             },
@@ -3152,7 +3152,7 @@
                 "En": "Increases when Erosion Towers are destroyed or Hod's CC Gauge is filled.",
                 "Jp": "インベイドピラーが破壊されるかホドのCCゲージが一杯になると増加する。",
                 "Kr": null,
-                "Th": null,
+                "Th": "เพิ่มเมื่อเสากัดกร่อนถูกทำลายหรือเกจพิเศษของ Hod เต็ม",
                 "Tw": null,
                 "Cn": null
             }
@@ -3682,7 +3682,7 @@
                 "En": "Add as base amount",
                 "Jp": "固定値として追加",
                 "Kr": null,
-                "Th": "เพิ่มค่าเป็นค่าพื้นฐาน",
+                "Th": "เพิ่มค่าเป็นจำนวนเต็ม",
                 "Tw": null,
                 "Cn": "作为基准值添加"
             },
@@ -3954,7 +3954,7 @@
                 "En": "Filters",
                 "Jp": "フィルター",
                 "Kr": "필터",
-                "Th": "ประเภท",
+                "Th": "ตัวกรอง",
                 "Tw": "過濾器",
                 "Cn": "过滤器"
             },
@@ -4329,6 +4329,7 @@
             "no_results": {
                 "En": "No results.",
                 "Jp": "該当なし。",
+                "Th": "ไม่มีผลลัพธ์",
                 "Tw": "無結果。",
                 "Cn": "无结果。"
             },
@@ -4657,7 +4658,7 @@
                 "En": "The following students earn bonus amounts of this currency.",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ไอเทมนี้ได้รับโบนัสดรอปจากนักเรียนดังต่อไปนี้",
                 "Tw": null,
                 "Cn": null
             },
@@ -5049,7 +5050,7 @@
                 "En": "<li>Full information on all students and skills, including summons or vehicles.</li><li>Comprehensive stats calculation that can display a student's stats under any configuration of stars, level, equipment, and buffs from skills.</li><li>Complete Items, Equipment and Furniture database.</li><li>Reward drops, maps and detailed enemy information for all Campaign, Event Quest, Challenge and Daily stages.</li><li>Stats and Skill information for Total Assault bosses and Joint Firing Drill events.</li><li>View the chances of possible items received from crafting nodes.</li>",
                 "Jp": "<li>すべての生徒とスキルに関する召喚物や搭乗物も含めた詳細な情報。</li><li>星、レベル、装備、スキルバフのあらゆる組み合わせに対応した網羅的なステータス計算。</li><li>アイテム、装備、家具に関する完全なデータベース。</li><li>すべての任務、イベントクエスト、チャレンジ、デイリーステージに関する獲得報酬、マップ、敵の詳細な情報。</li><li>総力戦ボスと合同火力演習に関するステータスとスキルの情報</li><li>各製造ノードから入手可能なアイテムの入手確率。</li>",
                 "Kr": null,
-                "Th": "<li>ข้อมูลของนักเรียนและสกิลทุกคนอย่างครบถ้วน รวมไปถึงยานพาหนะ, วัตถุอัญเชิญและวัตถุกำบัง</li><li>หน้าต่างคำนวนค่าสถานะต่างๆ ของนักเรียนภายใต้เงื่อนไขทุกรูปแบบไม่ว่าจะเป็นจำนวนดาว, เลเวล, อุปกรณ์สวมใส่หรือบัพจากสกิลต่างๆ</li><li>ลิสของไอเทม, อุปกรณ์สวมใส่และเฟอร์นิเจอร์อย่างครบถ้วน</li><li>รางวัลที่ได้รับ, แผนที่และข้อมูลของศัตรูแบบละเอียดสำหรับทุกภารกิจหลัก, เควสอีเวนท์, ชาเลนจ์และด่านเควสรายวัน</li><li>ค่าสถานะและข้อมูลสกิลสำหรับอีเวนท์เรดบอสและการสอบประมวลผล</li><li>ดูตารางและอัตราการได้รับไอเทมต่างๆ จากการคราฟไอเทม</li>",
+                "Th": "<li>ข้อมูลของนักเรียนและสกิลทุกคน รวมไปถึงยานพาหนะ, วัตถุอัญเชิญและวัตถุกำบังอย่างครบถ้วน</li><li>หน้าต่างคำนวนค่าสถานะต่างๆ ของนักเรียนภายใต้เงื่อนไขทุกรูปแบบไม่ว่าจะเป็นจำนวนดาว, เลเวล, อุปกรณ์สวมใส่หรือบัพจากสกิลต่างๆ</li><li>ลิสของไอเทม, อุปกรณ์สวมใส่และเฟอร์นิเจอร์อย่างครบถ้วน</li><li>รางวัลที่ได้รับ, แผนที่และข้อมูลของศัตรูแบบละเอียดสำหรับทุกภารกิจหลัก, เควสอีเวนท์, ชาเลนจ์และด่านเควสรายวัน</li><li>ค่าสถานะและข้อมูลสกิลสำหรับอีเวนท์เรดบอสและการสอบประมวลผล</li><li>ดูตารางและอัตราการได้รับไอเทมต่างๆ จากการคราฟไอเทม</li>",
                 "Tw": "<li>有關全體學生和技能，包含召喚單位與載具單位的完整信息。</li><li>全面的數據計算，可以顯示學生在任何星級、等級、裝備和技能的增益效果下的面板數據。</li><li>完整的物品、裝備和傢俱數據庫。</li><li>所有關卡的獎勵掉落、地圖和詳細的敵人信息。</li><li>總力戰BOSS與綜合戰術考試的數據與技能信息。</li><li>查看從合成節點可能獲取物品的幾率。</li>",
                 "Cn": "<li>有关全体学生和技能，包含召唤单位与载具单位的完整信息。</li><li>全面的数据计算，可以显示学生在任何星级、等级、装备和技能的增益效果下的面板数据。</li><li>完整的物品、装备和家具数据库。</li><li>所有关卡的奖励掉落、地图和详细的敌人信息。</li><li>总力战BOSS与综合战术考试的数据与技能信息。</li><li>查看从合成节点可能获取物品的几率。</li>"
             },
@@ -5209,7 +5210,7 @@
                 "En": "Heal",
                 "Jp": "回復",
                 "Kr": null,
-                "Th": null,
+                "Th": "ฟื้นฟู",
                 "Tw": null,
                 "Cn": "治愈"
             },
