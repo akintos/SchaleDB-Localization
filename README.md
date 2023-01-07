@@ -46,7 +46,7 @@ Certain enemies in the game such as additional enemies in Total Assault or other
 | Language | Contributor(s) |
 | --- | --- |
 | English (En) | lonqie |
-| Japanese (Jp) | lonqie (MTL only for some UI stuff) |
+| Japanese (Jp) | G3danke |
 | Korean (Kr) | |
 | Thai (Th) | TKRotund |
 | Traditional Chinese (Tw) | Blue-Roar |

@@ -1409,7 +1409,7 @@
             },
             "Buff_DamagedRatio": {
                 "En": "Incoming Damage",
-                "Jp": "受けるダメージ量",
+                "Jp": "被ダメージ量",
                 "Kr": "받는 대미지량",
                 "Th": "ความเสียหายที่ได้รับ",
                 "Tw": "遭受的傷害量",
@@ -1497,7 +1497,7 @@
             },
             "Buff_HealEffectiveness": {
                 "En": "Recovery Boost",
-                "Jp": "被回復率",
+                "Jp": "被回復",
                 "Kr": "받는 회복효과 강화율",
                 "Th": "อัตราเร่งการฟื้นฟู",
                 "Tw": "所受恢復效果強化率",
@@ -1751,7 +1751,7 @@
             },
             "Debuff_HealEffectiveness": {
                 "En": "Recovery Boost",
-                "Jp": "被回復率",
+                "Jp": "被回復",
                 "Kr": "받는 회복효과 강화율",
                 "Th": "อัตราเร่งการฟื้นฟู",
                 "Tw": "所受恢復效果強化率",
@@ -4127,7 +4127,7 @@
                 "Cn": "{0}战斗力"
             },
             "terrain_adaption_details": {
-                "En": "Deals <b>{0}&times;</b> damage in <b>{1}</b> terrain.\nBlock rate when taking cover <b>+{2}%</b>.\nChance to ignore block when attacking <b>+{2}%</b>",
+                "En": "Deals <b>{0}&times;</b> damage in <b>{1}</b> terrain.\nBlock rate when taking cover is increased by <b>{2}%</b>. Enemy block rate reduced by <b>{2}%</b> when attacking.",
                 "Jp": "{1}では<b>{0}倍</b>のダメージを与える。\n遮蔽物使用時に遮蔽ブロック率を<b>{2}%増加する</b>。\n遮蔽貫通率を<b>{2}%増加する。</b>。",
                 "Kr": null,
                 "Th": "สร้างความเสียหาย <b>{0}&times;</b> ในพื้นที่<b>{1}</b>\nอัตรากำบังสำเร็จเมื่ออยู่ในกำบัง <b>+{2}%</b>\nอัตราไม่สนใจกำบังศัตรูเมื่อโจมตี <b>+{2}%</b>",
@@ -5055,7 +5055,7 @@
                 "Cn": "<li>有关全体学生和技能，包含召唤单位与载具单位的完整信息。</li><li>全面的数据计算，可以显示学生在任何星级、等级、装备和技能的增益效果下的面板数据。</li><li>完整的物品、装备和家具数据库。</li><li>所有关卡的奖励掉落、地图和详细的敌人信息。</li><li>总力战BOSS与综合战术考试的数据与技能信息。</li><li>查看从合成节点可能获取物品的几率。</li>"
             },
             "home_footer_text": {
-                "En": "Schale DB is developed and maintained by lonqie, with additional translation work by Blue-Roar & TKRotund.\nSchale DB is not affiliated with Nexon, Nexon Games or Yostar. All game artwork, information and assets used in this database are the property and copyright of the respective authors.",
+                "En": "Schale DB is developed and maintained by lonqie, with additional translation work by Blue-Roar, TKRotund & G3danke.\nSchale DB is not affiliated with Nexon, Nexon Games or Yostar. All game artwork, information and assets used in this database are the property and copyright of the respective authors.",
                 "Jp":  "Schale DBはlonqieによって開発・運営されています。また、Blue-RoarとTKRotundから翻訳の支援を受けています。\nSchale DBはNexon、Nexon Games、およびYostarとは一切関係ありません。当データベースで使用されているゲーム画像、情報、およびアセットの所有権及び著作権はそれぞれの権利者に帰属します。",
                 "Kr": null,
                 "Th": "Schale DB พัฒนาและอัปเดทโดย lonqie โดยได้รับความช่วยเหลือในการแปลภาษาเพิ่มเติมจาก Blue-Roar และ TKRotund\nSchale DB นั้นไม่ได้มีส่วนเกี่ยวข้องใดๆ กับทาง Nexon, Nexon Games หรือ Yostar รูปภาพและข้อมูลต่างๆ ที่ใช้ในฐานข้อมูลนี้ถือเป็นสมบัติและทรัพย์สินทางปัญญาของผู้ถือครองลิขสิทธิ์ดั้งเดิม",

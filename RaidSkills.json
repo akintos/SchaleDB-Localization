@@ -418,7 +418,7 @@
             "NameEn": "Horror of Slumpia",
             "NameTh": "ความน่าสะพรึงกลัวของสลัมเพีย",
             "DescriptionEn": "Decreases all enemies' <d:HealEffectiveness> by 80%. This debuff cannot be removed.",
-            "DescriptionJp": "全ての敵の<d:HealEffectiveness>を80%減少",
+            "DescriptionJp": "全ての敵の<d:HealEffectiveness>率を80%減少",
             "DescriptionKr": "모든 적 <d:HealEffectiveness> 80% 감소",
             "DescriptionTh": "ลด<d:HealEffectiveness>ของศัตรูทั้งหมด 80% เอฟเฟคนี้ไม่สามารถถูกลบล้างได้",
             "DescriptionTw": null,
@@ -456,7 +456,7 @@
                     "",
                     "",
                     "",
-                    "\nさらに<d:Hieronymus>の敵の<b:HealEffectiveness>を<b>3000</b>増加。（10秒間）"
+                    "\nさらに<d:Hieronymus>の敵の<b:HealEffectiveness>値を<b>3000</b>増加。（10秒間）"
                 ]
             ],
             "DescriptionKr": "적 1인에게 <d:Hieronymus>를 부여\n저주는 공격력의 20%만큼 지속 대미지를 주며 10초 후 폭발하여 \n원형 범위 내 적에게 공격력의 325% 만큼 대미지를 주고 사라진다.\n저주에 걸린 대상의 체력이 100%가 되면 저주는 즉시 사라진다.<?1>",
@@ -532,7 +532,7 @@
                     "\nATGの値がMAXの場合、全ての敵に対して、敵の最大HPの1000%分のダメージ",
                     "\nATGの値がMAXの場合、全ての敵に対して、敵の最大HPの1000%分のダメージ",
                     "\nATGの値がMAXの場合、全ての敵に対して、敵の最大HPの1000%分のダメージ",
-                    "\nATGの値がMAXの場合、全ての敵に対して、<s:Immortal>を付与（10秒間）\nさらにHPの1000%分のダメージを付与、\n<b:HealEffectiveness>を2000増加。（10秒間）"
+                    "\nATGの値がMAXの場合、全ての敵に対して、<s:Immortal>を付与（10秒間）\nさらにHPの1000%分のダメージを付与、\n<b:HealEffectiveness>値を2000増加。（10秒間）"
                 ]
             ],
             "DescriptionKr": "10초마다 모든 적에게 공격력의 <?1> 만큼 대미지<?2>",
@@ -652,7 +652,7 @@
             "NameEn": "Unholy Light (Relic)",
             "NameTh": "แสงชั่วร้าย (เรลิก)",
             "DescriptionEn": "When the violet relic's HP reaches 0%, increases the <b:ATK> of all students by <b>25%</b> but decreases their <d:HealEffectiveness> by <b>7,000</b>. Also decreases Hieronymus's <d:DEF> by <b>1,500</b>.\nFollowing this, students inflicted with <d:Hieronymus> will have their <b:HealEffectiveness> increased by a further <b>4,000</b> for 10s.\nThe violet relic cannot be targeted by normal attacks or basic skills.",
-            "DescriptionJp": "聖遺物のHPが0%になるとスキル発動。\n紫色の聖遺物の場合、全てのストライカー、スペシャル生徒の<b:ATK>を25%増加し\n<d:HealEffectiveness>を7000減少。\nさらにヒエロニムスの<d:DEF>を1500減少。\n発動後、<d:Hieronymus>になった生徒の<b:HealEffectiveness>を4000増加（10秒間）\n（紫色の聖遺物は通常攻撃、ノーマルスキルのターゲットになりません）",
+            "DescriptionJp": "聖遺物のHPが0%になるとスキル発動。\n紫色の聖遺物の場合、全てのストライカー、スペシャル生徒の<b:ATK>を25%増加し\n<d:HealEffectiveness>値を7000減少。\nさらにヒエロニムスの<d:DEF>を1500減少。\n発動後、<d:Hieronymus>になった生徒の<b:HealEffectiveness>値を4000増加（10秒間）\n（紫色の聖遺物は通常攻撃、ノーマルスキルのターゲットになりません）",
             "DescriptionKr": "성유물 체력이 0% 가 되면 스킬 발동\n자색 성유물: 모든 스트라이커, 스페셜 학생의 <b:ATK>이 25% 증가하고\n<d:HealEffectiveness>이 7000 만큼 감소한다.\n추가로 예로니무스의 <d:DEF>이 1500 만큼 감소한다.\n이후 <d:Hieronymus>를 받는 아군의 <b:HealEffectiveness>이 4000 만큼 증가한다. (10초간)\n(자색 성유물은 일반 공격, 기본 스킬의 타겟이 되지 않습니다.)",
             "DescriptionTh": "เมื่อ HP ของเรลิกเป็น 0% จะเปิดใช้งานสกิล\nเรลิกม่วง : เพิ่ม<b:ATK> ของฝ่ายเรา <b>25%</b>\nลด<d:HealEffectiveness> 7000\nลด<d:DEF>ของไฮโรนีมัสลง 1500\nเป้าหมายที่มี<d:Hieronymus> จะได้รับ<b:HealEffectiveness> เพิ่ม 4000 (เป็นเวลา 10 วินาที)\nเรลิกม่วงจะไม่ตกเป็นเป้าหมายของการโจมตีปกติและสกิลพื้นฐาน",
             "DescriptionTw": null,
@@ -740,7 +740,7 @@
                     "",
                     "",
                     "",
-                    "、さらにExスキルの攻撃時、敵の<d:HealEffectiveness>を80%減少（30秒間）"
+                    "、さらにExスキルの攻撃時、敵の<d:HealEffectiveness>率を80%減少（30秒間）"
                 ],
                 [
                     "70000",
@@ -1368,7 +1368,7 @@
                     "90%"
                 ]
             ],
-            "DescriptionJp": "<b:Shield>効果がある場合、ゴズが与える全てのダメージを<?1>減少/\n<d:HealEffectiveness>を<?2>減少",
+            "DescriptionJp": "<b:Shield>効果がある場合、ゴズが与える全てのダメージを<?1>減少/\n<d:HealEffectiveness>率を<?2>減少",
             "DescriptionKr": "<b:Shield>이 있을 경우 고즈가 입히는 모든 피해가 <?1> 감소합니다./\n<d:HealEffectiveness>이 <?2> 감소합니다.",
             "DescriptionTh": "ลดความเสียหายของ Goz ที่ทำต่อเป้าหมายที่มี<b:Shield>ลง <?1>/\nลด<d:HealEffectiveness>ของศัตรูทั้งหมด <?2> เอฟเฟคนี้ไม่สามารถถูกลบล้างได้",
             "ParametersTh": [
