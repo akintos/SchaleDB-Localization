@@ -3112,7 +3112,7 @@
                 "En": "Increases when dealt {0} damage.",
                 "Jp": "{0}ダメージを受けると増加する。",
                 "Kr": null,
-                "Th": "เพิ่มเมื่อได้รับความเสียหาย {0} หน่วย",
+                "Th": "เพิ่มเมื่อได้รับความเสียหาย {0}",
                 "Tw": null,
                 "Cn": null
             },
@@ -3128,7 +3128,7 @@
                 "En": "Increases when EX Skills are interrupted.",
                 "Jp": "EXスキルが中断されると増加する。",
                 "Kr": null,
-                "Th": "เพิ่มเมื่อถูกเรลิกแดงขัดขวางการโจมตี",
+                "Th": "เพิ่มเมื่อถูกเรลิกแดงขัดขวางการใช้สกิล EX",
                 "Tw": null,
                 "Cn": null
             },
@@ -3802,7 +3802,7 @@
                 "En": "Deals <b>2&times;</b> damage to {0} armor targets.<br>Deals <b>0.5&times;</b> damage to {1} armor targets.<br>Deals <b>0.5&times;</b> damage to <b>Structures</b>.",
                 "Jp": "{0}に<b>2倍</b>のダメージを与える。<br>{1}に<b>0.5倍</b>のダメージを与える。<br>構造物に<b>0.5倍</b>のダメージを与える。",
                 "Kr": null,
-                "Th": "สร้างความเสียหาย <b>2&times;</b> ให้กับเป้าหมายประเภท{0}<br>สร้างความเสียหาย <b>0.5&times;</b> ให้กับเป้าหมายประเภท{1}<br>สร้างความเสียหาย <b>0.5&times;</b> ให้กับเป้าหมายประเภท<b>สิ่งปลูกสร้าง</b>",
+                "Th": "สร้างความเสียหาย <b>&times;2</b> ให้กับเป้าหมายประเภท{0}<br>สร้างความเสียหาย <b>&times;0.5</b> ให้กับเป้าหมายประเภท{1}<br>สร้างความเสียหาย <b>&times;0.5</b> ให้กับเป้าหมายประเภท<b>สิ่งปลูกสร้าง</b>",
                 "Tw": "對{0}目標造成<b>2倍</b>傷害。<br>對{1}目標造成<b>0.5倍</b>傷害。<br>對<b class='ba-col-siege'>構造物</b>造成<b>0.5倍</b>傷害。",
                 "Cn": "对{0}目标造成<b>2倍</b>伤害。<br>对{1}目标造成<b>0.5倍</b>伤害。<br>对<b class='ba-col-siege'>构造物</b>造成<b>0.5倍</b>伤害。"
             },
@@ -3810,7 +3810,7 @@
                 "En": "Deals <b>1&times;</b> damage to <b class='ba-col-explosion'>Light</b>, <b class='ba-col-pierce'>Heavy</b> and <b class='ba-col-mystic'>Special</b> armor targets.<br>Deals <b>0.5&times;</b> damage to <b class='ba-col-siege'>Structures</b>.",
                 "Jp": "すべての防御タイプに<b>1倍</b>のダメージを与える<br>構造物に<b>0.5倍</b>のダメージを与える。",
                 "Kr": null,
-                "Th": "สร้างความเสียหาย <b>1&times;</b> ให้กับเป้าหมายประเภท<b class='ba-col-explosion'>เกราะเบา</b>, <b class='ba-col-pierce'>เกราะหนัก</b>และ<b class='ba-col-mystic'>เกราะพิเศษ</b><br>สร้างความเสียหาย <b>0.5&times;</b> ให้กับเป้าหมายประเภท<b class='ba-col-siege'>สิ่งปลูกสร้าง</b>",
+                "Th": "สร้างความเสียหาย <b>&times;1</b> ให้กับเป้าหมายประเภท<b class='ba-col-explosion'>เกราะเบา</b>, <b class='ba-col-pierce'>เกราะหนัก</b>และ<b class='ba-col-mystic'>เกราะพิเศษ</b><br>สร้างความเสียหาย <b>&times;0.5</b> ให้กับเป้าหมายประเภท<b class='ba-col-siege'>สิ่งปลูกสร้าง</b>",
                 "Tw": "對<b class='ba-col-explosion'>輕裝甲</b>、<b class='ba-col-pierce'>重裝甲</b>與<b class='ba-col-mystic'>神秘裝甲</b>目標造成<b>1倍</b>傷害。<br>對<b class='ba-col-siege'>構造物</b>造成<b>0.5倍</b>傷害。",
                 "Cn": "对<b class='ba-col-explosion'>轻装甲</b>、<b class='ba-col-pierce'>重装甲</b>与<b class='ba-col-mystic'>神秘装甲</b>目标造成<b>1倍</b>伤害。<br>对<b class='ba-col-siege'>构造物</b>造成<b>0.5倍</b>伤害。"
             },
@@ -3818,7 +3818,7 @@
                 "En": "Receives <b>2&times;</b> damage from {0} attacks.<br>Receives <b>0.5&times;</b> damage from {1} attacks.",
                 "Jp": "{0}攻撃から<b>2倍</b>のダメージを受ける。<br>{1}攻撃から<b>0.5倍</b>のダメージを受ける。",
                 "Kr": null,
-                "Th": "ได้รับความเสียหาย <b>2&times;</b> จากการโจมตีประเภท{0}<br>ได้รับความเสียหาย <b>0.5&times;</b> จากการโจมตีประเภท{1}",
+                "Th": "ได้รับความเสียหาย <b>&times;2</b> จากการโจมตีประเภท{0}<br>ได้รับความเสียหาย <b>&times;0.5</b> จากการโจมตีประเภท{1}",
                 "Tw": "承受<b>2倍</b>{0}攻擊傷害。<br>承受<b>0.5倍</b>{1}攻擊傷害。",
                 "Cn": "承受<b>2倍</b>{0}攻击伤害。<br>承受<b>0.5倍</b>{1}攻击伤害。"
             },
@@ -3826,7 +3826,7 @@
                 "En": "Receives <b>1&times;</b> damage from <b class='ba-col-explosion'>Explosive</b>, <b class='ba-col-pierce'>Piercing</b> and <b class='ba-col-mystic'>Mystic</b> attacks.",
                 "Jp": "<b class='ba-col-explosion'>爆発</b>、<b class='ba-col-pierce'>貫通</b>、および<b class='ba-col-mystic'>神秘</b>攻撃から<b>1倍</b>のダメージを受ける。",
                 "Kr": null,
-                "Th": "ได้รับความเสียหาย <b>1&times;</b> จากการโจมตีประเภท<b class='ba-col-explosion'>ระเบิด</b>, <b class='ba-col-pierce'>เจาะเกราะ</b>และ<b class='ba-col-mystic'>ลึกลับ</b>",
+                "Th": "ได้รับความเสียหาย <b>&times;1</b> จากการโจมตีประเภท<b class='ba-col-explosion'>ระเบิด</b>, <b class='ba-col-pierce'>เจาะเกราะ</b>และ<b class='ba-col-mystic'>ลึกลับ</b>",
                 "Tw": "承受<b>1倍</b><b class='ba-col-explosion'>爆炸</b>、<b class='ba-col-pierce'>貫穿</b>與<b class='ba-col-mystic'>神秘</b>攻擊傷害。",
                 "Cn": "承受<b>1倍</b><b class='ba-col-explosion'>爆发</b>、<b class='ba-col-pierce'>贯穿</b>与<b class='ba-col-mystic'>神秘</b>攻击伤害。"
             },
@@ -4130,7 +4130,7 @@
                 "En": "Deals <b>{0}&times;</b> damage in <b>{1}</b> terrain.\nBlock rate when taking cover is increased by <b>{2}%</b>. Enemy block rate reduced by <b>{2}%</b> when attacking.",
                 "Jp": "{1}では<b>{0}倍</b>のダメージを与える。\n遮蔽物使用時に遮蔽ブロック率を<b>{2}%増加する</b>。\n遮蔽貫通率を<b>{2}%増加する。</b>。",
                 "Kr": null,
-                "Th": "สร้างความเสียหาย <b>{0}&times;</b> ในพื้นที่<b>{1}</b>\nอัตรากำบังสำเร็จเมื่ออยู่ในกำบัง <b>+{2}%</b>\nอัตราไม่สนใจกำบังศัตรูเมื่อโจมตี <b>+{2}%</b>",
+                "Th": "สร้างความเสียหาย <b>&times;{0}</b> ในพื้นที่<b>{1}</b>\nอัตรากำบังสำเร็จเมื่ออยู่ในกำบังเพิ่มขึ้น <b>{2}%</b>\nอัตรากำบังสำเร็จของศัตรูลดลงเมื่อโจมตี <b>{2}%</b>",
                 "Tw": "在<b>{1}</b>地形造成<b>{0}倍</b>傷害。\n尋找掩體時掩護成功率<b>+{2}%</b>。\n攻擊時繞過掩體概率<b>增加{2}%</b>。",
                 "Cn": "在<b>{1}</b>地形造成<b>{0}倍</b>伤害。\n寻找掩体时掩护成功率<b>+{2}%</b>。\n攻击时绕过掩体概率<b>增加{2}%</b>。"
             },
@@ -5058,7 +5058,7 @@
                 "En": "Schale DB is developed and maintained by lonqie, with additional translation work by Blue-Roar, TKRotund & G3danke.\nSchale DB is not affiliated with Nexon, Nexon Games or Yostar. All game artwork, information and assets used in this database are the property and copyright of the respective authors.",
                 "Jp":  "Schale DBはlonqieによって開発・運営されています。また、Blue-RoarとTKRotundから翻訳の支援を受けています。\nSchale DBはNexon、Nexon Games、およびYostarとは一切関係ありません。当データベースで使用されているゲーム画像、情報、およびアセットの所有権及び著作権はそれぞれの権利者に帰属します。",
                 "Kr": null,
-                "Th": "Schale DB พัฒนาและอัปเดทโดย lonqie โดยได้รับความช่วยเหลือในการแปลภาษาเพิ่มเติมจาก Blue-Roar และ TKRotund\nSchale DB นั้นไม่ได้มีส่วนเกี่ยวข้องใดๆ กับทาง Nexon, Nexon Games หรือ Yostar รูปภาพและข้อมูลต่างๆ ที่ใช้ในฐานข้อมูลนี้ถือเป็นสมบัติและทรัพย์สินทางปัญญาของผู้ถือครองลิขสิทธิ์ดั้งเดิม",
+                "Th": "Schale DB พัฒนาและอัปเดทโดย lonqie โดยได้รับความช่วยเหลือในการแปลภาษาเพิ่มเติมจาก Blue-Roar, TKRotund และ G3danke\nSchale DB นั้นไม่ได้มีส่วนเกี่ยวข้องใดๆ กับทาง Nexon, Nexon Games หรือ Yostar รูปภาพและข้อมูลต่างๆ ที่ใช้ในฐานข้อมูลนี้ถือเป็นสมบัติและทรัพย์สินทางปัญญาของผู้ถือครองลิขสิทธิ์ดั้งเดิม",
                 "Tw": "Schale DB 由 lonqie 開發與維護，Blue-Roar 与 TKRotund 提供額外翻譯。\nSchale DB 與 Yostar、Nexon、Nexon Games 沒有關聯。本數據庫中使用的所有游戲作品、信息和素材均爲各自作者的財產和版權。",
                 "Cn": "Schale DB 由 lonqie 开发与维护，Blue-Roar 与 TKRotund 提供额外翻译。\nSchale DB 与 Yostar、Nexon、Nexon Games 没有关联。本数据库中使用的所有游戏作品、信息和素材均为各自作者的财产和版权。"
             },
