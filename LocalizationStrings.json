@@ -947,20 +947,22 @@
             "817": {
                 "ScenarioKey": 1330006888,
                 "En": "On Your Mark @ Millennium",
-                "Cn": "On Your Mark @ Millennium"
+                "Cn": "基沃托斯大运动会 晄轮大祭"
             },
             "818": {
                 "ScenarioKey": 3198922083,
                 "En": "Get Set, Go!: Kivotos Grand Sports Festival",
-                "Cn": "Get Set, Go! ~ 基沃托斯大运动会 晄轮大祭"
+                "Cn": "基沃托斯大运动会 晄轮大祭 Get Set, Go!"
             },
             "819": {
                 "ScenarioKey": 2558784607,
-                "En": "Christmas in the Cathedral: The Remedial Knights' Gift"
+                "En": "Christmas in the Cathedral: The Remedial Knights' Gift",
+                "Cn": "圣堂的圣诞快乐 救护骑士团的赠礼"
             },
             "820": {
                 "ScenarioKey": 3515690501,
-                "En": "A Game Before the New Year's Feast"
+                "En": "A Game Before the New Year's Feast",
+                "Cn": "年菜之前稍微~一战胜负~"
             }
         },
         "StageType": {
@@ -3104,7 +3106,7 @@
                 "CodeKey": 1889255299,
                 "En": "Bounty Shop",
                 "Th": "ประกาศจับ",
-                "Cn": "Bounty Shop"
+                "Cn": "赏金商店"
             }
         },
         "GroggyCondition": {
@@ -3114,7 +3116,7 @@
                 "Kr": null,
                 "Th": "เพิ่มเมื่อได้รับความเสียหาย {0}",
                 "Tw": null,
-                "Cn": null
+                "Cn": "受到{0}伤害时增加。"
             },
             "Chesed": {
                 "En": "Increases when automaton soldiers are defeated.",
@@ -3122,7 +3124,7 @@
                 "Kr": null,
                 "Th": "เพิ่มเมื่อทหารจักรกลถูกทำลาย (ไม่นับรวมหุ่นดูดฝุ่น)",
                 "Tw": null,
-                "Cn": null
+                "Cn": "当自动机士兵被击败时增加。"
             },
             "Hieronymus": {
                 "En": "Increases when EX Skills are interrupted.",
@@ -3130,7 +3132,7 @@
                 "Kr": null,
                 "Th": "เพิ่มเมื่อถูกเรลิกแดงขัดขวางการใช้สกิล EX",
                 "Tw": null,
-                "Cn": null
+                "Cn": "当EX技能被打断时增加。"
             },
             "KaitenFxMk0": {
                 "En": "Increases when components are destroyed.",
@@ -3138,7 +3140,7 @@
                 "Kr": null,
                 "Th": "เพิ่มเมื่อได้รับความเสียหายจนชิ้นส่วนถูกทำลาย",
                 "Tw": null,
-                "Cn": null
+                "Cn": "当组件被摧毁时增加。"
             },
             "Perorozilla": {
                 "En": "Increases when stunned Perorominions are absorbed.",
@@ -3146,7 +3148,7 @@
                 "Kr": null,
                 "Th": "เพิ่มเมื่อลูกสมุนเพโรโร่ที่ล้มลงถูกดูดซับ",
                 "Tw": null,
-                "Cn": null
+                "Cn": "当被击晕的佩洛洛士兵被吸收时增加。"
             },
             "HOD": {
                 "En": "Increases when Erosion Towers are destroyed or Hod's CC Gauge is filled.",
@@ -3154,7 +3156,7 @@
                 "Kr": null,
                 "Th": "เพิ่มเมื่อเสากัดกร่อนถูกทำลายหรือเกจพิเศษของ Hod เต็ม",
                 "Tw": null,
-                "Cn": null
+                "Cn": "当侵蚀塔被摧毁或霍德的CC量表充满时增加。"
             }
         },
         "ui": {
@@ -4660,7 +4662,7 @@
                 "Kr": null,
                 "Th": "ไอเทมนี้ได้รับโบนัสดรอปจากนักเรียนดังต่อไปนี้",
                 "Tw": null,
-                "Cn": null
+                "Cn": "以下学生可以额外获得这种货币。"
             },
             "item_randombox_tier": {
                 "En": "Random {0} {1}",
@@ -5059,8 +5061,8 @@
                 "Jp":  "Schale DBはlonqieによって開発・運営されています。また、Blue-RoarとTKRotundから翻訳の支援を受けています。\nSchale DBはNexon、Nexon Games、およびYostarとは一切関係ありません。当データベースで使用されているゲーム画像、情報、およびアセットの所有権及び著作権はそれぞれの権利者に帰属します。",
                 "Kr": null,
                 "Th": "Schale DB พัฒนาและอัปเดทโดย lonqie โดยได้รับความช่วยเหลือในการแปลภาษาเพิ่มเติมจาก Blue-Roar, TKRotund และ G3danke\nSchale DB นั้นไม่ได้มีส่วนเกี่ยวข้องใดๆ กับทาง Nexon, Nexon Games หรือ Yostar รูปภาพและข้อมูลต่างๆ ที่ใช้ในฐานข้อมูลนี้ถือเป็นสมบัติและทรัพย์สินทางปัญญาของผู้ถือครองลิขสิทธิ์ดั้งเดิม",
-                "Tw": "Schale DB 由 lonqie 開發與維護，Blue-Roar 与 TKRotund 提供額外翻譯。\nSchale DB 與 Yostar、Nexon、Nexon Games 沒有關聯。本數據庫中使用的所有游戲作品、信息和素材均爲各自作者的財產和版權。",
-                "Cn": "Schale DB 由 lonqie 开发与维护，Blue-Roar 与 TKRotund 提供额外翻译。\nSchale DB 与 Yostar、Nexon、Nexon Games 没有关联。本数据库中使用的所有游戏作品、信息和素材均为各自作者的财产和版权。"
+                "Tw": "Schale DB 由 lonqie 開發與維護，Blue-Roar、TKRotund 与 G3danke 提供額外翻譯。\nSchale DB 與 Yostar、Nexon、Nexon Games 沒有關聯。本數據庫中使用的所有游戲作品、信息和素材均爲各自作者的財產和版權。",
+                "Cn": "Schale DB 由 lonqie 开发与维护，Blue-Roar、TKRotund 与 G3danke 提供额外翻译。\nSchale DB 与 Yostar、Nexon、Nexon Games 没有关联。本数据库中使用的所有游戏作品、信息和素材均为各自作者的财产和版权。"
             },
             "changelog": {
                 "En": "Changelog",
