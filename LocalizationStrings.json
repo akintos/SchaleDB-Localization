@@ -3368,6 +3368,14 @@
                 "Tw": "導入集合",
                 "Cn": "导入集合"
             },
+            "collection_import_help": {
+                "En": "Data can be imported from Schale or <a href=\"https://justin163.com/planner/\">Justin163's resource planner</a>. (Select Transfer > Export)",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
             "collection_import_warning": {
                 "En": "This will overwrite your current collection",
                 "Jp": "現在の生徒データを上書きします",
@@ -3375,6 +3383,22 @@
                 "Th": "นี่จะเป็นการแทนที่คอลเลคชั่นของคุณในปัจจุบัน",
                 "Tw": "這會覆蓋你的當前集合",
                 "Cn": "这会覆盖你的当前集合"
+            },
+            "collection_import_status_valid": {
+                "En": "Export data for {0} students found.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
+            "collection_import_status_invalid": {
+                "En": "Export data is invalid.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
             },
             "collection_export_placeholder": {
                 "En": "Click export to generate an export string from your collection",
@@ -3407,14 +3431,6 @@
                 "Th": "นำเข้า",
                 "Tw": "導入",
                 "Cn": "导入"
-            },
-            "collection_import_planner": {
-                "En": "Import from Resource Planner",
-                "Jp": "Resource Plannerからインポート",
-                "Kr": null,
-                "Th": "นำเข้ามาจาก Resource Planner",
-                "Tw": "從 Resource Planner 導入",
-                "Cn": "从 Resource Planner 导入"
             },
             "setting_off": {
                 "En": "OFF",
@@ -3473,7 +3489,7 @@
                 "Cn": "<b>{0}天{1}小时{2}分钟</b>后结束"
             },
             "student_birthdays": {
-                "En": "The following students are celebrating their birthday this week!",
+                "En": "The following students are celebrating their birthday in the next 7 days!",
                 "Jp": "1週間のうちに誕生日を迎える生徒さんたちです！",
                 "Kr": null,
                 "Th": "นักเรียนที่มีวันเกิดอยู่ในสัปดาห์นี้!",
@@ -3528,14 +3544,6 @@
                 "Tw": "裝備",
                 "Cn": "装备"
             },
-            "student_bond_short": {
-                "En": "Relationship",
-                "Jp": "絆ランク",
-                "Kr": "인연랭크",
-                "Th": "ระดับสายใย",
-                "Tw": "羈絆等級",
-                "Cn": "羁绊等级"
-            },
             "student_weapon": {
                 "En": "Exclusive Weapon",
                 "Jp": "固有武器",
@@ -3568,14 +3576,6 @@
                 "Tw": "羈絆等級",
                 "Cn": "羁绊等级"
             },
-            "student_bond_alt": {
-                "En": "Alt Relationship Rank",
-                "Jp": "絆ランク（別衣装）",
-                "Kr": "인연랭크",
-                "Th": "ระดับสายใย",
-                "Tw": "羈絆等級",
-                "Cn": "羁绊等级"
-            },
             "tooltip_supportstats": {
                 "En": "Support Stats",
                 "Jp": "支援値",
@@ -3591,14 +3591,6 @@
                 "Th": "ค่าสถานะของยานพาหนะ/วัตถุที่ถูกเรียก",
                 "Tw": "車輛/召喚物數據",
                 "Cn": "车辆/召唤物数据"
-            },
-            "tooltip_import_planner": {
-                "En": "Imports collection from Justin163's Resource Planner (justin163.com/planner)",
-                "Jp": "Justin163のResource Planner（justin163.com/planner）から生徒データをインポートします",
-                "Kr": null,
-                "Th": "นำเข้าคอลเลคชั่นจาก Justin163's Resource Planner (justin163.com/planner)",
-                "Tw": "從 Justin163's Resource Planner (justin163.com/planner) 導入集合",
-                "Cn": "从 Justin163's Resource Planner (justin163.com/planner) 导入集合"
             },
             "student_skill_ex": {
                 "En": "EX Skill",
@@ -4704,14 +4696,6 @@
                 "Tw": "切換羈絆等級加成",
                 "Cn": "切换羁绊等级加成"
             },
-            "tooltip_relationship_bonus_alt": {
-                "En": "Include Alt Relationship Bonus",
-                "Jp": "別衣装の絆ランクボーナスを含める",
-                "Kr": null,
-                "Th": "เปิด/ปิดโบนัสระดับสายใยของร่างอื่นๆ",
-                "Tw": "切換另一羈絆等級加成",
-                "Cn": "切换另一羁绊等级加成"
-            },
             "tooltip_equipment_bonus": {
                 "En": "Include Equipment Bonus",
                 "Jp": "装備バフを含める",
@@ -4913,7 +4897,7 @@
                 "Cn": "单击地图上的敌方单位以预览敌人列表。"
             },
             "toast_import_success": {
-                "En": "Successfully imported student collection",
+                "En": "Successfully imported collection data for {0} students",
                 "Jp": "生徒データのインポートに成功しました",
                 "Kr": null,
                 "Th": "นำเข้าข้อมูลนักเรียนในคอลเลคชั่นสำเร็จ",
@@ -5017,12 +5001,12 @@
                 "Cn": "欢迎回来，老师！"
             },
             "home_introduction": {
-                "En": "Schale DB is an unofficial database for the mobile game <i class=\"text-bold\">Blue Archive</i> developed by Nexon Games and published by Yostar (Japan) and Nexon (Global) for iOS and Android.",
-                "Jp": "Schale DBは、Nexson Gamesが開発しYostar（日本版）およびNexson（グローバル版）が運営するスマートフォン向けゲーム<i class=\"text-bold\">『ブルーアーカイブ』</i>の非公式データベースです。",
+                "En": "Schale is an unofficial database and calculation tool for the mobile game <i class=\"text-bold\">Blue Archive</i> developed by Nexon Games and published by Yostar (Japan) and Nexon (Global) for iOS and Android.",
+                "Jp": "Schaleは、Nexson Gamesが開発しYostar（日本版）およびNexson（グローバル版）が運営するスマートフォン向けゲーム<i class=\"text-bold\">『ブルーアーカイブ』</i>の非公式データベースです。",
                 "Kr": null,
-                "Th": "Schale DB เป็นศูนย์รวมข้อมูลอย่างไม่เป็นทางการของเกมมือถือ <i class=\"text-bold\">Blue Archive</i> ที่พัฒนาโดยทาง Nexon Games และได้รับการเผยแพร่โดย Yostar (เซิร์ฟเวอร์ญี่ปุ่น) และ Nexon (เซิร์ฟเวอร์โกลบอล) ทั้งในระบบ iOS และ Android",
-                "Tw": "Schale DB 是 Nexon Games 開發，日服由 Yostar、國際服由 Nexon 運營的手游<i class=\"text-bold\">蔚藍檔案</i>的非官方數據庫。",
-                "Cn": "Schale DB 是 Nexon Games 开发，日服由 Yostar、国际服由 Nexon 运营的手游<i class=\"text-bold\">蔚蓝档案</i>的非官方数据库。"
+                "Th": "Schale เป็นศูนย์รวมข้อมูลอย่างไม่เป็นทางการของเกมมือถือ <i class=\"text-bold\">Blue Archive</i> ที่พัฒนาโดยทาง Nexon Games และได้รับการเผยแพร่โดย Yostar (เซิร์ฟเวอร์ญี่ปุ่น) และ Nexon (เซิร์ฟเวอร์โกลบอล) ทั้งในระบบ iOS และ Android",
+                "Tw": "Schale 是 Nexon Games 開發，日服由 Yostar、國際服由 Nexon 運營的手游<i class=\"text-bold\">蔚藍檔案</i>的非官方數據庫。",
+                "Cn": "Schale 是 Nexon Games 开发，日服由 Yostar、国际服由 Nexon 运营的手游<i class=\"text-bold\">蔚蓝档案</i>的非官方数据库。"
             },
             "home_change_server": {
                 "En": "Please select your game server using the settings menu <i class=\"fa-solid fa-gear mx-1\"></i> to see only information that has been released on that server.",
@@ -5041,15 +5025,15 @@
                 "Cn": "特性"
             },
             "home_translations_help": {
-                "En": "Schale DB is currently available in 6 languages. Want to help translate? Please get in touch via Discord (lonqie#2708) or check out the <a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">localization project</a>!",
-                "Jp": "現在Schale DBは6つの言語で利用できます。翻訳を支援したい方はDiscord（lonqie#2708）経由でご連絡いただくか<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">ローライズプロジェクトサイト</a>をご確認ください。",
+                "En": "Schale is currently available in 6 languages. Want to help translate? Please get in touch via Discord (lonqie#2708) or check out the <a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">localization project</a>!",
+                "Jp": "現在Schaleは6つの言語で利用できます。翻訳を支援したい方はDiscord（lonqie#2708）経由でご連絡いただくか<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">ローライズプロジェクトサイト</a>をご確認ください。",
                 "Kr": null,
-                "Th": "ในปัจจุบัน Schale DB สามารถใช้งานได้ใน 6 ภาษา อยากให้ความช่วยเหลือในการแปลภาษา? กรุณาติดต่อได้ทาง Discord (lonqie#2708) หรือลองเข้าไปตรวจสอบใน<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">โปรเจคแปลภาษา</a>ได้เลย! ",
-                "Tw": "Schale DB 目前支援6種語言。如果你想幫忙翻譯請透過Discord(lonqie#2708)聯係或查看<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">本地化項目</a>！",
-                "Cn": "Schale DB 目前支持6种语言。如果你想帮助翻译请通过Discord(lonqie#2708)联系或查看<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\" target=\"_blank\">本地化项目</a>！"
+                "Th": "ในปัจจุบัน Schale สามารถใช้งานได้ใน 6 ภาษา อยากให้ความช่วยเหลือในการแปลภาษา? กรุณาติดต่อได้ทาง Discord (lonqie#2708) หรือลองเข้าไปตรวจสอบใน<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">โปรเจคแปลภาษา</a>ได้เลย! ",
+                "Tw": "Schale 目前支援6種語言。如果你想幫忙翻譯請透過Discord(lonqie#2708)聯係或查看<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">本地化項目</a>！",
+                "Cn": "Schale 目前支持6种语言。如果你想帮助翻译请通过Discord(lonqie#2708)联系或查看<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\" target=\"_blank\">本地化项目</a>！"
             },
             "home_features_list": {
-                "En": "<li>Full information on all students and skills, including summons or vehicles.</li><li>Comprehensive stats calculation that can display a student's stats under any configuration of stars, level, equipment, and buffs from skills.</li><li>Complete Items, Equipment and Furniture database.</li><li>Reward drops, maps and detailed enemy information for all Campaign, Event Quest, Challenge and Daily stages.</li><li>Stats and Skill information for Total Assault bosses and Joint Firing Drill events.</li><li>View the chances of possible items received from crafting nodes.</li>",
+                "En": "<li>Full information on all students and their skills, summons and vehicles.</li><li>Calculation feature that can display a student's stats under any configuration of level, equipment and buffs, and calculate skill damage and healing against a configurable target enemy.</li><li>Complete Items, Equipment and Furniture database.</li><li>Reward drops, maps and detailed enemy information for all Campaign, Event Quest, Challenge and Daily stages.</li><li>Stats and Skill information for Total Assault bosses and Joint Firing Drill events.</li><li>View the chances of possible items received from crafting nodes.</li>",
                 "Jp": "<li>すべての生徒とスキルに関する召喚物や搭乗物も含めた詳細な情報。</li><li>星、レベル、装備、スキルバフのあらゆる組み合わせに対応した網羅的なステータス計算。</li><li>アイテム、装備、家具に関する完全なデータベース。</li><li>すべての任務、イベントクエスト、チャレンジ、デイリーステージに関する獲得報酬、マップ、敵の詳細な情報。</li><li>総力戦ボスと合同火力演習に関するステータスとスキルの情報</li><li>各製造ノードから入手可能なアイテムの入手確率。</li>",
                 "Kr": null,
                 "Th": "<li>ข้อมูลของนักเรียนและสกิลทุกคน รวมไปถึงยานพาหนะ, วัตถุอัญเชิญและวัตถุกำบังอย่างครบถ้วน</li><li>หน้าต่างคำนวนค่าสถานะต่างๆ ของนักเรียนภายใต้เงื่อนไขทุกรูปแบบไม่ว่าจะเป็นจำนวนดาว, เลเวล, อุปกรณ์สวมใส่หรือบัพจากสกิลต่างๆ</li><li>ลิสของไอเทม, อุปกรณ์สวมใส่และเฟอร์นิเจอร์อย่างครบถ้วน</li><li>รางวัลที่ได้รับ, แผนที่และข้อมูลของศัตรูแบบละเอียดสำหรับทุกภารกิจหลัก, เควสอีเวนท์, ชาเลนจ์และด่านเควสรายวัน</li><li>ค่าสถานะและข้อมูลสกิลสำหรับอีเวนท์เรดบอสและการสอบประมวลผล</li><li>ดูตารางและอัตราการได้รับไอเทมต่างๆ จากการคราฟไอเทม</li>",
@@ -5057,12 +5041,12 @@
                 "Cn": "<li>有关全体学生和技能，包含召唤单位与载具单位的完整信息。</li><li>全面的数据计算，可以显示学生在任何星级、等级、装备和技能的增益效果下的面板数据。</li><li>完整的物品、装备和家具数据库。</li><li>所有关卡的奖励掉落、地图和详细的敌人信息。</li><li>总力战BOSS与综合战术考试的数据与技能信息。</li><li>查看从合成节点可能获取物品的几率。</li>"
             },
             "home_footer_text": {
-                "En": "Schale DB is developed and maintained by lonqie, with additional translation work by Blue-Roar, TKRotund & Gedanke.\nSchale DB is not affiliated with Nexon, Nexon Games or Yostar. All game artwork, information and assets used in this database are the property and copyright of the respective authors.",
-                "Jp":  "Schale DBはlonqieによって開発・運営されています。また、Blue-Roar、TKRotund、およびGedankeから翻訳の支援を受けています。\nSchale DBはNexon、Nexon Games、およびYostarとは一切関係ありません。当データベースで使用されているゲーム画像、情報、およびアセットの所有権及び著作権はそれぞれの権利者に帰属します。",
+                "En": "Schale is developed and maintained by lonqie, with additional translation work by Blue-Roar, TKRotund & Gedanke.\nSchale is not affiliated with Nexon, Nexon Games or Yostar. All game artwork, information and assets used in this database are the property and copyright of the respective authors.",
+                "Jp":  "Schaleはlonqieによって開発・運営されています。また、Blue-Roar、TKRotund、およびGedankeから翻訳の支援を受けています。\nSchaleはNexon、Nexon Games、およびYostarとは一切関係ありません。当データベースで使用されているゲーム画像、情報、およびアセットの所有権及び著作権はそれぞれの権利者に帰属します。",
                 "Kr": null,
-                "Th": "Schale DB พัฒนาและอัปเดทโดย lonqie โดยได้รับความช่วยเหลือในการแปลภาษาเพิ่มเติมจาก Blue-Roar, TKRotund และ Gedanke\nSchale DB นั้นไม่ได้มีส่วนเกี่ยวข้องใดๆ กับทาง Nexon, Nexon Games หรือ Yostar รูปภาพและข้อมูลต่างๆ ที่ใช้ในฐานข้อมูลนี้ถือเป็นสมบัติและทรัพย์สินทางปัญญาของผู้ถือครองลิขสิทธิ์ดั้งเดิม",
-                "Tw": "Schale DB 由 lonqie 開發與維護，Blue-Roar、TKRotund 与 Gedanke 提供額外翻譯。\nSchale DB 與 Yostar、Nexon、Nexon Games 沒有關聯。本數據庫中使用的所有游戲作品、信息和素材均爲各自作者的財產和版權。",
-                "Cn": "Schale DB 由 lonqie 开发与维护，Blue-Roar、TKRotund 与 Gedanke 提供额外翻译。\nSchale DB 与 Yostar、Nexon、Nexon Games 没有关联。本数据库中使用的所有游戏作品、信息和素材均为各自作者的财产和版权。"
+                "Th": "Schale พัฒนาและอัปเดทโดย lonqie โดยได้รับความช่วยเหลือในการแปลภาษาเพิ่มเติมจาก Blue-Roar, TKRotund และ Gedanke\nSchale นั้นไม่ได้มีส่วนเกี่ยวข้องใดๆ กับทาง Nexon, Nexon Games หรือ Yostar รูปภาพและข้อมูลต่างๆ ที่ใช้ในฐานข้อมูลนี้ถือเป็นสมบัติและทรัพย์สินทางปัญญาของผู้ถือครองลิขสิทธิ์ดั้งเดิม",
+                "Tw": "Schale 由 lonqie 開發與維護，Blue-Roar、TKRotund 与 Gedanke 提供額外翻譯。\nSchale 與 Yostar、Nexon、Nexon Games 沒有關聯。本數據庫中使用的所有游戲作品、信息和素材均爲各自作者的財產和版權。",
+                "Cn": "Schale 由 lonqie 开发与维护，Blue-Roar、TKRotund 与 Gedanke 提供额外翻译。\nSchale 与 Yostar、Nexon、Nexon Games 没有关联。本数据库中使用的所有游戏作品、信息和素材均为各自作者的财产和版权。"
             },
             "changelog": {
                 "En": "Changelog",
@@ -5289,7 +5273,7 @@
                 "Cn": "平均 DPS"
             },
             "dmginfo_heal_amount": {
-                "En": "Amount Healed",
+                "En": "HP Restored",
                 "Jp": "回復量",
                 "Kr": null,
                 "Th": "ปริมาณ HP ที่รักษา",
