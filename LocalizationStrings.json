@@ -506,7 +506,7 @@
                 "Kr": "이로운 효과 유지력",
                 "Th": "ระยะเวลาบัพ",
                 "Tw": null,
-                "Cn": null
+                "Cn": "增益效果持续力"
             },
             "ExtendDebuffDuration": {
                 "En": "Debuff Duration",
@@ -514,7 +514,7 @@
                 "Kr": "해로운 효과 유지력",
                 "Th": "ระยะเวลาเอฟเฟกต์อันตราย",
                 "Tw": null,
-                "Cn": null
+                "Cn": "削弱状态持续力"
             },
             "ExtendCrowdControlDuration": {
                 "En": "CC Duration",
@@ -1471,7 +1471,7 @@
                 "Kr": "이로운 효과 유지력",
                 "Th": "ระยะเวลาบัพ",
                 "Tw": null,
-                "Cn": null
+                "Cn": "增益效果持续力"
             },
             "Buff_ExtendDebuffDuration": {
                 "En": "Debuff Duration",
@@ -1479,7 +1479,7 @@
                 "Kr": "해로운 효과 유지력",
                 "Th": "ระยะเวลาเอฟเฟกต์อันตราย",
                 "Tw": null,
-                "Cn": null
+                "Cn": "削弱效果持续力"
             },
             "Buff_ExtendCrowdControlDuration": {
                 "En": "CC Duration",
@@ -1986,7 +1986,7 @@
                 "Kr": null,
                 "Th": "พรแห่งค่ำคืนศักดิ์สิทธิ์",
                 "Tw": null,
-                "Cn": null
+                "Cn": "圣夜的祝福"
             }
         },
         "BuffNameLong": {
@@ -2130,7 +2130,7 @@
                 "Kr": "이로운 효과 유지력",
                 "Th": "ระยะเวลาบัฟเพิ่มขึ้น",
                 "Tw": null,
-                "Cn": null
+                "Cn": "增益效果持续力增加"
             },
             "Buff_ExtendDebuffDuration": {
                 "En": "Debuff Duration Up",
@@ -2138,7 +2138,7 @@
                 "Kr": "해로운 효과 유지력",
                 "Th": "ระยะเวลาเอฟเฟกต์อันตรายเพิ่มขึ้น",
                 "Tw": null,
-                "Cn": null
+                "Cn": "削弱状态持续力增加"
             },
             "Buff_ExtendCrowdControlDuration": {
                 "En": "CC Duration Up",
@@ -2146,7 +2146,7 @@
                 "Kr": "군중제어 유지력",
                 "Th": "ระยะเวลาเอฟเฟกต์กดขี่เพิ่มขึ้น",
                 "Tw": null,
-                "Cn": null
+                "Cn": "群控状态持续力增加"
             },
             "Buff_HealByHit_Damaged": {
                 "En": "Heal When Hit",
@@ -2591,7 +2591,7 @@
                 "Kr": null,
                 "Th": "พรแห่งค่ำคืนศักดิ์สิทธิ์",
                 "Tw": null,
-                "Cn": null
+                "Cn": "圣夜的祝福"
             }
         },
         "BuffTooltip": {
@@ -3050,7 +3050,7 @@
                 "Kr": null,
                 "Th": "เพิ่มประสิทธิภาพของสกิล EX บางสกิลที่ส่งผลกับเป้าหมายที่มีเอฟเฟกต์นี้",
                 "Tw": null,
-                "Cn": null
+                "Cn": "提升此角色的特定EX技能的效果。"
             }
         },
         "ServerName": {
@@ -3373,8 +3373,8 @@
                 "Jp": "Schaleまたは<a href=\"https://justin163.com/planner/\">Justin163's resource planner</a>から生徒データをインポートすることができます。 (Resource Planner下部の[Transfer]から[Export]を選択)",
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "數據可以從 Schale 或 <a href=\"https://justin163.com/planner/\">Justin163's resource planner</a> 導入。(選擇傳輸 > 導出)",
+                "Cn": "数据可以从 Schale 或 <a href=\"https://justin163.com/planner/\">Justin163's resource planner</a> 导入。(选择传输 > 导出)"
             },
             "collection_import_warning": {
                 "En": "This will overwrite your current collection",
@@ -3389,16 +3389,16 @@
                 "Jp": "{0}名分の生徒データがあります。",
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "找到了{0}個學生的數據。",
+                "Cn": "找到了{0}个学生的数据。"
             },
             "collection_import_status_invalid": {
                 "En": "Export data is invalid.",
                 "Jp": "データ形式が不正です。",
                 "Kr": null,
                 "Th": null,
-                "Tw": null,
-                "Cn": null
+                "Tw": "導出數據無效。",
+                "Cn": "导出数据无效。"
             },
             "collection_export_placeholder": {
                 "En": "Click export to generate an export string from your collection",
