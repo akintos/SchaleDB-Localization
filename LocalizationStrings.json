@@ -2580,14 +2580,14 @@
             "Special_Stamp": {
                 "En": "Flower Stamps",
                 "Th": "สแตมป์ดอกไม้",
-                "Jp": "「花丸スタンプ」",
+                "Jp": "花丸スタンプ",
                 "Kr": "칭찬 도장",
                 "Tw": null,
                 "Cn": null
             },
             "Special_Holiday": {
                 "En": "Holy Night Blessings",
-                "Jp": "「聖夜の祝福」",
+                "Jp": "聖夜の祝福",
                 "Kr": null,
                 "Th": "พรแห่งค่ำคืนศักดิ์สิทธิ์",
                 "Tw": null,
@@ -3370,7 +3370,7 @@
             },
             "collection_import_help": {
                 "En": "Data can be imported from Schale or <a href=\"https://justin163.com/planner/\">Justin163's resource planner</a>. (Select Transfer > Export)",
-                "Jp": null,
+                "Jp": "Schaleまたは<a href=\"https://justin163.com/planner/\">Justin163's resource planner</a>から生徒データをインポートすることができます。 (Resource Planner下部の[Transfer]から[Export]を選択)",
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
@@ -3378,7 +3378,7 @@
             },
             "collection_import_warning": {
                 "En": "This will overwrite your current collection",
-                "Jp": "現在の生徒データを上書きします",
+                "Jp": "現在の生徒データが上書きされます",
                 "Kr": null,
                 "Th": "นี่จะเป็นการแทนที่คอลเลคชั่นของคุณในปัจจุบัน",
                 "Tw": "這會覆蓋你的當前集合",
@@ -3386,7 +3386,7 @@
             },
             "collection_import_status_valid": {
                 "En": "Export data for {0} students found.",
-                "Jp": null,
+                "Jp": "{0}名分の生徒データがあります。",
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
@@ -3394,7 +3394,7 @@
             },
             "collection_import_status_invalid": {
                 "En": "Export data is invalid.",
-                "Jp": null,
+                "Jp": "データ形式が不正です。",
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
@@ -3402,7 +3402,7 @@
             },
             "collection_export_placeholder": {
                 "En": "Click export to generate an export string from your collection",
-                "Jp": "エクスポートをクリックして生徒データからエクスポート用文字列を生成",
+                "Jp": "エクスポートをクリックすると生徒データからエクスポート用文字列が生成されます",
                 "Kr": null,
                 "Th": "กดส่งออกเพื่อสร้างรหัสส่งออกจากคอลเลคชั่นของคุณ",
                 "Tw": "點擊導出以生成集合的導出字符串",
@@ -3410,7 +3410,7 @@
             },
             "collection_import_placeholder": {
                 "En": "Paste export string here and click Import",
-                "Jp": "ここにエクスポート用文字列を張り付けてインポートをクリック",
+                "Jp": "ここにエクスポート用文字列を張り付けてインポートをクリックしてください",
                 "Kr": null,
                 "Th": "วางรหัสส่งออกที่นี่แล้วกดนำเข้า",
                 "Tw": "將導出字符串粘貼與此処並點擊導入",
@@ -3490,7 +3490,7 @@
             },
             "student_birthdays": {
                 "En": "The following students are celebrating their birthday in the next 7 days!",
-                "Jp": "1週間のうちに誕生日を迎える生徒さんたちです！",
+                "Jp": "これから1週間の間に誕生日を迎える生徒さんたちです！",
                 "Kr": null,
                 "Th": "นักเรียนที่มีวันเกิดอยู่ในสัปดาห์นี้!",
                 "Tw": "以下學生在本周迎來生日。",
@@ -4122,7 +4122,7 @@
             },
             "terrain_adaption_details": {
                 "En": "Deals <b>{0}&times;</b> damage in <b>{1}</b> terrain.\nBlock rate when taking cover is increased by <b>{2}%</b>. Enemy block rate reduced by <b>{2}%</b> when attacking.",
-                "Jp": "{1}では<b>{0}倍</b>のダメージを与える。\n遮蔽物使用時に遮蔽ブロック率を<b>{2}%増加する</b>。\n遮蔽貫通率を<b>{2}%増加する。</b>。",
+                "Jp": "{1}では<b>{0}倍</b>のダメージを与える。\n遮蔽物使用時に遮蔽ブロック率を<b>{2}%増加する</b>。\n遮蔽貫通率を<b>{2}%増加する</b>。",
                 "Kr": null,
                 "Th": "สร้างความเสียหาย <b>&times;{0}</b> ในพื้นที่<b>{1}</b>\nอัตรากำบังสำเร็จเมื่ออยู่ในกำบังเพิ่มขึ้น <b>{2}%</b>\nอัตรากำบังสำเร็จของศัตรูลดลงเมื่อโจมตี <b>{2}%</b>",
                 "Tw": "在<b>{1}</b>地形造成<b>{0}倍</b>傷害。\n尋找掩體時掩護成功率<b>+{2}%</b>。\n攻擊時繞過掩體概率<b>增加{2}%</b>。",
@@ -4898,7 +4898,7 @@
             },
             "toast_import_success": {
                 "En": "Successfully imported collection data for {0} students",
-                "Jp": "生徒データのインポートに成功しました",
+                "Jp": "{0}名分の生徒データのインポートに成功しました",
                 "Kr": null,
                 "Th": "นำเข้าข้อมูลนักเรียนในคอลเลคชั่นสำเร็จ",
                 "Tw": "導入學生集成功",
@@ -5002,7 +5002,7 @@
             },
             "home_introduction": {
                 "En": "Schale is an unofficial database and calculation tool for the mobile game <i class=\"text-bold\">Blue Archive</i> developed by Nexon Games and published by Yostar (Japan) and Nexon (Global) for iOS and Android.",
-                "Jp": "Schaleは、Nexson Gamesが開発しYostar（日本版）およびNexson（グローバル版）が運営するスマートフォン向けゲーム<i class=\"text-bold\">『ブルーアーカイブ』</i>の非公式データベースです。",
+                "Jp": "Schaleは、Nexson Gamesが開発しYostar（日本版）およびNexson（グローバル版）が運営するスマートフォン向けゲーム『ブルーアーカイブ』の非公式データベースです。",
                 "Kr": null,
                 "Th": "Schale เป็นศูนย์รวมข้อมูลอย่างไม่เป็นทางการของเกมมือถือ <i class=\"text-bold\">Blue Archive</i> ที่พัฒนาโดยทาง Nexon Games และได้รับการเผยแพร่โดย Yostar (เซิร์ฟเวอร์ญี่ปุ่น) และ Nexon (เซิร์ฟเวอร์โกลบอล) ทั้งในระบบ iOS และ Android",
                 "Tw": "Schale 是 Nexon Games 開發，日服由 Yostar、國際服由 Nexon 運營的手游<i class=\"text-bold\">蔚藍檔案</i>的非官方數據庫。",
@@ -5034,7 +5034,7 @@
             },
             "home_features_list": {
                 "En": "<li>Full information on all students and their skills, summons and vehicles.</li><li>Calculation feature that can display a student's stats under any configuration of level, equipment and buffs, and calculate skill damage and healing against a configurable target enemy.</li><li>Complete Items, Equipment and Furniture database.</li><li>Reward drops, maps and detailed enemy information for all Campaign, Event Quest, Challenge and Daily stages.</li><li>Stats and Skill information for Total Assault bosses and Joint Firing Drill events.</li><li>View the chances of possible items received from crafting nodes.</li>",
-                "Jp": "<li>すべての生徒とスキルに関する召喚物や搭乗物も含めた詳細な情報。</li><li>星、レベル、装備、スキルバフのあらゆる組み合わせに対応した網羅的なステータス計算。</li><li>アイテム、装備、家具に関する完全なデータベース。</li><li>すべての任務、イベントクエスト、チャレンジ、デイリーステージに関する獲得報酬、マップ、敵の詳細な情報。</li><li>総力戦ボスと合同火力演習に関するステータスとスキルの情報</li><li>各製造ノードから入手可能なアイテムの入手確率。</li>",
+                "Jp": "<li>すべての生徒とそのスキル、召喚物、および搭乗物に関する詳細な情報。</li><li>レベル、装備、バフのあらゆる組み合わせに対応した網羅的なステータス計算機能および様々な敵設定に対応したスキルダメージ量と回復量の計算機能。</li><li>アイテム、装備、家具に関する完全なデータベース。</li><li>すべての任務、イベントクエスト、チャレンジ、デイリーステージに関する獲得報酬、マップ、敵の詳細な情報。</li><li>総力戦ボスと合同火力演習に関するステータスとスキルの情報</li><li>各製造ノードから入手可能なアイテムの入手確率。</li>",
                 "Kr": null,
                 "Th": "<li>ข้อมูลของนักเรียนและสกิลทุกคน รวมไปถึงยานพาหนะ, วัตถุอัญเชิญและวัตถุกำบังอย่างครบถ้วน</li><li>หน้าต่างคำนวนค่าสถานะต่างๆ ของนักเรียนภายใต้เงื่อนไขทุกรูปแบบไม่ว่าจะเป็นจำนวนดาว, เลเวล, อุปกรณ์สวมใส่หรือบัพจากสกิลต่างๆ</li><li>ลิสของไอเทม, อุปกรณ์สวมใส่และเฟอร์นิเจอร์อย่างครบถ้วน</li><li>รางวัลที่ได้รับ, แผนที่และข้อมูลของศัตรูแบบละเอียดสำหรับทุกภารกิจหลัก, เควสอีเวนท์, ชาเลนจ์และด่านเควสรายวัน</li><li>ค่าสถานะและข้อมูลสกิลสำหรับอีเวนท์เรดบอสและการสอบประมวลผล</li><li>ดูตารางและอัตราการได้รับไอเทมต่างๆ จากการคราฟไอเทม</li>",
                 "Tw": "<li>有關全體學生和技能，包含召喚單位與載具單位的完整信息。</li><li>全面的數據計算，可以顯示學生在任何星級、等級、裝備和技能的增益效果下的面板數據。</li><li>完整的物品、裝備和傢俱數據庫。</li><li>所有關卡的獎勵掉落、地圖和詳細的敵人信息。</li><li>總力戰BOSS與綜合戰術考試的數據與技能信息。</li><li>查看從合成節點可能獲取物品的幾率。</li>",
@@ -5290,7 +5290,7 @@
             },
             "dmginfo_cc_effect_chance": {
                 "En": "{0} Chance",
-                "Jp": "{0} 確率",
+                "Jp": "{0} 付与確率",
                 "Kr": null,
                 "Th": "โอกาสในการ {0}",
                 "Tw": null,
