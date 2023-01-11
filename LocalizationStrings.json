@@ -1313,6 +1313,14 @@
             }
         },
         "BuffName": {
+            "Buff_AidAttitude": {
+                "En": "First Aid Ready",
+                "Jp": "「救護の心構え」",
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
             "Buff_AmmoCount": {
                 "En": "Mag Count",
                 "Jp": "装弾数",
@@ -1990,6 +1998,14 @@
             }
         },
         "BuffNameLong": {
+            "Buff_AidAttitude": {
+                "En": "First Aid Ready",
+                "Jp": "「救護の心構え」",
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null
+            },
             "Buff_AmmoCount": {
                 "En": "Mag Count Up",
                 "Jp": "装弾数増加",
@@ -2595,6 +2611,14 @@
             }
         },
         "BuffTooltip": {
+            "Buff_AidAttitude": {
+                "En": "Continuously restores HP at set intervals.",
+                "Jp": "一定間隔でHPを持続的に回復する。",
+                "Kr": null,
+                "Th": "ฟื้นฟู HP ช้าๆ เป็นเวลาต่อเนื่อง",
+                "Tw": null,
+                "Cn": "以一定时间间隔持续回复生命值"
+            },
             "Buff_AmmoCount": {
                 "En": "Increases the maximum amount of weapon ammunition used by Normal Attacks.",
                 "Jp": "通常攻撃に使用する武器の最大装弾数を増加する。",

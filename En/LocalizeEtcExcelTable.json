@@ -697,6 +697,10 @@
             "NameEn": "Junko (New Year)"
         },
         {
+            "Key": 4088907733,
+            "NameEn": "Mine"
+        },
+        {
             "Key": 1311123432,
             "NameEn": "Light Sweeper",
             "DescriptionEn": ""
@@ -1038,6 +1042,18 @@
             "Force": true,
             "NameEn": "Decreased SR/MG Ally Attack",
             "DescriptionEn": "Decreases the <d:ATK> of all allies who use SR or MG type weapons by 90%."
+        },
+        {
+            "Key": 3153525398,
+            "Force": true,
+            "NameEn": "Scarecrow State Change",
+            "DescriptionEn": "Every 20s, the Scarecrow will alternate between two states.\n<b><d:HealedLimit> State</b>: The Scarecrow's HP will not recover and will instead deal 10,000 damage to all allies when healed.\n<b>Normal State</b>: The Scarecrow's HP will recover as normal when healed."
+        },
+        {
+            "Key": 3902330525,
+            "Force": true,
+            "NameEn": "Enemies Create Burning Zone on Defeat",
+            "DescriptionEn": "When an enemy is defeated, they create a circular zone that continuously deals <b>100%</b> damage to allies inside it every 1s for 20s."
         }
     ]
 }
