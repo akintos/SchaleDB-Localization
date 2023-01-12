@@ -4,42 +4,48 @@
         "NameEn": "Hod",
         "NameTh": "Hod",
         "NameTw": "霍德",
-        "NameCn": "霍德"
+        "NameCn": "霍德",
+        "NameVi": "Hod"
     },
     {
         "Id": 7306200,
         "NameEn": "Hod",
         "NameTh": "Hod",
         "NameTw": "霍德",
-        "NameCn": "霍德"
+        "NameCn": "霍德",
+        "NameVi": "Hod"
     },
     {
         "Id": 7306300,
         "NameEn": "Hod",
         "NameTh": "Hod",
         "NameTw": "霍德",
-        "NameCn": "霍德"
+        "NameCn": "霍德",
+        "NameVi": "Hod"
     },
     {
         "Id": 7306400,
         "NameEn": "Hod",
         "NameTh": "Hod",
         "NameTw": "霍德",
-        "NameCn": "霍德"
+        "NameCn": "霍德",
+        "NameVi": "Hod"
     },
     {
         "Id": 7306500,
         "NameEn": "Hod",
         "NameTh": "Hod",
         "NameTw": "霍德",
-        "NameCn": "霍德"
+        "NameCn": "霍德",
+        "NameVi": "Hod"
     },
     {
         "Id": 7306600,
         "NameEn": "Hod",
         "NameTh": "Hod",
         "NameTw": "霍德",
-        "NameCn": "霍德"
+        "NameCn": "霍德",
+        "NameVi": "Hod"
     },
     {
         "Id": 7305101,
@@ -48,7 +54,8 @@
         "NameJp": "ペロロミニオン",
         "NameKr": "페로로 미니언",
         "NameTw": "佩洛洛士兵",
-        "NameCn": "佩洛洛士兵"
+        "NameCn": "佩洛洛士兵",
+        "NameVi": "Lính Peroro"
     },
     {
         "Id": 7305190,
@@ -57,7 +64,8 @@
         "NameJp": "小型のペロロミニオン",
         "NameKr": "소형 페로로 미니언",
         "NameTw": "小型佩洛洛士兵",
-        "NameCn": "小型佩洛洛士兵"
+        "NameCn": "小型佩洛洛士兵",
+        "NameVi": "Lính Peroro nhỏ"
     },
     {
         "Id": 7305601,
@@ -66,7 +74,8 @@
         "NameJp": "ペロロミニオン",
         "NameKr": "페로로 미니언",
         "NameTw": "佩洛洛士兵",
-        "NameCn": "佩洛洛士兵"
+        "NameCn": "佩洛洛士兵",
+        "NameVi": "Lính Peroro"
     },
     {
         "Id": 7305690,
@@ -84,7 +93,8 @@
         "NameJp": "インベイドピラー",
         "NameKr": "침식 타워",
         "NameTw": "入侵者之柱",
-        "NameCn": "入侵者之柱"
+        "NameCn": "入侵者之柱",
+        "NameVi": "Tháp truyền tải"
     },
     {
         "Id": 7306102,
@@ -102,7 +112,8 @@
         "NameJp": "インベイドピラー",
         "NameKr": "침식 타워",
         "NameTw": "入侵者之柱",
-        "NameCn": "入侵者之柱"
+        "NameCn": "入侵者之柱",
+        "NameVi": "Tháp truyền tải"
     },
     {
         "Id": 7306202,
@@ -120,7 +131,8 @@
         "NameJp": "インベイドピラー",
         "NameKr": "침식 타워",
         "NameTw": "入侵者之柱",
-        "NameCn": "入侵者之柱"
+        "NameCn": "入侵者之柱",
+        "NameVi": "Tháp truyền tải"
     },
     {
         "Id": 7306302,
@@ -138,7 +150,8 @@
         "NameJp": "インベイドピラー",
         "NameKr": "침식 타워",
         "NameTw": "入侵者之柱",
-        "NameCn": "入侵者之柱"
+        "NameCn": "入侵者之柱",
+        "NameVi": "Tháp truyền tải"
     },
     {
         "Id": 7306402,
@@ -156,7 +169,8 @@
         "NameJp": "インベイドピラー",
         "NameKr": "침식 타워",
         "NameTw": "入侵者之柱",
-        "NameCn": "入侵者之柱"
+        "NameCn": "入侵者之柱",
+        "NameVi": "Tháp truyền tải"
     },
     {
         "Id": 7306502,
@@ -174,7 +188,8 @@
         "NameJp": "インベイドピラー",
         "NameKr": "침식 타워",
         "NameTw": "入侵者之柱",
-        "NameCn": "入侵者之柱"
+        "NameCn": "入侵者之柱",
+        "NameVi": "Tháp truyền tải"
     },
     {
         "Id": 7306602,
@@ -193,6 +208,7 @@
         "NameKr": "허수아비",
         "NameTw": "稻草人",
         "NameCn": "稻草人（第一波）",
+        "NameVi": "Bù nhìn (Đợt 1)",
         "Icon": "EnemyInfo_Totem03_TimeAttack"
     },
     {
@@ -203,6 +219,7 @@
         "NameKr": "허수아비",
         "NameTw": "稻草人",
         "NameCn": "稻草人（第二波）",
+        "NameVi": "Bù nhìn (Đợt 2)",
         "Icon": "EnemyInfo_Totem03_TimeAttack"
     },
     {
@@ -213,6 +230,7 @@
         "NameKr": "허수아비",
         "NameTw": "稻草人",
         "NameCn": "稻草人（第三波）",
+        "NameVi": "Bù nhìn (Đợt 3)",
         "Icon": "EnemyInfo_Totem03_TimeAttack"
     },
     {
@@ -221,6 +239,7 @@
         "NameTh": "มิสไซล์หลอดแก้ว",
         "NameJp": "アンプルミサイル",
         "NameCn": "安瓿导弹",
+        "NameVi": "Tên lửa tiêm kích",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
@@ -229,6 +248,7 @@
         "NameTh": "ชาร์ค มิสไซล์",
         "NameJp": "シャークミサイル",
         "NameCn": "鲨鱼导弹",
+        "NameVi": "Tên lửa cá mập",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
@@ -246,6 +266,7 @@
         "NameTh": "มิสไซล์ดำ",
         "NameJp": "ブラックミサイル",
         "NameCn": "安瓿导弹",
+        "NameVi": "Tên lửa đen",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
@@ -255,6 +276,7 @@
         "NameJp": "ヘルメット団お手製ミサイル",
         "NameTw": "鋼盔團的自製飛彈",
         "NameCn": "钢盔团的自制导弹",
+        "NameVi": "Tên lửa tự chế của Băng đảng mũ BH",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
@@ -264,6 +286,7 @@
         "NameJp": "再建中のリゾート",
         "NameTw": "重建中的度假村",
         "NameCn": "重建中的度假村",
+        "NameVi": "Khu nghỉ mát",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
@@ -272,6 +295,7 @@
         "NameTh": "มิสไซล์หลอดแก้ว",
         "NameJp": "アンプルミサイル",
         "NameCn": "安瓿导弹",
+        "NameVi": "Tên lửa tiêm kích",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
@@ -280,6 +304,7 @@
         "NameTh": "ชาร์ค มิสไซล์",
         "NameJp": "シャークミサイル",
         "NameCn": "鲨鱼导弹",
+        "NameVi": "Tên lửa cá mập",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
@@ -297,6 +322,7 @@
         "NameTh": "มิสไซล์ดำ",
         "NameJp": "ブラックミサイル",
         "NameCn": "黑色导弹",
+        "NameVi": "Tên lửa đen",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
@@ -306,6 +332,7 @@
         "NameJp": "ヘルメット団お手製ミサイル",
         "NameTw": "鋼盔團的自製飛彈",
         "NameCn": "钢盔团的自制导弹",
+        "NameVi": "Tên lửa tự chế của Băng đảng mũ BH",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
@@ -315,6 +342,7 @@
         "NameJp": "再建中のリゾート",
         "NameTw": "重建中的度假村",
         "NameCn": "重建中的度假村",
+        "NameVi": "Khu nghỉ mát",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
@@ -323,6 +351,7 @@
         "NameTh": "มิสไซล์หลอดแก้ว",
         "NameJp": "アンプルミサイル",
         "NameCn": "安瓿导弹",
+        "NameVi": "Tên lửa tiêm kích",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
@@ -331,6 +360,7 @@
         "NameTh": "ชาร์ค มิสไซล์",
         "NameJp": "シャークミサイル",
         "NameCn": "鲨鱼导弹",
+        "NameVi": "Tên lửa cá mập",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
@@ -348,6 +378,7 @@
         "NameTh": "มิสไซล์ดำ",
         "NameJp": "ブラックミサイル",
         "NameCn": "黑色导弹",
+        "NameVi": "Tên lửa đen",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
@@ -357,6 +388,7 @@
         "NameJp": "ヘルメット団お手製ミサイル",
         "NameTw": "鋼盔團的自製飛彈",
         "NameCn": "钢盔团的自制导弹",
+        "NameVi": "Tên lửa tự chế của Băng đảng mũ BH",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
@@ -366,6 +398,7 @@
         "NameJp": "再建中のリゾート",
         "NameTw": "重建中的度假村",
         "NameCn": "重建中的度假村",
+        "NameVi": "Khu nghỉ mát",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
@@ -374,7 +407,8 @@
         "NameJp": "緑色の聖遺物",
         "NameTw": "綠色聖遺物",
         "NameCn": "绿色圣遗物",
-        "NameTh": "เรลิกเขียว"
+        "NameTh": "เรลิกเขียว",
+        "NameVi": "Thánh vật màu xanh"
     },
     {
         "Id": 7303901,
@@ -382,7 +416,8 @@
         "NameJp": "緑色の聖遺物",
         "NameTw": "綠色聖遺物",
         "NameCn": "绿色圣遗物",
-        "NameTh": "เรลิกเขียว"
+        "NameTh": "เรลิกเขียว",
+        "NameVi": "Thánh vật màu xanh"
     },
     {
         "Id": 7303902,
@@ -390,7 +425,8 @@
         "NameJp": "緑色の聖遺物",
         "NameTw": "綠色聖遺物",
         "NameCn": "绿色圣遗物",
-        "NameTh": "เรลิกเขียว"
+        "NameTh": "เรลิกเขียว",
+        "NameVi": "Thánh vật màu xanh"
     },
     {
         "Id": 7303903,
@@ -398,7 +434,8 @@
         "NameJp": "緑色の聖遺物",
         "NameTw": "綠色聖遺物",
         "NameCn": "绿色圣遗物",
-        "NameTh": "เรลิกเขียว"
+        "NameTh": "เรลิกเขียว",
+        "NameVi": "Thánh vật màu xanh"
     },
     {
         "Id": 7303904,
@@ -406,7 +443,8 @@
         "NameJp": "緑色の聖遺物",
         "NameTw": "綠色聖遺物",
         "NameCn": "绿色圣遗物",
-        "NameTh": "เรลิกเขียว"
+        "NameTh": "เรลิกเขียว",
+        "NameVi": "Thánh vật màu xanh"
     },
     {
         "Id": 7303905,
@@ -414,7 +452,8 @@
         "NameJp": "緑色の聖遺物",
         "NameTw": "綠色聖遺物",
         "NameCn": "绿色圣遗物",
-        "NameTh": "เรลิกเขียว"
+        "NameTh": "เรลิกเขียว",
+        "NameVi": "Thánh vật màu xanh"
     },
     {
         "Id": 7303910,
@@ -422,7 +461,8 @@
         "NameJp": "赤色の聖遺物",
         "NameTw": "紅色聖遺物",
         "NameCn": "红色圣遗物",
-        "NameTh": "เรลิกแดง"
+        "NameTh": "เรลิกแดง",
+        "NameVi": "Thánh vật màu đỏ"
     },
     {
         "Id": 7303911,
@@ -430,7 +470,8 @@
         "NameJp": "赤色の聖遺物",
         "NameTw": "紅色聖遺物",
         "NameCn": "红色圣遗物",
-        "NameTh": "เรลิกแดง"
+        "NameTh": "เรลิกแดง",
+        "NameVi": "Thánh vật màu đỏ"
     },
     {
         "Id": 7303912,
@@ -438,7 +479,8 @@
         "NameJp": "赤色の聖遺物",
         "NameTw": "紅色聖遺物",
         "NameCn": "红色圣遗物",
-        "NameTh": "เรลิกแดง"
+        "NameTh": "เรลิกแดง",
+        "NameVi": "Thánh vật màu đỏ"
     },
     {
         "Id": 7303913,
@@ -446,7 +488,8 @@
         "NameJp": "赤色の聖遺物",
         "NameTw": "紅色聖遺物",
         "NameCn": "红色圣遗物",
-        "NameTh": "เรลิกแดง"
+        "NameTh": "เรลิกแดง",
+        "NameVi": "Thánh vật màu đỏ"
     },
     {
         "Id": 7303914,
@@ -454,7 +497,8 @@
         "NameJp": "赤色の聖遺物",
         "NameTw": "紅色聖遺物",
         "NameCn": "红色圣遗物",
-        "NameTh": "เรลิกแดง"
+        "NameTh": "เรลิกแดง",
+        "NameVi": "Thánh vật màu đỏ"
     },
     {
         "Id": 7303915,
@@ -470,7 +514,8 @@
         "NameJp": "紫色の聖遺物",
         "NameTw": "紫色聖遺物",
         "NameCn": "紫色圣遗物",
-        "NameTh": "เรลิกม่วง"
+        "NameTh": "เรลิกม่วง",
+        "NameVi": "Thánh vật màu tím"
     },
     {
         "Id": 7308101,
@@ -478,7 +523,8 @@
         "NameCn": "戈兹 (分身)",
         "NameTh": "Goz (ร่างแยก)",
         "NameJp": "ゴズ（分身）",
-        "NameKr": "고즈 (분신)"
+        "NameKr": "고즈 (분신)",
+        "NameVi": "Goz (Bản sao)"
     },
     {
         "Id": 7308201,
@@ -486,7 +532,8 @@
         "NameCn": "戈兹 (分身)",
         "NameTh": "Goz (ร่างแยก)",
         "NameJp": "ゴズ（分身）",
-        "NameKr": "고즈 (분신)"
+        "NameKr": "고즈 (분신)",
+        "NameVi": "Goz (Bản sao)"
     },
     {
         "Id": 7308301,
@@ -494,7 +541,8 @@
         "NameCn": "戈兹 (分身)",
         "NameTh": "Goz (ร่างแยก)",
         "NameJp": "ゴズ（分身）",
-        "NameKr": "고즈 (분신)"
+        "NameKr": "고즈 (분신)",
+        "NameVi": "Goz (Bản sao)"
     },
     {
         "Id": 7308401,
@@ -502,7 +550,8 @@
         "NameCn": "戈兹 (分身)",
         "NameTh": "Goz (ร่างแยก)",
         "NameJp": "ゴズ（分身）",
-        "NameKr": "고즈 (분신)"
+        "NameKr": "고즈 (분신)",
+        "NameVi": "Goz (Bản sao)"
     },
     {
         "Id": 7308501,
@@ -510,7 +559,8 @@
         "NameCn": "戈兹 (分身)",
         "NameTh": "Goz (ร่างแยก)",
         "NameJp": "ゴズ（分身）",
-        "NameKr": "고즈 (분신)"
+        "NameKr": "고즈 (분신)",
+        "NameVi": "Goz (Bản sao)"
     },
     {
         "Id": 7308601,
@@ -518,7 +568,8 @@
         "NameCn": "戈兹 (分身)",
         "NameTh": "Goz (ร่างแยก)",
         "NameJp": "ゴズ（分身）",
-        "NameKr": "고즈 (분신)"
+        "NameKr": "고즈 (분신)",
+        "NameVi": "Goz (Bản sao)"
     },
     {
         "Id": 7308103,

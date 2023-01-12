@@ -8,7 +8,9 @@
             "DescriptionTh": "สร้างความเสียหาย 120% ของค่าโจมตีให้กับศัตรูในแนวเส้นตรง",
             "DescriptionTw": "對直線範圍內的敵人造成攻擊力120%傷害",
             "NameCn": "亚齐鲁特之光",
-            "DescriptionCn": "对直线范围内的敌人造成攻击力120%伤害"
+            "DescriptionCn": "对直线范围内的敌人造成攻击力120%伤害",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "BinahExSkill02",
@@ -28,7 +30,9 @@
             "DescriptionTh": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรู 4 เป้าหมาย",
             "DescriptionTw": "對4名敵人造成攻擊力<?1>傷害",
             "NameCn": "正义之焰",
-            "DescriptionCn": "对4名敌人造成攻击力<?1>伤害"
+            "DescriptionCn": "对4名敌人造成攻击力<?1>伤害",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "BinahExSkill03",
@@ -38,7 +42,9 @@
             "DescriptionTh": "สร้างความเสียหาย 300% ของค่าโจมตีให้กับศัตรูทั้งหมด/\nลด<d:DEF> 50% (เป็นเวลา 30 วินาที)",
             "DescriptionTw": "對所有敵人造成攻擊力300%傷害/\n減少<d:DEF>50% (30秒內)",
             "NameCn": "净化风暴",
-            "DescriptionCn": "对所有敌人造成攻击力300%伤害/\n减少<d:DEF>50% (30秒内)"
+            "DescriptionCn": "对所有敌人造成攻击力300%伤害/\n减少<d:DEF>50% (30秒内)",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "BinahInsanePassive01",
@@ -50,7 +56,9 @@
             "DescriptionTh": "ลด<d:HIT> 20% และ<d:Stability> 50% เอฟเฟคนี้ไม่สามารถถูกลบล้างได้",
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "ChesedExSkill01",
@@ -87,10 +95,12 @@
                     "",
                     "เมื่อทหารจักรกลถูกทำลายจะเรียกหุ่นดูดฝุ่นออกมา"
                 ]
-            ],    
+            ],
             "DescriptionTw": "召喚機械士兵。\n在士兵被召喚出的期間內，ATG會慢慢上升。",
             "NameCn": "我听到王座的呼唤",
-            "DescriptionCn": "召唤机械士兵。\n在士兵被召唤出的期间内，ATG会慢慢上升。"
+            "DescriptionCn": "召唤机械士兵。\n在士兵被召唤出的期间内，ATG会慢慢上升。",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "ChesedExSkill02",
@@ -100,7 +110,9 @@
             "DescriptionTh": "เมื่อเชเซ็ดมี ATG เกินครึ่งจะเพิ่ม<b:AttackSpeed>และ<b:MoveSpeed>ให้แก่ทหารจักรกล 50% (เป็นเวลา 60 วินาที)",
             "DescriptionTw": "當ATG上升到一半以上時，我軍<b:AttackSpeed>、<b:MoveSpeed>增加50%(60秒內)",
             "NameCn": "亲眼目睹至高的权能",
-            "DescriptionCn": "当ATG上升到一半以上时，我军<b:AttackSpeed>、<b:MoveSpeed>增加50%(60秒内)"
+            "DescriptionCn": "当ATG上升到一半以上时，我军<b:AttackSpeed>、<b:MoveSpeed>增加50%(60秒内)",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "ChesedExSkill03",
@@ -110,7 +122,9 @@
             "DescriptionTh": "เมื่อเชเซ็ดมี ATG เต็มจะสร้างความเสียหาย 2000% ของค่าโจมตีให้กับศัตรูทั้งหมด",
             "DescriptionTw": "當ATG全滿時，對所有敵人造成攻擊力2000%傷害",
             "NameCn": "王者大发慈悲",
-            "DescriptionCn": "当ATG全满时，对所有敌人造成攻击力2000%伤害"
+            "DescriptionCn": "当ATG全满时，对所有敌人造成攻击力2000%伤害",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "ChesedPassive01",
@@ -120,7 +134,9 @@
             "DescriptionTh": "เชเซ็ดจะต้านทานเอฟเฟกต์เพิ่ม<d:DamagedRatio>\nเพิ่ม<d:DamagedRatio>เมื่อเชเซ็ดอยู่ในสถานะมึนงงขึ้น 900% (เป็นเวลา 20 วินาที)",
             "DescriptionTw": "免疫遭受傷害量增加效果\n在無力狀態維持期間內<d:DamagedRatio>增加900%",
             "NameCn": "曝光的王座",
-            "DescriptionCn": "免疫遭受伤害量增加效果\n在无力状态维持期间内<d:DamagedRatio>增加900%"
+            "DescriptionCn": "免疫遭受伤害量增加效果\n在无力状态维持期间内<d:DamagedRatio>增加900%",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "ShiroEx01",
@@ -200,10 +216,12 @@
                     "",
                     "\nเมื่อถูกระเบิดน้ำแข็งโจมตี จะลด<d:MoveSpeed> 80% (เป็นเวลา 40 วินาที)"
                 ]
-            ],   
+            ],
             "DescriptionTw": "對敵人造成攻擊力<?1>傷害\nATG越高造成的傷害越猛烈。",
             "NameCn": "哐哐哐哐哐哐哐！(白)",
-            "DescriptionCn": "对敌人造成攻击力<?1>伤害\nATG越高造成的伤害越猛烈。"
+            "DescriptionCn": "对敌人造成攻击力<?1>伤害\nATG越高造成的伤害越猛烈。",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "ShiroEx04",
@@ -298,10 +316,12 @@
                     "1,500,000 หน่วย",
                     "4,000,000 หน่วย"
                 ]
-            ],    
+            ],
             "DescriptionTw": "召喚可造成攻擊力<?1>傷害的炸彈。\n對掩蔽物造成攻擊力300%傷害後，如果掩蔽物沒被破壞會往反方向濺出。",
             "NameCn": "滚动吧！！(白)",
-            "DescriptionCn": "召唤可造成攻击力<?1>伤害的炸弹。\n对掩蔽物造成攻击力300%伤害后，如果掩蔽物没被破坏会往反方向溅出。"
+            "DescriptionCn": "召唤可造成攻击力<?1>伤害的炸弹。\n对掩蔽物造成攻击力300%伤害后，如果掩蔽物没被破坏会往反方向溅出。",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "KuroEx01",
@@ -396,10 +416,12 @@
                     "1,500,000 หน่วย",
                     "4,000,000 หน่วย"
                 ]
-            ],    
+            ],
             "DescriptionTw": "對敵人造成攻擊力<?1>傷害\nATG越高造成的傷害越猛烈。",
             "NameCn": "突击-！！！(黑)",
-            "DescriptionCn": "对敌人造成攻击力<?1>伤害\nATG越高造成的伤害越猛烈。"
+            "DescriptionCn": "对敌人造成攻击力<?1>伤害\nATG越高造成的伤害越猛烈。",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "KuroInasneEx10",
@@ -411,7 +433,9 @@
             "DescriptionTh": "สร้างความเสียหาย 100% ของค่าโจมตีให้กับศัตรู\nลด<d:MoveSpeed> 80% (เป็นเวลา 40 วินาที)",
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "ShiroKuroPassive01",
@@ -423,7 +447,9 @@
             "DescriptionTh": "ลด<d:HealEffectiveness>ของศัตรูทั้งหมด 80% เอฟเฟคนี้ไม่สามารถถูกลบล้างได้",
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "HieronymusEx01",
@@ -433,7 +459,9 @@
             "DescriptionTh": "สร้างความเสียหาย 350% ของค่าโจมตีให้กับศัตรูในรัศมี\nHP% ของเป้าหมายยิ่งต่ำ ความเสียหายยิ่งเพิ่มขึ้น สูงสุด 50%",
             "DescriptionTw": "對圓形範圍內敵人造成攻擊力350%的傷害\n對象的體力%越低，傷害最多增加50%",
             "NameCn": "达玛苏的呼唤",
-            "DescriptionCn": "对圆形范围内敌人造成攻击力350%的伤害\n对象的体力%越低，伤害最多增加50%"
+            "DescriptionCn": "对圆形范围内敌人造成攻击力350%的伤害\n对象的体力%越低，伤害最多增加50%",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "HieronymusEx02",
@@ -480,10 +508,12 @@
                     "",
                     "\nเพิ่ม<b:HealEffectiveness> <b>3,000</b> ให้กับศัตรูที่ถูกสาป (เป็นเวลา 10 วินาที)"
                 ]
-            ],   
+            ],
             "DescriptionTw": "賦予1名敵人<d:Hieronymus>，\n<d:Hieronymus>會造成攻擊力20%的持續傷害，10秒後爆炸， \n對圓形範圍內的敵人造成攻擊力325%的傷害後消失不見。\n受<d:Hieronymus>對象的體力為100%時，<d:Hieronymus>會立即消失。",
             "NameCn": "圣经武加大译本",
-            "DescriptionCn": "赋予1名敌人<d:Hieronymus>，\n<d:Hieronymus>会造成攻击力20%的持续伤害，10秒后爆炸， \n对圆形范围内的敌人造成攻击力325%的伤害后消失不见。\n受<d:Hieronymus>对象的体力为100%时，<d:Hieronymus>会立即消失。"
+            "DescriptionCn": "赋予1名敌人<d:Hieronymus>，\n<d:Hieronymus>会造成攻击力20%的持续伤害，10秒后爆炸， \n对圆形范围内的敌人造成攻击力325%的伤害后消失不见。\n受<d:Hieronymus>对象的体力为100%时，<d:Hieronymus>会立即消失。",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "HieronymusEx03",
@@ -493,7 +523,9 @@
             "DescriptionTh": "สร้างความเสียหาย 90% ของค่าโจมตีให้กับศัตรูในรัศมี",
             "DescriptionTw": "對圓形範圍內的敵人造成攻擊力90%傷害",
             "NameCn": "使者的救赎",
-            "DescriptionCn": "对圆形范围内的敌人造成攻击力90%伤害"
+            "DescriptionCn": "对圆形范围内的敌人造成攻击力90%伤害",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "HieronymusEx04",
@@ -572,10 +604,12 @@
                     "\nหาก ATG เต็มจะสร้างความเสียหาย 1000% ของค่า HP สูงสุดให้กับศัตรูทั้งหมด",
                     "\nหาก ATG เต็ม ศัตรูเป้าหมายทั้งหมดจะ<s:Immortal> (เป็นเวลา 10 วินาที)\nสร้างความเสียหาย 1000% ของค่า HP สูงสุดให้กับศัตรูทั้งหมด\nเพิ่ม<b:HealEffectiveness>ให้กับศัตรู <b>2,000</b> (เป็นเวลา 10 วินาที)"
                 ]
-            ],    
+            ],
             "DescriptionTw": "每10秒對所有敵人造成攻擊力<?1>的傷害\nATG充滿時，對所有敵人造成最大體力1000%的傷害。",
             "NameCn": "沙漠的苦行",
-            "DescriptionCn": "每10秒对所有敌人造成攻击力<?1>的伤害\nATG充满时，对所有敌人造成最大体力1000%的伤害。"
+            "DescriptionCn": "每10秒对所有敌人造成攻击力<?1>的伤害\nATG充满时，对所有敌人造成最大体力1000%的伤害。",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "HieronymusPassive01",
@@ -645,7 +679,9 @@
                     "\n红色圣遗物: 妨碍耶罗尼姆斯的技能。成功时，我军学生的\n<b:CostRegen>增加2500(1秒内)(最多4人)",
                     ""
                 ]
-            ]
+            ],
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "HieronymusInsanePassive02",
@@ -657,7 +693,9 @@
             "DescriptionTh": "เมื่อ HP ของเรลิกเป็น 0% จะเปิดใช้งานสกิล\nเรลิกม่วง : เพิ่ม<b:ATK> ของฝ่ายเรา <b>25%</b>\nลด<d:HealEffectiveness> 7000\nลด<d:DEF>ของไฮโรนีมัสลง 1500\nเป้าหมายที่มี<d:Hieronymus> จะได้รับ<b:HealEffectiveness> เพิ่ม 4000 (เป็นเวลา 10 วินาที)\nเรลิกม่วงจะไม่ตกเป็นเป้าหมายของการโจมตีปกติและสกิลพื้นฐาน",
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "KaitenFxMk0ExSkill01",
@@ -667,7 +705,9 @@
             "DescriptionTh": "แขนขวา (พิงค์): สร้างความเสียหาย 400% ของค่าโจมตีให้กับศัตรูในรัศมี",
             "DescriptionTw": "右手臂(粉紅色)：對圓形範圍內的敵人造成攻擊力400%傷害",
             "NameCn": "无限回转・超虾机关枪",
-            "DescriptionCn": "右手臂(粉红色)：对圆形范围内的敌人造成攻击力400%伤害"
+            "DescriptionCn": "右手臂(粉红色)：对圆形范围内的敌人造成攻击力400%伤害",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "KaitenFxMk0ExSkill02",
@@ -677,7 +717,9 @@
             "DescriptionTh": "หน้าอก (เรด): สร้างความเสียหาย 300% ของค่าโจมตีให้กับศัตรูทั้งหมด",
             "DescriptionTw": "胸部(紅色)：對所有敵人造成攻擊力300%傷害",
             "NameCn": "无限回转・超沙丁鱼导弹",
-            "DescriptionCn": "胸部(红色)：对所有敌人造成攻击力300%伤害"
+            "DescriptionCn": "胸部(红色)：对所有敌人造成攻击力300%伤害",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "KaitenFxMk0ExSkill03",
@@ -687,7 +729,9 @@
             "DescriptionTh": "แขนซ้าย (กรีน): ลดค่า<b:DamagedRatio> 50%\nยกเลิกทันทีเมื่อโจมตีด้วยสกิล EX 10 ครั้ง",
             "DescriptionTw": "左手臂(綠色)：使受到的傷害量減少50%\n用Ex技能打擊10次時立即解除",
             "NameCn": "无限回转・巨大锅盖盾牌",
-            "DescriptionCn": "左手臂(绿色)：使受到的伤害量减少50%\n用Ex技能打击10次时立即解除"
+            "DescriptionCn": "左手臂(绿色)：使受到的伤害量减少50%\n用Ex技能打击10次时立即解除",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "KaitenFxMk0ExSkill04",
@@ -697,7 +741,9 @@
             "DescriptionTh": "สร้างความเสียหาย 400% ของค่าโจมตีให้กับศัตรูทั้งหมด, หลบหลีกไม่ได้",
             "DescriptionTw": "對所有敵人造成攻擊力400%傷害，無法迴避",
             "NameCn": "无限回转・终极鲭鱼斩",
-            "DescriptionCn": "对所有敌人造成攻击力400%伤害，无法回避"
+            "DescriptionCn": "对所有敌人造成攻击力400%伤害，无法回避",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "KaitenFxMk0InsaneExSkill05",
@@ -709,7 +755,9 @@
             "DescriptionTh": "ขา (เยลโล่ว): เพิ่ม<b:ATK> <b>4,000</b> (เป็นเวลา 30 วินาที)",
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "KaitenFxMk0PassiveSkill01",
@@ -788,10 +836,12 @@
                     "2,500,000",
                     "3,500,000"
                 ]
-            ],    
+            ],
             "DescriptionTw": "每20秒依序啟動右手臂(粉紅色)、胸部(紅色)、左手臂(綠色)。\n右手臂(粉紅色)：攻擊力增加50%\n胸部(紅色)：用Ex技能攻擊時，使對象昏厥(5秒內)\n左手臂(綠色)：防禦力增加1000\n啟動部位時，如受到一定以上的傷害，該部位將會被破壞，且無法再次啟動。\n無法使用被破壞部位的技能。",
             "NameCn": "无限燃烧的热烈之心",
-            "DescriptionCn": "每20秒依序启动右手臂(粉红色)、胸部(红色)、左手臂(绿色)。\n右手臂(粉红色)：攻击力增加50%\n胸部(红色)：用Ex技能攻击时，使对象昏厥(5秒内)\n左手臂(绿色)：防御力增加1000\n启动部位时，如受到一定以上的伤害，该部位将会被破坏，且无法再次启动。\n无法使用被破坏部位的技能。"
+            "DescriptionCn": "每20秒依序启动右手臂(粉红色)、胸部(红色)、左手臂(绿色)。\n右手臂(粉红色)：攻击力增加50%\n胸部(红色)：用Ex技能攻击时，使对象昏厥(5秒内)\n左手臂(绿色)：防御力增加1000\n启动部位时，如受到一定以上的伤害，该部位将会被破坏，且无法再次启动。\n无法使用被破坏部位的技能。",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "KaitengerExSkill01",
@@ -806,7 +856,9 @@
             "NameTw": "迴轉之力！",
             "DescriptionTw": null,
             "NameCn": "回转之力！",
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "Perorozilla01Ex01",
@@ -853,10 +905,12 @@
                     "",
                     "\nหากเอฟเฟคนี้ไม่ถูกลบล้างจนหมดระยะเวลาของเอฟเฟค สร้างความเสียหาย 250% ของค่าโจมตีให้กับศัตรูในพื้นที่รูปทรงกรวย"
                 ]
-            ],    
+            ],
             "DescriptionTw": "對1名敵人造成等同90%攻擊力的持續傷害（10秒內）\n<d:DEF>減少9999（60秒內）",
             "NameCn": "白热光线",
-            "DescriptionCn": "对1名敌人造成等同90%攻击力的持续伤害（10秒内）\n<d:DEF>减少9999（60秒内）"
+            "DescriptionCn": "对1名敌人造成等同90%攻击力的持续伤害（10秒内）\n<d:DEF>减少9999（60秒内）",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "Perorozilla01Ex02",
@@ -866,7 +920,9 @@
             "DescriptionTh": "สร้างความเสียหาย 400% ของค่าโจมตีกับศัตรู 1 เป้าหมาย",
             "DescriptionTw": "對1名敵人造成等同400%攻擊力的傷害",
             "NameCn": "水炮",
-            "DescriptionCn": "对1名敌人造成等同400%攻击力的伤害"
+            "DescriptionCn": "对1名敌人造成等同400%攻击力的伤害",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "Perorozilla01Ex03",
@@ -945,10 +1001,12 @@
                     "",
                     "\nเมื่อลูกสมุนบิ๊กเพโรโร่เรืองแสงล้มลง สร้างความเสียหาย 200,000 ให้กับลูกสมุนบิ๊กเพโรโร่ตัวอื่นในรัศมี"
                 ]
-            ],    
+            ],
             "DescriptionTw": "以100%所受傷害召喚傳送給佩洛洛吉拉的巨大佩洛洛士兵\n巨大佩洛洛士兵的體力低於50%時將自動倒地。",
             "NameCn": "召唤士兵",
-            "DescriptionCn": "以100%所受伤害召唤传送给佩洛洛吉拉的巨大佩洛洛士兵\n巨大佩洛洛士兵的体力低于50%时将自动倒地。"
+            "DescriptionCn": "以100%所受伤害召唤传送给佩洛洛吉拉的巨大佩洛洛士兵\n巨大佩洛洛士兵的体力低于50%时将自动倒地。",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "Perorozilla01Ex04",
@@ -978,7 +1036,9 @@
             ],
             "DescriptionTw": "格羅基量表的進度與倒地的巨大佩洛洛士兵數量成正比",
             "NameCn": "吸收士兵",
-            "DescriptionCn": "格罗基量表的进度与倒地的巨大佩洛洛士兵数量成正比"
+            "DescriptionCn": "格罗基量表的进度与倒地的巨大佩洛洛士兵数量成正比",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "Perorozilla01Ex10",
@@ -988,7 +1048,9 @@
             "DescriptionTh": "สร้างความเสียหาย 300% ของค่าโจมตีกับศัตรูทั้งหมด",
             "DescriptionTw": "對全體敵人造成等同300%攻擊力的傷害",
             "NameCn": "超级螺旋灼光",
-            "DescriptionCn": "对全体敌人造成等同300%攻击力的伤害"
+            "DescriptionCn": "对全体敌人造成等同300%攻击力的伤害",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "HODEx01",
@@ -1040,7 +1102,9 @@
             ],
             "DescriptionTw": "對圓形範圍內敵人造成150%的傷害",
             "NameCn": null,
-            "DescriptionCn": "对圆形范围内敌人造成150%的伤害"
+            "DescriptionCn": "对圆形范围内敌人造成150%的伤害",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "HODEx02",
@@ -1052,7 +1116,9 @@
             "DescriptionTh": "สร้างความเสียหาย 200% ของค่าโจมตีให้กับศัตรูในแนวเส้นตรง",
             "DescriptionTw": "對直線範圍內的敵人造成200%傷害",
             "NameCn": null,
-            "DescriptionCn": "对直线范围内的敌人造成200%伤害"
+            "DescriptionCn": "对直线范围内的敌人造成200%伤害",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "HODEx03",
@@ -1068,7 +1134,7 @@
                     "an Erosion Tower,",
                     "two Erosion Towers, each"
                 ]
-            ],  
+            ],
             "DescriptionJp": "インベイドピラーを召喚。インベイドピラーは15秒毎に、侵食範囲を拡大していきます。\n侵食範囲内に入った敵の<d:CostRegen>を350減少。侵食範囲内に入ったフィールドターレットは、ホドではなく敵を攻撃するようになります。",
             "DescriptionKr": "침식 타워를 소환합니다. 침식 타워는 15초마다 침식 범위를 넓혀갑니다. \n침식 범위 내에 들어온 적은 <d:CostRegen>이 350 감소합니다. 침식 범위 내에 들어온 방어 포탑은 아군을 공격합니다.",
             "DescriptionTh": "สร้างเสากัดกร่อนออกมา<?1> เสากัดกร่อนจะขยายขอบเขตการกัดกร่อนขึ้นทุก 15 วินาที\nลด<d:CostRegen> <b>350</b> กับศัตรูที่อยู่ในขอบเขตการกัดกร่อน\nป้อมปืนคุ้มกันที่เข้ามาในขอบเขตการกัดกร่อนจะโจมตีฝ่ายเรา\nเมื่อเสากัดกร่อนถูกทำลาย, ลดเกจ ATG ของ Hod ลง 50% และเพิ่มเกจมึนงงของ Hod 25%",
@@ -1081,10 +1147,12 @@
                     "",
                     " 2 ต้น"
                 ]
-            ],   
+            ],
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "HODEx04",
@@ -1096,7 +1164,9 @@
             "DescriptionTh": "สร้างความเสียหาย 150% ของค่าโจมตีให้กับศัตรูทั้งหมด\nเมื่อ HP ของ Hod ต่ำกว่า 50% จะสร้างความเสียหาย 300% ของค่าโจมตีให้กับศัตรูทั้งหมดและทำลายป้อมปืนคุ้มกันทั้งหมด",
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "HODEx05",
@@ -1108,7 +1178,9 @@
             "DescriptionTh": "สร้างความเสียหาย 740% ของค่าโจมตีให้กับศัตรู\nเพิ่ม<b:ATK>ของ Hod 50% ทุกครั้งที่ใช้สกิลแสงแห่งเกียรติยศ (ซ้อนทับสูงสุด 99 ครั้ง)",
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "HODPassive01",
@@ -1171,7 +1243,6 @@
                     "(시간은 군중제어 강화력이 높을수록 더 많이 적용됩니다.)"
                 ]
             ],
-            
             "DescriptionTh": "Hod และเสากัดกร่อนจะไม่ได้รับผลจากเอฟเฟกต์กดขี่ แต่ระยะเวลาของเอฟเฟกต์กดขี่ที่ได้รับจะถูกนำไปเพิ่มเกจพิเศษแทน<?2>\nเมื่อเกจพิเศษมีระยะเวลาของเอฟเฟกต์กดขี่ครบ <?1> จะส่งผลต่อไปนี้\nHod : เพิ่ม<d:DamagedRatio> 300% (เป็นเวลา 30 วินาที), เพิ่มเกจมึนงงของ Hod 25% และลดเกจ ATG ลง 50%\nเสากัดกร่อน : เพิ่ม<d:DamagedRatio> 300% (เป็นเวลา 30 วินาที), ลดขอบกัดกร่อน 1 ขั้น",
             "ParametersTh": [
                 [
@@ -1193,7 +1264,9 @@
             ],
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "HODPassive02",
@@ -1205,7 +1278,9 @@
             "DescriptionTh": "Hod และเสากัดกร่อนจะมีค่าต้านทานคริเพิ่ม 400%\nเสากัดกร่อนจะไม่ได้รับผลจากเอฟเฟกต์<d:ConcentratedTarget>",
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "GozEx01",
@@ -1256,7 +1331,9 @@
             ],
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "GozEx02",
@@ -1268,7 +1345,9 @@
             "DescriptionTh": "Goz และร่างแยกจะทำการส่องแสงไปยังพื้นที่ด้านหน้าของตัวเอง, หลังจากนั้นบริเวณที่ถูกแสงของร่างแยกส่องจะระเบิดและสร้างความเสียหาย 1500% ของค่าโจมตีให้กับศัตรูที่อยู่ในพื้นที่นั้น",
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "GozEx03",
@@ -1280,7 +1359,9 @@
             "DescriptionTh": "Goz ทำการวางเหรียญและระเบิดไว้ก่อนที่จะครอบด้วยหมวกแล้วทำการสับเปลี่ยนตำแหน่งของหมวก/\nหลังจากนั้น ศัตรูที่อยู่ในแนวเส้นตรงเดียวกับหมวกที่มีระเบิดจะถูกผลักกระเด็นออกไป, <c:Stunned> (เป็นเวลา 5 วินาที) และได้รับความเสียหาย 800% ของค่าโจมตีของ Goz",
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "GozEx04",
@@ -1292,7 +1373,9 @@
             "DescriptionTh": "Goz จะทำการเล็งศัตรู 1 เป้าหมายก่อนหยิบระเบิดออกมาจากหมวก ระเบิดจะวิ่งไปยังเป้าหมายที่เล็งเพื่อสร้างความเสียหาย 900% ของค่าโจมตีให้กับเป้าหมาย",
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "GozEx05",
@@ -1344,7 +1427,9 @@
             ],
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "GozPassive01",
@@ -1391,7 +1476,9 @@
             ],
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "WakamoSwimsuit01Ex01",
@@ -1403,7 +1490,9 @@
             "DescriptionTh": "สร้างความเสียหาย 150% ของค่าโจมตีใส่ศัตรู 1 เป้าหมาย <b>5</b> ครั้ง โดยครั้งสุดท้ายสร้างความเสียหาย 300% ของค่าโจมตี\nแต่ล่ะนัดจะทำให้ศัตรู<c:Stunned> (เป็นเวลา 5 วินาที)",
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "WakamoSwimsuit01Ex02",
@@ -1415,7 +1504,9 @@
             "DescriptionTh": "เมื่อ ATG เต็ม, สร้างความเสียหาย 750% ของค่าโจมตีใส่ศัตรูในแนวเส้นตรง",
             "DescriptionTw": "對直線範圍內的敵人造成750%傷害",
             "NameCn": null,
-            "DescriptionCn": "对直线范围内的敌人造成750%伤害"
+            "DescriptionCn": "对直线范围内的敌人造成750%伤害",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "WakamoSwimsuit01Ex03",
@@ -1427,7 +1518,9 @@
             "DescriptionTh": "เมื่อ ATG เต็ม, ยิงมิซไซล์ใส่เป้าหมายที่อยู่ไกลที่สุดซึ่งจะสร้างความเสียหาย 750% ของค่าโจมตีเมื่อกระทบเป้าหมาย\n(มิซไซล์สามารถถูกขัดขวางได้โดยนักเรียนคนอื่น, วัตถุที่ถูกเรียกออกมาหรือกำบัง)",
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "WakamoSwimsuit01Ex05",
@@ -1439,7 +1532,9 @@
             "DescriptionTh": "ทุก 60 วินาที, ได้รับเอฟเฟคดังต่อไปนี้ (ทับซ้อนได้สูงสุด 3 ขั้น)\nเพิ่ม<b:ATK>：30%/60%/90%\nเพิ่ม<b:CriticalChance>：35%/70%/105%\nเพิ่ม<b>อัตราการฟื้นฟู ATG</b> : 15%/30%/80%\nเพิ่ม<d:DamagedRatio>：10%/20%/50%",
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "WakamoSwimsuit01Passive01",
@@ -1451,7 +1546,9 @@
             "DescriptionTh": "สกิลของวาคาโมะจะมอบเอฟเฟค<s:SuddenDeath>ให้กับเป้าหมาย\nหากเป้าหมายมี<s:SuddenDeath>สะสมครบ 5 ขั้น เป้าหมายจะได้รับความเสียหาย 1000% ของ HP สูงสุดของเป้าหมาย",
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "WakamoHoverCraftEx01",
@@ -1463,7 +1560,9 @@
             "DescriptionTh": "สร้างความเสียหาย 70% ของค่าโจมตีให้กับศัตรู สูงสุด 8 เป้าหมาย",
             "DescriptionTw": "對至多8名敵人造成70%傷害",
             "NameCn": null,
-            "DescriptionCn": "对至多8名敌人造成70%伤害"
+            "DescriptionCn": "对至多8名敌人造成70%伤害",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "WakamoHoverCraftEx02",
@@ -1475,7 +1574,9 @@
             "DescriptionTh": "สร้างความเสียหาย 250% ของค่าโจมตีให้กับศัตรู สูงสุด 2 เป้าหมาย",
             "DescriptionTw": "對至多2名敵人造成250%傷害",
             "NameCn": null,
-            "DescriptionCn": "对至多2名敌人造成250%伤害"
+            "DescriptionCn": "对至多2名敌人造成250%伤害",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "WakamoHoverCraftEx03",
@@ -1487,7 +1588,9 @@
             "DescriptionTh": "เมื่อ ATG เต็ม, โฮเวอร์คราฟจะเข้าโหมดยิงมิสไซล์และเริ่มโจมตีรีสอร์ต\nระหว่างที่อยู่ในโหมดยิงมิสไซล์ โฮเวอร์คราฟจะ<s:Immortal>\nหลังจบโหมดยิงมิสไซล์, โฮเวอร์คราฟจะอยู่ในสถานะมึนงง\nเมื่อโฮเวอร์คราฟอยู่ในสถานะมึนงง เพิ่ม<d:DamagedRatio> 200% และลด<d:CriticalChanceResistPoint> 100%",
             "DescriptionTw": null,
             "NameCn": null,
-            "DescriptionCn": null
+            "DescriptionCn": null,
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "WakamoHoverCraftPassive01",
@@ -1499,7 +1602,9 @@
             "DescriptionTh": "สร้างความเสียหาย 450% ของค่าโจมตีให้กับศัตรูในรัศมี\nหากมิสไซล์ถูกทำลาย, เพิ่ม<b:ATK> 400 ให้แก่ศัตรูทั้งหมด",
             "DescriptionTw": "對圓形範圍內敵人造成450%的傷害。如果飛彈被摧毀，提升全體學生<b>400</b> <b:ATK>",
             "NameCn": null,
-            "DescriptionCn": "对圆形范围内敌人造成450%的伤害。如导弹被摧毁，提升全体学生<b>400</b> <b:ATK>"
+            "DescriptionCn": "对圆形范围内敌人造成450%的伤害。如导弹被摧毁，提升全体学生<b>400</b> <b:ATK>",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "WakamoHoverCraftPassive02",
@@ -1511,7 +1616,9 @@
             "DescriptionTh": "สร้างความเสียหาย 450% ของค่าโจมตีให้กับศัตรูในรัศมี\nหากมิสไซล์ถูกทำลาย, สร้างความเสียหาย <b>999,999</b> ให้กับมิสไซล์อื่นทั้งหมดในรัศมี",
             "DescriptionTw": "對圓形範圍內敵人造成450%的傷害。如果飛彈被摧毀，對圓形範圍內其它飛彈造成<b>999,999</b>傷害",
             "NameCn": null,
-            "DescriptionCn": "对圆形范围内敌人造成450%的伤害。如导弹被摧毁，对圆形范围内其它导弹造成<b>999,999</b>伤害"
+            "DescriptionCn": "对圆形范围内敌人造成450%的伤害。如导弹被摧毁，对圆形范围内其它导弹造成<b>999,999</b>伤害",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "WakamoHoverCraftPassive03",
@@ -1523,7 +1630,9 @@
             "DescriptionTh": "สร้างความเสียหาย 1000% ของค่าโจมตีให้กับศัตรูในรัศมี\nหากมิสไซล์ถูกทำลาย, สร้างความเสียหาย 400% ของค่าโจมตีให้กับมิสไซล์อื่นทั้งหมดในรัศมี",
             "DescriptionTw": "對圓形範圍內敵人造成1000%的傷害。如果飛彈被摧毀，對圓形範圍內其它飛彈造成400%傷害",
             "NameCn": null,
-            "DescriptionCn": "对圆形范围内敌人造成1000%的伤害。如导弹被摧毁，对圆形范围内其它导弹造成400%伤害"
+            "DescriptionCn": "对圆形范围内敌人造成1000%的伤害。如导弹被摧毁，对圆形范围内其它导弹造成400%伤害",
+            "NameVi": null,
+            "DescriptionVi": null
         },
         {
             "Id": "WakamoHoverCraftPassive04",
@@ -1535,7 +1644,9 @@
             "DescriptionTh": "สร้างความเสียหาย 450% ของค่าโจมตีให้กับศัตรูในรัศมี\nหากมิสไซล์ถูกทำลาย, สร้างความเสียหาย 400% ของค่าโจมตีให้กับมิสไซล์อื่นทั้งหมดในรัศมี",
             "DescriptionTw": "對圓形範圍內敵人造成450%的傷害。如果飛彈被摧毀，對圓形範圍內其它飛彈造成400%傷害",
             "NameCn": "头盔团的自制导弹",
-            "DescriptionCn": "对圆形范围内敌人造成450%的伤害。如导弹被摧毁，对圆形范围内其它导弹造成400%伤害"
+            "DescriptionCn": "对圆形范围内敌人造成450%的伤害。如导弹被摧毁，对圆形范围内其它导弹造成400%伤害",
+            "NameVi": null,
+            "DescriptionVi": null
         }
     ]
 }
