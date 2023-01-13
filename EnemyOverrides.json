@@ -84,7 +84,8 @@
         "NameJp": "小型のペロロミニオン",
         "NameKr": "소형 페로로 미니언",
         "NameTw": "小型佩洛洛士兵",
-        "NameCn": "小型佩洛洛士兵"
+        "NameCn": "小型佩洛洛士兵",
+        "NameVi": "Lính Peroro nhỏ"
     },
     {
         "Id": 7306101,
@@ -103,7 +104,8 @@
         "NameJp": "インベイドピラー",
         "NameKr": "침식 타워",
         "NameTw": "入侵者之柱",
-        "NameCn": "入侵者之柱"
+        "NameCn": "入侵者之柱",
+        "NameVi": "Tháp truyền tải"
     },
     {
         "Id": 7306201,
@@ -122,7 +124,8 @@
         "NameJp": "インベイドピラー",
         "NameKr": "침식 타워",
         "NameTw": "入侵者之柱",
-        "NameCn": "入侵者之柱"
+        "NameCn": "入侵者之柱",
+        "NameVi": "Tháp truyền tải"
     },
     {
         "Id": 7306301,
@@ -141,7 +144,8 @@
         "NameJp": "インベイドピラー",
         "NameKr": "침식 타워",
         "NameTw": "入侵者之柱",
-        "NameCn": "入侵者之柱"
+        "NameCn": "入侵者之柱",
+        "NameVi": "Tháp truyền tải"
     },
     {
         "Id": 7306401,
@@ -160,7 +164,8 @@
         "NameJp": "インベイドピラー",
         "NameKr": "침식 타워",
         "NameTw": "入侵者之柱",
-        "NameCn": "入侵者之柱"
+        "NameCn": "入侵者之柱",
+        "NameVi": "Tháp truyền tải"
     },
     {
         "Id": 7306501,
@@ -179,7 +184,8 @@
         "NameJp": "インベイドピラー",
         "NameKr": "침식 타워",
         "NameTw": "入侵者之柱",
-        "NameCn": "入侵者之柱"
+        "NameCn": "入侵者之柱",
+        "NameVi": "Tháp truyền tải"
     },
     {
         "Id": 7306601,
@@ -198,7 +204,8 @@
         "NameJp": "インベイドピラー",
         "NameKr": "침식 타워",
         "NameTw": "入侵者之柱",
-        "NameCn": "入侵者之柱"
+        "NameCn": "入侵者之柱",
+        "NameVi": "Tháp truyền tải"
     },
     {
         "Id": 7823099,
@@ -258,6 +265,7 @@
         "NameJp": "ミサイル",
         "NameTw": "飛彈",
         "NameCn": "导弹",
+        "NameVi": "Tên lửa",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
@@ -314,6 +322,7 @@
         "NameJp": "ミサイル",
         "NameTw": "飛彈",
         "NameCn": "导弹",
+        "NameVi": "Tên lửa",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
@@ -370,6 +379,7 @@
         "NameJp": "ミサイル",
         "NameTw": "飛彈",
         "NameCn": "导弹",
+        "NameVi": "Tên lửa",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
     {
@@ -506,7 +516,8 @@
         "NameJp": "赤色の聖遺物",
         "NameTw": "紅色聖遺物",
         "NameCn": "红色圣遗物",
-        "NameTh": "เรลิกแดง"
+        "NameTh": "เรลิกแดง",
+        "NameVi": "Thánh vật màu đỏ"
     },
     {
         "Id": 7303925,
@@ -577,7 +588,8 @@
         "NameCn": "尖叫骑士",
         "NameTh": "สครีม ไรเดอร์",
         "NameJp": "スクリームライダー",
-        "NameKr": "스크림 라이더"
+        "NameKr": "스크림 라이더",
+        "NameVi": "Tàu lượn siêu tốc"
     },
     {
         "Id": 7308203,
@@ -585,7 +597,8 @@
         "NameCn": "尖叫骑士",
         "NameTh": "สครีม ไรเดอร์",
         "NameJp": "スクリームライダー",
-        "NameKr": "스크림 라이더"
+        "NameKr": "스크림 라이더",
+        "NameVi": "Tàu lượn siêu tốc"
     },
     {
         "Id": 7308303,
@@ -593,7 +606,8 @@
         "NameCn": "尖叫骑士",
         "NameTh": "สครีม ไรเดอร์",
         "NameJp": "スクリームライダー",
-        "NameKr": "스크림 라이더"
+        "NameKr": "스크림 라이더",
+        "NameVi": "Tàu lượn siêu tốc"
     },
     {
         "Id": 7308403,
@@ -601,7 +615,8 @@
         "NameCn": "尖叫骑士",
         "NameTh": "สครีม ไรเดอร์",
         "NameJp": "スクリームライダー",
-        "NameKr": "스크림 라이더"
+        "NameKr": "스크림 라이더",
+        "NameVi": "Tàu lượn siêu tốc"
     },
     {
         "Id": 7308503,
@@ -609,7 +624,8 @@
         "NameCn": "尖叫骑士",
         "NameTh": "สครีม ไรเดอร์",
         "NameJp": "スクリームライダー",
-        "NameKr": "스크림 라이더"
+        "NameKr": "스크림 라이더",
+        "NameVi": "Tàu lượn siêu tốc"
     },
     {
         "Id": 7308603,
@@ -617,7 +633,8 @@
         "NameCn": "尖叫骑士",
         "NameTh": "สครีม ไรเดอร์",
         "NameJp": "スクリームライダー",
-        "NameKr": "스크림 라이더"
+        "NameKr": "스크림 라이더",
+        "NameVi": "Tàu lượn siêu tốc"
     },
     {
         "Id": 8180055,
@@ -626,7 +643,8 @@
         "NameJp": "ペロロミニオン",
         "NameKr": "페로로 미니언",
         "NameTw": "佩洛洛士兵",
-        "NameCn": "佩洛洛士兵"
+        "NameCn": "佩洛洛士兵",
+        "NameVi": "Lính Peroro"
     },
     {
         "Id": 7301101,
