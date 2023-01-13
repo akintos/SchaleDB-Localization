@@ -2330,7 +2330,7 @@
         "BuffNameLong": {
             "Buff_AidAttitude": {
                 "En": "First Aid Ready",
-                "Jp": "「救護の心構え」",
+                "Jp": "救護の心構え",
                 "Kr": null,
                 "Th": "หัวใจแห่งการบรรเทาทุกข์",
                 "Tw": null,
@@ -4865,7 +4865,7 @@
             },
             "stage_rewards": {
                 "En": "Rewards",
-                "Jp": "獲得期待報酬",
+                "Jp": "獲得報酬",
                 "Kr": "획득 가능 보상",
                 "Th": "รางวัลที่มีโอกาสได้รับ",
                 "Tw": "可獲得獎勵",
@@ -5775,7 +5775,7 @@
             },
             "home_introduction": {
                 "En": "Schale is an unofficial database and calculation tool for the mobile game <i class=\"text-bold\">Blue Archive</i> developed by Nexon Games and published by Yostar (Japan) and Nexon (Global) for iOS and Android.",
-                "Jp": "Schaleは、Nexson Gamesが開発しYostar（日本版）およびNexson（グローバル版）が運営するスマートフォン向けゲーム『ブルーアーカイブ』の非公式データベースです。",
+                "Jp": "Schaleは、Nexson Gamesが開発しYostar（日本版）およびNexson（グローバル版）が運営するスマートフォン向けゲーム『<b>ブルーアーカイブ</b>』の非公式データベースです。",
                 "Kr": null,
                 "Th": "Schale เป็นศูนย์รวมข้อมูลอย่างไม่เป็นทางการของเกมมือถือ <i class=\"text-bold\">Blue Archive</i> ที่พัฒนาโดยทาง Nexon Games และได้รับการเผยแพร่โดย Yostar (เซิร์ฟเวอร์ญี่ปุ่น) และ Nexon (เซิร์ฟเวอร์โกลบอล) ทั้งในระบบ iOS และ Android",
                 "Tw": "Schale 是 Nexon Games 開發，日服由 Yostar、國際服由 Nexon 運營的手游<i class=\"text-bold\">蔚藍檔案</i>的非官方數據庫。",
@@ -5820,7 +5820,11 @@
             },
             "home_footer_text": {
                 "En": "Schale is developed and maintained by lonqie, with additional translation work by Blue-Roar, TKRotund & Gedanke.\nSchale is not affiliated with Nexon, Nexon Games or Yostar. All game artwork, information and assets used in this database are the property and copyright of the respective authors.",
+<<<<<<< Updated upstream
                 "Jp": "Schaleはlonqieによって開発・運営されています。また、Blue-Roar、TKRotund、およびGedankeから翻訳の支援を受けています。\nSchaleはNexon、Nexon Games、およびYostarとは一切関係ありません。当データベースで使用されているゲーム画像、情報、およびアセットの所有権及び著作権はそれぞれの権利者に帰属します。",
+=======
+                "Jp":  "Schaleはlonqieによって開発・運営されています。また、Blue-Roar、TKRotund、およびGedankeから翻訳の支援を受けています。\nSchaleはNexon、Nexon Games、およびYostarとは一切関係ありません。当データベースで使用されているゲーム画像、情報、およびアセットの所有権および著作権はそれぞれの権利者に帰属します。",
+>>>>>>> Stashed changes
                 "Kr": null,
                 "Th": "Schale พัฒนาและอัปเดทโดย lonqie โดยได้รับความช่วยเหลือในการแปลภาษาเพิ่มเติมจาก Blue-Roar, TKRotund และ Gedanke\nSchale นั้นไม่ได้มีส่วนเกี่ยวข้องใดๆ กับทาง Nexon, Nexon Games หรือ Yostar รูปภาพและข้อมูลต่างๆ ที่ใช้ในฐานข้อมูลนี้ถือเป็นสมบัติและทรัพย์สินทางปัญญาของผู้ถือครองลิขสิทธิ์ดั้งเดิม",
                 "Tw": "Schale 由 lonqie 開發與維護，Blue-Roar、TKRotund 与 Gedanke 提供額外翻譯。\nSchale 與 Yostar、Nexon、Nexon Games 沒有關聯。本數據庫中使用的所有游戲作品、信息和素材均爲各自作者的財產和版權。",
