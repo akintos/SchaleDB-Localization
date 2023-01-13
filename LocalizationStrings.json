@@ -4073,7 +4073,7 @@
             },
             "student_birthdays": {
                 "En": "The following students are celebrating their birthday in the next 7 days!",
-                "Jp": "これから1週間の間に誕生日を迎える生徒さんたちです！",
+                "Jp": "これから1週間のうちに誕生日を迎える生徒さんたちです！",
                 "Kr": null,
                 "Th": "นักเรียนที่มีวันเกิดอยู่ในสัปดาห์นี้!",
                 "Tw": "以下學生在本周迎來生日。",
@@ -4442,7 +4442,7 @@
             },
             "defense_type_normal_desc": {
                 "En": "Receives <b>1&times;</b> damage from <b class='ba-col-explosion'>Explosive</b>, <b class='ba-col-pierce'>Piercing</b> and <b class='ba-col-mystic'>Mystic</b> attacks.",
-                "Jp": "<b class='ba-col-explosion'>爆発</b>、<b class='ba-col-pierce'>貫通</b>、および<b class='ba-col-mystic'>神秘</b>攻撃から<b>1倍</b>のダメージを受ける。",
+                "Jp": "<b class='ba-col-explosion'>爆発</b>、<b class='ba-col-pierce'>貫通</b>および<b class='ba-col-mystic'>神秘</b>攻撃から<b>1倍</b>のダメージを受ける。",
                 "Kr": null,
                 "Th": "ได้รับความเสียหาย <b>&times;1</b> จากการโจมตีประเภท<b class='ba-col-explosion'>ระเบิด</b>, <b class='ba-col-pierce'>เจาะเกราะ</b>และ<b class='ba-col-mystic'>ลึกลับ</b>",
                 "Tw": "承受<b>1倍</b><b class='ba-col-explosion'>爆炸</b>、<b class='ba-col-pierce'>貫穿</b>與<b class='ba-col-mystic'>神秘</b>攻擊傷害。",
@@ -4865,7 +4865,7 @@
             },
             "stage_rewards": {
                 "En": "Rewards",
-                "Jp": "獲得報酬",
+                "Jp": "獲得期待報酬",
                 "Kr": "획득 가능 보상",
                 "Th": "รางวัลที่มีโอกาสได้รับ",
                 "Tw": "可獲得獎勵",
@@ -5811,7 +5811,7 @@
             },
             "home_features_list": {
                 "En": "<li>Full information on all students and their skills, summons and vehicles.</li><li>Calculation feature that can display a student's stats under any configuration of level, equipment and buffs, and calculate skill damage and healing against a configurable target enemy.</li><li>Complete Items, Equipment and Furniture database.</li><li>Reward drops, maps and detailed enemy information for all Campaign, Event Quest, Challenge and Daily stages.</li><li>Stats and Skill information for Total Assault bosses and Joint Firing Drill events.</li><li>View the chances of possible items received from crafting nodes.</li>",
-                "Jp": "<li>すべての生徒とそのスキル、召喚物、および搭乗物に関する詳細な情報。</li><li>レベル、装備、バフのあらゆる組み合わせに対応した網羅的なステータス計算機能および様々な敵設定に対応したスキルダメージ量と回復量の計算機能。</li><li>アイテム、装備、家具に関する完全なデータベース。</li><li>すべての任務、イベントクエスト、チャレンジ、デイリーステージに関する獲得報酬、マップ、敵の詳細な情報。</li><li>総力戦ボスと合同火力演習に関するステータスとスキルの情報</li><li>各製造ノードから入手可能なアイテムの入手確率。</li>",
+                "Jp": "<li>すべての生徒とそのスキル、召喚物ならびに搭乗物に関する詳細な情報。</li><li>レベル、装備、バフのあらゆる組み合わせに対応した網羅的なステータス計算機能および様々な敵設定に対応したスキルダメージ量と回復量の計算機能。</li><li>アイテム、装備、家具に関する完全なデータベース。</li><li>すべての任務、イベントクエスト、チャレンジ、デイリーステージに関する獲得報酬、マップ、敵の詳細な情報。</li><li>総力戦ボスと合同火力演習に関するステータスとスキルの情報</li><li>各製造ノードから入手可能なアイテムの入手確率。</li>",
                 "Kr": null,
                 "Th": "<li>ข้อมูลของนักเรียนและสกิลทุกคน รวมไปถึงยานพาหนะ, วัตถุอัญเชิญและวัตถุกำบังอย่างครบถ้วน</li><li>หน้าต่างคำนวนค่าสถานะต่างๆ ของนักเรียนภายใต้เงื่อนไขทุกรูปแบบไม่ว่าจะเป็นจำนวนดาว, เลเวล, อุปกรณ์สวมใส่หรือบัพจากสกิลต่างๆ</li><li>ลิสของไอเทม, อุปกรณ์สวมใส่และเฟอร์นิเจอร์อย่างครบถ้วน</li><li>รางวัลที่ได้รับ, แผนที่และข้อมูลของศัตรูแบบละเอียดสำหรับทุกภารกิจหลัก, เควสอีเวนท์, ชาเลนจ์และด่านเควสรายวัน</li><li>ค่าสถานะและข้อมูลสกิลสำหรับอีเวนท์เรดบอสและการสอบประมวลผล</li><li>ดูตารางและอัตราการได้รับไอเทมต่างๆ จากการคราฟไอเทม</li>",
                 "Tw": "<li>有關全體學生和技能，包含召喚單位與載具單位的完整信息。</li><li>全面的數據計算，可以顯示學生在任何星級、等級、裝備和技能的增益效果下的面板數據。</li><li>完整的物品、裝備和傢俱數據庫。</li><li>所有關卡的獎勵掉落、地圖和詳細的敵人信息。</li><li>總力戰BOSS與綜合戰術考試的數據與技能信息。</li><li>查看從合成節點可能獲取物品的幾率。</li>",
@@ -5820,11 +5820,8 @@
             },
             "home_footer_text": {
                 "En": "Schale is developed and maintained by lonqie, with additional translation work by Blue-Roar, TKRotund & Gedanke.\nSchale is not affiliated with Nexon, Nexon Games or Yostar. All game artwork, information and assets used in this database are the property and copyright of the respective authors.",
-<<<<<<< Updated upstream
-                "Jp": "Schaleはlonqieによって開発・運営されています。また、Blue-Roar、TKRotund、およびGedankeから翻訳の支援を受けています。\nSchaleはNexon、Nexon Games、およびYostarとは一切関係ありません。当データベースで使用されているゲーム画像、情報、およびアセットの所有権及び著作権はそれぞれの権利者に帰属します。",
-=======
-                "Jp":  "Schaleはlonqieによって開発・運営されています。また、Blue-Roar、TKRotund、およびGedankeから翻訳の支援を受けています。\nSchaleはNexon、Nexon Games、およびYostarとは一切関係ありません。当データベースで使用されているゲーム画像、情報、およびアセットの所有権および著作権はそれぞれの権利者に帰属します。",
->>>>>>> Stashed changes
+                "Jp": "Schaleはlonqieによって開発・運営されています。また、Blue-Roar、TKRotundおよびGedankeから翻訳の支援を受けています。\nSchaleはNexon、Nexon GamesおよびYostarとは一切関係ありません。当データベースで使用されているゲーム画像、情報ならびにアセットの所有権および著作権はそれぞれの権利者に帰属します。",
+
                 "Kr": null,
                 "Th": "Schale พัฒนาและอัปเดทโดย lonqie โดยได้รับความช่วยเหลือในการแปลภาษาเพิ่มเติมจาก Blue-Roar, TKRotund และ Gedanke\nSchale นั้นไม่ได้มีส่วนเกี่ยวข้องใดๆ กับทาง Nexon, Nexon Games หรือ Yostar รูปภาพและข้อมูลต่างๆ ที่ใช้ในฐานข้อมูลนี้ถือเป็นสมบัติและทรัพย์สินทางปัญญาของผู้ถือครองลิขสิทธิ์ดั้งเดิม",
                 "Tw": "Schale 由 lonqie 開發與維護，Blue-Roar、TKRotund 与 Gedanke 提供額外翻譯。\nSchale 與 Yostar、Nexon、Nexon Games 沒有關聯。本數據庫中使用的所有游戲作品、信息和素材均爲各自作者的財產和版權。",
