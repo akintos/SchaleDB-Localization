@@ -540,8 +540,8 @@
             "DescriptionTw": "對圓形範圍內敵人造成攻擊力350%的傷害\n對象的體力%越低，傷害最多增加50%",
             "NameCn": "达玛苏的呼唤",
             "DescriptionCn": "对圆形范围内敌人造成攻击力350%的伤害\n对象的体力%越低，伤害最多增加50%",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Lời mời của Damasus",
+            "DescriptionVi": "Gây 350% sát thương lên kẻ địch trong khu vực hình tròn. Sát thương sẽ tăng lên tới 50% khi HP của mục tiêu thấp dần.\n\nDama<b>sus</b>"
         },
         {
             "Id": "HieronymusEx02",
@@ -592,8 +592,18 @@
             "DescriptionTw": "賦予1名敵人<d:Hieronymus>，\n<d:Hieronymus>會造成攻擊力20%的持續傷害，10秒後爆炸， \n對圓形範圍內的敵人造成攻擊力325%的傷害後消失不見。\n受<d:Hieronymus>對象的體力為100%時，<d:Hieronymus>會立即消失。",
             "NameCn": "圣经武加大译本",
             "DescriptionCn": "赋予1名敌人<d:Hieronymus>，\n<d:Hieronymus>会造成攻击力20%的持续伤害，10秒后爆炸， \n对圆形范围内的敌人造成攻击力325%的伤害后消失不见。\n受<d:Hieronymus>对象的体力为100%时，<d:Hieronymus>会立即消失。",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Kinh thánh của Vulgate",
+            "DescriptionVi": "Thả hiệu ứng <d:Hieronymus> lên một kẻ địch khoảng 10s, liên tục gây 20% sát thương lên chúng sau mỗi 1s trôi qua. Sau 10s, mục tiêu bị dính hiệu ứng <d:Hieronymus> sẽ phát nổ gây 325% sát thương trong khu vực hình tròn. Nếu mục tiêu được chữa lành bằng cách hồi phục 100% HP, hiệu ứng <d:Hieronymus> sẽ bị gỡ bỏ.",
+            "ParametersVi": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\nĐồng thời tăng <b:HealEffectiveness> của mục tiêu bị nguyền rủa lên <b>3,000</b> trong 10s."
+                ]
+            ]
         },
         {
             "Id": "HieronymusEx03",
@@ -604,8 +614,8 @@
             "DescriptionTw": "對圓形範圍內的敵人造成攻擊力90%傷害",
             "NameCn": "使者的救赎",
             "DescriptionCn": "对圆形范围内的敌人造成攻击力90%伤害",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Sự hành quyết của Thần chết",
+            "DescriptionVi": "Gây 90% sát thương lên kẻ địch trong khu vực hình tròn."
         },
         {
             "Id": "HieronymusEx04",
@@ -688,8 +698,26 @@
             "DescriptionTw": "每10秒對所有敵人造成攻擊力<?1>的傷害\nATG充滿時，對所有敵人造成最大體力1000%的傷害。",
             "NameCn": "沙漠的苦行",
             "DescriptionCn": "每10秒对所有敌人造成攻击力<?1>的伤害\nATG充满时，对所有敌人造成最大体力1000%的伤害。",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Sa mạc sám hối",
+            "DescriptionVi": "Cứ sau 10s, gây <?1> sát thương lên tất cả kẻ địch.<?2>",
+            "ParametersVi": [
+                [
+                    "40%",
+                    "40%",
+                    "40%",
+                    "40%",
+                    "40%",
+                    "30%"
+                ],
+                [
+                    "\nKhi thanh ATG của Hieronymus đã đạt đủ, gây sát thương cho mỗi kẻ địch bằng 1000% HP tối đa của chúng.",
+                    "\nKhi thanh ATG của Hieronymus đã đạt đủ, gây sát thương cho mỗi kẻ địch bằng 1000% HP tối đa của chúng.",
+                    "\nKhi thanh ATG của Hieronymus đã đạt đủ, gây sát thương cho mỗi kẻ địch bằng 1000% HP tối đa của chúng.",
+                    "\nKhi thanh ATG của Hieronymus đã đạt đủ, gây sát thương cho mỗi kẻ địch bằng 1000% HP tối đa của chúng.",
+                    "\nKhi thanh ATG của Hieronymus đã đạt đủ, gây sát thương cho mỗi kẻ địch bằng 1000% HP tối đa của chúng.",
+                    "\nKhi thanh ATG của Hieronymus đã đạt đủ, khiến tất cả kẻ địch <s:Immortal> trong 10s và sau đó gây sát thương cho mỗi kẻ địch bằng 1000% HP tối đa của chúng.\nĐồng thời tăng <b:HealEffectiveness> của tất cả kẻ địch lên <b>2,000</b> trong 10s."
+                ]
+            ]
         },
         {
             "Id": "HieronymusPassive01",
@@ -760,8 +788,18 @@
                     ""
                 ]
             ],
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Ánh sáng thần thánh (Thánh vật)",
+            "DescriptionVi": "Khi một thánh vật được chữa lành tới 100% HP, bản thân nó sẽ hấp thụ 95% HP và giảm 50% <d:HealEffectiveness> trong 20s. Kích hoạt một trong các hiệu ứng sau tuỳ thuộc vào thánh vật:\n<b>Thánh vật màu xanh</b>: Tăng <d:DamagedRatio> của Hieronymus lên 55% cho đến khi kết thúc màn chơi. Hiệu ứng có thể cộng dồn tối đa 5 lần.<?1>",
+            "ParametersVi": [
+                [
+                    "\n<b>Thánh vật màu đỏ/b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, fills Hieronymus's groggy gauge to the maximum and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
+                    "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, fills Hieronymus's groggy gauge to the maximum and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
+                    "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, fills Hieronymus's groggy gauge to the maximum and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
+                    "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, fills Hieronymus's groggy gauge to the maximum and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
+                    "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, fills Hieronymus's groggy gauge to the maximum and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
+                    ""
+                ]
+            ]
         },
         {
             "Id": "HieronymusInsanePassive02",
