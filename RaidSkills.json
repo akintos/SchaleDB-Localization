@@ -9,8 +9,8 @@
             "DescriptionTw": "對直線範圍內的敵人造成攻擊力120%傷害",
             "NameCn": "亚齐鲁特之光",
             "DescriptionCn": "对直线范围内的敌人造成攻击力120%伤害",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Ánh sáng của Atsilut",
+            "DescriptionVi": "Gây 120% sát thương lên kẻ địch trên một đường thẳng."
         },
         {
             "Id": "BinahExSkill02",
@@ -31,8 +31,8 @@
             "DescriptionTw": "對4名敵人造成攻擊力<?1>傷害",
             "NameCn": "正义之焰",
             "DescriptionCn": "对4名敌人造成攻击力<?1>伤害",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Biển lửa dữ dội",
+            "DescriptionVi": "Gây <?1> sát thương lên 4 kẻ địch."
         },
         {
             "Id": "BinahExSkill03",
@@ -43,8 +43,8 @@
             "DescriptionTw": "對所有敵人造成攻擊力300%傷害/\n減少<d:DEF>50% (30秒內)",
             "NameCn": "净化风暴",
             "DescriptionCn": "对所有敌人造成攻击力300%伤害/\n减少<d:DEF>50% (30秒内)",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Cơn bão thanh tẩy",
+            "DescriptionVi": "Gây 300% sát thương lên tất cả kẻ địch và giảm 50% <d:DEF> của chúng xuống khoảng 30s."
         },
         {
             "Id": "BinahInsanePassive01",
@@ -57,8 +57,8 @@
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null,
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Bão cát tử thần",
+            "DescriptionVi": "Giảm 20% <d:HIT> và 50% <d:Stability> tất cả kẻ địch xuống. Loại tác dụng phụ này không thể bị gỡ bỏ."
         },
         {
             "Id": "ChesedExSkill01",
@@ -99,8 +99,18 @@
             "DescriptionTw": "召喚機械士兵。\n在士兵被召喚出的期間內，ATG會慢慢上升。",
             "NameCn": "我听到王座的呼唤",
             "DescriptionCn": "召唤机械士兵。\n在士兵被召唤出的期间内，ATG会慢慢上升。",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Tiếng gọi của ngai vàng",
+            "DescriptionVi": "Triệu hồi đội quân người máy. Thanh ATG của Chesed tiếp tục tăng dần khi đội quân người máy còn sống và đặt lại sau khi tất cả quân lính bị tiêu diệt. Quân đội người máy cũng sẽ khiến thanh choáng của Chesed tăng dần (25% cho mỗi đợt) <?1> khi bị tiêu diệt.\nNếu không tiêu diệt quân đội người máy trong vòng 20s thì chúng sẽ sử dụng kỹ năng \"Kích hoạt tự huỷ\", thay đổi <s:FormChange> thành đòn tấn công tự huỷ gây 3000% sát thương lên kẻ địch trong khu vực hình tròn xung quanh chúng.\nBất cứ khi nào Goliath bị đánh bại sẽ giải phóng một luồng sóng EMP gây <c:Paralysis> lên tất cả quân lính trong khu vực hình tròn trong 3s.",
+            "ParametersVi": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "và sản sinh máy quét"
+                ]
+            ]
         },
         {
             "Id": "ChesedExSkill02",
@@ -111,8 +121,8 @@
             "DescriptionTw": "當ATG上升到一半以上時，我軍<b:AttackSpeed>、<b:MoveSpeed>增加50%(60秒內)",
             "NameCn": "亲眼目睹至高的权能",
             "DescriptionCn": "当ATG上升到一半以上时，我军<b:AttackSpeed>、<b:MoveSpeed>增加50%(60秒内)",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Hãy chứng kiến sức mạnh tối cao của ta",
+            "DescriptionVi": "Khi thanh ATG của Chesed đạt nửa đoạn, tăng 50% <b:AttackSpeed> và <b:MoveSpeed> lên tất cả người máy còn lại trong 60s."
         },
         {
             "Id": "ChesedExSkill03",
@@ -123,8 +133,8 @@
             "DescriptionTw": "當ATG全滿時，對所有敵人造成攻擊力2000%傷害",
             "NameCn": "王者大发慈悲",
             "DescriptionCn": "当ATG全满时，对所有敌人造成攻击力2000%伤害",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Lòng thương xót của ngài",
+            "DescriptionVi": "Khi thanh ATG đã đạt đủ, gây 2000% sát thương lên tất cả kẻ địch."
         },
         {
             "Id": "ChesedPassive01",
@@ -135,8 +145,8 @@
             "DescriptionTw": "免疫遭受傷害量增加效果\n在無力狀態維持期間內<d:DamagedRatio>增加900%",
             "NameCn": "曝光的王座",
             "DescriptionCn": "免疫遭受伤害量增加效果\n在无力状态维持期间内<d:DamagedRatio>增加900%",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Lộ diện ngai vàng",
+            "DescriptionVi": "Chesed miễn nhiễm với mọi hiệu ứng làm tăng <d:DamagedRatio>.\nKhi thanh choáng của Chesed đạt đủ, lõi của Chesed sẽ lộ ra và tăng <d:DamagedRatio> lên 900% trong 20s."
         },
         {
             "Id": "ShiroEx01",
@@ -220,8 +230,26 @@
             "DescriptionTw": "對敵人造成攻擊力<?1>傷害\nATG越高造成的傷害越猛烈。",
             "NameCn": "哐哐哐哐哐哐哐！(白)",
             "DescriptionCn": "对敌人造成攻击力<?1>伤害\nATG越高造成的伤害越猛烈。",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Dun-Dun-Dun! (Shiro)",
+            "DescriptionVi": "Shiro thả những quả bom sẽ phát nổ sau một thời gian ngắn và gây <?1> sát thương lên kẻ địch trong khu vực hình tròn. Sát thương và số lượng bom được thả sẽ tăng lên khi thanh ATG của Shiro tăng dần.<?2>",
+            "ParametersVi": [
+                [
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "900%"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\nShiro đồng thời cũng sẽ thả bom băng làm giảm 80% <d:MoveSpeed> của kẻ địch bị trúng trong 40s."
+                ]
+            ]
         },
         {
             "Id": "ShiroEx04",
@@ -320,8 +348,34 @@
             "DescriptionTw": "召喚可造成攻擊力<?1>傷害的炸彈。\n對掩蔽物造成攻擊力300%傷害後，如果掩蔽物沒被破壞會往反方向濺出。",
             "NameCn": "滚动吧！！(白)",
             "DescriptionCn": "召唤可造成攻击力<?1>伤害的炸弹。\n对掩蔽物造成攻击力300%伤害后，如果掩蔽物没被破坏会往反方向溅出。",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Tiếp tục lăn đi! (Shiro)",
+            "DescriptionVi": "Triệu hồi một quả bom lăn gây <?1> sát thương lên kẻ địch trên một đường thẳng.\nQuả bom gây 300% sát thương cho các chướng ngại vật trên đường đi của nó. Nếu quả bom va phải một chướng ngại vật không thể bị phá huỷ, quả bom sẽ nảy theo hướng ngược lại về phía Shiro, tăng <?3> cho thanh choáng của Shiro.<?2>",
+            "ParametersVi": [
+                [
+                    "600%",
+                    "600%",
+                    "600%",
+                    "600%",
+                    "600%",
+                    "1500%"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\nNếu một kẻ địch với hiệu ứng <d:MoveSpeed> giảm bị trúng đòn, sẽ nhận thêm <b>600,000</b> sát thương.\nNếu Shiro bị trúng đòn, cũng sẽ tăng thêm 50% <d:DamagedRatio> của Shiro trong 40s."
+                ],
+                [
+                    "43,000",
+                    "80,000",
+                    "110,000",
+                    "200,000",
+                    "1,500,000",
+                    "4,000,000"
+                ]
+            ]
         },
         {
             "Id": "KuroEx01",
@@ -420,8 +474,34 @@
             "DescriptionTw": "對敵人造成攻擊力<?1>傷害\nATG越高造成的傷害越猛烈。",
             "NameCn": "突击-！！！(黑)",
             "DescriptionCn": "对敌人造成攻击力<?1>伤害\nATG越高造成的伤害越猛烈。",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Tấn công! (Kuro)",
+            "DescriptionVi": "Triệu hồi vài trò chơi phổ biến ở công viên gây 500% sát thương lên kẻ địch trên một đường thẳng.\nNếu Kuro bị trúng đòn do bản thân triệu hồi, thanh choáng của Kuro sẽ tăng thêm <?3>.<?2>",
+            "ParametersVi": [
+                [
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "500%"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\nNếu một kẻ địch có hiệu ứng <d:MoveSpeed> giảm bị trúng đòn, sẽ nhận thêm <b>600,000</b> sát thương.\nNếu Kuro bị trúng đòn, cũng sẽ tăng thêm 50% <d:DamagedRatio> của Kuro trong 40s."
+                ],
+                [
+                    "43,000",
+                    "80,000",
+                    "110,000",
+                    "200,000",
+                    "1,500,000",
+                    "4,000,000"
+                ]
+            ]
         },
         {
             "Id": "KuroInasneEx10",
@@ -434,8 +514,8 @@
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null,
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Sự thờ ơ",
+            "DescriptionVi": "Gây 100% sát thương lên kẻ địch và giảm 80% <d:MoveSpeed> của chúng trong 40s."
         },
         {
             "Id": "ShiroKuroPassive01",
@@ -448,8 +528,8 @@
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null,
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Nỗi kinh hoàng của Slumpia",
+            "DescriptionVi": "Giảm 80% <d:HealEffectiveness> đối với tất cả kẻ địch. Loại tác dụng phụ này không thể bị gỡ bỏ."
         },
         {
             "Id": "HieronymusEx01",
