@@ -1203,7 +1203,6 @@
             },
             "WorldRaid": {
                 "PrefabKey": 1074806608,
-                "En": "World Raid",
                 "Cn": "联合作战",
                 "Vi": "Tổng tấn công Liên minh"
             },
@@ -4108,7 +4107,7 @@
                 "Vi": "Vũ khí"
             },
             "ex_gear": {
-                "En": "Gear",
+                "En": "Item",
                 "Jp": "愛用品",
                 "Kr": "애용품",
                 "Th": "อุปกรณ์โปรด",
@@ -4153,11 +4152,11 @@
                 "Vi": "Trang bị"
             },
             "student_ex_gear": {
-                "En": "Favorite Item",
+                "En": "Unique Item",
                 "Jp": "愛用品",
                 "Kr": "애용품",
-                "Th": "อุปกรณ์โปรด",
-                "Tw": "愛用品",
+                "Th": "อุปกรณ์พิเศษ",
+                "Tw": "愛用物品",
                 "Cn": "爱用品",
                 "Vi": "Vật phẩm yêu thích"
             },
@@ -5315,7 +5314,7 @@
                 "Vi": "Được thích {0} bởi các học sinh sau"
             },
             "item_usedby_gear": {
-                "En": "Used to improve the following students' favorite item",
+                "En": "Used to improve the following students' unique item",
                 "Jp": "以下の生徒の愛用品の強化に必要",
                 "Kr": null,
                 "Th": "ใช้การอัปเกรดอุปกรณ์โปรดของนักเรียนดังต่อไปนี้",

@@ -5624,7 +5624,7 @@
         {
             "SkillId": 26007200,
             "NameEn": "Raincloud, On The Way!",
-            "DescriptionEn": "Deploys Ayane riding Raincloud for 30s, with an additional <?1> of Ayane's <b:ATK> and <?2> of Ayane's <b:CriticalChance>. Every 12s, Raincloud activates the skill \"Downpour Missile\", dealing <?3> damage to one enemy. This attack ignores <?4> of the enemy's DEF. Only one tactical support vehicle may be deployed at any given time.",
+            "DescriptionEn": "Deploys Ayane riding Water Cloud for 30s, with an additional <?1> of Ayane's <b:ATK> and <?2> of Ayane's <b:CriticalChance>. Every 12s, Water Cloud activates the skill \"Heavy Rain Missile\", dealing <?3> damage to one enemy. This attack ignores <?4> of the enemy's DEF. Only one tactical support vehicle may be deployed at any given time.",
             "ParametersEn": [
                 [ "12.5%", "17.9%", "27.2%", "35%" , "47.5%" ],
                 [ "12.5%", "16.1%", "21.4%", "26%" , "32.6%" ],
@@ -5634,7 +5634,6 @@
         },
         {
             "SkillId": 36001300,
-            "NameEn": "Downpour Missile",
             "DescriptionEn": "Every 12s, deals <?1> damage to one enemy. This attack ignores <?2> of the enemy's DEF.",
             "ParametersEn": [
                 [
