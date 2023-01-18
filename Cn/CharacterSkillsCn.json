@@ -11827,8 +11827,8 @@
         },
         {
             "SkillId": 10043200,
-            "NameCn": "秘色の花占い",
-            "DescriptionCn": "对一个敌人造成<?1>伤害。 Each hit inflicts <c:Stunned> for <?2> with the final hit inflicting <c:Stunned> for <?3>. (Total 6 hits)",
+            "NameCn": "翡色花点",
+            "DescriptionCn": "对1名敌人造成<?1>攻击力的伤害。\n前五次射击每一击造成<?2><c:Stunned>，最后一击造成<?3><c:Stunned>。",
             "ParametersCn": [
                 [
                     "565%",
@@ -11855,8 +11855,8 @@
         },
         {
             "SkillId": 10043300,
-            "NameCn": "ただ、あなた様のため",
-            "DescriptionCn": "每60秒获得以下效果的一个等级 (最高等级 3)。<b:ATK>提高<?1>/<?2>/<?3>但同时<d:DamagedRatio>增加9.6%/19.2%/28.9%于等级<b>1</b>/<b>2</b>/<b>3</b>",
+            "NameCn": "仅为了你一人",
+            "DescriptionCn": "每60秒发动若藻的执着，虽然会增加受到的伤害，但将增加攻击力（共3阶段）\n<b:ATK>提高<?1>/<?2>/<?3>\n<d:DamagedRatio>增加9.6%/19.2%/28.9%",
             "ParametersCn": [
                 [
                     "21.7%",
@@ -11898,8 +11898,8 @@
         },
         {
             "SkillId": 10043400,
-            "NameCn": "あふれ出す恋心",
-            "DescriptionCn": "<b:ATK>提高<?1>",
+            "NameCn": "无法停下的爱慕",
+            "DescriptionCn": "<b:ATK>增加<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -11917,8 +11917,8 @@
         },
         {
             "SkillId": 10043500,
-            "NameCn": "真夏の情热",
-            "DescriptionCn": "对体力低于30%的敌人额外一击，造成额外的<?1>伤害",
+            "NameCn": "仲夏的热情",
+            "DescriptionCn": "攻击体力低于30%的敌人时，造成<?1>攻击力的额外伤害",
             "ParametersCn": [
                 [
                     "51.6%",
@@ -11936,8 +11936,8 @@
         },
         {
             "SkillId": 10043450,
-            "NameCn": "あふれ出す恋心+",
-            "DescriptionCn": "<b:ATK>提高<?1>+额外<?2>",
+            "NameCn": "仲夏的热情+",
+            "DescriptionCn": "<b:ATK>增加<?1>+额外<?2>",
             "ParametersCn": [
                 [
                     "442",
@@ -12076,8 +12076,8 @@
         },
         {
             "SkillId": 26007200,
-            "NameCn": "雨云号、出击します！",
-            "DescriptionCn": "茜乘着雨云号入场，雨云号拥有茜<?1><b:ATK>与<?2><b:CriticalChance>(30秒内)。每12秒雨云号触发\"Downpour Missile\"技能，对一个敌人造成<?3>伤害。此攻击无视敌人<?4>防御力。任何时候场上只能存在一台战术支援(T.S.)载具",
+            "NameCn": "乌云号，出击！",
+            "DescriptionCn": "绫音搭乘乌云号在战斗中入场，乌云号将追加拥有绫音<?1><b:ATK>与<?2><b:CriticalChance>(30秒内)。\n乌云号每12秒发射“豪雨导弹”，对1名敌人造成<?3><b:ATK>伤害。此攻击无视敌人<?4><b:DEF>。（战术支援载具不会重复出现）",
             "ParametersCn": [
                 [
                     "12.5%",
@@ -12111,8 +12111,8 @@
         },
         {
             "SkillId": 26007300,
-            "NameCn": "空からの支援",
-            "DescriptionCn": "每30秒对一个敌人造成<?1>伤害。此伤害无视敌人<?2>防御力",
+            "NameCn": "空中支援",
+            "DescriptionCn": "每30秒对1名敌人造成<?1><b:ATK>的伤害。此伤害无视敌人<?2><b:DEF>。",
             "ParametersCn": [
                 [
                     "148%",
@@ -12142,7 +12142,7 @@
         },
         {
             "SkillId": 26007400,
-            "NameCn": "自动照准",
+            "NameCn": "自动瞄准",
             "DescriptionCn": "<b:CriticalChance>增加<?1>",
             "ParametersCn": [
                 [
@@ -12161,8 +12161,8 @@
         },
         {
             "SkillId": 26007500,
-            "NameCn": "戦况把握",
-            "DescriptionCn": "提升全体友军<?1><b:CriticalDamage>",
+            "NameCn": "掌握战况",
+            "DescriptionCn": "我军<b:CriticalDamage>提升<?1>",
             "ParametersCn": [
                 [
                     "9.1%",
@@ -12180,7 +12180,7 @@
         },
         {
             "SkillId": 26007450,
-            "NameCn": "自动照准+",
+            "NameCn": "自动瞄准+",
             "DescriptionCn": "<b:CriticalChance>增加<?1>+额外<?2>",
             "ParametersCn": [
                 [
