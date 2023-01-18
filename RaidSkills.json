@@ -792,11 +792,11 @@
             "DescriptionVi": "Khi một thánh vật được chữa lành tới 100% HP, bản thân nó sẽ hấp thụ 95% HP và giảm 50% <d:HealEffectiveness> trong 20s. Kích hoạt một trong các hiệu ứng sau tuỳ thuộc vào thánh vật:\n<b>Thánh vật màu xanh</b>: Tăng <d:DamagedRatio> của Hieronymus lên 55% cho đến khi kết thúc màn chơi. Hiệu ứng có thể cộng dồn tối đa 5 lần.<?1>",
             "ParametersVi": [
                 [
-                    "\n<b>Thánh vật màu đỏ/b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, fills Hieronymus's groggy gauge to the maximum and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
-                    "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, fills Hieronymus's groggy gauge to the maximum and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
-                    "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, fills Hieronymus's groggy gauge to the maximum and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
-                    "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, fills Hieronymus's groggy gauge to the maximum and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
-                    "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, fills Hieronymus's groggy gauge to the maximum and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
+                    "\n<b>Thánh vật màu đỏ/b>: Làm gián đoạn kỹ năng đang triển khai của Hieronymus. Nếu kỹ năng bị ngắt thành công, thanh choáng của Hieronymus sẽ đạt đến mức tối đa và tăng thêm <b>2500</b> <b:CostRegen> cho tối đa 4 học sinh trong 1s.",
+                    "\n<b>Thánh vật màu đỏ/b>: Làm gián đoạn kỹ năng đang triển khai của Hieronymus. Nếu kỹ năng bị ngắt thành công, thanh choáng của Hieronymus sẽ đạt đến mức tối đa và tăng thêm <b>2500</b> <b:CostRegen> cho tối đa 4 học sinh trong 1s.",
+                    "\n<b>Thánh vật màu đỏ/b>: Làm gián đoạn kỹ năng đang triển khai của Hieronymus. Nếu kỹ năng bị ngắt thành công, thanh choáng của Hieronymus sẽ đạt đến mức tối đa và tăng thêm <b>2500</b> <b:CostRegen> cho tối đa 4 học sinh trong 1s.",
+                    "\n<b>Thánh vật màu đỏ/b>: Làm gián đoạn kỹ năng đang triển khai của Hieronymus. Nếu kỹ năng bị ngắt thành công, thanh choáng của Hieronymus sẽ đạt đến mức tối đa và tăng thêm <b>2500</b> <b:CostRegen> cho tối đa 4 học sinh trong 1s.",
+                    "\n<b>Thánh vật màu đỏ/b>: Làm gián đoạn kỹ năng đang triển khai của Hieronymus. Nếu kỹ năng bị ngắt thành công, thanh choáng của Hieronymus sẽ đạt đến mức tối đa và tăng thêm <b>2500</b> <b:CostRegen> cho tối đa 4 học sinh trong 1s.",
                     ""
                 ]
             ]
@@ -812,8 +812,8 @@
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null,
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Ánh sáng tà ác (Thánh vật)",
+            "DescriptionVi": ""
         },
         {
             "Id": "KaitenFxMk0ExSkill01",
