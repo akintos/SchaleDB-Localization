@@ -5412,6 +5412,24 @@
                 "Cn": "包含以下装备碎片之一：",
                 "Vi": "Chứa một trong các phần trang bị sau:"
             },
+            "item_contains_random": {
+                "En": "Randomly rewards one of the following items",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
+            },
+            "item_contains_choice": {
+                "En": "Rewards a choice of one of the following items",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
+            },
             "conquest_area": {
                 "En": "Area {0}",
                 "Jp": "エリア{0}",
