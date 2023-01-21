@@ -867,6 +867,7 @@
                 "En": "Character EXP",
                 "Jp": "キャラクターEXP",
                 "Kr": null,
+                "Th": "EXP ตัวละคร",
                 "Tw": "角色經驗",
                 "Cn": "角色经验",
                 "Vi": "EXP nhân vật"
@@ -5317,7 +5318,7 @@
                 "En": "Used to improve the following students' unique item",
                 "Jp": "以下の生徒の愛用品の強化に必要",
                 "Kr": null,
-                "Th": "ใช้การอัปเกรดอุปกรณ์โปรดของนักเรียนดังต่อไปนี้",
+                "Th": "ใช้การอัปเกรดอุปกรณ์พิเศษของนักเรียนดังต่อไปนี้",
                 "Tw": "用於强化以下學生的愛用品",
                 "Cn": "用于强化以下学生的爱用品",
                 "Vi": "Dùng để cải thiện món đồ yêu thích của các học sinh sau"
@@ -5416,7 +5417,7 @@
                 "En": "Randomly rewards one of the following items",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "สุ่มรับหนึ่งในบรรดาไอเทมดังต่อไปนี้",
                 "Tw": null,
                 "Cn": null,
                 "Vi": null
@@ -5425,7 +5426,7 @@
                 "En": "Rewards a choice of one of the following items",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เลือกรับหนึ่งในบรรดาไอเทมดังต่อไปนี้",
                 "Tw": null,
                 "Cn": null,
                 "Vi": null
@@ -5821,7 +5822,7 @@
                 "En": "Schale is currently available in 6 languages. Want to help translate? Please get in touch via Discord (lonqie#2708) or check out the <a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">localization project</a>!",
                 "Jp": "現在Schaleは6つの言語で利用できます。翻訳を支援したい方はDiscord（lonqie#2708）経由でご連絡いただくか<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">ローライズプロジェクトサイト</a>をご確認ください。",
                 "Kr": null,
-                "Th": "ในปัจจุบัน Schale สามารถใช้งานได้ใน 6 ภาษา อยากให้ความช่วยเหลือในการแปลภาษา? กรุณาติดต่อได้ทาง Discord (lonqie#2708) หรือลองเข้าไปตรวจสอบใน<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">โปรเจคแปลภาษา</a>ได้เลย! ",
+                "Th": "ในปัจจุบัน Schale สามารถใช้งานได้ใน 6 ภาษา อยากให้ความช่วยเหลือในการแปลภาษา? ติดต่อได้ทาง Discord (lonqie#2708) หรือลองเข้าไปตรวจสอบใน<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">โปรเจคแปลภาษา</a>ได้เลย! ",
                 "Tw": "Schale 目前支援6種語言。如果你想幫忙翻譯請透過Discord(lonqie#2708)聯係或查看<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">本地化項目</a>！",
                 "Cn": "Schale 目前支持6种语言。如果你想帮助翻译请通过Discord(lonqie#2708)联系或查看<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\" target=\"_blank\">本地化项目</a>！",
                 "Vi": "Schale DB hiện đã có sẵn 6 ngôn ngữ + 1 ngôn ngữ đang phát triển (tiếng Việt). Muốn góp phần cho bản dịch này? Vui lòng liên hệ qua Discord: Miyakami.#9666."
@@ -5840,7 +5841,7 @@
                 "Jp": "Schaleはlonqieによって開発・運営されています。また、Blue-Roar、TKRotundおよびGedankeから翻訳の支援を受けています。\nSchaleはNexon、Nexon GamesおよびYostarとは一切関係ありません。当データベースで使用されているゲーム画像、情報ならびにアセットの所有権および著作権はそれぞれの権利者に帰属します。",
 
                 "Kr": null,
-                "Th": "Schale พัฒนาและอัปเดทโดย lonqie โดยได้รับความช่วยเหลือในการแปลภาษาเพิ่มเติมจาก Blue-Roar, TKRotund และ Gedanke\nSchale นั้นไม่ได้มีส่วนเกี่ยวข้องใดๆ กับทาง Nexon, Nexon Games หรือ Yostar รูปภาพและข้อมูลต่างๆ ที่ใช้ในฐานข้อมูลนี้ถือเป็นสมบัติและทรัพย์สินทางปัญญาของผู้ถือครองลิขสิทธิ์ดั้งเดิม",
+                "Th": "Schale พัฒนาและอัปเดทโดย lonqie โดยได้รับความช่วยเหลือในการแปลภาษาเพิ่มเติมจาก Blue-Roar, TKRotund, Gedanke และ Yumiruuwu\nSchale นั้นไม่ได้มีส่วนเกี่ยวข้องใดๆ กับทาง Nexon, Nexon Games หรือ Yostar รูปภาพและข้อมูลต่างๆ ที่ใช้ในฐานข้อมูลนี้ถือเป็นสมบัติและทรัพย์สินทางปัญญาของผู้ถือครองลิขสิทธิ์ดั้งเดิม",
                 "Tw": "Schale 由 lonqie 開發與維護，Blue-Roar、TKRotund 与 Gedanke 提供額外翻譯。\nSchale 與 Yostar、Nexon、Nexon Games 沒有關聯。本數據庫中使用的所有游戲作品、信息和素材均爲各自作者的財產和版權。",
                 "Cn": "Schale 由 lonqie 开发与维护，Blue-Roar、TKRotund 与 Gedanke 提供额外翻译。\nSchale 与 Yostar、Nexon、Nexon Games 没有关联。本数据库中使用的所有游戏作品、信息和素材均为各自作者的财产和版权。",
                 "Vi": "Schale DB được phát triển và duy trì bởi lonqie, với công việc dịch thuật bổ sung của Blue-Roar & TKRotund. Phiên bản tiếng Việt do Mykm và các thành viên thuộc tổ chức yumiruuwu cung cấp.\nSchale DB không liên kết với Nexon, Nexon Games hoặc Yostar. Tất cả tác phẩm nghệ thuật, thông tin và nội dung trò chơi được sử dụng trong cơ sở dữ liệu này là tài sản và bản quyền của các tác giả tương ứng."
