@@ -175,6 +175,11 @@
             "DescriptionEn": "This can create cafe furniture. (Sports Day theme)"
         },
         {
+            "Key": 2579008865,
+            "NameEn": "Abydos Classroom Set",
+            "DescriptionEn": "This can create cafe furniture. (Abydos Classroom theme)"
+        },
+        {
             "Key": 2853680747,
             "NameEn": "Jade Plant",
             "DescriptionEn": "This can create water play gifts."
@@ -701,6 +706,18 @@
             "NameEn": "Mine"
         },
         {
+            "Key": 1144536568,
+            "NameEn": "Mika"
+        },
+        {
+            "Key": 1732913011,
+            "NameEn": "Megu"
+        },
+        {
+            "Key": 1050184652,
+            "NameEn": "Kanna"
+        },
+        {
             "Key": 1311123432,
             "NameEn": "Light Sweeper",
             "DescriptionEn": ""
@@ -824,6 +841,10 @@
             "Key": 3800106674,
             "NameEn": "Premium Ingredients Transport",
             "DescriptionEn": "(X)"
+        },
+        {
+            "Key": 3304586473,
+            "NameEn": "Binah (Colorful)"
         },
         {
             "Key": 493517636,
@@ -1047,7 +1068,7 @@
             "Key": 3153525398,
             "Force": true,
             "NameEn": "Scarecrow State Change",
-            "DescriptionEn": "Every 20s, the Scarecrow will alternate between two states.\n<b><d:HealedLimit> State</b>: The Scarecrow's HP will not recover and will instead deal 10,000 damage to all allies when healed.\n<b>Normal State</b>: The Scarecrow's HP will recover as normal when healed."
+            "DescriptionEn": "Every 20s, the Scarecrow will alternate between two states.\n<b>Debuffed State</b>: The Scarecrow has a <d:HealedLimit> that reduces HP restored to 1, and deals 10,000 damage to all allies each time it is healed.\n<b>Normal State</b>: The Scarecrow's HP will recover as normal when healed."
         },
         {
             "Key": 3902330525,

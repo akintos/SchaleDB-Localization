@@ -382,6 +382,18 @@
                 "Cn": "阿里乌斯小队",
                 "Vi": "Biệt đội Arius"
             },
+            "HotSpringsDepartment": {
+                "ScenarioKey": 3522220440,
+                "En": "Hot Springs Department"
+            },
+            "TeaParty": {
+                "ScenarioKey": 1961436132,
+                "En": "Tea Party"
+            },
+            "PublicPeaceBureau": {
+                "ScenarioKey": 1099365500,
+                "En": "Public Peace Bureau"
+            },
             "EmptyClub": {
                 "ScenarioKey": 3385575796,
                 "Cn": "无",
@@ -534,6 +546,9 @@
                 "Cn": "移速",
                 "Th": "ความเร็วเคลื่อนที่",
                 "Vi": "Tốc độ di chuyển"
+            },
+            "DamageRatio": {
+                "En": "Damage Dealt"
             },
             "DamagedRatio": {
                 "En": "Incoming DMG RES",
@@ -752,6 +767,10 @@
                 "En": "Sports Day Set",
                 "Cn": "运动会组合",
                 "Vi": "Bộ hội thao"
+            },
+            "110": {
+                "EtcKey": 4141233484,
+                "En": "Abydos Classroom Set"
             }
         },
         "ItemCategory": {
@@ -1683,6 +1702,15 @@
                 "Cn": "遭受伤害量",
                 "Vi": "Sát thương phải chịu"
             },
+            "Buff_DamageRatio": {
+                "En": "Damage Dealt",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
+            },
             "Buff_DEF": {
                 "En": "DEF",
                 "Jp": "防御力",
@@ -2004,6 +2032,15 @@
                 "Tw": "遭受的傷害量",
                 "Cn": "遭受的伤害量",
                 "Vi": "Sát thương phải chịu"
+            },
+            "Debuff_DamageRatio": {
+                "En": "Damage Dealt",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
             },
             "Debuff_DEF": {
                 "En": "DEF",
@@ -2442,6 +2479,15 @@
                 "Cn": "遭受伤害量降低",
                 "Vi": "Sát thương phải chịu giảm"
             },
+            "Buff_DamageRatio": {
+                "En": "Damage Dealt Up",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
+            },
             "Buff_DEF": {
                 "En": "DEF Up",
                 "Jp": "防御力増加",
@@ -2731,6 +2777,15 @@
                 "Tw": "遭受的傷害量增加",
                 "Cn": "遭受的伤害量增加",
                 "Vi": "Sát thương phải chịu tăng"
+            },
+            "Debuff_DamageRatio": {
+                "En": "Damage Dealt Down",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
             },
             "Debuff_DEF": {
                 "En": "DEF Down",
@@ -3124,6 +3179,15 @@
                 "Th": "ลดความเสียหายที่ได้รับลงเป็นเปอร์เซ็นต์",
                 "Vi": "Giảm tất cả sát thương nhận vào theo phần trăm."
             },
+            "Buff_DamageRatio": {
+                "En": "Increases all damage dealt by a percentage amount.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
+            },
             "Buff_DEF": {
                 "En": "Decreases the damage received from attacks.",
                 "Jp": "攻撃によって受けるダメージを減少する。",
@@ -3351,6 +3415,15 @@
                 "Jp": "すべての被ダメージを一定の割合増加する。",
                 "Th": "เพิ่มความเสียหายที่ได้รับขึ้นเป็นเปอร์เซ็นต์",
                 "Vi": "Tăng tất cả sát thương nhận vào theo phần trăm."
+            },
+            "Debuff_DamageRatio": {
+                "En": "Decreases all damage dealt by a percentage amount.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
             },
             "Debuff_DEF": {
                 "En": "Increases the damage received from attacks.",
@@ -5314,6 +5387,33 @@
                 "Cn": "被以下学生喜欢 {0}",
                 "Vi": "Được thích {0} bởi các học sinh sau"
             },
+            "item_student_favor": {
+                "En": "+{0} Relationship EXP {1} when given to the following students",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
+            },
+            "item_student_favor_default": {
+                "En": "+{0} Relationship EXP {1} when given to any other student",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
+            },
+            "item_student_favor_all": {
+                "En": "+{0} Relationship EXP {1} when given to any student",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
+            },
             "item_usedby_gear": {
                 "En": "Used to improve the following students' unique item",
                 "Jp": "以下の生徒の愛用品の強化に必要",
@@ -5340,6 +5440,24 @@
                 "Tw": "被以下學生使用",
                 "Cn": "被以下学生使用",
                 "Vi": "Được sử dụng bởi các học sinh sau"
+            },
+            "item_usedby_exskill_amount": {
+                "En": "Needed for EX Skill: {0}",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
+            },
+            "item_usedby_skill_amount": {
+                "En": "Needed for Basic/Enhanced/Sub Skill: {0}",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
             },
             "item_usedby_skill": {
                 "En": "Used to improve the following students' skills",
@@ -5427,6 +5545,15 @@
                 "Jp": null,
                 "Kr": null,
                 "Th": "เลือกรับหนึ่งในบรรดาไอเทมดังต่อไปนี้",
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
+            },
+            "item_is_immediateuse": {
+                "En": "※ This item is used immediately when acquired",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
                 "Tw": null,
                 "Cn": null,
                 "Vi": null

@@ -1763,6 +1763,48 @@
             "CharacterVoiceCn": "堀江由衣",
             "WeaponNameCn": "救护的证明",
             "WeaponDescCn": "美祢的霰弹枪。\n\n她主张“救护有时具有两面性”。也许这件武器正是她主张的依据……"
+        },
+        {
+            "CharacterId": 10059,
+            "FamilyNameCn": "聖園",
+            "PersonalNameCn": "ミカ",
+            "SchoolYearCn": "3年生",
+            "CharacterAgeCn": "17歳",
+            "BirthdayCn": "5月8日",
+            "CharacterSSRNewCn": "うん、お待たせ！\nこれからはなんでも私に任せてね☆",
+            "ProfileIntroductionCn": "トリニティ総合学園所属、トリニティを構成している生徒連合「パテル」の元リーダーだった少女。\n\n元ティーパーティーの一人で、リーダーであるナギサとは幼馴染でもある。しかし、政治的には対立している立場のため、公私の区別はしっかりしている。いつも楽しそうに笑い、無邪気な姿を見せる彼女だが、人に言えない悩みを胸の裡に抱えているらしい。",
+            "HobbyCn": "おしゃべり、アクセサリー集め",
+            "CharacterVoiceCn": "東山奈央",
+            "WeaponNameCn": "Quis ut Deus",
+            "WeaponDescCn": "ミカが愛用するサブマシンガン。\n\n何の変哲もないトリニティ製サブマシンガンを、ミカが心を込めて飾ったもの。今は暗闇の中でも星のように輝く特別な外観持つようになった。いつでもどこでもミカのために活躍する。"
+        },
+        {
+            "CharacterId": 10060,
+            "FamilyNameCn": "下倉",
+            "PersonalNameCn": "メグ",
+            "SchoolYearCn": "3年生",
+            "CharacterAgeCn": "17歳",
+            "BirthdayCn": "4月25日",
+            "CharacterSSRNewCn": "障害物？私に任せて！撤去しちゃうよ～！",
+            "ProfileIntroductionCn": "ゲヘナ学園所属、温泉開発部の心臓であり、開発現場の作業班長。\n\nすべての問題事を「撤去する」ことで解決できると心の底から信じている。豪快で竹を割ったような性格、抜群の撤去能力で温泉開発部員から厚い信頼を得ている。",
+            "HobbyCn": "撤去",
+            "CharacterVoiceCn": "愛原ありさ",
+            "WeaponNameCn": "メグマパワー！",
+            "WeaponDescCn": "現場ではメグと一心同体と言っても過言ではない、メグ専用の火炎放射器。\n\nものすごい熱を放つため、他の人は手に負えないしろもの。独特な名前は、他人に言われた言葉遊びを気に入ってそのまま名付けたもの。"
+        },
+        {
+            "CharacterId": 20023,
+            "FamilyNameCn": "尾刃",
+            "PersonalNameCn": "カンナ",
+            "SchoolYearCn": "3年生",
+            "CharacterAgeCn": "17歳",
+            "BirthdayCn": "9月7日",
+            "CharacterSSRNewCn": "市民のため、誠心誠意奉仕します",
+            "ProfileIntroductionCn": "ヴァルキューレ警察学校所属、公安局の局長を務める生徒。\n\n担当すると決めた犯罪に対して、諦めるという文字を知らないほどに執拗に聞き込み、真相を明らかにすることから世間では「狂犬」というあだ名で知られている。固い空気とあだ名のせいで激情型だと誤解されがちだが、実際は常に冷静で、現実的な価値観の持ち主である。",
+            "HobbyCn": "読書、映画鑑賞（推理もの）",
+            "CharacterVoiceCn": "松岡美里",
+            "WeaponNameCn": "第17号ヴァルキューレ制式拳銃",
+            "WeaponDescCn": "ヴァルキューレ警察学校から支給されている制式拳銃。\n\nシンプルなデザインだが、軽くて操作が簡単なため、現場出動より書類仕事が多いカンナは、この拳銃を愛用している。"
         }
     ]
 }
