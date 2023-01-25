@@ -385,16 +385,19 @@
             "HotSpringsDepartment": {
                 "ScenarioKey": 3522220440,
                 "En": "Hot Springs Department",
+                "Th": "ชมรมพัฒนาบ่อน้ำพุร้อน",
                 "Cn": "温泉开发部"
             },
             "TeaParty": {
                 "ScenarioKey": 1961436132,
                 "En": "Tea Party",
+                "Th": "สภาน้ำชา",
                 "Cn": "茶会"
             },
             "PublicPeaceBureau": {
                 "ScenarioKey": 1099365500,
                 "En": "Public Peace Bureau",
+                "Th": "กรมความมั่นคงสาธารณะ",
                 "Cn": "公安局"
             },
             "EmptyClub": {
@@ -552,6 +555,7 @@
             },
             "DamageRatio": {
                 "En": "Damage Dealt",
+                "Th": "ความเสียหายที่ทำได้",
                 "Cn": "造成伤害"
             },
             "DamagedRatio": {
@@ -1140,7 +1144,6 @@
             "814": {
                 "ScenarioKey": 784454923,
                 "En": "Abydos Resort Restoration Task Force",
-                "Th": "คณะกรรมการแผนงานฟื้นฟูอบิดอส รีสอร์ต",
                 "Cn": "阿拜多斯避暑复旧对策委员会",
                 "Vi": "Lực lượng đặc nhiệm khôi phục khu nghỉ dưỡng Abydos"
             },
@@ -1710,7 +1713,7 @@
                 "En": "Damage Dealt",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ความเสียหายที่ทำได้",
                 "Tw": null,
                 "Cn": "造成伤害",
                 "Vi": null
@@ -2041,7 +2044,7 @@
                 "En": "Damage Dealt",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ความเสียหายที่ทำได้",
                 "Tw": null,
                 "Cn": "造成伤害",
                 "Vi": null
@@ -2487,7 +2490,7 @@
                 "En": "Damage Dealt Up",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ความเสียหายที่ทำได้เพิ่มขึ้น",
                 "Tw": null,
                 "Cn": "造成伤害增加",
                 "Vi": null
@@ -2786,7 +2789,7 @@
                 "En": "Damage Dealt Down",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ความเสียหายที่ทำได้ลดลง",
                 "Tw": null,
                 "Cn": "造成伤害降低",
                 "Vi": null
@@ -3187,7 +3190,7 @@
                 "En": "Increases all damage dealt by a percentage amount.",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เพิ่มความเสียหายที่ทำได้เป็นเปอร์เซ็นต์",
                 "Tw": null,
                 "Cn": "以百分比率提升所有造成的伤害。",
                 "Vi": null
@@ -3424,7 +3427,7 @@
                 "En": "Decreases all damage dealt by a percentage amount.",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ลดความเสียหายที่ทำได้เป็นเปอร์เซ็นต์",
                 "Tw": null,
                 "Cn": "以百分比率减少所有造成的伤害。",
                 "Vi": null
@@ -3615,7 +3618,7 @@
                 "En": "All damage dealt to this target for the duration of the effect will be accumulated and dealt again as an additional hit once this expires.",
                 "Jp": "効果時間内にダメージ蓄積状態の対象に与えられたダメージは蓄積し、効果時間終了時に再び蓄積分のダメージを与える。",
                 "Cn": "效果持续期间对该目标造成的所有伤害将被累积，并在效果过期后作为额外打击再次造成伤害。",
-                "Th": "ทุกความเสียหายที่ทำใส่เป้าหมายในระยะเวลาของเอฟเฟกต์นี้จะถูกสะสมและเปลี่ยนเป็นความเสียหายลึกลับเพิ่มเติมใส่เป้าหมายอีกครั้งเมื่อระยะเวลาของเอฟเฟกต์นี้จบลง",
+                "Th": "ทุกความเสียหายที่ทำใส่เป้าหมายในระยะเวลาของเอฟเฟกต์นี้จะถูกสะสมและเปลี่ยนเป็นความเสียหายเพิ่มเติมใส่เป้าหมายอีกครั้งเมื่อระยะเวลาของเอฟเฟกต์นี้จบลง",
                 "Vi": "Tất cả sát thương gây ra cho mục tiêu này trong thời gian hiệu ứng sẽ được cộng dồn và gây lại như một đòn đánh bổ sung sau khi hết hiệu lực."
             },
             "Special_CostRegenBan": {
@@ -4017,7 +4020,7 @@
                 "En": "Data can be imported from Schale or <a href=\"https://justin163.com/planner/\">Justin163's resource planner</a>. (Select Transfer > Export)",
                 "Jp": "Schaleまたは<a href=\"https://justin163.com/planner/\">Justin163's resource planner</a>から生徒データをインポートすることができます。 (Resource Planner下部の[Transfer]から[Export]を選択)",
                 "Kr": null,
-                "Th": null,
+                "Th": "ข้อมูลสามารถนำเข้ามาจาก SchaleDB หรือ <a href=\"https://justin163.com/planner/\">Justin163's resource planner</a> ได้ (เลือก Transfer > Export)",
                 "Tw": "數據可以從 Schale 或 <a href=\"https://justin163.com/planner/\">Justin163's resource planner</a> 導入。(選擇傳輸 > 導出)",
                 "Cn": "数据可以从 Schale 或 <a href=\"https://justin163.com/planner/\">Justin163's resource planner</a> 导入。(选择传输 > 导出)",
                 "Vi": null
@@ -4035,7 +4038,7 @@
                 "En": "Export data for {0} students found.",
                 "Jp": "{0}名分の生徒データがあります。",
                 "Kr": null,
-                "Th": null,
+                "Th": "พบข้อมูลส่งออกสำหรับนักเรียน {0} คน",
                 "Tw": "找到了{0}個學生的數據。",
                 "Cn": "找到了{0}个学生的数据。",
                 "Vi": null
@@ -4044,7 +4047,7 @@
                 "En": "Export data is invalid.",
                 "Jp": "データ形式が不正です。",
                 "Kr": null,
-                "Th": null,
+                "Th": "ข้อมูลส่งออกไม่ถูกต้อง",
                 "Tw": "導出數據無效。",
                 "Cn": "导出数据无效。",
                 "Vi": null
@@ -5395,7 +5398,7 @@
                 "En": "+{0} Relationship EXP {1} when given to the following students",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เพิ่มค่าความสัมพันธ์ {0} {1} เมื่อมอบให้กับนักเรียนดังต่อไปนี้",
                 "Tw": null,
                 "Cn": "{1} 当赠予以下学生时 +{0} 羁绊经验",
                 "Vi": null
@@ -5404,7 +5407,7 @@
                 "En": "+{0} Relationship EXP {1} when given to any other student",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เพิ่มค่าความสัมพันธ์ {0} {1} เมื่อมอบให้กับนักเรียนคนอื่นๆ",
                 "Tw": null,
                 "Cn": "{1} 当赠予任何其他学生时 +{0} 羁绊经验",
                 "Vi": null
@@ -5413,7 +5416,7 @@
                 "En": "+{0} Relationship EXP {1} when given to any student",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เพิ่มค่าความสัมพันธ์ {0} {1} เมื่อมอบให้กับนักเรียนทุกคน",
                 "Tw": null,
                 "Cn": "{1} 当赠予任何学生时 +{0} 羁绊经验",
                 "Vi": null
@@ -5422,7 +5425,7 @@
                 "En": "Used to improve the following students' unique item",
                 "Jp": "以下の生徒の愛用品の強化に必要",
                 "Kr": null,
-                "Th": "ใช้การอัปเกรดอุปกรณ์พิเศษของนักเรียนดังต่อไปนี้",
+                "Th": "ใช้ในการอัปเกรดอุปกรณ์พิเศษของนักเรียนดังต่อไปนี้",
                 "Tw": "用於强化以下學生的愛用品",
                 "Cn": "用于强化以下学生的爱用品",
                 "Vi": "Dùng để cải thiện món đồ yêu thích của các học sinh sau"
@@ -5449,7 +5452,7 @@
                 "En": "Needed for EX Skill: {0}",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ใช้ในการอัปเกรดสกิล EX: {0}",
                 "Tw": null,
                 "Cn": "EX技能需要：{0}",
                 "Vi": null
@@ -5458,7 +5461,7 @@
                 "En": "Needed for Basic/Enhanced/Sub Skill: {0}",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "ใช้ในการอัปเกรดสกิลพื้นฐาน/ติดตัว/รอง: {0}",
                 "Tw": null,
                 "Cn": "基本/增强/子技能需要：{0}",
                 "Vi": null
@@ -5557,7 +5560,7 @@
                 "En": "※ This item is used immediately when acquired",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "※ ไอเทมนี้จะถูกใช้งานทันทีที่ได้รับ",
                 "Tw": null,
                 "Cn": "※ 此物品在获得后立刻被使用",
                 "Vi": null
