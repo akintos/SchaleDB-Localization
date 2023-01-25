@@ -384,15 +384,18 @@
             },
             "HotSpringsDepartment": {
                 "ScenarioKey": 3522220440,
-                "En": "Hot Springs Department"
+                "En": "Hot Springs Department",
+                "Cn": "温泉开发部"
             },
             "TeaParty": {
                 "ScenarioKey": 1961436132,
-                "En": "Tea Party"
+                "En": "Tea Party",
+                "Cn": "茶会"
             },
             "PublicPeaceBureau": {
                 "ScenarioKey": 1099365500,
-                "En": "Public Peace Bureau"
+                "En": "Public Peace Bureau",
+                "Cn": "公安局"
             },
             "EmptyClub": {
                 "ScenarioKey": 3385575796,
@@ -548,7 +551,8 @@
                 "Vi": "Tốc độ di chuyển"
             },
             "DamageRatio": {
-                "En": "Damage Dealt"
+                "En": "Damage Dealt",
+                "Cn": "造成伤害"
             },
             "DamagedRatio": {
                 "En": "Incoming DMG RES",
@@ -673,7 +677,7 @@
                 "Kr": null,
                 "Th": "เกจมึนงง",
                 "Tw": null,
-                "Cn": null,
+                "Cn": "眩晕量表",
                 "Vi": null
             },
             "GroggyTime": {
@@ -682,7 +686,7 @@
                 "Kr": null,
                 "Th": "ระยะเวลามึนงง",
                 "Tw": null,
-                "Cn": null,
+                "Cn": "眩晕持续时间",
                 "Vi": null
             }
         },
@@ -1582,7 +1586,7 @@
                 "Kr": null,
                 "Th": "หัวใจแห่งการบรรเทาทุกข์",
                 "Tw": null,
-                "Cn": null,
+                "Cn": "准备急救",
                 "Vi": null
             },
             "Buff_AmmoCount": {
@@ -1708,7 +1712,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "造成伤害",
                 "Vi": null
             },
             "Buff_DEF": {
@@ -2039,7 +2043,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "造成伤害",
                 "Vi": null
             },
             "Debuff_DEF": {
@@ -2351,7 +2355,7 @@
                 "Kr": "칭찬 도장",
                 "Th": "แสตมป์ดอกไม้",
                 "Tw": null,
-                "Cn": null,
+                "Cn": "花丸印记",
                 "Vi": "Dấu hoa"
             },
             "Special_Holiday": {
@@ -2371,7 +2375,7 @@
                 "Kr": null,
                 "Th": "หัวใจแห่งการบรรเทาทุกข์",
                 "Tw": null,
-                "Cn": null,
+                "Cn": "准备急救",
                 "Vi": null
             },
             "Buff_AmmoCount": {
@@ -2485,7 +2489,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "造成伤害增加",
                 "Vi": null
             },
             "Buff_DEF": {
@@ -2784,7 +2788,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "造成伤害降低",
                 "Vi": null
             },
             "Debuff_DEF": {
@@ -3068,7 +3072,7 @@
                 "Jp": "花丸スタンプ",
                 "Kr": "칭찬 도장",
                 "Tw": null,
-                "Cn": null,
+                "Cn": "花丸印记",
                 "Vi": "Dấu hoa"
             },
             "Special_Holiday": {
@@ -3185,7 +3189,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "以百分比率提升所有造成的伤害。",
                 "Vi": null
             },
             "Buff_DEF": {
@@ -3422,7 +3426,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "以百分比率减少所有造成的伤害。",
                 "Vi": null
             },
             "Debuff_DEF": {
@@ -5393,7 +5397,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "{1} 当赠予以下学生时 +{0} 羁绊经验",
                 "Vi": null
             },
             "item_student_favor_default": {
@@ -5402,7 +5406,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "{1} 当赠予任何其他学生时 +{0} 羁绊经验",
                 "Vi": null
             },
             "item_student_favor_all": {
@@ -5411,7 +5415,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "{1} 当赠予任何学生时 +{0} 羁绊经验",
                 "Vi": null
             },
             "item_usedby_gear": {
@@ -5447,7 +5451,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "EX技能需要：{0}",
                 "Vi": null
             },
             "item_usedby_skill_amount": {
@@ -5456,7 +5460,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "基本/增强/子技能需要：{0}",
                 "Vi": null
             },
             "item_usedby_skill": {
@@ -5537,7 +5541,7 @@
                 "Kr": null,
                 "Th": "สุ่มรับหนึ่งในบรรดาไอเทมดังต่อไปนี้",
                 "Tw": null,
-                "Cn": null,
+                "Cn": "随机奖励以下物品中的一件",
                 "Vi": null
             },
             "item_contains_choice": {
@@ -5546,7 +5550,7 @@
                 "Kr": null,
                 "Th": "เลือกรับหนึ่งในบรรดาไอเทมดังต่อไปนี้",
                 "Tw": null,
-                "Cn": null,
+                "Cn": "选择以下物品中的一件为奖励",
                 "Vi": null
             },
             "item_is_immediateuse": {
@@ -5555,7 +5559,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "※ 此物品在获得后立刻被使用",
                 "Vi": null
             },
             "conquest_area": {
