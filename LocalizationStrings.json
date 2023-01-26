@@ -3045,7 +3045,7 @@
             "Special_Accumulation": {
                 "En": "DMG Accumulation",
                 "Jp": "ダメージ蓄積状態",
-                "Th": "ความเสียหายสะสม",
+                "Th": "สะสมความเสียหาย",
                 "Tw": "傷害累積",
                 "Cn": "累积伤害",
                 "Vi": "Tích luỹ sát thương"
@@ -3196,7 +3196,7 @@
                 "En": "Increases all damage dealt by a percentage amount.",
                 "Jp": null,
                 "Kr": null,
-                "Th": "เพิ่มความเสียหายที่ทำได้เป็นเปอร์เซ็นต์",
+                "Th": "เพิ่มความเสียหายที่ทำได้ขึ้นเป็นเปอร์เซ็นต์",
                 "Tw": null,
                 "Cn": "以百分比率提升所有造成的伤害。",
                 "Vi": null
@@ -3433,7 +3433,7 @@
                 "En": "Decreases all damage dealt by a percentage amount.",
                 "Jp": null,
                 "Kr": null,
-                "Th": "ลดความเสียหายที่ทำได้เป็นเปอร์เซ็นต์",
+                "Th": "ลดความเสียหายที่ทำได้ลงเป็นเปอร์เซ็นต์",
                 "Tw": null,
                 "Cn": "以百分比率减少所有造成的伤害。",
                 "Vi": null
@@ -5917,7 +5917,7 @@
                 "En": "Normal Attack consumes {0} ammo and deals {1} hit(s) to enemies in a fan-shaped area",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "การโจมตีปกติใช้กระสุน {0} นัดและสร้างความเสียหายจำนวน {1} ครั้งให้กับศัตรูในพื้นที่รูปทรงกรวย",
                 "Tw": null,
                 "Cn": null,
                 "Vi": null
@@ -6053,7 +6053,7 @@
                 "En": "Deals <?1> damage to enemies in a fan-shaped area.",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูในพื้นที่รูปทรงกรวย",
                 "Tw": null,
                 "Cn": null,
                 "Vi": null
