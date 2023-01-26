@@ -245,7 +245,7 @@
         "NameEn": "Ampoule Missile",
         "NameTh": "มิสไซล์หลอดแก้ว",
         "NameJp": "アンプルミサイル",
-        "NameCn": "安瓿导弹",
+        "NameCn": "浓缩导弹",
         "NameVi": "Tên lửa tiêm kích",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
@@ -254,7 +254,7 @@
         "NameEn": "Shark Missile",
         "NameTh": "ชาร์ค มิสไซล์",
         "NameJp": "シャークミサイル",
-        "NameCn": "鲨鱼导弹",
+        "NameCn": "猛鲨导弹",
         "NameVi": "Tên lửa cá mập",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
@@ -263,7 +263,7 @@
         "NameEn": "Missile",
         "NameTh": "มิสไซล์",
         "NameJp": "ミサイル",
-        "NameTw": "飛彈",
+        "NameTw": "導彈",
         "NameCn": "导弹",
         "NameVi": "Tên lửa",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
@@ -273,7 +273,7 @@
         "NameEn": "Black Missile",
         "NameTh": "มิสไซล์ดำ",
         "NameJp": "ブラックミサイル",
-        "NameCn": "安瓿导弹",
+        "NameCn": "黑导弹",
         "NameVi": "Tên lửa đen",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
@@ -282,8 +282,8 @@
         "NameEn": "Helmet Gang's Handmade Missile",
         "NameTh": "มิสไซล์แฮนด์เมดของแก๊งหมวกกันน็อค",
         "NameJp": "ヘルメット団お手製ミサイル",
-        "NameTw": "鋼盔團的自製飛彈",
-        "NameCn": "钢盔团的自制导弹",
+        "NameTw": "鋼盔團自製導彈",
+        "NameCn": "钢盔团自制导弹",
         "NameVi": "Tên lửa tự chế của Băng đảng mũ BH",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
@@ -302,7 +302,7 @@
         "NameEn": "Ampoule Missile",
         "NameTh": "มิสไซล์หลอดแก้ว",
         "NameJp": "アンプルミサイル",
-        "NameCn": "安瓿导弹",
+        "NameCn": "浓缩导弹",
         "NameVi": "Tên lửa tiêm kích",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
@@ -311,7 +311,7 @@
         "NameEn": "Shark Missile",
         "NameTh": "ชาร์ค มิสไซล์",
         "NameJp": "シャークミサイル",
-        "NameCn": "鲨鱼导弹",
+        "NameCn": "猛鲨导弹",
         "NameVi": "Tên lửa cá mập",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
@@ -320,7 +320,7 @@
         "NameEn": "Missile",
         "NameTh": "มิสไซล์",
         "NameJp": "ミサイル",
-        "NameTw": "飛彈",
+        "NameTw": "導彈",
         "NameCn": "导弹",
         "NameVi": "Tên lửa",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
@@ -330,7 +330,7 @@
         "NameEn": "Black Missile",
         "NameTh": "มิสไซล์ดำ",
         "NameJp": "ブラックミサイル",
-        "NameCn": "黑色导弹",
+        "NameCn": "黑导弹",
         "NameVi": "Tên lửa đen",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
@@ -339,8 +339,8 @@
         "NameEn": "Helmet Gang's Handmade Missile",
         "NameTh": "มิสไซล์แฮนด์เมดของแก๊งหมวกกันน็อค",
         "NameJp": "ヘルメット団お手製ミサイル",
-        "NameTw": "鋼盔團的自製飛彈",
-        "NameCn": "钢盔团的自制导弹",
+        "NameTw": "鋼盔團自製導彈",
+        "NameCn": "钢盔团自制导弹",
         "NameVi": "Tên lửa tự chế của Băng đảng mũ BH",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
@@ -359,7 +359,7 @@
         "NameEn": "Ampoule Missile",
         "NameTh": "มิสไซล์หลอดแก้ว",
         "NameJp": "アンプルミサイル",
-        "NameCn": "安瓿导弹",
+        "NameCn": "浓缩导弹",
         "NameVi": "Tên lửa tiêm kích",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
@@ -368,7 +368,7 @@
         "NameEn": "Shark Missile",
         "NameTh": "ชาร์ค มิสไซล์",
         "NameJp": "シャークミサイル",
-        "NameCn": "鲨鱼导弹",
+        "NameCn": "猛鲨导弹",
         "NameVi": "Tên lửa cá mập",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
@@ -377,7 +377,7 @@
         "NameEn": "Missile",
         "NameTh": "มิสไซล์",
         "NameJp": "ミサイル",
-        "NameTw": "飛彈",
+        "NameTw": "導彈",
         "NameCn": "导弹",
         "NameVi": "Tên lửa",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
@@ -387,7 +387,7 @@
         "NameEn": "Black Missile",
         "NameTh": "มิสไซล์ดำ",
         "NameJp": "ブラックミサイル",
-        "NameCn": "黑色导弹",
+        "NameCn": "黑导弹",
         "NameVi": "Tên lửa đen",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },
@@ -396,8 +396,8 @@
         "NameEn": "Helmet Gang's Handmade Missile",
         "NameTh": "มิสไซล์แฮนด์เมดของแก๊งหมวกกันน็อค",
         "NameJp": "ヘルメット団お手製ミサイル",
-        "NameTw": "鋼盔團的自製飛彈",
-        "NameCn": "钢盔团的自制导弹",
+        "NameTw": "鋼盔團自製導彈",
+        "NameCn": "钢盔团自制导弹",
         "NameVi": "Tên lửa tự chế của Băng đảng mũ BH",
         "Icon": "EnemyInfo_Wakamo_HoverCraft_Original"
     },

@@ -8106,7 +8106,7 @@
         },
         {
             "Key": 3427259164,
-            "NameCn": "SR、MG武器攻撃力減少",
+            "NameCn": "SR、MG武器攻击力减少",
             "DescriptionCn": "SR、MG武器を使用する味方生徒の攻撃力が減少します。",
             "Force": true
         },
