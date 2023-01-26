@@ -555,6 +555,8 @@
             },
             "DamageRatio": {
                 "En": "Damage Dealt",
+                "Jp": "与えるダメージ量",
+                "Kr": "주는 대미지량",
                 "Th": "ความเสียหายที่ทำได้",
                 "Cn": "造成伤害"
             },
@@ -1182,6 +1184,10 @@
                 "En": "A Game Before the New Year's Feast",
                 "Cn": "年菜之前稍微~一战胜负~",
                 "Vi": null
+            },
+            "821": {
+                "ScenarioKey": 38610745,
+                "En": "Battle for the False Sanctum"
             }
         },
         "StageType": {
@@ -1711,8 +1717,8 @@
             },
             "Buff_DamageRatio": {
                 "En": "Damage Dealt",
-                "Jp": null,
-                "Kr": null,
+                "Jp": "与えるダメージ量",
+                "Kr": "주는 대미지량",
                 "Th": "ความเสียหายที่ทำได้",
                 "Tw": null,
                 "Cn": "造成伤害",
@@ -2042,8 +2048,8 @@
             },
             "Debuff_DamageRatio": {
                 "En": "Damage Dealt",
-                "Jp": null,
-                "Kr": null,
+                "Jp": "与えるダメージ量",
+                "Kr": "주는 대미지량",
                 "Th": "ความเสียหายที่ทำได้",
                 "Tw": null,
                 "Cn": "造成伤害",
@@ -5907,6 +5913,15 @@
                 "Cn": "普通攻击消耗{0}弹药并对直线上敌军造成{1}次打击",
                 "Vi": "Đánh thường tiêu hao {0} đạn và gây {1} đòn đánh lên kẻ thù trên đường thẳng"
             },
+            "stat_ammocount_tooltip_fan": {
+                "En": "Normal Attack consumes {0} ammo and deals {1} hit(s) to enemies in a fan-shaped area",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
+            },
             "skill_hits_tooltip": {
                 "En": "Deals a total of {0} hit(s)",
                 "Jp": "合計{0}回ヒットする",
@@ -6033,6 +6048,15 @@
                 "Tw": null,
                 "Cn": "对直线范围内敌人造成<?1>伤害。",
                 "Vi": "Gây <?1> sát thương cho kẻ địch trên một đường thẳng."
+            },
+            "skill_normalattack_fan": {
+                "En": "Deals <?1> damage to enemies in a fan-shaped area.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
             },
             "type_effectiveness": {
                 "En": "Type Effectiveness",

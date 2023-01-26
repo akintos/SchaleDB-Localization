@@ -502,7 +502,7 @@
         {
             "SkillId": 10008350,
             "NameEn": "Cruisin' for a Bruisin'!+",
-            "DescriptionEn": "Every 30s, Neru becomes <s:Fury> and her <b:Dodge> increases by <?1> for 20s. Increases the bonus to EX Skill damage by an additional <b>0.3&times;</b> while <s:Fury>.",
+            "DescriptionEn": "Every 30s, Neru becomes <s:Fury> and her <b:Dodge> increases by <?1> for 20s. Improves the increase to EX Skill damage by an additional <b>0.3&times;</b> while <s:Fury>.",
             "ParametersEn": [
                 [
                     "19.4%",
