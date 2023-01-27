@@ -1219,7 +1219,7 @@
                 ]
             ],
             "DescriptionTw": "對圓形範圍內敵人造成150%的傷害",
-            "NameCn": null,
+            "NameCn": "破坏—Type I",
             "DescriptionCn": "对圆形范围内敌人造成150%的伤害",
             "NameVi": null,
             "DescriptionVi": null
@@ -1233,7 +1233,7 @@
             "DescriptionKr": "직선 범위 내 적에게 공격력 200% 만큼 대미지",
             "DescriptionTh": "สร้างความเสียหาย 200% ของค่าโจมตีให้กับศัตรูในแนวเส้นตรง",
             "DescriptionTw": "對直線範圍內的敵人造成200%傷害",
-            "NameCn": null,
+            "NameCn": "破坏—Type II",
             "DescriptionCn": "对直线范围内的敌人造成200%伤害",
             "NameVi": null,
             "DescriptionVi": null
@@ -1267,7 +1267,7 @@
                 ]
             ],
             "DescriptionTw": null,
-            "NameCn": null,
+            "NameCn": "生成侵蚀之塔",
             "DescriptionCn": null,
             "NameVi": null,
             "DescriptionVi": null
@@ -1281,8 +1281,8 @@
             "DescriptionKr": "적 전체에게 공격력 150% 만큼 대미지\n호드의 체력이 50% 이하일 경우 적 전체에게 공격력 300% 만큼 대미지,방어 포탑 모두 파괴",
             "DescriptionTh": "สร้างความเสียหาย 150% ของค่าโจมตีให้กับศัตรูทั้งหมด\nเมื่อ HP ของ Hod ต่ำกว่า 50% จะสร้างความเสียหาย 300% ของค่าโจมตีให้กับศัตรูทั้งหมดและทำลายป้อมปืนคุ้มกันทั้งหมด",
             "DescriptionTw": null,
-            "NameCn": null,
-            "DescriptionCn": null,
+            "NameCn": "释放过载能量",
+            "DescriptionCn": "对全体敌人造成 150% 伤害。如果霍德体力低于 50%，造成 300% 伤害并摧毁所有防御炮塔。",
             "NameVi": null,
             "DescriptionVi": null
         },
@@ -1295,8 +1295,8 @@
             "DescriptionKr": "적 전체에게 공격력 740% 대미지\n영광의 빛 스킬 사용 시 마다 호드의 <b:ATK> 50% 증가 (최대 99회 까지 중첩)",
             "DescriptionTh": "สร้างความเสียหาย 740% ของค่าโจมตีให้กับศัตรู\nเพิ่ม<b:ATK>ของ Hod 50% ทุกครั้งที่ใช้สกิลแสงแห่งเกียรติยศ (ซ้อนทับสูงสุด 99 ครั้ง)",
             "DescriptionTw": null,
-            "NameCn": null,
-            "DescriptionCn": null,
+            "NameCn": "荣耀之光",
+            "DescriptionCn": "对全体敌人造成 740% 伤害，霍德<b:ATK>提升50%直至战斗结束。效果最多叠加99次。",
             "NameVi": null,
             "DescriptionVi": null
         },
@@ -1381,8 +1381,8 @@
                 ]
             ],
             "DescriptionTw": null,
-            "NameCn": null,
-            "DescriptionCn": null,
+            "NameCn": "荣耀的另一面",
+            "DescriptionCn": "霍德以及所有召唤的侵蚀之塔免疫群控效果，但是群控能力将按比例填充它们的圆形<b>群控量表</b>，而该量表将被施加效果的持续时间。<?2>\n一旦群控量表达到相当于群控持续时间<?1>的总量，就会造成以下效果：\n<b>霍德</b>：30秒内<d:DamagedRatio>提升300%，ATG量表降低 50%，无力量表填充25%。\n<b>侵蚀之塔</b>：30秒内<d:DamagedRatio>提升300%，塔的影响范围减少1级。",
             "NameVi": null,
             "DescriptionVi": null
         },
@@ -1395,8 +1395,8 @@
             "DescriptionKr": "호드, 침식타워의 치명 저항력이 400% 증가합니다.\n침식타워는 <d:ConcentratedTarget> 효과에 면역입니다.",
             "DescriptionTh": "Hod และเสากัดกร่อนจะมีค่าต้านทานคริเพิ่ม 400%\nเสากัดกร่อนจะไม่ได้รับผลจากเอฟเฟกต์<d:ConcentratedTarget>",
             "DescriptionTw": null,
-            "NameCn": null,
-            "DescriptionCn": null,
+            "NameCn": "荣耀的影子",
+            "DescriptionCn": "霍德和所有召唤的侵蚀之塔暴击抵抗率提升400%。\n侵蚀之塔同时免疫<d:ConcentratedTarget>效果。",
             "NameVi": null,
             "DescriptionVi": null
         },
