@@ -6,6 +6,12 @@
             "DescriptionEn": "This coin can be spent at the Bounty Shop."
         },
         {
+            "Key": 795253347,
+            "Force": true,
+            "NameEn": "Allied Operation Ticket ω",
+            "DescriptionEn": "A ticket to participate in a specific Allied Operation."
+        },
+        {
             "Key": 1912394354,
             "NameEn": "Advanced Tactical Training Blu-ray (Arius)"
         },
@@ -98,36 +104,6 @@
             "Key": 1340367308,
             "NameEn": "Chain Necklace Blueprint",
             "DescriptionEn": "A blueprint for creating equipment."
-        },
-        {
-            "Key": 2319299758,
-            "NameEn": "Aru's Valuable Purse",
-            "DescriptionEn": "Aru's favorite luxury purse.\nA luxury item made with high quality materials, but the color has faded and there are scratches here and there due to prolonged use. Given to her by Haruka, Kayoko and Mutsuki after she set up the first Problem Solver business, it's a precious and irreplaceable item for Aru."
-        },
-        {
-            "Key": 1197583309,
-            "NameEn": "Tsurugi's Special Box",
-            "DescriptionEn": "A special box hidden deep inside Tsurugi's room.\nStacked in the box are a variety of goods including bromides, books, movie charts of various genres, and more. The dust-free and neat condition of the goods alone offers a glimpse into Tsurugi's meticulousness."
-        },
-        {
-            "Key": 1059841421,
-            "NameEn": "Shun's Childhood Memory",
-            "DescriptionEn": "Shun's favorite pair of hairpins.\nAlthough she rarely uses them anymore as she rarely wears twin tails, they are part of Shun's precious memories that have remained unchanged over time."
-        },
-        {
-            "Key": 242283010,
-            "NameEn": "Rabbit Tail Grenade",
-            "DescriptionEn": "A grenade that looks like the rabbit tail that Asuna wears when she dresses as a bunny girl.\nCovered in fluffy fur, it appears harmless at first glance, but like all grenades, it has a threatening destructive power."
-        },
-        {
-            "Key": 163861415,
-            "NameEn": "Yuuka's Scientific Calculator",
-            "DescriptionEn": "A scientific calculator that Yuuka carries with her at all times.\nDespite possessing excellent mental arithmetic skills, Yuuka always uses it for calculations in her pursuit of perfection."
-        },
-        {
-            "Key": 2059299965,
-            "NameEn": "Athena-3",
-            "DescriptionEn": "A spherical drone that always moves around Hare.\nAs its name, taken from the goddess of wisdom, suggests, it is equipped with artificial intelligence that can experience and learn on its own, but it often works against the intentions of its master, Hare, and disappoints her expectations."
         },
         {
             "Key": 2694523503,
