@@ -2494,7 +2494,7 @@
             },
             "Buff_DamageRatio": {
                 "En": "Damage Dealt Up",
-                "Jp": null,
+                "Jp": "与ダメージ量増加",
                 "Kr": null,
                 "Th": "ความเสียหายที่ทำได้เพิ่มขึ้น",
                 "Tw": null,
@@ -2793,7 +2793,7 @@
             },
             "Debuff_DamageRatio": {
                 "En": "Damage Dealt Down",
-                "Jp": null,
+                "Jp": "与ダメージ量減少",
                 "Kr": null,
                 "Th": "ความเสียหายที่ทำได้ลดลง",
                 "Tw": null,
@@ -3194,7 +3194,7 @@
             },
             "Buff_DamageRatio": {
                 "En": "Increases all damage dealt by a percentage amount.",
-                "Jp": null,
+                "Jp": "すべての与ダメージを一定の割合増加する。",
                 "Kr": null,
                 "Th": "เพิ่มความเสียหายที่ทำได้ขึ้นเป็นเปอร์เซ็นต์",
                 "Tw": null,
@@ -3431,7 +3431,7 @@
             },
             "Debuff_DamageRatio": {
                 "En": "Decreases all damage dealt by a percentage amount.",
-                "Jp": null,
+                "Jp": "すべての与ダメージを一定の割合減少する。",
                 "Kr": null,
                 "Th": "ลดความเสียหายที่ทำได้ลงเป็นเปอร์เซ็นต์",
                 "Tw": null,
@@ -5402,7 +5402,7 @@
             },
             "item_student_favor": {
                 "En": "+{0} Relationship EXP {1} when given to the following students",
-                "Jp": null,
+                "Jp": "以下の生徒にプレゼントすると絆EXPを{0}増加する{1}",
                 "Kr": null,
                 "Th": "เพิ่มค่าความสัมพันธ์ {0} {1} เมื่อมอบให้กับนักเรียนดังต่อไปนี้",
                 "Tw": null,
@@ -5411,7 +5411,7 @@
             },
             "item_student_favor_default": {
                 "En": "+{0} Relationship EXP {1} when given to any other student",
-                "Jp": null,
+                "Jp": "それ以外の生徒にプレゼントすると絆EXPを{0}増加する{1}",
                 "Kr": null,
                 "Th": "เพิ่มค่าความสัมพันธ์ {0} {1} เมื่อมอบให้กับนักเรียนคนอื่นๆ",
                 "Tw": null,
@@ -5420,7 +5420,7 @@
             },
             "item_student_favor_all": {
                 "En": "+{0} Relationship EXP {1} when given to any student",
-                "Jp": null,
+                "Jp": "どの生徒にプレゼントした時も絆EXPを{0}増加する{1}",
                 "Kr": null,
                 "Th": "เพิ่มค่าความสัมพันธ์ {0} {1} เมื่อมอบให้กับนักเรียนทุกคน",
                 "Tw": null,
@@ -5456,7 +5456,7 @@
             },
             "item_usedby_exskill_amount": {
                 "En": "Needed for EX Skill: {0}",
-                "Jp": null,
+                "Jp": "EXスキルの最大強化に必要な数：{0}",
                 "Kr": null,
                 "Th": "ใช้ในการอัปเกรดสกิล EX: {0}",
                 "Tw": null,
@@ -5465,7 +5465,7 @@
             },
             "item_usedby_skill_amount": {
                 "En": "Needed for Basic/Enhanced/Sub Skill: {0}",
-                "Jp": null,
+                "Jp": "ノーマル、パッシブ、またはサブスキルの最大強化に必要な数：{0}",
                 "Kr": null,
                 "Th": "ใช้ในการอัปเกรดสกิลพื้นฐาน/ติดตัว/รอง: {0}",
                 "Tw": null,
@@ -5546,7 +5546,7 @@
             },
             "item_contains_random": {
                 "En": "Randomly rewards one of the following items",
-                "Jp": null,
+                "Jp": "以下のアイテムの中から一つをランダムに獲得する",
                 "Kr": null,
                 "Th": "สุ่มรับหนึ่งในบรรดาไอเทมดังต่อไปนี้",
                 "Tw": null,
@@ -5555,7 +5555,7 @@
             },
             "item_contains_choice": {
                 "En": "Rewards a choice of one of the following items",
-                "Jp": null,
+                "Jp": "以下のアイテムの中から一つを選択して獲得する",
                 "Kr": null,
                 "Th": "เลือกรับหนึ่งในบรรดาไอเทมดังต่อไปนี้",
                 "Tw": null,
@@ -5564,7 +5564,7 @@
             },
             "item_is_immediateuse": {
                 "En": "※ This item is used immediately when acquired",
-                "Jp": null,
+                "Jp": "※ このアイテムは獲得した瞬間に使用される",
                 "Kr": null,
                 "Th": "※ ไอเทมนี้จะถูกใช้งานทันทีที่ได้รับ",
                 "Tw": null,
@@ -5915,7 +5915,7 @@
             },
             "stat_ammocount_tooltip_fan": {
                 "En": "Normal Attack consumes {0} ammo and deals {1} hit(s) to enemies in a fan-shaped area",
-                "Jp": null,
+                "Jp": "通常攻撃は弾薬{0}を消費し扇状範囲内の敵に{1}回ヒットする",
                 "Kr": null,
                 "Th": "การโจมตีปกติใช้กระสุน {0} นัดและสร้างความเสียหายจำนวน {1} ครั้งให้กับศัตรูในพื้นที่รูปทรงกรวย",
                 "Tw": null,
@@ -5969,7 +5969,7 @@
             },
             "home_translations_help": {
                 "En": "Schale is currently available in 6 languages. Want to help translate? Please get in touch via Discord (lonqie#2708) or check out the <a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">localization project</a>!",
-                "Jp": "現在Schaleは6つの言語で利用できます。翻訳を支援したい方はDiscord（lonqie#2708）経由でご連絡いただくか<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">ローライズプロジェクトサイト</a>をご確認ください。",
+                "Jp": "現在Schaleは6つの言語でご利用になれます。翻訳を支援したい方はDiscord（lonqie#2708）経由でご連絡いただくか<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">ローライズプロジェクトサイト</a>をご確認ください。",
                 "Kr": null,
                 "Th": "ในปัจจุบัน Schale สามารถใช้งานได้ใน 6 ภาษา อยากให้ความช่วยเหลือในการแปลภาษา? ติดต่อได้ทาง Discord (lonqie#2708) หรือลองเข้าไปตรวจสอบใน<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">โปรเจคแปลภาษา</a>ได้เลย! ",
                 "Tw": "Schale 目前支援6種語言。如果你想幫忙翻譯請透過Discord(lonqie#2708)聯係或查看<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">本地化項目</a>！",
@@ -5987,7 +5987,7 @@
             },
             "home_footer_text": {
                 "En": "Schale is developed and maintained by lonqie, with additional translation work by Blue-Roar, TKRotund & Gedanke.\nSchale is not affiliated with Nexon, Nexon Games or Yostar. All game artwork, information and assets used in this database are the property and copyright of the respective authors.",
-                "Jp": "Schaleはlonqieによって開発・運営されています。また、Blue-Roar、TKRotundおよびGedankeから翻訳の支援を受けています。\nSchaleはNexon、Nexon GamesおよびYostarとは一切関係ありません。当データベースで使用されているゲーム画像、情報ならびにアセットの所有権および著作権はそれぞれの権利者に帰属します。",
+                "Jp": "Schaleはlonqieによって開発・運営されています。また、Blue-Roar、TKRotund、GedankeおよびYumiruuwuから翻訳の支援を受けています。\nSchaleはNexon、Nexon GamesおよびYostarとは一切関係ありません。当データベースで使用されているゲーム画像、情報ならびにアセットの所有権および著作権はそれぞれの権利者に帰属します。",
 
                 "Kr": null,
                 "Th": "Schale พัฒนาและอัปเดทโดย lonqie โดยได้รับความช่วยเหลือในการแปลภาษาเพิ่มเติมจาก Blue-Roar, TKRotund, Gedanke และ Yumiruuwu\nSchale นั้นไม่ได้มีส่วนเกี่ยวข้องใดๆ กับทาง Nexon, Nexon Games หรือ Yostar รูปภาพและข้อมูลต่างๆ ที่ใช้ในฐานข้อมูลนี้ถือเป็นสมบัติและทรัพย์สินทางปัญญาของผู้ถือครองลิขสิทธิ์ดั้งเดิม",
@@ -6051,7 +6051,7 @@
             },
             "skill_normalattack_fan": {
                 "En": "Deals <?1> damage to enemies in a fan-shaped area.",
-                "Jp": null,
+                "Jp": "扇状範囲内の敵に対して<?1>ダメージを与える。",
                 "Kr": null,
                 "Th": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูในพื้นที่รูปทรงกรวย",
                 "Tw": null,
