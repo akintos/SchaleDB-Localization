@@ -7372,7 +7372,7 @@
         {
             "SkillId": 10057200,
             "NameEn": "Gourmand's Fury",
-            "DescriptionEn": "Sets off 5 explosions targeting different enemies. Each explosion deals <?1> damage to the target, plus an additional <?2> damage to both the target and enemies in a circular area around them.",
+            "DescriptionEn": "Sets off 5 explosions targeting up to 5 different enemies. Each explosion deals <?1> damage to the target, plus an additional <?2> damage to both the target and enemies in a circular area around them.",
             "ParametersEn": [
                 [
                     "106%",

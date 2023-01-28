@@ -3750,6 +3750,15 @@
                 "Cn": "当自动机士兵被击败时增加。",
                 "Vi": null
             },
+            "ShiroKuro": {
+                "En": "Increases when hit by own attacks.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
+            },
             "Hieronymus": {
                 "En": "Increases when EX Skills are interrupted.",
                 "Jp": "EXスキルが中断されると増加する。",
@@ -3784,6 +3793,15 @@
                 "Th": "เพิ่มเมื่อเสากัดกร่อนถูกทำลายหรือเกจพิเศษของ Hod เต็ม",
                 "Tw": null,
                 "Cn": "当侵蚀塔被摧毁或霍德的CC量表充满时增加。",
+                "Vi": null
+            },
+            "HoverCraft": {
+                "En": "Increases when Missile Frenzy mode ends.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
                 "Vi": null
             }
         },
@@ -4858,6 +4876,15 @@
                 "Tw": "{1}羈絆等級達成{0}後解鎖",
                 "Cn": "{1}羁绊等级达到{0}后解锁",
                 "Vi": "Mở khóa sau khi đạt đến xếp hạng mối quan hệ {0} với {1}"
+            },
+            "memory_lobby_bgm": {
+                "En": "Lobby BGM: {0}",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
             },
             "terrain_adaption": {
                 "En": "{0} Combat Power",
@@ -5986,7 +6013,7 @@
                 "Vi": "<li>Thông tin đầy đủ về tất cả học sinh (chưa dịch hết) và kỹ năng, bao gồm cả triệu hồi hoặc phương tiện.</li><li>Tính toán số liệu thống kê toàn diện có thể hiển thị số liệu thống kê của học sinh theo bất kỳ cấu hình sao, cấp độ, trang bị và hỗ trợ bất kỳ từ các kỹ năng.</li><li>Cơ sở dữ liệu về Vật phẩm, Thiết bị và Nội thất đầy đủ (không hẳn).</li><li>Phần thưởng, bản đồ và thông tin chi tiết về kẻ địch cho tất cả các giai đoạn Chiến dịch, Nhiệm vụ sự kiện, Thử thách và Hàng ngày.</li><li>Thông tin chỉ số và kỹ năng của trùm cuối trong các sự kiện Tổng tấn công và các sự kiện Diễn tập bắn chung.</li><li>Xem tỷ lệ nhận được các vật phẩm có thể có từ các nodes.</li>"
             },
             "home_footer_text": {
-                "En": "Schale is developed and maintained by lonqie, with additional translation work by Blue-Roar, TKRotund & Gedanke.\nSchale is not affiliated with Nexon, Nexon Games or Yostar. All game artwork, information and assets used in this database are the property and copyright of the respective authors.",
+                "En": "Schale is developed and maintained by lonqie, with additional translation work by Blue-Roar, TKRotund, Gedanke & yumiruuwu.\nSchale is not affiliated with Nexon, Nexon Games or Yostar. All game artwork, information and assets used in this database are the property and copyright of the respective authors.",
                 "Jp": "Schaleはlonqieによって開発・運営されています。また、Blue-Roar、TKRotund、GedankeおよびYumiruuwuから翻訳の支援を受けています。\nSchaleはNexon、Nexon GamesおよびYostarとは一切関係ありません。当データベースで使用されているゲーム画像、情報ならびにアセットの所有権および著作権はそれぞれの権利者に帰属します。",
                 "Kr": null,
                 "Th": "Schale พัฒนาและอัปเดทโดย lonqie โดยได้รับความช่วยเหลือในการแปลภาษาเพิ่มเติมจาก Blue-Roar, TKRotund, Gedanke และ Yumiruuwu\nSchale นั้นไม่ได้มีส่วนเกี่ยวข้องใดๆ กับทาง Nexon, Nexon Games หรือ Yostar รูปภาพและข้อมูลต่างๆ ที่ใช้ในฐานข้อมูลนี้ถือเป็นสมบัติและทรัพย์สินทางปัญญาของผู้ถือครองลิขสิทธิ์ดั้งเดิม",

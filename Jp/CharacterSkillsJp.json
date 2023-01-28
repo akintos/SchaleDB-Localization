@@ -50,6 +50,7 @@
         },
         {
             "SkillId": 30002400,
+            "NameJp": "緊急出動",
             "DescriptionJp": "10秒毎に、円形範囲内の味方に対して、治癒力の<?1>分の回復。",
             "ParametersJp": [
                 [
