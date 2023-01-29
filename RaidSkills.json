@@ -813,7 +813,7 @@
             "NameCn": null,
             "DescriptionCn": null,
             "NameVi": "Ánh sáng tà ác (Thánh vật)",
-            "DescriptionVi": ""
+            "DescriptionVi": "Khi HP của thánh vật màu tím đạt 0%, tăng 25% <b:ATK> đối với tất cả học sinh thuộc Striker và Special nhưng giảm <d:HealEffectiveness> của tất cả học sinh xuống <b>7,000</b>. Đồng thời giảm <d:DEF> của Hieronymus xuống <b>1,500</b>.\nSau đó, đối với học sinh bị <d:Hieronymus> sẽ được tăng <b:HealEffectiveness> thêm <b>4,000</b> trong 10s.\nThánh vật màu tím không thể bị tấn công bởi các đòn tấn công thường hoặc kỹ năng cơ bản."
         },
         {
             "Id": "KaitenFxMk0ExSkill01",
@@ -824,8 +824,8 @@
             "DescriptionTw": "右手臂(粉紅色)：對圓形範圍內的敵人造成攻擊力400%傷害",
             "NameCn": "无限回转・超虾机关枪",
             "DescriptionCn": "右手臂(粉红色)：对圆形范围内的敌人造成攻击力400%伤害",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Vòng lặp vô tận - Súng máy tôm sú siêu cấp",
+            "DescriptionVi": "<b>Tay phải (hồng)</b>: Gây 400% sát thương cho kẻ địch trong khu vực hình tròn."
         },
         {
             "Id": "KaitenFxMk0ExSkill02",
@@ -836,8 +836,8 @@
             "DescriptionTw": "胸部(紅色)：對所有敵人造成攻擊力300%傷害",
             "NameCn": "无限回转・超沙丁鱼导弹",
             "DescriptionCn": "胸部(红色)：对所有敌人造成攻击力300%伤害",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Vòng lặp vô tận - Siêu tên lửa cá mòi",
+            "DescriptionVi": "<b>Ngực (đỏ)</b>: Gây 300% sát thương cho tất cả kẻ địch."
         },
         {
             "Id": "KaitenFxMk0ExSkill03",
@@ -848,8 +848,8 @@
             "DescriptionTw": "左手臂(綠色)：使受到的傷害量減少50%\n用Ex技能打擊10次時立即解除",
             "NameCn": "无限回转・巨大锅盖盾牌",
             "DescriptionCn": "左手臂(绿色)：使受到的伤害量减少50%\n用Ex技能打击10次时立即解除",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Vòng lặp vô tận - Lá chắn siêu cấp",
+            "DescriptionVi": "<b>Tay trái (xanh)</b>: Giảm 50% <b:DamagedRatio>. Buff sẽ bị gỡ khỏi sau khi nhận 10 đòn đánh từ bất kỳ kỹ năng EX nào."
         },
         {
             "Id": "KaitenFxMk0ExSkill04",
@@ -860,8 +860,8 @@
             "DescriptionTw": "對所有敵人造成攻擊力400%傷害，無法迴避",
             "NameCn": "无限回转・终极鲭鱼斩",
             "DescriptionCn": "对所有敌人造成攻击力400%伤害，无法回避",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Vòng lặp vô tận - Nhát chém cá thu cuối cùng",
+            "DescriptionVi": "Gây 400% sát thương cho tất cả kẻ địch. Đòn đánh này không thể bị chặn hoặc né."
         },
         {
             "Id": "KaitenFxMk0InsaneExSkill05",
@@ -874,8 +874,8 @@
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null,
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Quá tải vô tận",
+            "DescriptionVi": "<b>Bàn chân (vàng)</b>: Tăng <b:ATK> lên <b>4,000</b> trong 30s."
         },
         {
             "Id": "KaitenFxMk0PassiveSkill01",
