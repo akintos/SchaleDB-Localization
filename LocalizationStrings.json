@@ -3754,7 +3754,7 @@
                 "En": "Increases when hit by own attacks.",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เพิ่มเมื่อถูกโจมตีโดยการโจมตีของตัวเอง",
                 "Tw": null,
                 "Cn": null,
                 "Vi": null
@@ -3799,7 +3799,7 @@
                 "En": "Increases when Missile Frenzy mode ends.",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เพิ่มเมื่อโหมดยิงมิสไซล์จบลง",
                 "Tw": null,
                 "Cn": null,
                 "Vi": null
@@ -4881,7 +4881,7 @@
                 "En": "Lobby BGM: {0}",
                 "Jp": null,
                 "Kr": null,
-                "Th": null,
+                "Th": "เพลงประกอบล็อบบี้ฯ: {0}",
                 "Tw": null,
                 "Cn": null,
                 "Vi": null
