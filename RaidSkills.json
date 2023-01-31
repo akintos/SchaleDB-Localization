@@ -958,8 +958,26 @@
             "DescriptionTw": "每20秒依序啟動右手臂(粉紅色)、胸部(紅色)、左手臂(綠色)。\n右手臂(粉紅色)：攻擊力增加50%\n胸部(紅色)：用Ex技能攻擊時，使對象昏厥(5秒內)\n左手臂(綠色)：防禦力增加1000\n啟動部位時，如受到一定以上的傷害，該部位將會被破壞，且無法再次啟動。\n無法使用被破壞部位的技能。",
             "NameCn": "无限燃烧的热烈之心",
             "DescriptionCn": "每20秒依序启动右手臂(粉红色)、胸部(红色)、左手臂(绿色)。\n右手臂(粉红色)：攻击力增加50%\n胸部(红色)：用Ex技能攻击时，使对象昏厥(5秒内)\n左手臂(绿色)：防御力增加1000\n启动部位时，如受到一定以上的伤害，该部位将会被破坏，且无法再次启动。\n无法使用被破坏部位的技能。",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Con tim rực cháy vô tận",
+            "DescriptionVi": "Cứ sau 20s, mỗi bộ phận của KAITEN FX Mk.0 sẽ kích hoạt theo thứ tự sau: Tay phải (hồng), ngực (đỏ), tay trái (xanh). Khi một bộ phận được kích hoạt, KAITEN FX Mk.0 sẽ nhận được một trong các buff sau:\n<b>Tay phải (hồng)</b>: Tăng 50% <b:ATK>.\n<b>Ngực (đỏ)</b>: Các kỹ năng EX của KAITEN FX Mk.0 cũng sẽ gây hiệu ứng <c:Stunned> trong 5s.\n<b>Tay trái (xanh)</b>: Tăng <b:DEF> lên <b>1.000</b> <?1>.\nNếu tổng sát thương nhận vào đạt <b><?2></b> trong khi một bộ phận đang hoạt động, bộ phận đó sẽ bị phá huỷ, tăng thanh choáng của KAITEN FX Mk.0 đến mức tối đa và vô hiệu hoá các bộ phận kích hoạt và kỹ năng EX tương ứng cho đến khi kết thúc màn chơi.",
+            "ParametersVi": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "và các kỹ năng EX của KAITEN FX Mk.0 cũng sẽ làm giảm 80% <d:HealEffectiveness> của kẻ địch trong 30s"
+                ],
+                [
+                    "70,000",
+                    "157,500",
+                    "350,000",
+                    "595,000",
+                    "2,500,000",
+                    "3,500,000"
+                ]
+            ]
         },
         {
             "Id": "KaitengerExSkill01",
@@ -975,8 +993,8 @@
             "DescriptionTw": null,
             "NameCn": "回转之力！",
             "DescriptionCn": null,
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Tư thế Kaiten!",
+            "DescriptionVi": "Mỗi Kaitenger sẽ thông thường kích hoạt kỹ năng EX bản thân của chúng:\n<b>Đỏ cuồng nhiệt!</b>: Gây hiệu ứng <c:Provoke> lên tất cả kẻ địch ở gần trong 10s.\n<b>Đen sắc sảo!</b>: Gây <b>300%</b> sát thương lên một kẻ địch và tăng <b>50%</b> <d:DamagedRatio> của chúng trong 5s.\n<b>Wasabi xanh lè</b>: Gây <b>350%</b> sát thương cho kẻ địch trong khu vực hình quạt.\n<b>Vàng phong cách!</b>: Gây <b>500%</b> sát thương lên một kẻ địch.\n<b>Con tim hồng trong sáng!</b>: Tăng <b>6%</b> <b:ATK> của tất cả đồng minh xung quanh trong 15s."
         },
         {
             "Id": "Perorozilla01Ex01",
@@ -1027,8 +1045,18 @@
             "DescriptionTw": "對1名敵人造成等同90%攻擊力的持續傷害（10秒內）\n<d:DEF>減少9999（60秒內）",
             "NameCn": "白热光线",
             "DescriptionCn": "对1名敌人造成等同90%攻击力的持续伤害（10秒内）\n<d:DEF>减少9999（60秒内）",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Tia laze trắng nóng hổi",
+            "DescriptionVi": "Giảm <d:DEF> của một kẻ địch xuống <b>9.999</b> trong 60s và liên tục gây 90% sát thương cho chúng từng giây một trong tổng 10s.<?1>",
+            "ParametersVi": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\nNếu debuff giảm <d:DEF> không bị loại bỏ trước khi thời lượng kỹ năng kết thúc, sẽ gây thêm 250% sát thương cho kẻ địch trong khu vực hình quạt."
+                ]
+            ]
         },
         {
             "Id": "Perorozilla01Ex02",
@@ -1039,8 +1067,8 @@
             "DescriptionTw": "對1名敵人造成等同400%攻擊力的傷害",
             "NameCn": "水炮",
             "DescriptionCn": "对1名敌人造成等同400%攻击力的伤害",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Bóng nước",
+            "DescriptionVi": "Gây 400% sát thương lên một kẻ địch."
         },
         {
             "Id": "Perorozilla01Ex03",
@@ -1123,8 +1151,26 @@
             "DescriptionTw": "以100%所受傷害召喚傳送給佩洛洛吉拉的巨大佩洛洛士兵\n巨大佩洛洛士兵的體力低於50%時將自動倒地。",
             "NameCn": "召唤士兵",
             "DescriptionCn": "以100%所受伤害召唤传送给佩洛洛吉拉的巨大佩洛洛士兵\n巨大佩洛洛士兵的体力低于50%时将自动倒地。",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Lính xuất quân",
+            "DescriptionVi": "Triệu hồi lính Peroro <?1>. Vì lính Peroro <s:Immortal> và 100% sát thương nhận vào của chúng sẽ do Perorodzilla gánh chịu. Nếu HP của lính Peroro ở dưới mức 50%, chúng sẽ bị hạ gục kèm theo hiệu ứng <c:Stunned> vĩnh viễn và lính Peroro khác sẽ không còn ưu tiên tấn công kẻ địch nữa. Mặt khác, lính Peroro miễn nhiễm với các hiệu ứng kiểm soát đám đông.<?2>",
+            "ParametersVi": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "với <b:MAXHP> tăng 110% (chỉ trong nhà)",
+                    "với 200% <b:MAXHP>"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\nĐồng thời triệu hồi lính Peroro phát sáng, khi bị hạ gục sẽ gây 200.000 sát thương lên lính Peroro khác trong một khu vực hình tròn xung quanh nó."
+                ]
+            ]
         },
         {
             "Id": "Perorozilla01Ex04",
@@ -1155,8 +1201,18 @@
             "DescriptionTw": "格羅基量表的進度與倒地的巨大佩洛洛士兵數量成正比",
             "NameCn": "吸收士兵",
             "DescriptionCn": "格罗基量表的进度与倒地的巨大佩洛洛士兵数量成正比",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Hấp thụ quân lính",
+            "DescriptionVi": "Hấp thụ tất cả lính Peroro có mặt trên trận và tăng 50% chỉ số ATG. Đối với mỗi lính Peroro bị hạ gục, sẽ làm đầy <?1> thanh choáng của Perorodzilla. Khi thanh choáng của Perorodzilla đạt mức tối đa, 5 lính Peroro nhỏ sẽ được triệu hồi với khả năng phòng thủ giảm. Lính Peroro nhỏ cũng <s:Immortal> và 100% sát thương nhận vào của chúng cũng sẽ do Perorodzilla gánh chịu.",
+            "ParametersVi": [
+                [
+                    "<b>1/7</b>",
+                    "<b>1/7</b>",
+                    "<b>1/7</b>",
+                    "<b>1/7</b>",
+                    "<b>1/7</b>",
+                    "<b>1/10</b>"
+                ]
+            ]
         },
         {
             "Id": "Perorozilla01Ex10",
@@ -1167,8 +1223,8 @@
             "DescriptionTw": "對全體敵人造成等同300%攻擊力的傷害",
             "NameCn": "超级螺旋灼光",
             "DescriptionCn": "对全体敌人造成等同300%攻击力的伤害",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Tia chói siêu xoắn",
+            "DescriptionVi": "Khi thanh ATG đạt mức tối đa, gây 300% sát thương lên tất cả kẻ địch."
         },
         {
             "Id": "HODEx01",
