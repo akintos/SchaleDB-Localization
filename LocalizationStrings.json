@@ -1145,19 +1145,16 @@
             },
             "814": {
                 "ScenarioKey": 784454923,
-                "En": "Abydos Resort Restoration Task Force",
                 "Cn": "阿拜多斯避暑复旧对策委员会",
                 "Vi": "Lực lượng đặc nhiệm khôi phục khu nghỉ dưỡng Abydos"
             },
             "815": {
                 "ScenarioKey": 2778041043,
-                "En": "Business Trip! Momoyodou Beach House Franchise Plan",
                 "Cn": "出差！百夜堂 海之家FC计划",
                 "Vi": "Chuyến công tác! Kế hoạch nhượng quyền của ngôi nhà bãi biển Momoyodou"
             },
             "816": {
                 "ScenarioKey": 3000475038,
-                "En": "After School Sweets Story: Sweet Secrets and Gun Fights",
                 "Cn": "放学后甜点故事 甜香的秘密与枪战",
                 "Vi": "Câu chuyện về CLB Đồ ngọt sau giờ học: Bí mật ngọt ngào và cuộc đấu súng"
             },
@@ -1289,8 +1286,6 @@
             },
             "Conquest": {
                 "CodeKey": 3718636874,
-                "En": "Conquest",
-                "Tw": "占領戰",
                 "Cn": "争夺战",
                 "Vi": "Sự chinh phục"
             }
@@ -1315,7 +1310,6 @@
         "ConquestMap": {
             "815": {
                 "CodeKey": 3551476547,
-                "En": "Lost Paradise Resort Archipelago",
                 "Cn": "失落的天堂度假村群岛",
                 "Vi": "Quần đảo nghỉ dưỡng thiên đường mất tích"
             }
@@ -5030,6 +5024,13 @@
                 "Cn": "地图",
                 "Vi": "Bản đồ"
             },
+            "stage_conquest_tile": {
+                "En": "Zone",
+                "Jp": "タイル",
+                "Kr": "구역",
+                "Th": "พื้นที่",
+                "Tw": "區域"
+            },
             "event_rerun": {
                 "En": " (Rerun)",
                 "Jp": "（復刻）",
@@ -5606,6 +5607,34 @@
                 "Tw": "區域{0}",
                 "Cn": "区域{0}",
                 "Vi": "Khu {0}"
+            },
+            "conquest_occupy": {
+                "En": "Occupy",
+                "Jp": "占領",
+                "Kr": "점령",
+                "Th": "ยึด",
+                "Tw": "佔領"
+            },
+            "conquest_operate": {
+                "En": "Operate",
+                "Jp": "運営",
+                "Kr": "운영",
+                "Th": "จัดการ",
+                "Tw": "營運"
+            },
+            "conquest_settlement": {
+                "En": "Settlement Acquisition Reward",
+                "Jp": "精算獲得報酬",
+                "Kr": "정산 획득 보상",
+                "Th": "รางวัลดำเนินการ",
+                "Tw": "結算獲得獎勵"
+            },
+            "school_bonus": {
+                "En": "Academy Buff",
+                "Jp": "学園編成効果",
+                "Kr": "학원 편성 효과",
+                "Th": "เอฟเฟกต์จัดทีมโรงเรียน",
+                "Tw": "學園編輯效果"
             },
             "tooltip_relationship_bonus": {
                 "En": "Include {0}'s Relationship Bonus",

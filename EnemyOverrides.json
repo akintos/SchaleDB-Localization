@@ -1153,5 +1153,45 @@
         "NameCn": "紫色圣遗物",
         "NameTh": "เรลิกม่วง",
         "NameVi": "Thánh vật màu tím"
+    },
+    {
+        "Id": 7965002,
+        "NameEn": "Perorominion",
+        "NameTh": "ลูกสมุนบิ๊กเพโรโร่",
+        "NameJp": "ペロロミニオン",
+        "NameKr": "페로로 미니언",
+        "NameTw": "佩洛洛士兵",
+        "NameCn": "佩洛洛士兵",
+        "NameVi": "Lính Peroro"
+    },
+    {
+        "Id": 7965026,
+        "NameEn": "Small Perorominion",
+        "NameTh": "ลูกสมุนเพโรโร่",
+        "NameJp": "小型のペロロミニオン",
+        "NameKr": "소형 페로로 미니언",
+        "NameTw": "小型佩洛洛士兵",
+        "NameCn": "小型佩洛洛士兵",
+        "NameVi": "Lính Peroro nhỏ"
+    },
+    {
+        "Id": 7965031,
+        "NameEn": "Perorominion",
+        "NameTh": "ลูกสมุนบิ๊กเพโรโร่",
+        "NameJp": "ペロロミニオン",
+        "NameKr": "페로로 미니언",
+        "NameTw": "佩洛洛士兵",
+        "NameCn": "佩洛洛士兵",
+        "NameVi": "Lính Peroro"
+    },
+    {
+        "Id": 7965061,
+        "NameEn": "Small Perorominion",
+        "NameTh": "ลูกสมุนเพโรโร่",
+        "NameJp": "小型のペロロミニオン",
+        "NameKr": "소형 페로로 미니언",
+        "NameTw": "小型佩洛洛士兵",
+        "NameCn": "小型佩洛洛士兵",
+        "NameVi": "Lính Peroro nhỏ"
     }
 ]
