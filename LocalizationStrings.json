@@ -1150,7 +1150,7 @@
             },
             "815": {
                 "ScenarioKey": 2778041043,
-                "Cn": "出差！百夜堂 海之家FC计划",
+                "Cn": "出差！百夜堂大海之家加盟计划",
                 "Vi": "Chuyến công tác! Kế hoạch nhượng quyền của ngôi nhà bãi biển Momoyodou"
             },
             "816": {
@@ -1184,7 +1184,8 @@
             },
             "821": {
                 "ScenarioKey": 38610745,
-                "En": "Battle for the False Sanctum"
+                "En": "Battle for the False Sanctum",
+                "Cn": "虚妄的神圣之塔攻略战"
             }
         },
         "StageType": {
@@ -5029,7 +5030,8 @@
                 "Jp": "タイル",
                 "Kr": "구역",
                 "Th": "พื้นที่",
-                "Tw": "區域"
+                "Tw": "區域",
+                "Cn": "区域"
             },
             "event_rerun": {
                 "En": " (Rerun)",
@@ -5613,28 +5615,32 @@
                 "Jp": "占領",
                 "Kr": "점령",
                 "Th": "ยึด",
-                "Tw": "佔領"
+                "Tw": "佔領",
+                "Cn": "占领"
             },
             "conquest_operate": {
                 "En": "Operate",
                 "Jp": "運営",
                 "Kr": "운영",
                 "Th": "จัดการ",
-                "Tw": "營運"
+                "Tw": "營運",
+                "Cn": "运营"
             },
             "conquest_settlement": {
                 "En": "Settlement Acquisition Reward",
                 "Jp": "精算獲得報酬",
                 "Kr": "정산 획득 보상",
                 "Th": "รางวัลดำเนินการ",
-                "Tw": "結算獲得獎勵"
+                "Tw": "結算獲得獎勵",
+                "Cn": "结算获得报酬"
             },
             "school_bonus": {
                 "En": "Academy Buff",
                 "Jp": "学園編成効果",
                 "Kr": "학원 편성 효과",
                 "Th": "เอฟเฟกต์จัดทีมโรงเรียน",
-                "Tw": "學園編輯效果"
+                "Tw": "學園編輯效果",
+                "Cn": "学园编成效果"
             },
             "tooltip_relationship_bonus": {
                 "En": "Include {0}'s Relationship Bonus",
