@@ -3747,7 +3747,7 @@
             },
             "ShiroKuro": {
                 "En": "Increases when hit by own attacks.",
-                "Jp": null,
+                "Jp": "自身の攻撃を受けると増加する。",
                 "Kr": null,
                 "Th": "เพิ่มเมื่อถูกโจมตีโดยการโจมตีของตัวเอง",
                 "Tw": "被自身攻擊擊中時增加。",
@@ -3792,7 +3792,7 @@
             },
             "HoverCraft": {
                 "En": "Increases when Missile Frenzy mode ends.",
-                "Jp": null,
+                "Jp": "ミサイル暴走モードが終了すると増加する。",
                 "Kr": null,
                 "Th": "เพิ่มเมื่อโหมดยิงมิสไซล์จบลง",
                 "Tw": "導彈炸裂模式結束時增加。",
@@ -4874,7 +4874,7 @@
             },
             "memory_lobby_bgm": {
                 "En": "Lobby BGM: {0}",
-                "Jp": null,
+                "Jp": "メモリアルロビーBGM：{0}",
                 "Kr": null,
                 "Th": "เพลงประกอบล็อบบี้ฯ: {0}",
                 "Tw": "大廳BGM: {0}",
@@ -5540,7 +5540,7 @@
             },
             "item_eventbonus": {
                 "En": "The following students earn bonus amounts of this currency.",
-                "Jp": null,
+                "Jp": "以下の生徒を編成するとこのアイテムの獲得量が増加する。",
                 "Kr": null,
                 "Th": "ไอเทมนี้ได้รับโบนัสดรอปจากนักเรียนดังต่อไปนี้",
                 "Tw": "以下學生可以額外獲得這種貨幣。",
@@ -5993,7 +5993,7 @@
             },
             "stat_ammocount_tooltip_fan": {
                 "En": "Normal Attack consumes {0} ammo and deals {1} hit(s) to enemies in a fan-shaped area",
-                "Jp": "通常攻撃は弾薬{0}を消費し扇状範囲内の敵に{1}回ヒットする",
+                "Jp": "通常攻撃は弾薬{0}を消費し扇形範囲内の敵に{1}回ヒットする",
                 "Kr": null,
                 "Th": "การโจมตีปกติใช้กระสุน {0} นัดและสร้างความเสียหายจำนวน {1} ครั้งให้กับศัตรูในพื้นที่รูปทรงกรวย",
                 "Tw": "普通攻擊消耗 {0} 彈藥並對扇形區域內的敵人造成 {1} 次攻擊",
@@ -6128,7 +6128,7 @@
             },
             "skill_normalattack_fan": {
                 "En": "Deals <?1> damage to enemies in a fan-shaped area.",
-                "Jp": "扇状範囲内の敵に対して<?1>ダメージを与える。",
+                "Jp": "扇形範囲内の敵に対して<?1>ダメージを与える。",
                 "Kr": null,
                 "Th": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูในพื้นที่รูปทรงกรวย",
                 "Tw": "對扇形區域內敵人造成<?1>傷害。",
