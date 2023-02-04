@@ -1277,8 +1277,18 @@
             "DescriptionTw": "對圓形範圍內敵人造成150%的傷害",
             "NameCn": "破坏—Type I",
             "DescriptionCn": "对圆形范围内敌人造成150%的伤害",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Tàn phá loại I",
+            "DescriptionVi": "Gây 150% sát thương lên kẻ địch trong khu vực hình tròn <?1>.",
+            "ParametersVi": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "mở rộng gấp 3 lần"
+                ]
+            ]
         },
         {
             "Id": "HODEx02",
@@ -1291,8 +1301,8 @@
             "DescriptionTw": "對直線範圍內的敵人造成200%傷害",
             "NameCn": "破坏—Type II",
             "DescriptionCn": "对直线范围内的敌人造成200%伤害",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Tàn phá loại II",
+            "DescriptionVi": "Gây 200% sát thương lên kẻ địch trên một đường thẳng."
         },
         {
             "Id": "HODEx03",
@@ -1325,8 +1335,18 @@
             "DescriptionTw": null,
             "NameCn": "生成侵蚀之塔",
             "DescriptionCn": null,
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Tháp truyền tải xuất kích!",
+            "DescriptionVi": "Triệu hồi <?1> làm giảm <d:CostRegen> của kẻ địch xuống <b>350</b> trong một khu vực hình tròn xung quanh nó (hiệu ứng không cộng dồn nhiều lần) và buộc các tháp phòng thủ gần đó đổi mục tiêu tấn công sang kẻ địch thay vì Hod. Phạm vi ảnh hưởng của tháp sẽ mở rộng sau mỗi 15s.\nSử dụng các kỹ năng EX có hiệu ứng CC sẽ làm giảm phạm vi ảnh hưởng của tháp.\nKhi tháp truyền tải do Hod triệu hồi bị phá huỷ, giảm 50% thanh ATG và tăng 25% thanh choáng của Hod.",
+            "ParametersVi": [
+                [
+                    "một tháp truyền tải,",
+                    "một tháp truyền tải,",
+                    "một tháp truyền tải,",
+                    "một tháp truyền tải,",
+                    "một tháp truyền tải,",
+                    "hai tháp truyền tải, mỗi tháp"
+                ]
+            ]
         },
         {
             "Id": "HODEx04",
@@ -1339,8 +1359,8 @@
             "DescriptionTw": null,
             "NameCn": "释放过载能量",
             "DescriptionCn": "对全体敌人造成 150% 伤害。如果霍德体力低于 50%，造成 300% 伤害并摧毁所有防御炮塔。",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Năng lượng quá tải",
+            "DescriptionVi": "Gây 150% sát thương lên tất cả kẻ địch. Nếu HP của HP thấp hơn 50%, gây 300% sát thương và phá huỷ toàn bộ tháp phòng thủ."
         },
         {
             "Id": "HODEx05",
@@ -1353,8 +1373,8 @@
             "DescriptionTw": null,
             "NameCn": "荣耀之光",
             "DescriptionCn": "对全体敌人造成 740% 伤害，霍德<b:ATK>提升50%直至战斗结束。效果最多叠加99次。",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Ánh sáng vinh quang",
+            "DescriptionVi": "Gây 740% sát thương lên tất cả kẻ địch và tăng 50% <b:ATK> của Hod cho đến khi kết thúc màn chơi. Hiệu ứng có thể cộng dồn tối đa 99 lần."
         },
         {
             "Id": "HODPassive01",
@@ -1439,8 +1459,26 @@
             "DescriptionTw": null,
             "NameCn": "荣耀的另一面",
             "DescriptionCn": "霍德以及所有召唤的侵蚀之塔免疫群控效果，但是群控能力将按比例填充它们的圆形<b>群控量表</b>，而该量表将被施加效果的持续时间。<?2>\n一旦群控量表达到相当于群控持续时间<?1>的总量，就会造成以下效果：\n<b>霍德</b>：30秒内<d:DamagedRatio>提升300%，ATG量表降低 50%，无力量表填充25%。\n<b>侵蚀之塔</b>：30秒内<d:DamagedRatio>提升300%，塔的影响范围减少1级。",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Phía sau sự vinh quang",
+            "DescriptionVi": "Hod và tất cả tháp truyền tải được triệu hồi đều miễn nhiễm với hiệu ứng CC. Tuy nhiên, tuy nhiên các kỹ năng CC sẽ lấp đầy <b>thanh CC</b> hình tròn của chúng tỷ lệ thuận với thời lượng của hiệu ứng lẽ ra phải chịu.<?2>\nSau khi thanh CC đạt đến tổng số tương đương với <?1> hiệu ứng CC, gây ra các hiệu ứng sau:\n<b>Hod</b>: Tăng <d:DamagedRatio> thêm 300% trong 30s, giảm 50% thanh ATG của và 25% thanh choáng của Hod.\n<b>Tháp truyền tải</b>: Tăng <d:DamagedRatio> thêm 300% trong 30s và giảm phạm vi ảnh hưởng của tháp đi một giai đoạn.",
+            "ParametersVi": [
+                [
+                    "6s",
+                    "7s",
+                    "8s",
+                    "9s",
+                    "10s",
+                    "15s"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\nChỉ số được thêm vào thanh CC được nhân với chỉ số sức mạnh CC của kẻ gây ra."
+                ]
+            ]
         },
         {
             "Id": "HODPassive02",
@@ -1453,8 +1491,8 @@
             "DescriptionTw": null,
             "NameCn": "荣耀的影子",
             "DescriptionCn": "霍德和所有召唤的侵蚀之塔暴击抵抗率提升400%。\n侵蚀之塔同时免疫<d:ConcentratedTarget>效果。",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Cái bóng của danh dự",
+            "DescriptionVi": "Hod và tất cả tháp truyền tải được triệu hồi đều tăng 400% kháng chí mạng.\nTháp truyền tải cũng miễn nhiễm với hiệu ứng <d:ConcentratedTarget>."
         },
         {
             "Id": "GozEx01",
@@ -1506,8 +1544,18 @@
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null,
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Giờ bạn thấy chúng tôi",
+            "DescriptionVi": "Goz biến mất trong một khoảng thời gian ngắn, xoá hết tất cả debuff khỏi bản thân và tạo ra <b>2</b> bản sao có kỹ năng giống như Goz. <?1>",
+            "ParametersVi": [
+                [
+                    "(Bản sao có <b>0</b> ATK)",
+                    "(Bản sao có <b>0</b> ATK)",
+                    "(Bản sao có <b>0</b> ATK)",
+                    "(Bản sao có <b>0</b> ATK)",
+                    "(Bản sao có <b>0</b> ATK)",
+                    "(Bản sao có <b>50%</b> ATK của Goz)"
+                ]
+            ]
         },
         {
             "Id": "GozEx02",
@@ -1520,8 +1568,8 @@
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null,
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Chiếu sáng sân khấu",
+            "DescriptionVi": "Goz và bản sao của Goz sẽ chiếu ánh sáng vào khu vực trước họ. Sau một thời gian ngắn, các khu vực được chiếu sáng bởi bản sao sẽ phát nổ, gây 1500% lên kẻ địch trong ánh sáng được chiếu."
         },
         {
             "Id": "GozEx03",
@@ -1534,8 +1582,8 @@
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null,
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Mũ đồng tiền ảo ma",
+            "DescriptionVi": "Goz xáo trộn ba chiếc mũ có giấu đồng xu bên trong hai chiếc. Sau khi mũ bị xáo trộn, kẻ địch đứng trên đường thẳng tính từ mũ không có đồng xu sẽ nhận 800% sát thương, bị đẩy lùi bị <c:Stunned> trong 5s."
         },
         {
             "Id": "GozEx04",
@@ -1548,8 +1596,8 @@
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null,
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Món quà bất ngờ",
+            "DescriptionVi": "Goz lấy ra một quả bom từ chiếc mũ và nhắm vào một kẻ địch, gây 900% sát thương cho kẻ địch bị nhắm."
         },
         {
             "Id": "GozEx05",
@@ -1602,8 +1650,18 @@
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null,
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Tàu lượn lao đến!",
+            "DescriptionVi": "Tàu lượn sẽ xuất hiện định kỳ, gây 1200% sát thương cho kẻ địch trên đường đi của nó, đồng thời đẩy lùi <?1> kẻ địch trong khu vực gần đó và triệu hồi lính máy tự động Slumpian tại vị trí mà nó đi qua.",
+            "ParametersVi": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "và gây 600% sát thương lên"
+                ]
+            ]
         },
         {
             "Id": "GozPassive01",
@@ -1651,8 +1709,26 @@
             "DescriptionTw": null,
             "NameCn": null,
             "DescriptionCn": null,
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Chơi khăm hay bảo vệ?",
+            "DescriptionVi": "Giảm <?1> sát thương gây ra của Goz lên các mục tiêu được bảo vệ bởi <b:Shield>. Đồng thời giảm <?2> <d:HealEffectiveness> của tất cả kẻ địch. Debuff này không thể bị gỡ bỏ.",
+            "ParametersVi": [
+                [
+                    "75%",
+                    "75%",
+                    "75%",
+                    "75%",
+                    "75%",
+                    "50%"
+                ],
+                [
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "90%"
+                ]
+            ]
         },
         {
             "Id": "WakamoSwimsuit01Ex01",
