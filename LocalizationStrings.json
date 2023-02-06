@@ -5,34 +5,40 @@
             "Main": {
                 "PrefabKey": 646522500,
                 "Cn": "STRIKER",
-                "Vi": "STRIKER"
+                "Vi": "STRIKER",
+                "Kr": "STRIKER"
             },
             "Support": {
                 "PrefabKey": 1098852181,
                 "Cn": "SPECIAL",
-                "Vi": "SPECIAL"
+                "Vi": "SPECIAL",
+                "Kr": "SPECIAL"
             }
         },
         "BulletType": {
             "Explosion": {
                 "CodeKey": 3757721831,
                 "Cn": "爆发",
-                "Vi": "Nổ"
+                "Vi": "Nổ",
+                "Kr": "폭발"
             },
             "Pierce": {
                 "CodeKey": 3403805498,
                 "Cn": "贯通",
-                "Vi": "Xuyên giáp"
+                "Vi": "Xuyên giáp",
+                "Kr": "관통"
             },
             "Mystic": {
                 "CodeKey": 1152404059,
                 "Cn": "神秘",
-                "Vi": "Huyền bí"
+                "Vi": "Huyền bí",
+                "Kr": "신비"
             },
             "Normal": {
                 "CodeKey": 3785464487,
                 "Cn": "普通",
-                "Vi": "Thường"
+                "Vi": "Thường",
+                "Kr": "일반"
             },
             "Siege": {
                 "CodeKey": 3580810486,
@@ -43,24 +49,28 @@
             "LightArmor": {
                 "CodeKey": 3837040931,
                 "Cn": "轻护甲",
-                "Vi": "Nhẹ"
+                "Vi": "Nhẹ",
+                "Kr": "경장갑"
             },
             "HeavyArmor": {
                 "CodeKey": 2014245498,
                 "Cn": "重装甲",
-                "Vi": "Nặng"
+                "Vi": "Nặng",
+                "Kr": "중장갑"
             },
             "Unarmed": {
                 "CodeKey": 3363459657,
                 "Cn": "特殊装甲",
-                "Vi": "Đặc biệt"
+                "Vi": "Đặc biệt",
+                "Kr": "무장갑"
             },
             "Normal": {
                 "CodeKey": 2051696859,
                 "En": "Normal",
                 "Cn": "普通装甲",
                 "Th": "เกราะปกติ",
-                "Vi": "Thường"
+                "Vi": "Thường",
+                "Kr": "일반"
             }
         },
         "TacticRole": {
@@ -94,131 +104,156 @@
             "Abydos": {
                 "CodeKey": 2496894026,
                 "Cn": "阿比多斯",
-                "Vi": "Abydos"
+                "Vi": "Abydos",
+                "Kr": "아비도스"
             },
             "Arius": {
                 "CodeKey": 1624106283,
                 "Cn": "阿里乌斯",
-                "Vi": "Arius"
+                "Vi": "Arius",
+                "Kr": "아리우스"
             },
             "Gehenna": {
                 "CodeKey": 4278416471,
                 "Cn": "格黑娜",
-                "Vi": "Gehenna"
+                "Vi": "Gehenna",
+                "Kr": "게헨나"
             },
             "Hyakkiyako": {
                 "CodeKey": 1357983354,
                 "Cn": "百鬼夜行",
-                "Vi": "Hyakkiyako"
+                "Vi": "Hyakkiyako",
+                "Kr": "백귀야행"
             },
             "Millennium": {
                 "CodeKey": 3069365233,
                 "Cn": "千年",
-                "Vi": "Millennium"
+                "Vi": "Millennium",
+                "Kr": "밀레니엄"
             },
             "RedWinter": {
                 "CodeKey": 4287460736,
                 "Cn": "红冬",
-                "Vi": "Red Winter"
+                "Vi": "Red Winter",
+                "Kr": "레드윈터"
             },
             "Shanhaijing": {
                 "CodeKey": 1195587187,
                 "Cn": "山海经",
-                "Vi": "Shanhaijing"
+                "Vi": "Shanhaijing",
+                "Kr": "산해경"
             },
             "SRT": {
                 "CodeKey": 3227477377,
                 "Cn": "SRT",
-                "Vi": "SRT"
+                "Vi": "SRT",
+                "Kr": "SRT"
             },
             "Trinity": {
                 "CodeKey": 3367267180,
                 "Cn": "三一",
-                "Vi": "Trinity"
+                "Vi": "Trinity",
+                "Kr": "트리니티"
             },
             "Valkyrie": {
                 "CodeKey": 113298623,
                 "Cn": "瓦尔基里",
-                "Vi": "Valkyrie"
+                "Vi": "Valkyrie",
+                "Kr": "발키리"
             },
             "ETC": {
                 "CodeKey": 792628026,
                 "Cn": "其他",
-                "Vi": "Etc."
+                "Vi": "Etc.",
+                "Kr": "기타"
             }
         },
         "AdaptationType": {
             "Street": {
                 "CodeKey": 4095504793,
                 "Cn": "市街",
-                "Vi": "Đường phố"
+                "Vi": "Đường phố",
+                "Kr": "시가"
             },
             "Outdoor": {
                 "CodeKey": 1063796482,
                 "Cn": "室外",
-                "Vi": "Ngoài trời"
+                "Vi": "Ngoài trời",
+                "Kr": "실외"
             },
             "Indoor": {
                 "CodeKey": 3760285652,
                 "Cn": "室内",
-                "Vi": "Trong công trình"
+                "Vi": "Trong công trình",
+                "Kr": "실내"
             }
         },
         "SchoolLong": {
             "Abydos": {
                 "ScenarioKey": 2877335168,
                 "Cn": "阿比多斯高中",
-                "Vi": "Trường Trung học Phổ thông Abydos"
+                "Vi": "Trường Trung học Phổ thông Abydos",
+                "Kr": "아비도스 고등학교"
             },
             "Arius": {
                 "ScenarioKey": 417290178,
                 "Cn": "阿里乌斯分校",
-                "Vi": "Trường Vệ tinh Arius"
+                "Vi": "Trường Vệ tinh Arius",
+                "Kr": "아리우스 분교"
             },
             "Gehenna": {
                 "ScenarioKey": 3736730534,
                 "Cn": "格黑娜学园",
-                "Vi": "Học viện Gehenna"
+                "Vi": "Học viện Gehenna",
+                "Kr": "게헨나 학원"
             },
             "Hyakkiyako": {
                 "ScenarioKey": 1563751060,
                 "Cn": "百鬼夜行联合学园",
-                "Vi": "Học viện Đồng minh Hyakkiyako"
+                "Vi": "Học viện Đồng minh Hyakkiyako",
+                "Kr": "백귀야행 연합학원"
             },
             "Millennium": {
                 "ScenarioKey": 2224197674,
                 "Cn": "千年科学学园",
-                "Vi": "Trường Khoa học Millennium"
+                "Vi": "Trường Khoa học Millennium",
+                "Kr": "밀레니엄 사이언스 스쿨"
             },
             "RedWinter": {
                 "ScenarioKey": 2940461121,
                 "Cn": "红冬联邦学园",
-                "Vi": "Học viện Liên bang Red Winter"
+                "Vi": "Học viện Liên bang Red Winter",
+                "Kr": "붉은겨울 연방학원"
             },
             "Shanhaijing": {
                 "ScenarioKey": 3997137133,
                 "Cn": "山海经高级中学",
-                "Vi": "Trường Trung học cấp hai Shanhaijing"
+                "Vi": "Trường Trung học cấp hai Shanhaijing",
+                "Kr": "산해경 고급중학교"
             },
             "SRT": {
                 "ScenarioKey": 2978806820,
                 "Cn": "SRT特殊学园",
-                "Vi": "Học viện Đặc biệt SRT"
+                "Vi": "Học viện Đặc biệt SRT",
+                "Kr": "SRT 특수학원"
             },
             "Trinity": {
                 "ScenarioKey": 4226222338,
                 "Cn": "三一综合学园",
-                "Vi": "Trường Tổng hợp Trinity"
+                "Vi": "Trường Tổng hợp Trinity",
+                "Kr": "트리니티 종합학원"
             },
             "Valkyrie": {
                 "ScenarioKey": 1843937705,
                 "Cn": "瓦尔基里警察学校",
-                "Vi": "Trường Cảnh sát Valkyrie"
+                "Vi": "Trường Cảnh sát Valkyrie",
+                "Kr": "발키리 경찰학교"
             },
             "ETC": {
                 "ScenarioKey": 1926648970,
                 "Cn": "其他",
-                "Vi": "Etc."
+                "Vi": "Etc.",
+                "Kr": "기타"
             }
         },
         "Club": {
@@ -410,12 +445,14 @@
             "Decagrammaton": {
                 "CodeKey": 588766398,
                 "Cn": "十字神名",
-                "Vi": "Decagrammaton"
+                "Vi": "Decagrammaton",
+                "Kr": "데카그라마톤"
             },
             "Slumpia": {
                 "CodeKey": 3971535573,
                 "Cn": "史兰皮亚",
-                "Vi": "Slumpia"
+                "Vi": "Slumpia",
+                "Kr": "슬럼피아"
             },
             "CommunioSanctorum": {
                 "CodeKey": 3393945124,
@@ -425,7 +462,8 @@
             "Kaitenger": {
                 "EtcKey": 4241806907,
                 "Cn": "凯坦泽",
-                "Vi": "Kaitenger"
+                "Vi": "Kaitenger",
+                "Kr": "카이텐저"
             },
             "TheLibraryofLore": {
                 "CodeKey": 2285706243,
@@ -453,13 +491,15 @@
                 "CodeKey": 2336577384,
                 "Cn": "攻击力",
                 "Th": "ค่าโจมตี",
-                "Vi": "Tấn công"
+                "Vi": "Tấn công",
+                "Kr": "공격력"
             },
             "DefensePower": {
                 "CodeKey": 1707125936,
                 "Cn": "防御力",
                 "Th": "ค่าป้องกัน",
-                "Vi": "Phòng thủ"
+                "Vi": "Phòng thủ",
+                "Kr": "방어력"
             },
             "HealPower": {
                 "CodeKey": 2769113597,
@@ -471,7 +511,8 @@
                 "CodeKey": 3412978411,
                 "Cn": "命中值",
                 "Th": "ค่าความแม่นยำ",
-                "Vi": "Độ chính xác"
+                "Vi": "Độ chính xác",
+                "Kr": "명중 수치"
             },
             "DodgePoint": {
                 "CodeKey": 1111167881,
@@ -513,7 +554,8 @@
                 "CodeKey": 1424400712,
                 "Cn": "暴击抵抗力",
                 "Th": "ต้านทานคริ",
-                "Vi": "Kháng tỉ lệ chí mạng"
+                "Vi": "Kháng tỉ lệ chí mạng",
+                "Kr": "치명 저항력"
             },
             "CriticalDamageResistRate": {
                 "CodeKey": 1736777416,
@@ -544,7 +586,8 @@
                 "CodeKey": 1485618104,
                 "Cn": "载弹量",
                 "Th": "จำนวนกระสุน",
-                "Vi": "Số lượng băng đạn"
+                "Vi": "Số lượng băng đạn",
+                "Kr": "장탄 수"
             },
             "MoveSpeed": {
                 "CodeKey": 2720480260,
@@ -573,7 +616,8 @@
                 "CodeKey": 4177175092,
                 "Cn": "攻速",
                 "Th": "ความเร็วโจมตี",
-                "Vi": "Tốc độ tấn công"
+                "Vi": "Tốc độ tấn công",
+                "Kr": "공격속도"
             },
             "BlockRate": {
                 "En": "Block Rate Bonus",
@@ -587,7 +631,7 @@
             "DefensePenetration": {
                 "En": "Defense Piercing",
                 "Jp": "防御貫通値",
-                "Kr": "방어관통",
+                "Kr": "방어 관통",
                 "Th": "ค่าเจาะเกราะ",
                 "Tw": "防禦貫穿",
                 "Cn": "防御无视值",
@@ -671,7 +715,7 @@
             "EXHits": {
                 "En": "EX Skill Hits",
                 "Jp": "EXスキルヒット回数",
-                "Kr": null,
+                "Kr": "EX 스킬 히트수",
                 "Th": "จำนวนการโจมตีของสกิล EX",
                 "Tw": "EX 技能擊中次數",
                 "Cn": "EX技能伤害段数",
@@ -680,7 +724,7 @@
             "GroggyGauge": {
                 "En": "Groggy Gauge",
                 "Jp": "グロッキーゲージ",
-                "Kr": null,
+                "Kr": "그로기 게이지",
                 "Th": "เกจมึนงง",
                 "Tw": "無力量表",
                 "Cn": "虚弱量表",
@@ -689,7 +733,7 @@
             "GroggyTime": {
                 "En": "Groggy Duration",
                 "Jp": "グロッキー持続時間",
-                "Kr": null,
+                "Kr": "그로기 지속시간",
                 "Th": "ระยะเวลามึนงง",
                 "Tw": "無力持續時間",
                 "Cn": "虚弱持续时间",
@@ -700,7 +744,7 @@
             "0": {
                 "En": "Permanent",
                 "Jp": "恒常",
-                "Kr": null,
+                "Kr": "통상",
                 "Tw": "永久",
                 "Cn": "常驻",
                 "Th": "ถาวร",
@@ -709,7 +753,7 @@
             "1": {
                 "En": "Unique",
                 "Jp": "限定",
-                "Kr": "특별",
+                "Kr": "한정",
                 "Tw": "特別",
                 "Cn": "限定",
                 "Th": "พิเศษ",
@@ -1033,7 +1077,7 @@
             "Artifact": {
                 "En": "Artifact",
                 "Jp": "オーパーツ",
-                "Kr": "오파츠를",
+                "Kr": "오파츠",
                 "Tw": "歐帕茲",
                 "Cn": "欧帕兹",
                 "Th": "วัตถุหลงยุค",
@@ -1195,13 +1239,15 @@
                 "En": "Missions",
                 "Cn": "任务",
                 "Th": "ภารกิจ",
-                "Vi": "Nhiệm vụ"
+                "Vi": "Nhiệm vụ",
+                "Kr": "임무"
             },
             "Bounty": {
                 "PrefabKey": 1960632697,
                 "Cn": "悬赏通缉",
                 "Th": "ประกาศจับ",
-                "Vi": "Săn tiền thưởng"
+                "Vi": "Săn tiền thưởng",
+                "Kr": "현상수배"
             },
             "WeekDungeon": {
                 "PrefabKey": 2577664618,
@@ -1242,25 +1288,29 @@
                 "CodeKey": 439161182,
                 "Cn": "悬赏通缉 - 立交桥",
                 "Th": "ประกาศจับ - ทางยกระดับ",
-                "Vi": "Săn tiền thưởng - Cầu vượt"
+                "Vi": "Săn tiền thưởng - Cầu vượt",
+                "Kr": "현상수배 - 고가도로"
             },
             "ChaserB": {
                 "CodeKey": 2551305195,
                 "Cn": "悬赏通缉 - 沙漠铁路",
                 "Th": "ประกาศจับ - ทางรถไฟทะเลทราย",
-                "Vi": "Săn tiền thưởng - Đường sắt sa mạc"
+                "Vi": "Săn tiền thưởng - Đường sắt sa mạc",
+                "Kr": "현상수배 - 사막 기찻길"
             },
             "ChaserC": {
                 "CodeKey": 660001255,
                 "Cn": "悬赏通缉 - 教室",
                 "Th": "ประกาศจับ - ห้องเรียน",
-                "Vi": "Săn tiền thưởng - Lớp học"
+                "Vi": "Săn tiền thưởng - Lớp học",
+                "Kr": "현상수배 - 교실"
             },
             "Blood": {
                 "CodeKey": 9043496,
                 "Cn": "据点防御",
                 "Th": "ป้องกันฐาน",
-                "Vi": "Phòng thủ căn cứ"
+                "Vi": "Phòng thủ căn cứ",
+                "Kr": "거점방어"
             },
             "FindGift": {
                 "CodeKey": 3477560344,
@@ -1512,7 +1562,7 @@
             "WeaponExpGrowthA": {
                 "En": "Provides 1.5&times; EXP when used to enhance SMG, SG and HG type weapons.",
                 "Jp": "SMG、SG、HGの固有武器の強化時に獲得EXPが1.5倍になる。",
-                "Kr": null,
+                "Kr": "SMG, SG, HG 유형의 무기를 강화할 때 경험치 1.5배 증가.",
                 "Tw": "用於強化 SMG、SG、HG 類型武器時提供 1.5 倍經驗",
                 "Cn": "用于强化SMG、SG、HG类武器时提供1.5倍经验",
                 "Th": "ได้รับ Exp x1.5 เมื่อใช้อัปเกรดอาวุธประเภท SMG, SG และ HG",
@@ -1521,7 +1571,7 @@
             "WeaponExpGrowthB": {
                 "En": "Provides 1.5&times; EXP when used to enhance AR, GL and RL type weapons.",
                 "Jp": "AR、GL、RLの固有武器の強化時に獲得EXPが1.5倍になる。",
-                "Kr": null,
+                "Kr": "AR, GL, RL 유형의 무기를 강화할 때 경험치 1.5배 증가.",
                 "Tw": "用於強化 AR、GL、RL 類型武器時提供 1.5 倍經驗",
                 "Cn": "用于强化AR、GL、RL类武器时提供1.5倍经验",
                 "Th": "ได้รับ Exp x1.5 เมื่อใช้อัปเกรดอาวุธประเภท AR, GL และ RL",
@@ -1530,7 +1580,7 @@
             "WeaponExpGrowthC": {
                 "En": "Provides 1.5&times; EXP when used to enhance MG, SR, MT and RG type weapons.",
                 "Jp": "MG、SR、MT、RGの固有武器の強化時に獲得EXPが1.5倍になる。",
-                "Kr": null,
+                "Kr": "MG, SR, MT, RG 유형의 무기를 강화할 때 경험치 1.5배 증가.",
                 "Tw": "用於強化 MG、SR、MT、RG 類型武器時提供 1.5 倍經驗",
                 "Cn": "用于强化MG、SR、MT、RG类武器时提供 1.5 倍经验",
                 "Th": "ได้รับ Exp x1.5 เมื่อใช้อัปเกรดอาวุธประเภท MG, SR, MT และ RG",
@@ -1539,7 +1589,7 @@
             "WeaponExpGrowthZ": {
                 "En": "Provides 1.5&times; EXP when used to enhance any type of weapon.",
                 "Jp": "すべて武器種の固有武器の強化時に獲得EXPが1.5倍になる。",
-                "Kr": null,
+                "Kr": "모든 유형의 무기를 강화할 때 경험치 1.5배 증가.",
                 "Tw": "用於強化任何類型武器時提供 1.5 倍經驗",
                 "Cn": "用于强化任意武器时均提供1.5倍经验",
                 "Th": "ได้รับ Exp x1.5 เมื่อใช้อัปเกรดอาวุธทุกประเภท",
@@ -1568,7 +1618,7 @@
             "CC": {
                 "En": "Crowd Control Effect",
                 "Jp": "CC状態",
-                "Kr": "군중제어 효과에",
+                "Kr": "군중제어 효과",
                 "Th": "เอฟเฟกต์กดขี่",
                 "Tw": "群控效果",
                 "Cn": "群控状态",
@@ -1696,7 +1746,7 @@
             "Buff_DamagedLimit": {
                 "En": "Incoming DMG Limit",
                 "Jp": "最大ダメージ制限",
-                "Kr": null,
+                "Kr": "받는 피해 한계치",
                 "Th": "จำกัดความเสียหายที่ได้รับ",
                 "Tw": "限制遭受的傷害",
                 "Cn": "承伤限制",
@@ -2100,7 +2150,7 @@
             "Debuff_HealedLimit": {
                 "En": "Recovery Limit",
                 "Jp": null,
-                "Kr": null,
+                "Kr": "회복량 제한",
                 "Th": "จำกัดการฟื้นฟู",
                 "Tw": "限制恢復能力",
                 "Cn": "生命回复限制",
@@ -2253,7 +2303,7 @@
             "CC_Paralysis": {
                 "En": "Paralysis",
                 "Jp": "麻痺状態",
-                "Kr": null,
+                "Kr": "마비",
                 "Th": "อัมพาต",
                 "Tw": "癱瘓",
                 "Cn": "瘫痪",
@@ -2271,7 +2321,7 @@
             "Special_FormChange": {
                 "En": "Normal Attack",
                 "Jp": "通常攻撃",
-                "Kr": "일반공격",
+                "Kr": "일반 공격",
                 "Th": "โจมตีทั่วไป",
                 "Tw": "一般攻擊",
                 "Cn": "普通攻击",
@@ -2292,7 +2342,8 @@
                 "Th": "ไม่ได้รับความเสียหาย",
                 "Tw": "免傷",
                 "Cn": "免伤",
-                "Vi": "Bất khả xâm phạm"
+                "Vi": "Bất khả xâm phạm",
+                "Kr": "무적"
             },
             "Special_Fury": {
                 "En": "Enraged",
@@ -2336,7 +2387,8 @@
                 "Th": "หยุดการฟื้นฟูค่าใช้สกิล EX",
                 "Tw": "COST停止恢復",
                 "Cn": "COST停止回复",
-                "Vi": "Dừng phục hồi"
+                "Vi": "Dừng phục hồi",
+                "Kr": "코스트 회복 중단"
             },
             "Special_ImmuneCC": {
                 "En": "CC Immune",
@@ -2344,12 +2396,13 @@
                 "Th": "ต้านทานเอฟเฟกต์กดขี่",
                 "Tw": "群控免疫",
                 "Cn": "群控免疫",
-                "Vi": "Khắc áp đảo"
+                "Vi": "Khắc áp đảo",
+                "Kr": "군중제어 면역"
             },
             "Special_SuddenDeath": {
                 "En": "Wakamo's Mark",
                 "Jp": "ワカモの刻印",
-                "Kr": "와카모의 각인이",
+                "Kr": "와카모의 각인",
                 "Th": "ตราของวาคาโมะ",
                 "Tw": "若藻的印記",
                 "Cn": "若藻的印记",
@@ -2367,7 +2420,7 @@
             "Special_Holiday": {
                 "En": "Holy Night Blessing",
                 "Jp": "「聖夜の祝福」",
-                "Kr": null,
+                "Kr": "성야의 축복",
                 "Th": "พรแห่งค่ำคืนศักดิ์สิทธิ์",
                 "Tw": "聖夜的祝福",
                 "Cn": "「圣夜祝福」",
@@ -2378,7 +2431,7 @@
             "Buff_AidAttitude": {
                 "En": "First Aid Ready",
                 "Jp": "救護の心構え",
-                "Kr": null,
+                "Kr": "구호의 마음가짐",
                 "Th": "หัวใจแห่งการบรรเทาทุกข์",
                 "Tw": "準備急救",
                 "Cn": "救护准备",
@@ -2390,7 +2443,8 @@
                 "Th": "จำนวนกระสุนเพิ่มขึ้น",
                 "Tw": "裝彈數提升",
                 "Cn": "载弹量增加",
-                "Vi": "Tăng lượng băng đạn"
+                "Vi": "Tăng lượng băng đạn",
+                "Kr": "장탄 수 증가"
             },
             "Buff_ATK": {
                 "En": "ATK Up",
@@ -2398,7 +2452,8 @@
                 "Th": "ค่าโจมตีเพิ่มขึ้น",
                 "Tw": "攻擊力提升",
                 "Cn": "攻击力提升",
-                "Vi": "Tăng tấn công"
+                "Vi": "Tăng tấn công",
+                "Kr": "공격력 증가"
             },
             "Buff_AttackSpeed": {
                 "En": "ATK SPD Up",
@@ -2406,7 +2461,8 @@
                 "Th": "ความเร็วโจมตีเพิ่มขึ้น",
                 "Tw": "攻擊速度提升",
                 "Cn": "攻速提升",
-                "Vi": "Tăng tốc độ tấn công"
+                "Vi": "Tăng tốc độ tấn công",
+                "Kr": "공격속도 증가"
             },
             "Buff_BlockRate": {
                 "En": "Block Rate Up",
@@ -2414,7 +2470,8 @@
                 "Th": "อัตรากำบังสำเร็จเพิ่มขึ้น",
                 "Tw": "掩護成功率提升",
                 "Cn": "掩护成功率提升",
-                "Vi": "Tăng tỉ lệ chặn"
+                "Vi": "Tăng tỉ lệ chặn",
+                "Kr": "엄페 성공률 증가"
             },
             "Buff_ConcentratedTarget": {
                 "En": "Focused Assault",
@@ -2422,7 +2479,8 @@
                 "Th": "ล็อคเป้า",
                 "Tw": "集中攻擊",
                 "Cn": "集火",
-                "Vi": "Tập trung mục tiêu"
+                "Vi": "Tập trung mục tiêu",
+                "Kr": "집중공격"
             },
             "Buff_CostChange": {
                 "En": "EX Cost Down",
@@ -2430,7 +2488,8 @@
                 "Th": "ค่าใช้สกิล EX ลดลง",
                 "Tw": "EX 技能費用降低",
                 "Cn": "EX技能费用降低",
-                "Vi": "Giảm chi phí EX"
+                "Vi": "Giảm chi phí EX",
+                "Kr": "Ex 스킬 코스트 감소"
             },
             "Buff_CostRegen": {
                 "En": "Cost Recovery Up",
@@ -2438,7 +2497,8 @@
                 "Th": "ค่าฟื้นฟู Cost เพิ่มขึ้น",
                 "Tw": "COST恢復力提升",
                 "Cn": "COST回复力提升",
-                "Vi": "Tăng phục hồi chi phí"
+                "Vi": "Tăng phục hồi chi phí",
+                "Kr": "코스트 회복력 증가"
             },
             "Buff_CriticalChance": {
                 "En": "Crit Up",
@@ -2446,7 +2506,8 @@
                 "Th": "ค่าคริเพิ่มขึ้น",
                 "Tw": "暴擊數值提升",
                 "Cn": "暴击值提升",
-                "Vi": "Tăng tỉ lệ chí mạng"
+                "Vi": "Tăng tỉ lệ chí mạng",
+                "Kr": "치명타 증가"
             },
             "Buff_CriticalChanceResistPoint": {
                 "En": "Crit RES Up",
@@ -2454,7 +2515,8 @@
                 "Th": "ค่าต้านทานคริเพิ่มขึ้น",
                 "Tw": "暴擊抵抗力提升",
                 "Cn": "暴击抵抗力提升",
-                "Vi": "Tăng kháng tí lệ chí mạng"
+                "Vi": "Tăng kháng tí lệ chí mạng",
+                "Kr": "치명 저항력 증가"
             },
             "Buff_CriticalDamage": {
                 "En": "Crit DMG Up",
@@ -2462,7 +2524,8 @@
                 "Th": "ความเสียหายคริเพิ่มขึ้น",
                 "Tw": "暴擊傷害提升",
                 "Cn": "暴击伤害提升",
-                "Vi": "Tăng sát thương chí mạng"
+                "Vi": "Tăng sát thương chí mạng",
+                "Kr": "치명 대미지 증가"
             },
             "Buff_CriticalDamageRateResist": {
                 "En": "Crit DMG RES Up",
@@ -2470,12 +2533,13 @@
                 "Th": "อัตราต้านทานความเสียหายคริเพิ่มขึ้น",
                 "Tw": "暴擊傷害抵抗率提升",
                 "Cn": "暴伤抵抗率提升",
-                "Vi": "Tăng kháng sát thương chí mạng"
+                "Vi": "Tăng kháng sát thương chí mạng",
+                "Kr": "치명 대미지 저항률 증가"
             },
             "Buff_DamagedLimit": {
                 "En": "Incoming DMG Limit",
                 "Jp": "最大ダメージ制限",
-                "Kr": null,
+                "Kr": "받는 대미지량 제한",
                 "Th": "จำกัดความเสียหายที่ได้รับ",
                 "Tw": "限制遭受的傷害",
                 "Cn": "承伤限制",
@@ -2487,12 +2551,13 @@
                 "Th": "ความเสียหายที่ได้รับลดลง",
                 "Tw": "遭受的傷害量降低",
                 "Cn": "全局承伤倍率降低",
-                "Vi": "Sát thương phải chịu giảm"
+                "Vi": "Sát thương phải chịu giảm",
+                "Kr": "받는 대미지량 감소"
             },
             "Buff_DamageRatio": {
                 "En": "Damage Dealt Up",
                 "Jp": "与ダメージ量増加",
-                "Kr": null,
+                "Kr": "주는 대미지량 증가",
                 "Th": "ความเสียหายที่ทำได้เพิ่มขึ้น",
                 "Tw": "造成傷害增加",
                 "Cn": "全局伤害倍率提升",
@@ -2504,7 +2569,8 @@
                 "Th": "ค่าป้องกันเพิ่มขึ้น",
                 "Tw": "防禦力提升",
                 "Cn": "防御力提升",
-                "Vi": "Tăng phòng thủ"
+                "Vi": "Tăng phòng thủ",
+                "Kr": "방어력 증가"
             },
             "Buff_Dodge": {
                 "En": "Evasion Up",
@@ -2512,7 +2578,8 @@
                 "Th": "ค่าหลบหลีกเพิ่มขึ้น",
                 "Tw": "迴避數值提升",
                 "Cn": "闪避值提升",
-                "Vi": "Tăng tỉ lệ né"
+                "Vi": "Tăng tỉ lệ né",
+                "Kr": "회피 수치 증가"
             },
             "Buff_DotHeal": {
                 "En": "HP Regeneration",
@@ -2520,7 +2587,8 @@
                 "Th": "ฟื้นฟู HP ต่อเนื่อง",
                 "Tw": "持續恢復",
                 "Cn": "持续回复",
-                "Vi": "Phục hồi máu"
+                "Vi": "Phục hồi máu",
+                "Kr": "지속 회복"
             },
             "Buff_EnhanceExplosionRate": {
                 "En": "Explosive Effectiveness Up",
@@ -2528,7 +2596,8 @@
                 "Th": "ประสิทธิภาพความเสียหายระเบิดเพิ่มขึ้น",
                 "Tw": "爆發傷害加成提升",
                 "Cn": "爆发克制倍率提升",
-                "Vi": "Tăng hiệu quả nổ"
+                "Vi": "Tăng hiệu quả nổ",
+                "Kr": "폭발 특효 증가"
             },
             "Buff_EnhancePierceRate": {
                 "En": "Piercing Effectiveness Up",
@@ -2536,7 +2605,8 @@
                 "Th": "ประสิทธิภาพความเสียหายเจาะเกราะเพิ่มขึ้น",
                 "Tw": "貫穿傷害加成提升",
                 "Cn": "贯通克制倍率提升",
-                "Vi": "Tăng hiệu quả xuyên thủng"
+                "Vi": "Tăng hiệu quả xuyên thủng",
+                "Kr": "관통 특효 증가"
             },
             "Buff_EnhanceMysticRate": {
                 "En": "Mystic Effectiveness Up",
@@ -2544,12 +2614,13 @@
                 "Th": "ประสิทธิภาพความเสียหายลึกลับเพิ่มขึ้น",
                 "Tw": "神秘傷害加成提升",
                 "Cn": "神秘克制倍率提升",
-                "Vi": "Tăng hiệu quả huyền bí"
+                "Vi": "Tăng hiệu quả huyền bí",
+                "Kr": "신비 특효 증가"
             },
             "Buff_ExtendBuffDuration": {
                 "En": "Buff Duration Up",
                 "Jp": "バフ効果持続力増加",
-                "Kr": "이로운 효과 유지력",
+                "Kr": "이로운 효과 유지력 증가",
                 "Th": "ระยะเวลาบัฟเพิ่มขึ้น",
                 "Tw": "增益效果持續力增加",
                 "Cn": "增益持续力提升",
@@ -2558,7 +2629,7 @@
             "Buff_ExtendDebuffDuration": {
                 "En": "Debuff Duration Up",
                 "Jp": "弱体状態持続力増加",
-                "Kr": "해로운 효과 유지력",
+                "Kr": "해로운 효과 유지력 증가",
                 "Th": "ระยะเวลาเอฟเฟกต์อันตรายเพิ่มขึ้น",
                 "Tw": "減益效果持續力增加",
                 "Cn": "減益持续力提升",
@@ -2567,7 +2638,7 @@
             "Buff_ExtendCrowdControlDuration": {
                 "En": "CC Duration Up",
                 "Jp": "CC状態持続力増加",
-                "Kr": "군중제어 유지력",
+                "Kr": "군중제어 유지력 증가",
                 "Th": "ระยะเวลาเอฟเฟกต์กดขี่เพิ่มขึ้น",
                 "Tw": "群控狀態持續力增加",
                 "Cn": "群控持续力提升",
@@ -2579,7 +2650,8 @@
                 "Th": "ฟื้นฟูเมื่อได้รับความเสียหาย",
                 "Tw": "受攻擊時，適用恢復",
                 "Cn": "受击回复",
-                "Vi": "Phục hồi khi bị thương"
+                "Vi": "Phục hồi khi bị thương",
+                "Kr": "피격시 회복"
             },
             "Buff_HealEffectiveness": {
                 "En": "Recovery Boost Up",
@@ -2587,7 +2659,8 @@
                 "Th": "อัตราเร่งการฟื้นฟูเพิ่มขึ้น",
                 "Tw": "所受恢復效果強化率提升",
                 "Cn": "回复强化率提升",
-                "Vi": "Tăng hiệu quả phục hồi"
+                "Vi": "Tăng hiệu quả phục hồi",
+                "Kr": "받는 회복효과 강화율 증가"
             },
             "Buff_HealPower": {
                 "En": "Healing Up",
@@ -2595,7 +2668,8 @@
                 "Th": "ค่ารักษาเพิ่มขึ้น",
                 "Tw": "治癒力提升",
                 "Cn": "治愈力提升",
-                "Vi": "Tăng phục hồi"
+                "Vi": "Tăng phục hồi",
+                "Kr": "치유력 증가"
             },
             "Buff_HIT": {
                 "En": "Accuracy Up",
@@ -2603,7 +2677,8 @@
                 "Th": "ค่าความแม่นยำเพิ่มขึ้น",
                 "Tw": "命中數值提升",
                 "Cn": "命中值提升",
-                "Vi": "Tăng độ chính xác"
+                "Vi": "Tăng độ chính xác",
+                "Kr": "명중 수치 증가"
             },
             "Buff_MAXHP": {
                 "En": "Max HP Up",
@@ -2611,7 +2686,8 @@
                 "Th": "HP สูงสุดเพิ่มขึ้น",
                 "Tw": "最大體力提升",
                 "Cn": "生命值提升",
-                "Vi": "Tăng máu tối đa"
+                "Vi": "Tăng máu tối đa",
+                "Kr": "최대 체력 증가"
             },
             "Buff_MoveSpeed": {
                 "En": "MOV SPD Up",
@@ -2619,7 +2695,8 @@
                 "Th": "ความเร็วเคลื่อนที่เพิ่มขึ้น",
                 "Tw": "移動速度提升",
                 "Cn": "移速提升",
-                "Vi": "Tăng tốc độ di chuyển"
+                "Vi": "Tăng tốc độ di chuyển",
+                "Kr": "이동속도 증가"
             },
             "Buff_OppressionPower": {
                 "En": "CC Power Up",
@@ -2627,7 +2704,8 @@
                 "Th": "ประสิทธิภาพกดขี่เพิ่มขึ้น",
                 "Tw": "群控強化力提升",
                 "Cn": "群控强化力提升",
-                "Vi": "Tăng sức mạnh áp đảo"
+                "Vi": "Tăng sức mạnh áp đảo",
+                "Kr": "군중제어 강화력 증가"
             },
             "Buff_OppressionResist": {
                 "En": "CC RES Up",
@@ -2635,7 +2713,8 @@
                 "Th": "ต้านทานการกดขี่เพิ่มขึ้น",
                 "Tw": "群控抵抗力提升",
                 "Cn": "群控抵抗力提升",
-                "Vi": "Tăng hạn chế sự áp đảo"
+                "Vi": "Tăng hạn chế sự áp đảo",
+                "Kr": "군중제어 저항력 증가"
             },
             "Buff_Penetration": {
                 "En": "Defense Piercing Up",
@@ -2643,7 +2722,8 @@
                 "Th": "ค่าเจาะเกราะเพิ่มขึ้น",
                 "Tw": "防禦貫穿數值提升",
                 "Cn": "防御无视值提升",
-                "Vi": "Tăng xuyên giáp"
+                "Vi": "Tăng xuyên giáp",
+                "Kr": "방어관통 수치 증가"
             },
             "Buff_Range": {
                 "En": "Range Up",
@@ -2651,7 +2731,8 @@
                 "Th": "ระยะโจมตีเพิ่มขึ้น",
                 "Tw": "射程增加",
                 "Cn": "射程提升",
-                "Vi": "Tăng khoảng cách"
+                "Vi": "Tăng khoảng cách",
+                "Kr": "사거리 증가"
             },
             "Buff_Shield": {
                 "En": "Barrier",
@@ -2659,7 +2740,8 @@
                 "Th": "บาเรีย",
                 "Tw": "護盾",
                 "Cn": "护盾",
-                "Vi": "Khiên"
+                "Vi": "Khiên",
+                "Kr": "보호막"
             },
             "Buff_Stability": {
                 "En": "Stability Up",
@@ -2667,7 +2749,8 @@
                 "Th": "ค่าความเสถียรเพิ่มขึ้น",
                 "Tw": "安定數值提升",
                 "Cn": "安定值提升",
-                "Vi": "Tăng sự kiên cố"
+                "Vi": "Tăng sự kiên cố",
+                "Kr": "안정 수치 증가"
             },
             "Debuff_AmmoCount": {
                 "En": "Mag Count Down",
@@ -2675,7 +2758,8 @@
                 "Th": "จำนวนกระสุนลดลง",
                 "Tw": "裝彈數减少",
                 "Cn": "载弹量减少",
-                "Vi": "Lượng băng đạn giảm"
+                "Vi": "Lượng băng đạn giảm",
+                "Kr": "장탄 수 감소"
             },
             "Debuff_ATK": {
                 "En": "ATK Down",
@@ -2683,7 +2767,8 @@
                 "Th": "ค่าโจมตีลดลง",
                 "Tw": "攻擊力下降",
                 "Cn": "攻击力降低",
-                "Vi": "Tấn công giảm"
+                "Vi": "Tấn công giảm",
+                "Kr": "공격력 감소"
             },
             "Debuff_AttackSpeed": {
                 "En": "ATK SPD Down",
@@ -2691,7 +2776,8 @@
                 "Th": "ความเร็วโจมตีลดลง",
                 "Tw": "攻擊速度下降",
                 "Cn": "攻速降低",
-                "Vi": "Tốc độ tấn công giảm"
+                "Vi": "Tốc độ tấn công giảm",
+                "Kr": "공격속도 감소"
             },
             "Debuff_BlockRate": {
                 "En": "Block Rate Down",
@@ -2699,7 +2785,8 @@
                 "Th": "อัตรากำบังสำเร็จลดลง",
                 "Tw": "掩護成功率下降",
                 "Cn": "掩护成功率降低",
-                "Vi": "Tỉ lệ chặn giảm"
+                "Vi": "Tỉ lệ chặn giảm",
+                "Kr": "엄폐 성공률 감소"
             },
             "Debuff_Burn": {
                 "En": "Burn",
@@ -2707,7 +2794,8 @@
                 "Th": "เผาไหม้",
                 "Tw": "燒傷",
                 "Cn": "烧伤",
-                "Vi": "Bỏng"
+                "Vi": "Bỏng",
+                "Kr": "화상"
             },
             "Debuff_Cheerleading": {
                 "En": "Cheerleading Fever",
@@ -2723,7 +2811,8 @@
                 "Th": "หนาวสั่น",
                 "Tw": "惡寒",
                 "Cn": "恶寒",
-                "Vi": "Lạnh"
+                "Vi": "Lạnh",
+                "Kr": "오한"
             },
             "Debuff_ConcentratedTarget": {
                 "En": "Focused Assault",
@@ -2731,7 +2820,8 @@
                 "Th": "ล็อคเป้า",
                 "Tw": "集中攻擊",
                 "Cn": "集火",
-                "Vi": "Tập trung mục tiêu"
+                "Vi": "Tập trung mục tiêu",
+                "Kr": "집중공격"
             },
             "Debuff_CostChange": {
                 "En": "EX Cost Up",
@@ -2739,7 +2829,8 @@
                 "Th": "ค่าใช้สกิล EX เพิ่มขึ้น",
                 "Tw": "EX 技能費用增加",
                 "Cn": "EX技能费用提升",
-                "Vi": "Chi phí EX tăng"
+                "Vi": "Chi phí EX tăng",
+                "Kr": "Ex 스킬 코스트 증가"
             },
             "Debuff_CriticalChance": {
                 "En": "Crit Down",
@@ -2747,7 +2838,8 @@
                 "Th": "ค่าคริลดลง",
                 "Tw": "暴擊數值下降",
                 "Cn": "暴击值降低",
-                "Vi": "Tỉ lệ chí mạng giảm"
+                "Vi": "Tỉ lệ chí mạng giảm",
+                "Kr": "치명 수치 감소"
             },
             "Debuff_CriticalChanceResistPoint": {
                 "En": "Crit RES Down",
@@ -2755,7 +2847,8 @@
                 "Th": "ค่าต้านทานคริลดลง",
                 "Tw": "暴擊抵抗力下降",
                 "Cn": "暴击抵抗力降低",
-                "Vi": "Kháng tỉ lệ chí mạng giảm"
+                "Vi": "Kháng tỉ lệ chí mạng giảm",
+                "Kr": "치명 저항력 감소"
             },
             "Debuff_CriticalDamage": {
                 "En": "Crit DMG Down",
@@ -2763,7 +2856,8 @@
                 "Th": "ความเสียหายคริลดลง",
                 "Tw": "暴擊傷害下降",
                 "Cn": "暴击伤害降低",
-                "Vi": "Sát thương chí mạng giảm"
+                "Vi": "Sát thương chí mạng giảm",
+                "Kr": "치명 대미지 감소"
             },
             "Debuff_CriticalDamageRateResist": {
                 "En": "Crit DMG RES Down",
@@ -2771,7 +2865,8 @@
                 "Th": "อัตราต้านทานความเสียหายคริลดลง",
                 "Tw": "暴擊傷害抵抗率下降",
                 "Cn": "暴伤抵抗率降低",
-                "Vi": "Kháng sát thương chí mạng giảm"
+                "Vi": "Kháng sát thương chí mạng giảm",
+                "Kr": "치명 대미지 저항률 감소"
             },
             "Debuff_DamageByHit_Damaged": {
                 "En": "Weakness Detection",
@@ -2779,7 +2874,8 @@
                 "Th": "โจมตีจุดอ่อน",
                 "Tw": "掌握弱點",
                 "Cn": "弱点打击",
-                "Vi": "Phát hiện điểm yếu"
+                "Vi": "Phát hiện điểm yếu",
+                "Kr": "약점 파악"
             },
             "Debuff_DamagedRatio": {
                 "En": "Incoming Damage Up",
@@ -2787,12 +2883,13 @@
                 "Th": "ความเสียหายที่ได้รับเพิ่มขึ้น",
                 "Tw": "遭受的傷害量增加",
                 "Cn": "全局承伤倍率提升",
-                "Vi": "Sát thương phải chịu tăng"
+                "Vi": "Sát thương phải chịu tăng",
+                "Kr": "받는 대미지량 감소"
             },
             "Debuff_DamageRatio": {
                 "En": "Damage Dealt Down",
                 "Jp": "与ダメージ量減少",
-                "Kr": null,
+                "Kr": "주는 대미지량 감소",
                 "Th": "ความเสียหายที่ทำได้ลดลง",
                 "Tw": "造成傷害減少",
                 "Cn": "全局伤害倍率降低",
@@ -2804,7 +2901,8 @@
                 "Th": "ค่าป้องกันลดลง",
                 "Tw": "防禦力下降",
                 "Cn": "防御力降低",
-                "Vi": "Phòng thủ giảm"
+                "Vi": "Phòng thủ giảm",
+                "Kr": "방어력 감소"
             },
             "Debuff_Dodge": {
                 "En": "Evasion Down",
@@ -2812,7 +2910,8 @@
                 "Th": "ค่าหลบหลีกลดลง",
                 "Tw": "迴避數值減少",
                 "Cn": "闪避值降低",
-                "Vi": "Tỉ lệ né giảm"
+                "Vi": "Tỉ lệ né giảm",
+                "Kr": "회피 수치 감소"
             },
             "Debuff_EnhanceExplosionRate": {
                 "En": "Explosive Effectiveness Down",
@@ -2820,7 +2919,8 @@
                 "Th": "ประสิทธิภาพความเสียหายระเบิดลดลง",
                 "Tw": "爆發傷害下降",
                 "Cn": "爆发克制倍率降低",
-                "Vi": "Giảm hiệu quả nổ"
+                "Vi": "Giảm hiệu quả nổ",
+                "Kr": "폭발 특효 감소"
             },
             "Debuff_EnhancePierceRate": {
                 "En": "Piercing Effectiveness Down",
@@ -2828,7 +2928,8 @@
                 "Th": "ประสิทธิภาพความเสียหายเจาะเกราะลดลง",
                 "Tw": "貫穿傷害下降",
                 "Cn": "贯通克制倍率降低",
-                "Vi": "Giảm hiệu quả xuyên thủng"
+                "Vi": "Giảm hiệu quả xuyên thủng",
+                "Kr": "관통 특효 감소"
             },
             "Debuff_EnhanceMysticRate": {
                 "En": "Mystic Effectiveness Down",
@@ -2836,12 +2937,13 @@
                 "Th": "ประสิทธิภาพความเสียหายลึกลับลดลง",
                 "Tw": "神秘傷害下降",
                 "Cn": "神秘克制倍率降低",
-                "Vi": "Giảm hiệu quả huyền bí"
+                "Vi": "Giảm hiệu quả huyền bí",
+                "Kr": "신비 특효 감소"
             },
             "Debuff_HealedLimit": {
                 "En": "Recovery Limit",
                 "Jp": null,
-                "Kr": null,
+                "Kr": "받는 회복효과 제한",
                 "Th": "จำกัดการฟื้นฟู",
                 "Tw": "限制恢復能力",
                 "Cn": "回复限制",
@@ -2853,7 +2955,8 @@
                 "Th": "อัตราเร่งการฟื้นฟูลดลง",
                 "Tw": "所受恢復效果強化率下降",
                 "Cn": "回复强化率降低",
-                "Vi": "Hiệu quả phục hồi giảm"
+                "Vi": "Hiệu quả phục hồi giảm",
+                "Kr": "받는 회복효과 강화율 감소"
             },
             "Debuff_HealPower": {
                 "En": "Healing Down",
@@ -2861,7 +2964,8 @@
                 "Th": "ค่ารักษาลดลง",
                 "Tw": "治癒力下降",
                 "Cn": "治愈力降低",
-                "Vi": "Phục hồi giảm"
+                "Vi": "Phục hồi giảm",
+                "Kr": "치유력 감소"
             },
             "Debuff_Hieronymus": {
                 "En": "Curse",
@@ -2869,7 +2973,8 @@
                 "Th": "คำสาป",
                 "Tw": "詛咒",
                 "Cn": "诅咒",
-                "Vi": "Nguyền rủa"
+                "Vi": "Nguyền rủa",
+                "Kr": "저주"
             },
             "Debuff_HIT": {
                 "En": "Accuracy Down",
@@ -2877,7 +2982,8 @@
                 "Th": "ค่าความแม่นยำลดลง",
                 "Tw": "命中數值下降",
                 "Cn": "命中值降低",
-                "Vi": "Độ chính xác giảm"
+                "Vi": "Độ chính xác giảm",
+                "Kr": "명중 수치 감소"
             },
             "Debuff_MAXHP": {
                 "En": "Max HP Down",
@@ -2885,7 +2991,8 @@
                 "Th": "HP สูงสุดลดลง",
                 "Tw": "最大體力下降",
                 "Cn": "生命值降低",
-                "Vi": "Máu tối đa giảm"
+                "Vi": "Máu tối đa giảm",
+                "Kr": "최대 체력 감소"
             },
             "Debuff_MoveSpeed": {
                 "En": "MOV SPD Down",
@@ -2893,7 +3000,8 @@
                 "Th": "ความเร็วเคลื่อนที่ลดลง",
                 "Tw": "移動速度下降",
                 "Cn": "移速降低",
-                "Vi": "Tốc độ di chuyển giảm"
+                "Vi": "Tốc độ di chuyển giảm",
+                "Kr": "이동속도 감소"
             },
             "Debuff_OppressionPower": {
                 "En": "CC Power Down",
@@ -2901,7 +3009,8 @@
                 "Th": "ประสิทธิภาพกดขี่ลดลง",
                 "Tw": "群控強化力下降",
                 "Cn": "群控强化力降低",
-                "Vi": "Sức mạnh áp đảo giảm"
+                "Vi": "Sức mạnh áp đảo giảm",
+                "Kr": "군중제어 강화력 감소"
             },
             "Debuff_OppressionResist": {
                 "En": "CC RES Down",
@@ -2909,7 +3018,8 @@
                 "Th": "ต้านทานการกดขี่ลดลง",
                 "Tw": "群控抵抗力下降",
                 "Cn": "群控抵抗力降低",
-                "Vi": "Hạn chế sự áp đảo giảm"
+                "Vi": "Hạn chế sự áp đảo giảm",
+                "Kr": "군중제어 저항력 감소"
             },
             "Debuff_Penetration": {
                 "En": "Defense Piercing Down",
@@ -2917,7 +3027,8 @@
                 "Th": "ค่าเจาะเกราะลดลง",
                 "Tw": "防禦貫穿數值下降",
                 "Cn": "防御无视值降低",
-                "Vi": "Xuyên giáp giảm"
+                "Vi": "Xuyên giáp giảm",
+                "Kr": "방어관통 수치 감소"
             },
             "Debuff_Poison": {
                 "En": "Poison",
@@ -2925,7 +3036,8 @@
                 "Th": "พิษ",
                 "Tw": "中毒",
                 "Cn": "中毒",
-                "Vi": "Ngộ độc"
+                "Vi": "Ngộ độc",
+                "Kr": "중독"
             },
             "Debuff_Range": {
                 "En": "Range Down",
@@ -2933,7 +3045,8 @@
                 "Th": "ระยะโจมตีลดลง",
                 "Tw": "射程下降",
                 "Cn": "射程降低",
-                "Vi": "Khoảng cách giảm"
+                "Vi": "Khoảng cách giảm",
+                "Kr": "사거리 감소"
             },
             "Debuff_Stability": {
                 "En": "Stability Down",
@@ -2941,7 +3054,8 @@
                 "Th": "ค่าความเสถียรลดลง",
                 "Tw": "安定數值下降",
                 "Cn": "安定值降低",
-                "Vi": "Sự kiên cố giảm"
+                "Vi": "Sự kiên cố giảm",
+                "Kr": "안정 수치 감소"
             },
             "Debuff_CostRegen": {
                 "En": "Cost Recovery Down",
@@ -2949,7 +3063,8 @@
                 "Th": "ค่าฟื้นฟู Cost ลดลง",
                 "Tw": "COST恢復力下降",
                 "Cn": "COST回复力降低",
-                "Vi": "Phục hồi chi phí giảm"
+                "Vi": "Phục hồi chi phí giảm",
+                "Kr": "코스트 회복력 감소"
             },
             "CC_Fear": {
                 "En": "Fear",
@@ -2957,7 +3072,8 @@
                 "Th": "กลัว",
                 "Tw": "恐懼",
                 "Cn": "恐惧",
-                "Vi": "Sợ hãi"
+                "Vi": "Sợ hãi",
+                "Kr": "공포"
             },
             "CC_Stunned": {
                 "En": "Stun",
@@ -2965,7 +3081,8 @@
                 "Th": "หมดสติ",
                 "Tw": "昏厥",
                 "Cn": "眩晕",
-                "Vi": "Choáng"
+                "Vi": "Choáng",
+                "Kr": "기절"
             },
             "CC_Provoke": {
                 "En": "Taunt",
@@ -2973,12 +3090,13 @@
                 "Th": "ยั่วยุ",
                 "Tw": "挑釁",
                 "Cn": "嘲讽",
-                "Vi": "Nhạo báng"
+                "Vi": "Nhạo báng",
+                "Kr": "도발"
             },
             "CC_Paralysis": {
                 "En": "Paralysis",
                 "Jp": "麻痺状態",
-                "Kr": null,
+                "Kr": "마비",
                 "Th": "อัมพาต",
                 "Tw": "癱瘓",
                 "Cn": "瘫痪",
@@ -2990,7 +3108,8 @@
                 "Th": "ชาร์จ",
                 "Tw": "能量",
                 "Cn": "能量",
-                "Vi": "Nạp năng lượng"
+                "Vi": "Nạp năng lượng",
+                "Kr": "에너지 충전"
             },
             "Special_FormChange": {
                 "En": "Form Change",
@@ -3006,7 +3125,8 @@
                 "Th": "อมตะ",
                 "Tw": "不死",
                 "Cn": "不死",
-                "Vi": "Bất diệt"
+                "Vi": "Bất diệt",
+                "Kr": "불사"
             },
             "Special_ImmuneDamage": {
                 "En": "Invulnerable",
@@ -3014,7 +3134,8 @@
                 "Th": "ไม่ได้รับความเสียหาย",
                 "Tw": "免傷",
                 "Cn": "免伤",
-                "Vi": "Bất khả xâm phạm"
+                "Vi": "Bất khả xâm phạm",
+                "Kr": "무적"
             },
             "Special_Fury": {
                 "En": "Enraged",
@@ -3022,7 +3143,8 @@
                 "Jp": "怒り状態",
                 "Tw": "憤怒",
                 "Cn": "愤怒",
-                "Vi": "Phẫn nộ"
+                "Vi": "Phẫn nộ",
+                "Kr": "분노"
             },
             "Special_Misdeed": {
                 "En": "Evil Deeds",
@@ -3030,7 +3152,8 @@
                 "Th": "ความชั่วร้าย",
                 "Tw": "惡行",
                 "Cn": "恶行",
-                "Vi": "Hành vi xấu xa"
+                "Vi": "Hành vi xấu xa",
+                "Kr": "악행"
             },
             "Special_LittleDevil": {
                 "En": "Imps",
@@ -3038,7 +3161,8 @@
                 "Th": "ปีศาจน้อย",
                 "Tw": "小惡魔",
                 "Cn": "小恶魔",
-                "Vi": "Tiểu quỷ"
+                "Vi": "Tiểu quỷ",
+                "Kr": "소악마"
             },
             "Special_Accumulation": {
                 "En": "DMG Accumulation",
@@ -3046,7 +3170,8 @@
                 "Th": "สะสมความเสียหาย",
                 "Tw": "傷害累積",
                 "Cn": "伤害蓄积",
-                "Vi": "Tích luỹ sát thương"
+                "Vi": "Tích luỹ sát thương",
+                "Kr": "대미지 축적"
             },
             "Special_CostRegenBan": {
                 "En": "Cost Recovery Stop",
@@ -3054,7 +3179,8 @@
                 "Th": "หยุดการฟื้นฟูค่าใช้สกิล EX",
                 "Tw": "COST停止恢復",
                 "Cn": "COST停止回复",
-                "Vi": "Ngưng phục hồi chi phí"
+                "Vi": "Ngưng phục hồi chi phí",
+                "Kr": "코스트 회복 중단"
             },
             "Special_ImmuneCC": {
                 "En": "CC Immunity",
@@ -3062,13 +3188,14 @@
                 "Th": "ต้านทานเอฟเฟกต์กดขี่",
                 "Tw": "群控免疫",
                 "Cn": "群控免疫",
-                "Vi": "Khắc áp đảo"
+                "Vi": "Khắc áp đảo",
+                "Kr": "군중제어 면역"
             },
             "Special_SuddenDeath": {
                 "En": "Wakamo's Mark",
                 "Th": "ตราของวาคาโมะ",
                 "Jp": "ワカモの刻印",
-                "Kr": "와카모의 각인이",
+                "Kr": "와카모의 각인",
                 "Tw": "若藻的印記",
                 "Cn": "若藻的印记",
                 "Vi": "Vết đánh dấu của Wakamo"
@@ -3085,7 +3212,7 @@
             "Special_Holiday": {
                 "En": "Holy Night Blessings",
                 "Jp": "聖夜の祝福",
-                "Kr": null,
+                "Kr": "성야의 축복",
                 "Th": "พรแห่งค่ำคืนศักดิ์สิทธิ์",
                 "Tw": "聖夜的祝福",
                 "Cn": "圣夜祝福",
@@ -3096,7 +3223,7 @@
             "Buff_AidAttitude": {
                 "En": "Continuously restores HP at set intervals.",
                 "Jp": "一定間隔でHPを持続的に回復する。",
-                "Kr": null,
+                "Kr": "정해진 시간마다 HP를 지속적으로 회복합니다.",
                 "Th": "ฟื้นฟู HP ช้าๆ เป็นเวลาต่อเนื่อง",
                 "Tw": "以一定時間間隔持續回覆生命值",
                 "Cn": "以一定时间间隔持续回复生命值",
@@ -3107,49 +3234,56 @@
                 "Jp": "通常攻撃に使用する武器の最大装弾数を増加する。",
                 "Cn": "增加普通攻击的武器载弹量",
                 "Th": "เพิ่มจำนวนกระสุนสูงสุดของอาวุธในการโจมตีปกติ",
-                "Vi": "Tăng lượng đạn tối đa của vũ khí được sử dụng bởi các đòn đánh thường."
+                "Vi": "Tăng lượng đạn tối đa của vũ khí được sử dụng bởi các đòn đánh thường.",
+                "Kr": "일반 공격에 사용되는 무기의 장탄수가 증가합니다."
             },
             "Buff_ATK": {
                 "En": "Increases the amount of damage dealt by attacks.",
                 "Jp": "攻撃によって与えるダメージを増加する。",
                 "Cn": "提升攻击造成的伤害",
                 "Th": "เพิ่มความเสียหายของการโจมตี",
-                "Vi": "Tăng lượng sát thương gây ra bởi các đòn tấn công."
+                "Vi": "Tăng lượng sát thương gây ra bởi các đòn tấn công.",
+                "Kr": "공격으로 가하는 대미지가 증가합니다."
             },
             "Buff_AttackSpeed": {
                 "En": "Increases the speed of Normal Attacks and reloads, and reduces attack delay.",
                 "Jp": "通常攻撃とリロードの速度を増加し攻撃間隔を減少する。",
                 "Cn": "提升普通攻击与换弹的速度，并降低攻击间隔",
                 "Th": "เพิ่มความเร็วในการโจมตี, รีโหลดและลดดีเลย์ในการโจมตี",
-                "Vi": "Tăng tốc độ của đòn đánh thường và nạp đạn, đồng thời sẽ giảm độ trễ của đòn đánh."
+                "Vi": "Tăng tốc độ của đòn đánh thường và nạp đạn, đồng thời sẽ giảm độ trễ của đòn đánh.",
+                "Kr": "기본 공격 속도와 재장전 속도가 증가하고, 공격 딜레이가 감소합니다."
             },
             "Buff_BlockRate": {
                 "En": "Increases the chance of successfully blocking attacks when taking cover.",
                 "Jp": "遮蔽物使用時にブロックに成功する確率を増加する。",
                 "Cn": "提升处于掩体掩护时掩体阻挡攻击的概率",
                 "Th": "เพิ่มโอกาสกำบังสำเร็จเมื่ออยู่ในกำบัง",
-                "Vi": "Tăng tỉ lệ chặn thành công các đòn đánh khi ẩn nấp."
+                "Vi": "Tăng tỉ lệ chặn thành công các đòn đánh khi ẩn nấp.",
+                "Kr": "엄폐중일 때 피해를 막아낼 확률이 증가합니다."
             },
             "Buff_ConcentratedTarget": {
                 "En": "Becomes the priority target of enemies' attacks.",
                 "Jp": "敵の攻撃の優先目標になる。",
                 "Cn": "成为敌方优先攻击的目标",
                 "Th": "เป็นเป้าหมายหลักในการโจมตีของศัตรู",
-                "Vi": "Trở thành mục tiêu ưu tiên trong các cuộc tấn công của kẻ thù."
+                "Vi": "Trở thành mục tiêu ưu tiên trong các cuộc tấn công của kẻ thù.",
+                "Kr": "적들의 공격의 주요 목표가 됩니다."
             },
             "Buff_CostChange": {
                 "En": "Reduces the amount of skill cost required for using the EX Skill.",
                 "Jp": "EXスキルの使用に必要なコストを減少する。",
                 "Cn": "降低使用EX技能所需技能COST",
                 "Th": "ลดจำนวนค่าใช้สกิล EX ที่ต้องการในการใช้สกิล EX",
-                "Vi": "Giảm lượng chi phí kỹ năng cần thiết khi sử dụng kỹ năng EX."
+                "Vi": "Giảm lượng chi phí kỹ năng cần thiết khi sử dụng kỹ năng EX.",
+                "Kr": "EX 스킬을 사용할 때 필요한 코스트가 감소합니다."
             },
             "Buff_CostRegen": {
                 "En": "Increases the rate at which skill cost is recovered.",
                 "Jp": "コスト回復速度を増加する。",
                 "Cn": "提升技能COST回复速度",
                 "Th": "เพิ่มความเร็วในการฟื้นฟูค่าใช้สกิล EX",
-                "Vi": "Tăng tốc độ hồi phục chi phí kỹ năng."
+                "Vi": "Tăng tốc độ hồi phục chi phí kỹ năng.",
+                "Kr": "스킬 코스트가 회복되는 속도가 증가합니다."
             },
             "Buff_CriticalChance": {
                 "En": "Increases the chance of landing a critical hit when attacking.",
@@ -3170,7 +3304,8 @@
                 "Jp": "会心攻撃によって与えるダメージを増加する。",
                 "Cn": "提升暴击造成的伤害",
                 "Th": "เพิ่มความเสียหายของการโจมตีคริติคอล",
-                "Vi": "Tăng sát thương gây ra bởi các đòn chí mạng."
+                "Vi": "Tăng sát thương gây ra bởi các đòn chí mạng.",
+                "Kr": "치명타로 가하는 대미지가 증가합니다."
             },
             "Buff_CriticalDamageRateResist": {
                 "En": "Decreases the damage received from critical hits.",
@@ -3723,7 +3858,7 @@
             "0": {
                 "En": "Japan",
                 "Jp": "日本",
-                "Kr": null,
+                "Kr": "일본",
                 "Th": "ญี่ปุ่น",
                 "Tw": "日服",
                 "Cn": "日服",
@@ -3732,7 +3867,7 @@
             "1": {
                 "En": "Global",
                 "Jp": "グローバル",
-                "Kr": null,
+                "Kr": "글로벌",
                 "Th": "โกลบอล",
                 "Tw": "國際服",
                 "Cn": "国际服",
@@ -3743,39 +3878,46 @@
             "General": {
                 "PrefabKey": 89804659,
                 "Cn": "一般",
-                "Vi": "Thường"
+                "Vi": "Thường",
+                "Kr": "일반"
             },
             "Raid": {
                 "PrefabKey": 3170356115,
                 "Cn": "总力战",
-                "Vi": "Tổng tấn công"
+                "Vi": "Tổng tấn công",
+                "Kr": "총력전"
             },
             "SecretStone": {
                 "PrefabKey": 639380687,
                 "En": "Eligma I",
                 "Cn": "神明文字碎片I",
-                "Vi": "Eligma I"
+                "Vi": "Eligma I",
+                "Kr": "엘리그마 I"
             },
             "SecretStoneGrowth": {
                 "PrefabKey": 176151650,
                 "En": "Eligma II",
                 "Cn": "神明文字碎片II",
-                "Vi": "Eligma II"
+                "Vi": "Eligma II",
+                "Kr": "엘리그마 II"
             },
             "Arena": {
                 "PrefabKey": 2999589380,
                 "Cn": "战术大赛",
-                "Vi": "Thử thách chiến thuật"
+                "Vi": "Thử thách chiến thuật",
+                "Kr": "전술대회"
             },
             "TimeAttack": {
                 "PrefabKey": 685405644,
                 "Cn": "综合战术考试",
-                "Vi": "Diễn tập"
+                "Vi": "Diễn tập",
+                "Kr": "종합전술시험"
             },
             "MasterCoin": {
                 "PrefabKey": 2655871184,
                 "Cn": "熟练证书",
-                "Vi": "Chứng chỉ chuyên gia"
+                "Vi": "Chứng chỉ chuyên gia",
+                "Kr": "숙련증서"
             },
             "Chaser": {
                 "CodeKey": 1889255299,
@@ -4070,7 +4212,7 @@
             "filter_by_name": {
                 "En": "Filter by name",
                 "Jp": "名前でフィルター",
-                "Kr": null,
+                "Kr": "이름으로 필터링",
                 "Th": "กรองด้วยชื่อ",
                 "Tw": "以名稱過濾",
                 "Cn": "按名称筛选",
@@ -4196,7 +4338,7 @@
             "current_events": {
                 "En": "Current Events ({0} Server)",
                 "Jp": "現在のイベント（{0}サーバー）",
-                "Kr": null,
+                "Kr": "현재 이벤트 ({0} 서버)",
                 "Th": "อีเวนท์ปัจจุบัน (เซิร์ฟเวอร์{0})",
                 "Tw": "當前活動 ({0})",
                 "Cn": "当前活动 ({0})",
@@ -4340,7 +4482,7 @@
             "tooltip_vehiclestats": {
                 "En": "Vehicle/Summon Stats",
                 "Jp": "搭乗物/召喚物のステータス",
-                "Kr": null,
+                "Kr": "차량/소환물 능력치",
                 "Th": "ค่าสถานะของยานพาหนะ/วัตถุที่ถูกเรียก",
                 "Tw": "車輛/召喚物數據",
                 "Cn": "载具/召唤物数据",
@@ -4358,7 +4500,7 @@
             "add_own": {
                 "En": "Add Own/Selected Specials",
                 "Jp": "自身と選択したスペシャルを追加",
-                "Kr": null,
+                "Kr": "자체 버프, 선택한 스페셜 버프 추가",
                 "Th": "เพิ่มนักเรียน Special ที่มี/เลือกไว้",
                 "Tw": "添加擁有的/選擇的特殊學生",
                 "Cn": "添加当前学生或已选择SPECIAL学生的增益状态",
@@ -4367,7 +4509,7 @@
             "buff_transferable": {
                 "En": "Other Buffs",
                 "Jp": "その他のバフ",
-                "Kr": null,
+                "Kr": "추가 버프",
                 "Th": "บัพอื่นๆ",
                 "Tw": "其它增益效果",
                 "Cn": "其它增益状态",
@@ -4376,7 +4518,7 @@
             "buff_transferable_search": {
                 "En": "Search for Student or Skill Name",
                 "Jp": "生徒名やスキル名で検索",
-                "Kr": null,
+                "Kr": "학생 또는 스킬 이름으로 검색",
                 "Th": "ค้นหาชื่อนักเรียนหรือชื่อสกิล",
                 "Tw": "檢索學生或技能名稱",
                 "Cn": "搜索学生或技能名称",
@@ -4403,7 +4545,7 @@
             "enemy_debuffs": {
                 "En": "Enemy Debuffs",
                 "Jp": "敵デバフ",
-                "Kr": null,
+                "Kr": "적 디버프",
                 "Th": "เอฟเฟกต์อันตรายบนตัวศัตรู",
                 "Tw": "敵人減益效果",
                 "Cn": "敌方减益状态",
@@ -4412,7 +4554,7 @@
             "enemy_select": {
                 "En": "Select Enemy",
                 "Jp": "敵を選択",
-                "Kr": null,
+                "Kr": "적 선택",
                 "Th": "เลือกศัตรู",
                 "Tw": "選擇敵人",
                 "Cn": "选择敌方单位",
@@ -4421,7 +4563,7 @@
             "buff_custom": {
                 "En": "Custom Buffs",
                 "Jp": "カスタムバフ",
-                "Kr": null,
+                "Kr": "커스텀 버프",
                 "Th": "บัพแบบกำหนดเอง",
                 "Tw": "自定義增益效果",
                 "Cn": "自定义状态效果",
@@ -4430,7 +4572,7 @@
             "buff_custom_enemy": {
                 "En": "Enemy Custom Buffs",
                 "Jp": "敵カスタムバフ",
-                "Kr": null,
+                "Kr": "적 커스텀 버프",
                 "Th": "บัพแบบกำหนดเองของศัตรู",
                 "Tw": "敵人自定義增益效果",
                 "Cn": "敌方自定义状态效果",
@@ -4439,7 +4581,7 @@
             "buff_custom_base": {
                 "En": "Add as base amount",
                 "Jp": "固定値として追加",
-                "Kr": null,
+                "Kr": "고정 수치로 추가",
                 "Th": "เพิ่มค่าเป็นจำนวนเต็ม",
                 "Tw": "以固定值追加",
                 "Cn": "作为基础值添加",
@@ -4448,7 +4590,7 @@
             "buff_custom_coefficient": {
                 "En": "Add as percentage amount",
                 "Jp": "%値として追加",
-                "Kr": null,
+                "Kr": "비율로 추가",
                 "Th": "เพิ่มค่าเป็นเปอร์เซ็นต์",
                 "Tw": "以百分比值追加",
                 "Cn": "作为百分比值添加",
@@ -4457,7 +4599,7 @@
             "buff_custom_name_placeholder": {
                 "En": "Name (Optional)",
                 "Jp": "バフ名（任意）",
-                "Kr": null,
+                "Kr": "이름 (선택)",
                 "Th": "ชื่อ (ไม่จำเป็น)",
                 "Tw": "名稱（可選）",
                 "Cn": "名称(可选)",
@@ -4466,7 +4608,7 @@
             "buff_custom_value_placeholder": {
                 "En": "Value",
                 "Jp": "バフ値",
-                "Kr": null,
+                "Kr": "값 입력",
                 "Th": "จำนวนค่าที่ต้องการ",
                 "Tw": "值",
                 "Cn": "值",
@@ -4475,7 +4617,7 @@
             "supportstats_search": {
                 "En": "Search for Special Student",
                 "Jp": "スペシャルの生徒を検索",
-                "Kr": null,
+                "Kr": "스페셜 학생 검색",
                 "Th": "ค้นหานักเรียน Special",
                 "Tw": "檢索特殊學生",
                 "Cn": "搜索SPECIAL学生",
@@ -4520,7 +4662,7 @@
             "student_skills_upgrades": {
                 "En": "Upgrades",
                 "Jp": "スキルを＋に変更",
-                "Kr": null,
+                "Kr": "업그레이드",
                 "Th": "อัปเกรด",
                 "Tw": "升級",
                 "Cn": "升级",
@@ -4547,7 +4689,7 @@
             "student_weapon_rank_2star_desc": {
                 "En": "Exclusive Weapon Max Level Lv.30 → <b>Lv.40</b> / Upgrades Enhanced Skill",
                 "Jp": "固有武器のMax Level Lv.30 → <b>Lv.40</b> / パッシブスキル＋を開放",
-                "Kr": null,
+                "Kr": "고유 무기 최대 레벨 Lv.30 -> <b>Lv.40</b> / 강화 스킬 업그레이드",
                 "Th": "เลเวลสูงสุดของอาวุธเฉพาะ Lv.30 → <b>Lv.40</b> / อัปเกรดสกิลติดตัว+",
                 "Tw": "固有武器最大等級 Lv.30 → <b>Lv.40</b> / 解鎖強化技能+",
                 "Cn": "固有武器最大等级 Lv.30 → <b>Lv.40</b> / 解锁被动技能+",
@@ -4556,7 +4698,7 @@
             "student_weapon_rank_3star_desc": {
                 "En": "Exclusive Weapon Max Level Lv.40 → <b>Lv.50</b> / Upgrades Terrain Strength",
                 "Jp": "固有武器のMax Level Lv.40 → <b>Lv.50</b> / 地形別戦闘力を強化",
-                "Kr": null,
+                "Kr": "고유 무기 최대 레벨 Lv.40 -> <b>Lv.50</b> / 지형 적성 업그레이드",
                 "Th": "เลเวลสูงสุดของอาวุธเฉพาะ Lv.40 → <b>Lv.50</b> / อัปเกรดความคุ้นชินพื้นที่",
                 "Tw": "固有武器最大等級 Lv.40 → <b>Lv.50</b> / 地形战力强化",
                 "Cn": "固有武器最大等級 Lv.40 → <b>Lv.50</b> / 地形适应性强化",
@@ -4565,7 +4707,7 @@
             "student_gear_t2_desc": {
                 "En": "Unlocks Basic Skill+",
                 "Jp": "ノーマルスキル＋を開放",
-                "Kr": null,
+                "Kr": "기본 스킬+ 해제",
                 "Th": "อัปเกรดสกิลพื้นฐาน+",
                 "Tw": "解鎖基本技能+",
                 "Cn": "解锁普通技能+",
@@ -4574,7 +4716,7 @@
             "attack_type_desc": {
                 "En": "Deals <b>2&times;</b> damage to {0} armor targets.<br>Deals <b>0.5&times;</b> damage to {1} armor targets.<br>Deals <b>0.5&times;</b> damage to <b>Structures</b>.",
                 "Jp": "{0}に<b>2倍</b>のダメージを与える。<br>{1}に<b>0.5倍</b>のダメージを与える。<br>構造物に<b>0.5倍</b>のダメージを与える。",
-                "Kr": null,
+                "Kr": "{0} 대상에게 <b>2&times;</b> 대미지.<br>{0} 대상에게 <b>0.5&times;</b> 대미지.<br>구조물 대상에게 <b>0.5&times;</b> 대미지.",
                 "Th": "สร้างความเสียหาย <b>&times;2</b> ให้กับเป้าหมายประเภท{0}<br>สร้างความเสียหาย <b>&times;0.5</b> ให้กับเป้าหมายประเภท{1}<br>สร้างความเสียหาย <b>&times;0.5</b> ให้กับเป้าหมายประเภท<b>สิ่งปลูกสร้าง</b>",
                 "Tw": "對{0}目標造成<b>2倍</b>傷害。<br>對{1}目標造成<b>0.5倍</b>傷害。<br>對<b class='ba-col-siege'>構造物</b>造成<b>0.5倍</b>傷害。",
                 "Cn": "对{0}目标造成<b>2倍</b>伤害<br>对{1}目标造成<b>0.5倍</b>伤害<br>对<b class='ba-col-siege'>构造物</b>造成<b>0.5倍</b>伤害",
@@ -4583,7 +4725,7 @@
             "attack_type_normal_desc": {
                 "En": "Deals <b>1&times;</b> damage to <b class='ba-col-explosion'>Light</b>, <b class='ba-col-pierce'>Heavy</b> and <b class='ba-col-mystic'>Special</b> armor targets.<br>Deals <b>0.5&times;</b> damage to <b class='ba-col-siege'>Structures</b>.",
                 "Jp": "すべての防御タイプに<b>1倍</b>のダメージを与える<br>構造物に<b>0.5倍</b>のダメージを与える。",
-                "Kr": null,
+                "Kr": "<b class='ba-col-explosion'>경장갑</b>, <b class='ba-col-pierce'>중장갑</b>, <b class='ba-col-mystic'>신비장갑</b> 대상에게 <b>1&times;</b> 대미지.<br>구조물 대상에게 <b>0.5&times;</b> 대미지.",
                 "Th": "สร้างความเสียหาย <b>&times;1</b> ให้กับเป้าหมายประเภท<b class='ba-col-explosion'>เกราะเบา</b>, <b class='ba-col-pierce'>เกราะหนัก</b>และ<b class='ba-col-mystic'>เกราะพิเศษ</b><br>สร้างความเสียหาย <b>&times;0.5</b> ให้กับเป้าหมายประเภท<b class='ba-col-siege'>สิ่งปลูกสร้าง</b>",
                 "Tw": "對<b class='ba-col-explosion'>輕裝甲</b>、<b class='ba-col-pierce'>重裝甲</b>與<b class='ba-col-mystic'>神秘裝甲</b>目標造成<b>1倍</b>傷害。<br>對<b class='ba-col-siege'>構造物</b>造成<b>0.5倍</b>傷害。",
                 "Cn": "对<b class='ba-col-explosion'>轻护甲</b>、<b class='ba-col-pierce'>重装甲</b>与<b class='ba-col-mystic'>神秘装甲</b>目标造成<b>1倍</b>伤害<br>对<b class='ba-col-siege'>构造物</b>造成<b>0.5倍</b>伤害",
@@ -4592,7 +4734,7 @@
             "defense_type_desc": {
                 "En": "Receives <b>2&times;</b> damage from {0} attacks.<br>Receives <b>0.5&times;</b> damage from {1} attacks.",
                 "Jp": "{0}攻撃から<b>2倍</b>のダメージを受ける。<br>{1}攻撃から<b>0.5倍</b>のダメージを受ける。",
-                "Kr": null,
+                "Kr": "{0} 공격으로부터<b>2&times;</b> 대미지를 받습니다.<br>{1} 공격으로부터 <b>0.5&times;</b> 대미지를 받습니다.",
                 "Th": "ได้รับความเสียหาย <b>&times;2</b> จากการโจมตีประเภท{0}<br>ได้รับความเสียหาย <b>&times;0.5</b> จากการโจมตีประเภท{1}",
                 "Tw": "承受<b>2倍</b>{0}攻擊傷害。<br>承受<b>0.5倍</b>{1}攻擊傷害。",
                 "Cn": "承受<b>2倍</b>{0}攻击伤害<br>承受<b>0.5倍</b>{1}攻击伤害",
@@ -4601,7 +4743,7 @@
             "defense_type_normal_desc": {
                 "En": "Receives <b>1&times;</b> damage from <b class='ba-col-explosion'>Explosive</b>, <b class='ba-col-pierce'>Piercing</b> and <b class='ba-col-mystic'>Mystic</b> attacks.",
                 "Jp": "<b class='ba-col-explosion'>爆発</b>、<b class='ba-col-pierce'>貫通</b>および<b class='ba-col-mystic'>神秘</b>攻撃から<b>1倍</b>のダメージを受ける。",
-                "Kr": null,
+                "Kr": "<b class='ba-col-explosion'>폭발</b>, <b class='ba-col-pierce'>관통</b>, <b class='ba-col-mystic'>신비</b> 공격으로부터 <b>1&times;</b> 대미지를 받습니다.",
                 "Th": "ได้รับความเสียหาย <b>&times;1</b> จากการโจมตีประเภท<b class='ba-col-explosion'>ระเบิด</b>, <b class='ba-col-pierce'>เจาะเกราะ</b>และ<b class='ba-col-mystic'>ลึกลับ</b>",
                 "Tw": "承受<b>1倍</b><b class='ba-col-explosion'>爆炸</b>、<b class='ba-col-pierce'>貫穿</b>與<b class='ba-col-mystic'>神秘</b>攻擊傷害。",
                 "Cn": "承受<b>1倍</b><b class='ba-col-explosion'>爆发</b>、<b class='ba-col-pierce'>贯通</b>与<b class='ba-col-mystic'>神秘</b>攻击伤害",
@@ -4727,7 +4869,7 @@
             "furniture_none": {
                 "En": "This student does not interact with any cafe furniture.",
                 "Jp": "この生徒には家具モーションがありません。",
-                "Kr": null,
+                "Kr": "카페 상호작용 가구 없음.",
                 "Th": "นักเรียนนี้ไม่มีการโต้ตอบกับเฟอร์นิเจอร์",
                 "Tw": "此學生不與任何咖啡廳家具互動。",
                 "Cn": "此学生不与任何咖啡厅家具互动",
@@ -4754,7 +4896,7 @@
             "student_search_filters_clear": {
                 "En": "Clear all Filters",
                 "Jp": "フィルターをすべて解除",
-                "Kr": null,
+                "Kr": "모든 필터 해제",
                 "Th": "ล้างตัวกรองทั้งหมด",
                 "Tw": "清空過濾器",
                 "Cn": "清空过滤器",
@@ -4763,7 +4905,7 @@
             "student_search_info": {
                 "En": "Show all Info",
                 "Jp": "すべての情報を表示",
-                "Kr": null,
+                "Kr": "모든 정보 표시",
                 "Th": "แสดงข้อมูลทั้งหมด",
                 "Tw": "顯示所有信息",
                 "Cn": "显示所有信息",
@@ -4925,7 +5067,7 @@
             "memory_lobby_unlock": {
                 "En": "Unlocks after reaching relationship rank {0} with {1}",
                 "Jp": "{1}との絆ランクが{0}になると開放",
-                "Kr": null,
+                "Kr": "{1}와의 인연 랭크 {0} 도달시 잠금해제",
                 "Th": "ปลดล็อคหลังจากระดับสายใยของ{1}ถึงระดับ {0}",
                 "Tw": "{1}羈絆等級達成{0}後解鎖",
                 "Cn": "{1}羁绊等级达到{0}后解锁",
@@ -4952,7 +5094,7 @@
             "terrain_adaption_details": {
                 "En": "Deals <b>{0}&times;</b> damage in <b>{1}</b> terrain.\nBlock rate when taking cover is increased by <b>{2}%</b>. Enemy block rate reduced by <b>{2}%</b> when attacking.",
                 "Jp": "{1}では<b>{0}倍</b>のダメージを与える。\n遮蔽物使用時に遮蔽ブロック率を<b>{2}%増加する</b>。\n遮蔽貫通率を<b>{2}%増加する</b>。",
-                "Kr": null,
+                "Kr": "<b>{1}</b> 지형에서 <b>{0}&times;</b> 대미지.\n엄폐 성공률이 <b>{2}%</b> 증가. 공격하는 적의 엄폐 성공률이 <b>{2}%</b> 감소.",
                 "Th": "สร้างความเสียหาย <b>&times;{0}</b> ในพื้นที่<b>{1}</b>\nอัตรากำบังสำเร็จเมื่ออยู่ในกำบังเพิ่มขึ้น <b>{2}%</b>\nอัตรากำบังสำเร็จของศัตรูลดลงเมื่อโจมตี <b>{2}%</b>",
                 "Tw": "在<b>{1}</b>地形造成<b>{0}倍</b>傷害。\n尋找掩體時掩護成功率<b>+{2}%</b>。\n攻擊時繞過掩體概率<b>增加{2}%</b>。",
                 "Cn": "在<b>{1}</b>地形造成<b>{0}倍</b>伤害\n处于掩体掩护状态时掩护成功率<b>+{2}%</b>\n攻击时无视掩体概率<b>增加{2}%</b>",
@@ -4961,7 +5103,7 @@
             "statpreview_title": {
                 "En": "Stat / Skill Details",
                 "Jp": "詳細ステータス / スキル",
-                "Kr": null,
+                "Kr": "능력치 / 스킬 상세 정보",
                 "Th": "รายละเอียดค่าสเตตัส/สกิล",
                 "Tw": "數據預覽選項",
                 "Cn": "数据预览选项",
@@ -4979,7 +5121,7 @@
             "enemy_target": {
                 "En": "Target",
                 "Jp": "対象",
-                "Kr": null,
+                "Kr": "대상",
                 "Th": "จำลองเป้าหมาย",
                 "Tw": "目標",
                 "Cn": "目标",
@@ -4988,7 +5130,7 @@
             "summon": {
                 "En": "Summon",
                 "Jp": "召喚物",
-                "Kr": null,
+                "Kr": "소환",
                 "Th": "วัตถุอัญเชิญ/วัตถุกำบัง",
                 "Tw": "召喚物",
                 "Cn": "召唤物",
@@ -4997,7 +5139,7 @@
             "summon_inheritance": {
                 "En": "Inherits {0} of {1}'s {2}",
                 "Jp": "{1}の{2}の{0}を引き継ぐ",
-                "Kr": null,
+                "Kr": "{1}의 {2} {0} 부여",
                 "Th": "ได้รับ{2} {0} ของ{2}ของ{1}",
                 "Tw": null,
                 "Cn": "额外持有{1}{0}的{2}",
@@ -5006,7 +5148,7 @@
             "stability_mindamage": {
                 "En": "Minimum Damage: {0}",
                 "Jp": "最小ダメージ: {0}",
-                "Kr": null,
+                "Kr": "최소 대미지: {0}",
                 "Th": "ความเสียหายขั้นต่ำ: {0}",
                 "Tw": "最低傷害：{0}",
                 "Cn": "最低伤害：{0}",
@@ -5015,7 +5157,7 @@
             "stat_info": {
                 "En": "Stats Info",
                 "Jp": "ステータス情報",
-                "Kr": "스탯 정보",
+                "Kr": "능력치 정보",
                 "Th": "ข้อมูลค่าพลัง",
                 "Tw": "屬性資訊",
                 "Cn": "属性资讯",
@@ -5095,7 +5237,7 @@
             "event_rerun": {
                 "En": " (Rerun)",
                 "Jp": "（復刻）",
-                "Kr": null,
+                "Kr": "(복각)",
                 "Th": "(รีรัน)",
                 "Tw": "(复刻)",
                 "Cn": "(复刻)",
@@ -5122,7 +5264,7 @@
             "starcondition_earnrewards": {
                 "En": "Earn <b>{0}</b> reward(s).",
                 "Jp": "報酬を<b>{0}</b>個獲得。",
-                "Kr": "보상{0}개 획득",
+                "Kr": "보상 {0}개 획득",
                 "Th": "ได้รับรางวัล {0} ชิ้น",
                 "Tw": "獲得獎勵{0}個",
                 "Cn": "获得奖励{0}个",
@@ -5131,7 +5273,7 @@
             "starcondition_defeatall": {
                 "En": "Defeat all enemies.",
                 "Jp": "すべての敵を撃破する。",
-                "Kr": "모든 적을 격파한다.",
+                "Kr": "모든 적 격파",
                 "Th": "กำจัดศัตรูทั้งหมด",
                 "Tw": "擊破所有敵人。",
                 "Cn": "击败所有敌人",
@@ -5140,7 +5282,7 @@
             "starcondition_defeatalltime": {
                 "En": "Defeat all enemies within <b>{0}</b> seconds.",
                 "Jp": "<b>{0}</b>秒以内にすべての敵を撃破する。",
-                "Kr": "{0}초 안에 모든 적을 격파한다.",
+                "Kr": "{0}초 안에 모든 적 격파",
                 "Th": "กำจัดศัตรูทั้งหมดภายใน {0} วินาที",
                 "Tw": "{0}秒內擊破所有敵人。",
                 "Cn": "{0}秒内击败所有敌人",
@@ -5149,7 +5291,7 @@
             "starcondition_allsurvive": {
                 "En": "All students survive.",
                 "Jp": "誰も退却させられていない。",
-                "Kr": "전원 생존한다.",
+                "Kr": "모든 학생 생존",
                 "Th": "ปลอดภัยทุกคน",
                 "Tw": "全員生存。",
                 "Cn": "全员生存",
@@ -5255,7 +5397,7 @@
             "craft_rewards": {
                 "En": "Possible Items",
                 "Jp": "獲得可能アイテム",
-                "Kr": null,
+                "Kr": "획득 가능 아이템",
                 "Th": "ไอเทมที่สามารถได้รับ",
                 "Tw": "可能道具",
                 "Cn": "可能合成的道具",
@@ -5269,7 +5411,7 @@
             "craft_recipe_items": {
                 "En": "Required Items",
                 "Jp": "必要アイテム",
-                "Kr": null,
+                "Kr": "필요 아이템",
                 "Th": "วัตถุดิบที่ต้องการ",
                 "Tw": "必要道具",
                 "Cn": "定向制造所需道具",
@@ -5287,7 +5429,7 @@
             "craft_toggle_chance": {
                 "En": "Show Node Appearance Rates",
                 "Jp": "ノード出現率を表示",
-                "Kr": null,
+                "Kr": "노드 등장 확률 표시",
                 "Th": "แสดง/ซ่อนอัตราการปรากฏของโหนด",
                 "Tw": "切換節點出現概率",
                 "Cn": "切换显示节点出现概率",
@@ -5296,7 +5438,7 @@
             "bond_req_equip": {
                 "En": "Requires <i class='ms-1 fa-solid fa-heart'></i> {0} with {1} to equip",
                 "Jp": "装備には{1}の絆ランク<i class='ms-1 fa-solid fa-heart'></i>{0}が必要",
-                "Kr": null,
+                "Kr": "착용하려면 {1} 인연 랭크 {0} 필요",
                 "Th": "ต้องการ <i class='ms-1 fa-solid fa-heart'></i> ของ {1} ระดับ {0} เพื่อสวมใส่",
                 "Tw": "需要 {1} 羈絆等級 <i class='ms-1 fa-solid fa-heart'></i> {0} 以裝備",
                 "Cn": "需要 {1} 羁绊等级 <i class='ms-1 fa-solid fa-heart'></i> {0} 以装备",
@@ -5305,7 +5447,7 @@
             "bond_req_upgrade": {
                 "En": "Requires <i class='ms-1 fa-solid fa-heart'></i> {0} with {1} to upgrade",
                 "Jp": "強化には{1}の絆ランク<i class='ms-1 fa-solid fa-heart'></i>{0}が必要",
-                "Kr": null,
+                "Kr": "업그레이드하려면 {1} 인연 랭크 {0} 필요",
                 "Th": "ต้องการ <i class='ms-1 fa-solid fa-heart'></i> ของ {1} ระดับ {0} เพื่ออัปเกรด",
                 "Tw": "需要 {1} 羈絆等級 <i class='ms-1 fa-solid fa-heart'></i> {0} 以升級",
                 "Cn": "需要 {1} 羁绊等级 <i class='ms-1 fa-solid fa-heart'></i> {0} 以升级",
@@ -5377,7 +5519,7 @@
             "raid_season_select": {
                 "En": "Select Season",
                 "Jp": "シーズンを選択",
-                "Kr": null,
+                "Kr": "시즌 선택",
                 "Th": "เลือกซีซั่น",
                 "Tw": "選擇賽季",
                 "Cn": "选择赛季",
@@ -5720,7 +5862,7 @@
             "tooltip_relationship_bonus": {
                 "En": "Include {0}'s Relationship Bonus",
                 "Jp": "{0}の絆ランクボーナスを含める",
-                "Kr": null,
+                "Kr": "{0}의 인연 랭크 보너스 포함",
                 "Th": "เปิด/ปิดโบนัสระดับสายใย",
                 "Tw": "切換羈絆等級加成",
                 "Cn": "切换羁绊等级加成",
@@ -5729,7 +5871,7 @@
             "tooltip_equipment_bonus": {
                 "En": "Include Equipment Bonus",
                 "Jp": "装備バフを含める",
-                "Kr": null,
+                "Kr": "장비 보너스 포함",
                 "Th": "เปิด/ปิดโบนัสอุปกรณ์สวมใส่",
                 "Tw": "切換裝備加成",
                 "Cn": "切换装备加成",
@@ -5738,7 +5880,7 @@
             "tooltip_passiveskill_bonus": {
                 "En": "Include Enhanced Skill Buff",
                 "Jp": "パッシブスキルバフを含める",
-                "Kr": null,
+                "Kr": "강화 스킬 보너스 포함",
                 "Th": "เปิด/ปิดโบนัสสกิลติดตัว",
                 "Tw": "切換增強技能加成",
                 "Cn": "切换被动技能加成",
@@ -5756,7 +5898,7 @@
             "tooltip_compare": {
                 "En": "Compare with Student",
                 "Jp": "別の生徒と比較",
-                "Kr": null,
+                "Kr": "다른 학생과 비교",
                 "Th": "เปรียบเทียบกับนักเรียนคนอื่น",
                 "Tw": "對比學生",
                 "Cn": "对比学生",
@@ -5765,7 +5907,7 @@
             "tooltip_compare_remove": {
                 "En": "Remove Comparison",
                 "Jp": "比較をやめる",
-                "Kr": null,
+                "Kr": "비교 제거",
                 "Th": "ยกเลิกการเปรียบเทียบ",
                 "Tw": "移除對比",
                 "Cn": "移除对比",
@@ -5792,7 +5934,7 @@
             "tooltip_sprite_toggle": {
                 "En": "Change Sprite",
                 "Jp": "立ち絵を切替",
-                "Kr": null,
+                "Kr": "스프라이트 변경",
                 "Th": "เปลี่ยนรูป",
                 "Tw": "切換CG圖像",
                 "Cn": "切换立绘",
@@ -5990,7 +6132,7 @@
             "stat_defense_tooltip": {
                 "En": "DMG Reduction: {0}",
                 "Jp": "ダメージ軽減：{0}",
-                "Kr": null,
+                "Kr": "대미지 감소율: {0}",
                 "Th": "ลดความเสียหายที่ได้รับลง: {0}",
                 "Tw": "受到傷害降低：{0}",
                 "Cn": "受到伤害降低：{0}",
@@ -5999,7 +6141,7 @@
             "stat_crit_tooltip": {
                 "En": "Crit Chance:",
                 "Jp": "会心確率：",
-                "Kr": null,
+                "Kr": "치명타 확률:",
                 "Th": "อัตราการติดคริ:",
                 "Tw": "暴擊幾率：",
                 "Cn": "暴击概率：",
@@ -6008,7 +6150,7 @@
             "stat_crit_amount_tooltip": {
                 "En": "{0}&nbsp;<small><i>({1} Crit RES)</i></small>",
                 "Jp": "{0}&nbsp;<small><i>（会心抵抗値{1}）</i></small>",
-                "Kr": null,
+                "Kr": "{0}&nbsp;<small><i>({1} 치명 저항)</i></small>",
                 "Th": "{0}&nbsp;<small><i>(ใส่เป้าหมายที่มีค่าต้านทานคริ {1})</i></small>",
                 "Tw": "{0}&nbsp;<small><i>(對於一個暴擊抵抗力{1}的敵人)</i></small>",
                 "Cn": "{0}&nbsp;<small><i>(对暴击抵抗力为{1}的敌人)</i></small>",
@@ -6017,7 +6159,7 @@
             "stat_stability_tooltip": {
                 "En": "Minimum DMG: {0}",
                 "Jp": "ダメージ下限：{0}",
-                "Kr": null,
+                "Kr": "최소 대미지: {0}",
                 "Th": "ความเสียหายขั้นต่ำ: {0}",
                 "Tw": "最低傷害：{0}",
                 "Cn": "最低伤害：{0}",
@@ -6026,7 +6168,7 @@
             "stat_ammocount_tooltip": {
                 "En": "Normal Attack consumes {0} ammo and deals {1} hit(s)",
                 "Jp": "通常攻撃は弾薬{0}を消費し{1}回ヒットする",
-                "Kr": null,
+                "Kr": "기본 공격이 탄약 {0}발을 소모해 {1}회 타격",
                 "Th": "การโจมตีปกติใช้กระสุน {0} นัดและสร้างความเสียหายจำนวน {1} ครั้ง",
                 "Tw": "普通攻擊消耗{0}彈藥並造成{1}次打擊",
                 "Cn": "普通攻击消耗{0}弹药并造成{1}次打击",
@@ -6035,7 +6177,7 @@
             "stat_ammocount_tooltip_area": {
                 "En": "Normal Attack consumes {0} ammo and deals {1} hit(s) to enemies in a circular area",
                 "Jp": "通常攻撃は弾薬{0}を消費し円形範囲内の敵に{1}回ヒットする",
-                "Kr": null,
+                "Kr": "기본 공격이 탄약 {0}발을 소모해 원형 범위 내의 적들을 {1}회 타격",
                 "Th": "การโจมตีปกติใช้กระสุน {0} นัดและสร้างความเสียหายจำนวน {1} ครั้งให้กับศัตรูในรัศมี",
                 "Tw": "普通攻擊消耗{0}彈藥並對圓形範圍內敵軍造成{1}次打擊",
                 "Cn": "普通攻击消耗{0}弹药并对圆形范围内的敌方单位造成{1}次伤害",
@@ -6044,7 +6186,7 @@
             "stat_ammocount_tooltip_line": {
                 "En": "Normal Attack consumes {0} ammo and deals {1} hit(s) to enemies in a straight line",
                 "Jp": "通常攻撃は弾薬{0}を消費し直線範囲内の敵に{1}回ヒットする",
-                "Kr": null,
+                "Kr": "기본 공격이 탄약 {0}발을 소모해 직선 범위 내의 적들을 {1}회 타격",
                 "Th": "การโจมตีปกติใช้กระสุน {0} นัดและสร้างความเสียหายจำนวน {1} ครั้งให้กับศัตรูในแนวเส้นตรง",
                 "Tw": "普通攻擊消耗{0}彈藥並對直綫上敵軍造成{1}次打擊",
                 "Cn": "普通攻击消耗{0}弹药并对直线上的敌方单位造成{1}次伤害",
@@ -6053,7 +6195,7 @@
             "stat_ammocount_tooltip_fan": {
                 "En": "Normal Attack consumes {0} ammo and deals {1} hit(s) to enemies in a fan-shaped area",
                 "Jp": "通常攻撃は弾薬{0}を消費し扇形範囲内の敵に{1}回ヒットする",
-                "Kr": null,
+                "Kr": "기본 공격이 탄약 {0}발을 소모해 부채꼴 범위 내의 적들을 {1}회 타격",
                 "Th": "การโจมตีปกติใช้กระสุน {0} นัดและสร้างความเสียหายจำนวน {1} ครั้งให้กับศัตรูในพื้นที่รูปทรงกรวย",
                 "Tw": "普通攻擊消耗 {0} 彈藥並對扇形區域內的敵人造成 {1} 次攻擊",
                 "Cn": "普通攻击消耗{0}弹药并对扇形区域内的敌方单位造成{1}次伤害",
@@ -6152,7 +6294,7 @@
             "skill_normalattack": {
                 "En": "Normal Attack",
                 "Jp": "通常攻撃",
-                "Kr": null,
+                "Kr": "일반 공격",
                 "Th": "การโจมตีปกติ",
                 "Tw": "普通攻擊",
                 "Cn": "普通攻击",
@@ -6161,7 +6303,7 @@
             "skill_normalattack_target": {
                 "En": "Deals <?1> damage to one enemy.",
                 "Jp": "敵1体に対して<?1>ダメージを与える。",
-                "Kr": null,
+                "Kr": "적 하나에게 <?1> 대미지.",
                 "Th": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรู 1 เป้าหมาย",
                 "Tw": "對一個敵人造成<?1>傷害。",
                 "Cn": "对1名敌方单位造成攻击力<?1>的伤害",
@@ -6170,7 +6312,7 @@
             "skill_normalattack_circle": {
                 "En": "Deals <?1> damage to enemies in a circular area.",
                 "Jp": "円形範囲内の敵に対して<?1>ダメージを与える。",
-                "Kr": null,
+                "Kr": "원형 범위 내의 적들에게 <?1> 대미지.",
                 "Th": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูในรัศมี",
                 "Tw": "對圓形範圍內敵人造成<?1>傷害。",
                 "Cn": "对圆形范围内的敌方单位造成攻击力<?1>的伤害",
@@ -6179,7 +6321,7 @@
             "skill_normalattack_line": {
                 "En": "Deals <?1> damage to enemies in a straight line.",
                 "Jp": "直線範囲内の敵に対して<?1>ダメージを与える。",
-                "Kr": null,
+                "Kr": "직선 범위 내의 적들에게 <?1> 대미지.",
                 "Th": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูในแนวเส้นตรง",
                 "Tw": "對直線範圍內敵人造成<?1>傷害。",
                 "Cn": "对直线范围内的敌方单位造成攻击力<?1>的伤害",
@@ -6188,7 +6330,7 @@
             "skill_normalattack_fan": {
                 "En": "Deals <?1> damage to enemies in a fan-shaped area.",
                 "Jp": "扇形範囲内の敵に対して<?1>ダメージを与える。",
-                "Kr": null,
+                "Kr": "부채꼴 범위 내의 적들에게 <?1> 대미지.",
                 "Th": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูในพื้นที่รูปทรงกรวย",
                 "Tw": "對扇形區域內敵人造成<?1>傷害。",
                 "Cn": "对扇形范围内的敌方单位造成攻击力<?1>的伤害。",
@@ -6197,7 +6339,7 @@
             "type_effectiveness": {
                 "En": "Type Effectiveness",
                 "Jp": "タイプ特効",
-                "Kr": null,
+                "Kr": "속성 특효",
                 "Th": "ประสิทธิภาพของการโจมตี",
                 "Tw": "類型效益",
                 "Cn": "对甲倍率",
@@ -6260,7 +6402,7 @@
             "dmginfo_ignore_def": {
                 "En": "Ignore DEF",
                 "Jp": "防御力無視",
-                "Kr": null,
+                "Kr": "방어력 무시",
                 "Th": "อัตราค่าป้องกันที่ไม่สน",
                 "Tw": "無視防禦力",
                 "Cn": "防御无视",
@@ -6278,7 +6420,7 @@
             "dmginfo_crit": {
                 "En": " (Crit)",
                 "Jp": "（会心）",
-                "Kr": null,
+                "Kr": "(치명타)",
                 "Th": " (คริ)",
                 "Tw": " (暴擊)",
                 "Cn": " (暴击)",
@@ -6305,7 +6447,7 @@
             "dmginfo_heal": {
                 "En": "Heal",
                 "Jp": "回復",
-                "Kr": null,
+                "Kr": "치유",
                 "Th": "ฟื้นฟู",
                 "Tw": "治愈",
                 "Cn": "回复",
@@ -6314,7 +6456,7 @@
             "dmginfo_dmg_avg": {
                 "En": "Average DMG",
                 "Jp": "平均ダメージ",
-                "Kr": null,
+                "Kr": "평균 DMG",
                 "Th": "ความเสียหายโดยเฉลี่ย",
                 "Tw": "平均傷害",
                 "Cn": "平均伤害",
@@ -6386,7 +6528,7 @@
             "dmginfo_avg_dps": {
                 "En": "Average DPS",
                 "Jp": "平均DPS",
-                "Kr": null,
+                "Kr": "평균 DPS",
                 "Th": "ความเสียหายที่ทำได้ต่อวินาทีโดยเฉลี่ย",
                 "Tw": "平均 DPS",
                 "Cn": "平均DPS",
@@ -6404,7 +6546,7 @@
             "dmginfo_shield_amount": {
                 "En": "{0} HP",
                 "Jp": "{0} HP",
-                "Kr": null,
+                "Kr": "{0} HP",
                 "Th": "HP {0}",
                 "Tw": "{0} HP",
                 "Cn": "{0} HP",
