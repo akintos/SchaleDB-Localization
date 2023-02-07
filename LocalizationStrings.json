@@ -453,15 +453,13 @@
                 "CodeKey": 2336577384,
                 "Cn": "攻击力",
                 "Th": "ค่าโจมตี",
-                "Vi": "Tấn công",
-                "Kr": "공격력"
+                "Vi": "Tấn công"
             },
             "DefensePower": {
                 "CodeKey": 1707125936,
                 "Cn": "防御力",
                 "Th": "ค่าป้องกัน",
-                "Vi": "Phòng thủ",
-                "Kr": "방어력"
+                "Vi": "Phòng thủ"
             },
             "HealPower": {
                 "CodeKey": 2769113597,
@@ -473,8 +471,7 @@
                 "CodeKey": 3412978411,
                 "Cn": "命中值",
                 "Th": "ค่าความแม่นยำ",
-                "Vi": "Độ chính xác",
-                "Kr": "명중 수치"
+                "Vi": "Độ chính xác"
             },
             "DodgePoint": {
                 "CodeKey": 1111167881,
@@ -516,8 +513,7 @@
                 "CodeKey": 1424400712,
                 "Cn": "暴击抵抗力",
                 "Th": "ต้านทานคริ",
-                "Vi": "Kháng tỉ lệ chí mạng",
-                "Kr": "치명 저항력"
+                "Vi": "Kháng tỉ lệ chí mạng"
             },
             "CriticalDamageResistRate": {
                 "CodeKey": 1736777416,
@@ -548,8 +544,7 @@
                 "CodeKey": 1485618104,
                 "Cn": "载弹量",
                 "Th": "จำนวนกระสุน",
-                "Vi": "Số lượng băng đạn",
-                "Kr": "장탄 수"
+                "Vi": "Số lượng băng đạn"
             },
             "MoveSpeed": {
                 "CodeKey": 2720480260,
@@ -578,8 +573,7 @@
                 "CodeKey": 4177175092,
                 "Cn": "攻速",
                 "Th": "ความเร็วโจมตี",
-                "Vi": "Tốc độ tấn công",
-                "Kr": "공격속도"
+                "Vi": "Tốc độ tấn công"
             },
             "BlockRate": {
                 "En": "Block Rate Bonus",
