@@ -5,40 +5,34 @@
             "Main": {
                 "PrefabKey": 646522500,
                 "Cn": "STRIKER",
-                "Vi": "STRIKER",
-                "Kr": "STRIKER"
+                "Vi": "STRIKER"
             },
             "Support": {
                 "PrefabKey": 1098852181,
                 "Cn": "SPECIAL",
-                "Vi": "SPECIAL",
-                "Kr": "SPECIAL"
+                "Vi": "SPECIAL"
             }
         },
         "BulletType": {
             "Explosion": {
                 "CodeKey": 3757721831,
                 "Cn": "爆发",
-                "Vi": "Nổ",
-                "Kr": "폭발"
+                "Vi": "Nổ"
             },
             "Pierce": {
                 "CodeKey": 3403805498,
                 "Cn": "贯通",
-                "Vi": "Xuyên giáp",
-                "Kr": "관통"
+                "Vi": "Xuyên giáp"
             },
             "Mystic": {
                 "CodeKey": 1152404059,
                 "Cn": "神秘",
-                "Vi": "Huyền bí",
-                "Kr": "신비"
+                "Vi": "Huyền bí"
             },
             "Normal": {
                 "CodeKey": 3785464487,
                 "Cn": "普通",
-                "Vi": "Thường",
-                "Kr": "일반"
+                "Vi": "Thường"
             },
             "Siege": {
                 "CodeKey": 3580810486,
@@ -49,28 +43,24 @@
             "LightArmor": {
                 "CodeKey": 3837040931,
                 "Cn": "轻护甲",
-                "Vi": "Nhẹ",
-                "Kr": "경장갑"
+                "Vi": "Nhẹ"
             },
             "HeavyArmor": {
                 "CodeKey": 2014245498,
                 "Cn": "重装甲",
-                "Vi": "Nặng",
-                "Kr": "중장갑"
+                "Vi": "Nặng"
             },
             "Unarmed": {
                 "CodeKey": 3363459657,
                 "Cn": "特殊装甲",
-                "Vi": "Đặc biệt",
-                "Kr": "무장갑"
+                "Vi": "Đặc biệt"
             },
             "Normal": {
                 "CodeKey": 2051696859,
                 "En": "Normal",
                 "Cn": "普通装甲",
                 "Th": "เกราะปกติ",
-                "Vi": "Thường",
-                "Kr": "일반"
+                "Vi": "Thường"
             }
         },
         "TacticRole": {
@@ -104,156 +94,131 @@
             "Abydos": {
                 "CodeKey": 2496894026,
                 "Cn": "阿比多斯",
-                "Vi": "Abydos",
-                "Kr": "아비도스"
+                "Vi": "Abydos"
             },
             "Arius": {
                 "CodeKey": 1624106283,
                 "Cn": "阿里乌斯",
-                "Vi": "Arius",
-                "Kr": "아리우스"
+                "Vi": "Arius"
             },
             "Gehenna": {
                 "CodeKey": 4278416471,
                 "Cn": "格黑娜",
-                "Vi": "Gehenna",
-                "Kr": "게헨나"
+                "Vi": "Gehenna"
             },
             "Hyakkiyako": {
                 "CodeKey": 1357983354,
                 "Cn": "百鬼夜行",
-                "Vi": "Hyakkiyako",
-                "Kr": "백귀야행"
+                "Vi": "Hyakkiyako"
             },
             "Millennium": {
                 "CodeKey": 3069365233,
                 "Cn": "千年",
-                "Vi": "Millennium",
-                "Kr": "밀레니엄"
+                "Vi": "Millennium"
             },
             "RedWinter": {
                 "CodeKey": 4287460736,
                 "Cn": "红冬",
-                "Vi": "Red Winter",
-                "Kr": "레드윈터"
+                "Vi": "Red Winter"
             },
             "Shanhaijing": {
                 "CodeKey": 1195587187,
                 "Cn": "山海经",
-                "Vi": "Shanhaijing",
-                "Kr": "산해경"
+                "Vi": "Shanhaijing"
             },
             "SRT": {
                 "CodeKey": 3227477377,
                 "Cn": "SRT",
-                "Vi": "SRT",
-                "Kr": "SRT"
+                "Vi": "SRT"
             },
             "Trinity": {
                 "CodeKey": 3367267180,
                 "Cn": "三一",
-                "Vi": "Trinity",
-                "Kr": "트리니티"
+                "Vi": "Trinity"
             },
             "Valkyrie": {
                 "CodeKey": 113298623,
                 "Cn": "瓦尔基里",
-                "Vi": "Valkyrie",
-                "Kr": "발키리"
+                "Vi": "Valkyrie"
             },
             "ETC": {
                 "CodeKey": 792628026,
                 "Cn": "其他",
-                "Vi": "Etc.",
-                "Kr": "기타"
+                "Vi": "Etc."
             }
         },
         "AdaptationType": {
             "Street": {
                 "CodeKey": 4095504793,
                 "Cn": "市街",
-                "Vi": "Đường phố",
-                "Kr": "시가"
+                "Vi": "Đường phố"
             },
             "Outdoor": {
                 "CodeKey": 1063796482,
                 "Cn": "室外",
-                "Vi": "Ngoài trời",
-                "Kr": "실외"
+                "Vi": "Ngoài trời"
             },
             "Indoor": {
                 "CodeKey": 3760285652,
                 "Cn": "室内",
-                "Vi": "Trong công trình",
-                "Kr": "실내"
+                "Vi": "Trong công trình"
             }
         },
         "SchoolLong": {
             "Abydos": {
                 "ScenarioKey": 2877335168,
                 "Cn": "阿比多斯高中",
-                "Vi": "Trường Trung học Phổ thông Abydos",
-                "Kr": "아비도스 고등학교"
+                "Vi": "Trường Trung học Phổ thông Abydos"
             },
             "Arius": {
                 "ScenarioKey": 417290178,
                 "Cn": "阿里乌斯分校",
-                "Vi": "Trường Vệ tinh Arius",
-                "Kr": "아리우스 분교"
+                "Vi": "Trường Vệ tinh Arius"
             },
             "Gehenna": {
                 "ScenarioKey": 3736730534,
                 "Cn": "格黑娜学园",
-                "Vi": "Học viện Gehenna",
-                "Kr": "게헨나 학원"
+                "Vi": "Học viện Gehenna"
             },
             "Hyakkiyako": {
                 "ScenarioKey": 1563751060,
                 "Cn": "百鬼夜行联合学园",
-                "Vi": "Học viện Đồng minh Hyakkiyako",
-                "Kr": "백귀야행 연합학원"
+                "Vi": "Học viện Đồng minh Hyakkiyako"
             },
             "Millennium": {
                 "ScenarioKey": 2224197674,
                 "Cn": "千年科学学园",
-                "Vi": "Trường Khoa học Millennium",
-                "Kr": "밀레니엄 사이언스 스쿨"
+                "Vi": "Trường Khoa học Millennium"
             },
             "RedWinter": {
                 "ScenarioKey": 2940461121,
                 "Cn": "红冬联邦学园",
-                "Vi": "Học viện Liên bang Red Winter",
-                "Kr": "붉은겨울 연방학원"
+                "Vi": "Học viện Liên bang Red Winter"
             },
             "Shanhaijing": {
                 "ScenarioKey": 3997137133,
                 "Cn": "山海经高级中学",
-                "Vi": "Trường Trung học cấp hai Shanhaijing",
-                "Kr": "산해경 고급중학교"
+                "Vi": "Trường Trung học cấp hai Shanhaijing"
             },
             "SRT": {
                 "ScenarioKey": 2978806820,
                 "Cn": "SRT特殊学园",
-                "Vi": "Học viện Đặc biệt SRT",
-                "Kr": "SRT 특수학원"
+                "Vi": "Học viện Đặc biệt SRT"
             },
             "Trinity": {
                 "ScenarioKey": 4226222338,
                 "Cn": "三一综合学园",
-                "Vi": "Trường Tổng hợp Trinity",
-                "Kr": "트리니티 종합학원"
+                "Vi": "Trường Tổng hợp Trinity"
             },
             "Valkyrie": {
                 "ScenarioKey": 1843937705,
                 "Cn": "瓦尔基里警察学校",
-                "Vi": "Trường Cảnh sát Valkyrie",
-                "Kr": "발키리 경찰학교"
+                "Vi": "Trường Cảnh sát Valkyrie"
             },
             "ETC": {
                 "ScenarioKey": 1926648970,
                 "Cn": "其他",
-                "Vi": "Etc.",
-                "Kr": "기타"
+                "Vi": "Etc."
             }
         },
         "Club": {
@@ -445,14 +410,12 @@
             "Decagrammaton": {
                 "CodeKey": 588766398,
                 "Cn": "十字神名",
-                "Vi": "Decagrammaton",
-                "Kr": "데카그라마톤"
+                "Vi": "Decagrammaton"
             },
             "Slumpia": {
                 "CodeKey": 3971535573,
                 "Cn": "史兰皮亚",
-                "Vi": "Slumpia",
-                "Kr": "슬럼피아"
+                "Vi": "Slumpia"
             },
             "CommunioSanctorum": {
                 "CodeKey": 3393945124,
@@ -462,8 +425,7 @@
             "Kaitenger": {
                 "EtcKey": 4241806907,
                 "Cn": "凯坦泽",
-                "Vi": "Kaitenger",
-                "Kr": "카이텐저"
+                "Vi": "Kaitenger"
             },
             "TheLibraryofLore": {
                 "CodeKey": 2285706243,
@@ -1239,15 +1201,13 @@
                 "En": "Missions",
                 "Cn": "任务",
                 "Th": "ภารกิจ",
-                "Vi": "Nhiệm vụ",
-                "Kr": "임무"
+                "Vi": "Nhiệm vụ"
             },
             "Bounty": {
                 "PrefabKey": 1960632697,
                 "Cn": "悬赏通缉",
                 "Th": "ประกาศจับ",
-                "Vi": "Săn tiền thưởng",
-                "Kr": "현상수배"
+                "Vi": "Săn tiền thưởng"
             },
             "WeekDungeon": {
                 "PrefabKey": 2577664618,
@@ -1288,29 +1248,25 @@
                 "CodeKey": 439161182,
                 "Cn": "悬赏通缉 - 立交桥",
                 "Th": "ประกาศจับ - ทางยกระดับ",
-                "Vi": "Săn tiền thưởng - Cầu vượt",
-                "Kr": "현상수배 - 고가도로"
+                "Vi": "Săn tiền thưởng - Cầu vượt"
             },
             "ChaserB": {
                 "CodeKey": 2551305195,
                 "Cn": "悬赏通缉 - 沙漠铁路",
                 "Th": "ประกาศจับ - ทางรถไฟทะเลทราย",
-                "Vi": "Săn tiền thưởng - Đường sắt sa mạc",
-                "Kr": "현상수배 - 사막 기찻길"
+                "Vi": "Săn tiền thưởng - Đường sắt sa mạc"
             },
             "ChaserC": {
                 "CodeKey": 660001255,
                 "Cn": "悬赏通缉 - 教室",
                 "Th": "ประกาศจับ - ห้องเรียน",
-                "Vi": "Săn tiền thưởng - Lớp học",
-                "Kr": "현상수배 - 교실"
+                "Vi": "Săn tiền thưởng - Lớp học"
             },
             "Blood": {
                 "CodeKey": 9043496,
                 "Cn": "据点防御",
                 "Th": "ป้องกันฐาน",
-                "Vi": "Phòng thủ căn cứ",
-                "Kr": "거점방어"
+                "Vi": "Phòng thủ căn cứ"
             },
             "FindGift": {
                 "CodeKey": 3477560344,
@@ -1854,7 +1810,7 @@
             "Buff_HealByHit_Damaged": {
                 "En": "Heal When Hit",
                 "Jp": "回復をする効果",
-                "Kr": "피격 시 치유력의",
+                "Kr": "피격 시 치유력",
                 "Th": "ฟื้นฟูความเสียหาย",
                 "Tw": "受攻擊時，適用恢復",
                 "Cn": "击中回复",
