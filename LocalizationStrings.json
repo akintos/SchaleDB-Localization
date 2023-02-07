@@ -632,6 +632,27 @@
                 "Cn": "神秘克制倍率",
                 "Vi": "Hiệu quả huyền bí"
             },
+            "EnhanceLightArmorRate": {
+                "En": "Lgt. Armor Effectiveness",
+                "Jp": "軽装備強化",
+                "Kr": "경장갑 강화",
+                "Th": "อัปเกรดเกราะเบา",
+                "Tw": "輕裝甲強化"
+            },
+            "EnhanceHeavyArmorRate": {
+                "En": "Hvy. Armor Effectiveness",
+                "Jp": "重装甲強化",
+                "Kr": "중장갑 강화",
+                "Th": "อัปเกรดเกราะหนัก",
+                "Tw": "重裝甲強化"
+            },
+            "EnhanceUnarmedRate": {
+                "En": "Spc. Armor Effectiveness",
+                "Jp": "特殊装甲強化",
+                "Kr": "특수장갑 강화",
+                "Th": "อัปเกรดเกราะพิเศษ",
+                "Tw": "特殊裝甲強化"
+            },
             "ExtendBuffDuration": {
                 "En": "Buff Duration",
                 "Jp": "バフ効果持続力",
@@ -1774,6 +1795,27 @@
                 "Cn": "神秘克制倍率",
                 "Vi": "Hiệu quả huyền bí"
             },
+            "Buff_EnhanceLightArmorRate": {
+                "En": "Lgt. Armor Effectiveness",
+                "Jp": "軽装備強化",
+                "Kr": "경장갑 강화",
+                "Th": "อัปเกรดเกราะเบา",
+                "Tw": "輕裝甲強化"
+            },
+            "Buff_EnhanceHeavyArmorRate": {
+                "En": "Hvy. Armor Effectiveness",
+                "Jp": "重装甲強化",
+                "Kr": "중장갑 강화",
+                "Th": "อัปเกรดเกราะหนัก",
+                "Tw": "重裝甲強化"
+            },
+            "Buff_EnhanceUnarmedRate": {
+                "En": "Spc. Armor Effectiveness",
+                "Jp": "特殊装甲強化",
+                "Kr": "특수장갑 강화",
+                "Th": "อัปเกรดเกราะพิเศษ",
+                "Tw": "特殊裝甲強化"
+            },
             "Buff_ExtendBuffDuration": {
                 "En": "Buff Duration",
                 "Jp": "バフ効果持続力",
@@ -2097,6 +2139,27 @@
                 "Cn": "神秘克制倍率",
                 "Vi": "Hiệu quả huyền bí"
             },
+            "Debuff_EnhanceLightArmorRate": {
+                "En": "Lgt. Armor Effectiveness",
+                "Jp": "軽装備強化",
+                "Kr": "경장갑 강화",
+                "Th": "อัปเกรดเกราะเบา",
+                "Tw": "輕裝甲強化"
+            },
+            "Debuff_EnhanceHeavyArmorRate": {
+                "En": "Hvy. Armor Effectiveness",
+                "Jp": "重装甲強化",
+                "Kr": "중장갑 강화",
+                "Th": "อัปเกรดเกราะหนัก",
+                "Tw": "重裝甲強化"
+            },
+            "Debuff_EnhanceUnarmedRate": {
+                "En": "Spc. Armor Effectiveness",
+                "Jp": "特殊装甲強化",
+                "Kr": "특수장갑 강화",
+                "Th": "อัปเกรดเกราะพิเศษ",
+                "Tw": "特殊裝甲強化"
+            },
             "Debuff_HealedLimit": {
                 "En": "Recovery Limit",
                 "Jp": null,
@@ -2278,7 +2341,7 @@
                 "Vi": "Tấn công thường"
             },
             "Special_Immortal": {
-                "En": "Immortal",
+                "En": "Invincible",
                 "Jp": "不死身状態",
                 "Kr": "불사",
                 "Th": "เป็นอมตะ",
@@ -2347,7 +2410,7 @@
                 "Vi": "Khắc áp đảo"
             },
             "Special_SuddenDeath": {
-                "En": "Wakamo's Mark",
+                "En": "Wakamo Imprint",
                 "Jp": "ワカモの刻印",
                 "Kr": "와카모의 각인이",
                 "Th": "ตราของวาคาโมะ",
@@ -2545,6 +2608,27 @@
                 "Tw": "神秘傷害加成提升",
                 "Cn": "神秘克制倍率提升",
                 "Vi": "Tăng hiệu quả huyền bí"
+            },
+            "Buff_EnhanceLightArmorRate": {
+                "En": "Light Armor Effectiveness Up",
+                "Jp": "軽装備強化",
+                "Kr": "경장갑 강화",
+                "Th": "อัปเกรดเกราะเบา",
+                "Tw": "輕裝甲強化"
+            },
+            "Buff_EnhanceHeavyArmorRate": {
+                "En": "Heavy Armor Effectiveness Up",
+                "Jp": "重装甲強化",
+                "Kr": "중장갑 강화",
+                "Th": "อัปเกรดเกราะหนัก",
+                "Tw": "重裝甲強化"
+            },
+            "Buff_EnhanceUnarmedRate": {
+                "En": "Special Armor Effectiveness Up",
+                "Jp": "特殊装甲強化",
+                "Kr": "특수장갑 강화",
+                "Th": "อัปเกรดเกราะพิเศษ",
+                "Tw": "特殊裝甲強化"
             },
             "Buff_ExtendBuffDuration": {
                 "En": "Buff Duration Up",
@@ -2838,6 +2922,27 @@
                 "Cn": "神秘克制倍率降低",
                 "Vi": "Giảm hiệu quả huyền bí"
             },
+            "Debuff_EnhanceLightArmorRate": {
+                "En": "Light Armor Effectiveness Down",
+                "Jp": "軽装備強化",
+                "Kr": "경장갑 강화",
+                "Th": "อัปเกรดเกราะเบา",
+                "Tw": "輕裝甲強化"
+            },
+            "Debuff_EnhanceHeavyArmorRate": {
+                "En": "Heavy Armor Effectiveness Down",
+                "Jp": "重装甲強化",
+                "Kr": "중장갑 강화",
+                "Th": "อัปเกรดเกราะหนัก",
+                "Tw": "重裝甲強化"
+            },
+            "Debuff_EnhanceUnarmedRate": {
+                "En": "Special Armor Effectiveness Down",
+                "Jp": "特殊装甲強化",
+                "Kr": "특수장갑 강화",
+                "Th": "อัปเกรดเกราะพิเศษ",
+                "Tw": "特殊裝甲強化"
+            },
             "Debuff_HealedLimit": {
                 "En": "Recovery Limit",
                 "Jp": null,
@@ -3001,7 +3106,7 @@
                 "Vi": "Thay đổi hình thức"
             },
             "Special_Immortal": {
-                "En": "Immortal",
+                "En": "Invincible",
                 "Jp": "不死身状態",
                 "Th": "อมตะ",
                 "Tw": "不死",
@@ -3065,7 +3170,7 @@
                 "Vi": "Khắc áp đảo"
             },
             "Special_SuddenDeath": {
-                "En": "Wakamo's Mark",
+                "En": "Wakamo Imprint",
                 "Th": "ตราของวาคาโมะ",
                 "Jp": "ワカモの刻印",
                 "Kr": "와카모의 각인이",
@@ -3243,6 +3348,15 @@
                 "Cn": "提升神秘伤害对特殊装甲单位攻击时的伤害倍率",
                 "Th": "เพิ่มความเสียหายของการโจมตีประเภทลึกลับเมื่อโจมตีใส่เป้าหมายที่มีเกราะพิเศษ",
                 "Vi": "Tăng thêm sát thương gây ra bởi các đòn tấn công loại huyền bí đối với các mục tiêu đặc biệt."
+            },
+            "Buff_EnhanceLightArmorRate": {
+                "En": "Decreases the damage received from attacks when defense type is Light Armor."
+            },
+            "Buff_EnhanceHeavyArmorRate": {
+                "En": "Decreases the damage received from attacks when defense type is Heavy Armor."
+            },
+            "Buff_EnhanceUnarmedRate": {
+                "En": "Decreases the damage received from attacks when defense type is Special Armor."
             },
             "Buff_ExtendBuffDuration": {
                 "En": "Increases the duration of buffs granted to self and allies.",
@@ -3505,6 +3619,15 @@
                 "Th": "ลดความเสียหายของการโจมตีประเภทลึกลับเมื่อโจมตีใส่เป้าหมายที่มีเกราะพิเศษ",
                 "Vi": "Giảm bớt sát thương cộng thêm khi gây ra các đòn tấn công loại huyền bí lên các mục tiêu đặc biệt."
             },
+            "Debuff_EnhanceLightArmorRate": {
+                "En": "Increases the damage received from attacks when defense type is Light Armor."
+            },
+            "Debuff_EnhanceHeavyArmorRate": {
+                "En": "Increases the damage received from attacks when defense type is Heavy Armor."
+            },
+            "Debuff_EnhanceUnarmedRate": {
+                "En": "Increases the damage received from attacks when defense type is Special Armor."
+            },
             "Debuff_HealedLimit": {
                 "En": "Limits the amount of HP healing abilities will restore.",
                 "Cn": "限制受到回复时的生命值最大回复量",
@@ -3640,7 +3763,7 @@
                 "Vi": "Tăng cường các cuộc tấn công bình thường."
             },
             "Special_Immortal": {
-                "En": "Able to survive lethal damage with 1 HP for the duration of the effect.",
+                "En": "Able to withstand lethal damage without being defeated for the duration of the effect.",
                 "Jp": "効果時間中は致死ダメージを受けてもHP1で生存する。",
                 "Cn": "状态持续期间受到致死伤害将保留至少1生命值",
                 "Th": "เมื่อได้รับความเสียหายถึงตาย, HP จะไม่ลดลงไปต่ำกว่า 1 จนกว่าระยะเวลาของเอฟเฟกต์จะหมดลง",
@@ -6139,6 +6262,24 @@
                 "Tw": "更新日志",
                 "Cn": "更新日志",
                 "Vi": "Nội dung thay đổi"
+            },
+            "links": {
+                "En": "Links",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
+            },
+            "community_resources": {
+                "En": "Community Resources",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
             },
             "skillinfo_empty": {
                 "En": "The selected character has no damage-dealing or healing skills to display.",

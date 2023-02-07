@@ -4991,7 +4991,7 @@
         {
             "SkillId": 10037300,
             "NameEn": "I Won't Back Down!",
-            "DescriptionEn": "When Marina's HP falls below 20%, she becomes <s:Immortal> for <?1> once per battle.",
+            "DescriptionEn": "Once per battle, when Marina's HP falls below 20%, she becomes <s:Immortal> for <?1>.",
             "ParametersEn": [
                 [
                     "12s", "12.6s", "13.2s", "15.6s", "16.2s", "16.8s", "19.2s", "19.8s", "20.4s", 
