@@ -634,21 +634,21 @@
             },
             "EnhanceLightArmorRate": {
                 "En": "Lgt. Armor Effectiveness",
-                "Jp": "軽装備強化",
+                "Jp": "軽装備性能",
                 "Kr": "경장갑 강화",
                 "Th": "อัปเกรดเกราะเบา",
                 "Tw": "輕裝甲強化"
             },
             "EnhanceHeavyArmorRate": {
                 "En": "Hvy. Armor Effectiveness",
-                "Jp": "重装甲強化",
+                "Jp": "重装甲性能",
                 "Kr": "중장갑 강화",
                 "Th": "อัปเกรดเกราะหนัก",
                 "Tw": "重裝甲強化"
             },
             "EnhanceUnarmedRate": {
                 "En": "Spc. Armor Effectiveness",
-                "Jp": "特殊装甲強化",
+                "Jp": "特殊装甲性能",
                 "Kr": "특수장갑 강화",
                 "Th": "อัปเกรดเกราะพิเศษ",
                 "Tw": "特殊裝甲強化"
@@ -1797,21 +1797,21 @@
             },
             "Buff_EnhanceLightArmorRate": {
                 "En": "Lgt. Armor Effectiveness",
-                "Jp": "軽装備強化",
+                "Jp": "軽装備性能",
                 "Kr": "경장갑 강화",
                 "Th": "อัปเกรดเกราะเบา",
                 "Tw": "輕裝甲強化"
             },
             "Buff_EnhanceHeavyArmorRate": {
                 "En": "Hvy. Armor Effectiveness",
-                "Jp": "重装甲強化",
+                "Jp": "重装甲性能",
                 "Kr": "중장갑 강화",
                 "Th": "อัปเกรดเกราะหนัก",
                 "Tw": "重裝甲強化"
             },
             "Buff_EnhanceUnarmedRate": {
                 "En": "Spc. Armor Effectiveness",
-                "Jp": "特殊装甲強化",
+                "Jp": "特殊装甲性能",
                 "Kr": "특수장갑 강화",
                 "Th": "อัปเกรดเกราะพิเศษ",
                 "Tw": "特殊裝甲強化"
@@ -2141,21 +2141,21 @@
             },
             "Debuff_EnhanceLightArmorRate": {
                 "En": "Lgt. Armor Effectiveness",
-                "Jp": "軽装備強化",
+                "Jp": "軽装備性能",
                 "Kr": "경장갑 강화",
                 "Th": "อัปเกรดเกราะเบา",
                 "Tw": "輕裝甲強化"
             },
             "Debuff_EnhanceHeavyArmorRate": {
                 "En": "Hvy. Armor Effectiveness",
-                "Jp": "重装甲強化",
+                "Jp": "重装甲性能",
                 "Kr": "중장갑 강화",
                 "Th": "อัปเกรดเกราะหนัก",
                 "Tw": "重裝甲強化"
             },
             "Debuff_EnhanceUnarmedRate": {
                 "En": "Spc. Armor Effectiveness",
-                "Jp": "特殊装甲強化",
+                "Jp": "特殊装甲性能",
                 "Kr": "특수장갑 강화",
                 "Th": "อัปเกรดเกราะพิเศษ",
                 "Tw": "特殊裝甲強化"
@@ -2632,21 +2632,21 @@
             },
             "Buff_EnhanceLightArmorRate": {
                 "En": "Light Armor Effectiveness Up",
-                "Jp": "軽装備強化",
+                "Jp": "軽装備性能増加",
                 "Kr": "경장갑 강화",
                 "Th": "อัปเกรดเกราะเบา",
                 "Tw": "輕裝甲強化"
             },
             "Buff_EnhanceHeavyArmorRate": {
                 "En": "Heavy Armor Effectiveness Up",
-                "Jp": "重装甲強化",
+                "Jp": "重装甲性能増加",
                 "Kr": "중장갑 강화",
                 "Th": "อัปเกรดเกราะหนัก",
                 "Tw": "重裝甲強化"
             },
             "Buff_EnhanceUnarmedRate": {
                 "En": "Special Armor Effectiveness Up",
-                "Jp": "特殊装甲強化",
+                "Jp": "特殊装甲性能増加",
                 "Kr": "특수장갑 강화",
                 "Th": "อัปเกรดเกราะพิเศษ",
                 "Tw": "特殊裝甲強化"
@@ -2976,21 +2976,21 @@
             },
             "Debuff_EnhanceLightArmorRate": {
                 "En": "Light Armor Effectiveness Down",
-                "Jp": "軽装備強化",
+                "Jp": "軽装備性能減少",
                 "Kr": "경장갑 강화",
                 "Th": "อัปเกรดเกราะเบา",
                 "Tw": "輕裝甲強化"
             },
             "Debuff_EnhanceHeavyArmorRate": {
                 "En": "Heavy Armor Effectiveness Down",
-                "Jp": "重装甲強化",
+                "Jp": "重装甲性能減少",
                 "Kr": "중장갑 강화",
                 "Th": "อัปเกรดเกราะหนัก",
                 "Tw": "重裝甲強化"
             },
             "Debuff_EnhanceUnarmedRate": {
                 "En": "Special Armor Effectiveness Down",
-                "Jp": "特殊装甲強化",
+                "Jp": "特殊装甲性能減少",
                 "Kr": "특수장갑 강화",
                 "Th": "อัปเกรดเกราะพิเศษ",
                 "Tw": "特殊裝甲強化"
@@ -3435,13 +3435,16 @@
                 "Vi": "Tăng thêm sát thương gây ra bởi các đòn tấn công loại huyền bí đối với các mục tiêu đặc biệt."
             },
             "Buff_EnhanceLightArmorRate": {
-                "En": "Decreases the damage received from attacks when defense type is Light Armor."
+                "En": "Decreases the damage received from attacks when defense type is Light Armor.",
+                "Jp": "防御タイプが軽装備の場合、攻撃によって受けるダメージを減少する。"
             },
             "Buff_EnhanceHeavyArmorRate": {
-                "En": "Decreases the damage received from attacks when defense type is Heavy Armor."
+                "En": "Decreases the damage received from attacks when defense type is Heavy Armor.",
+                "Jp": "防御タイプが重装甲の場合、攻撃によって受けるダメージを減少する。"
             },
             "Buff_EnhanceUnarmedRate": {
-                "En": "Decreases the damage received from attacks when defense type is Special Armor."
+                "En": "Decreases the damage received from attacks when defense type is Special Armor.",
+                "Jp": "防御タイプが特殊装甲の場合、攻撃によって受けるダメージを減少する。"
             },
             "Buff_ExtendBuffDuration": {
                 "En": "Increases the duration of buffs granted to self and allies.",
@@ -3705,13 +3708,16 @@
                 "Vi": "Giảm bớt sát thương cộng thêm khi gây ra các đòn tấn công loại huyền bí lên các mục tiêu đặc biệt."
             },
             "Debuff_EnhanceLightArmorRate": {
-                "En": "Increases the damage received from attacks when defense type is Light Armor."
+                "En": "Increases the damage received from attacks when defense type is Light Armor.",
+                "Jp": "防御タイプが軽装備の場合、攻撃によって受けるダメージを増加する。"
             },
             "Debuff_EnhanceHeavyArmorRate": {
-                "En": "Increases the damage received from attacks when defense type is Heavy Armor."
+                "En": "Increases the damage received from attacks when defense type is Heavy Armor.",
+                "Jp": "防御タイプが重装甲の場合、攻撃によって受けるダメージを増加する。"
             },
             "Debuff_EnhanceUnarmedRate": {
-                "En": "Increases the damage received from attacks when defense type is Special Armor."
+                "En": "Increases the damage received from attacks when defense type is Special Armor.",
+                "Jp": "防御タイプが特殊装甲の場合、攻撃によって受けるダメージを増加する。"
             },
             "Debuff_HealedLimit": {
                 "En": "Limits the amount of HP healing abilities will restore.",
@@ -3849,7 +3855,7 @@
             },
             "Special_Immortal": {
                 "En": "Able to withstand lethal damage without being defeated for the duration of the effect.",
-                "Jp": "効果時間中は致死ダメージを受けてもHP1で生存する。",
+                "Jp": "効果時間中は致死ダメージを受けても倒されずに持ちこたえる。",
                 "Cn": "状态持续期间受到致死伤害将保留至少1生命值",
                 "Th": "เมื่อได้รับความเสียหายถึงตาย, HP จะไม่ลดลงไปต่ำกว่า 1 จนกว่าระยะเวลาของเอฟเฟกต์จะหมดลง",
                 "Vi": "Có khả năng sống sót sau sát thương chết người với 1 HP trong suốt thời gian hiệu ứng."
