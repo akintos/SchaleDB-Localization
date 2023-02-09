@@ -49,9 +49,9 @@ Certain enemies in the game such as additional enemies in Total Assault or other
 | Japanese (Jp) | G3danke |
 | Korean (Kr) | |
 | Thai (Th) | TKRotund |
-| Traditional Chinese (Tw) | Blue-Roar |
+| Traditional Chinese (Tw) |  |
 
 ### Custom Languages
 | Language | Contributor(s) |
 | --- | --- |
-| Simplified Chinese (Cn) | Blue-Roar |
+| Simplified Chinese (Cn) | CanXue233 |
