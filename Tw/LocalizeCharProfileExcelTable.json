@@ -251,6 +251,20 @@
             "CharacterVoiceTw": "松岡美里",
             "WeaponNameTw": "第17号ヴァルキューレ制式拳銃",
             "WeaponDescTw": "ヴァルキューレ警察学校から支給されている制式拳銃。\n\nシンプルなデザインだが、軽くて操作が簡単なため、現場出動より書類仕事が多いカンナは、この拳銃を愛用している。"
+        },
+        {
+            "CharacterId": 10061,
+            "FamilyNameTw": "歌住",
+            "PersonalNameTw": "サクラコ",
+            "SchoolYearTw": "3年生",
+            "CharacterAgeTw": "17歳",
+            "BirthdayTw": "10月4日",
+            "CharacterSSRNewTw": "あなたの一挙手一投足……。\nいつも、見守っておりますよ",
+            "ProfileIntroductionTw": "トリニティ総合学園所属、シスターフッドの敬虔な生徒。\n\n何事に対しても真剣に向き合うため、多くの生徒から厚い信頼を受けている。生真面目すぎるせいで流行や常識からズレてしまうことも。",
+            "HobbyTw": "お祈り",
+            "CharacterVoiceTw": "加隈亜衣",
+            "WeaponNameTw": "浄化の織り手",
+            "WeaponDescTw": "サクラコ本人と同じくらい徹底的かつ敬虔に手入れされている銃。\n\n他人は触れることすら難しい。"
         }
     ]
 }

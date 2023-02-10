@@ -2438,6 +2438,15 @@
                 "Tw": "聖夜的祝福",
                 "Cn": "「圣夜祝福」",
                 "Vi": "Lời Chúc Đêm Thánh"
+            },
+            "Special_SilverBullet": {
+                "En": "Normal Attack",
+                "Jp": "通常攻撃",
+                "Kr": "일반 공격",
+                "Th": "โจมตีทั่วไป",
+                "Tw": "一般攻擊",
+                "Cn": "普通攻击",
+                "Vi": "Tấn công thường"
             }
         },
         "BuffNameLong": {
@@ -3272,6 +3281,9 @@
                 "Tw": "聖夜的祝福",
                 "Cn": "圣夜祝福",
                 "Vi": "Lời Chúc Đêm Thánh"
+            },
+            "Special_SilverBullet": {
+                "En": "Silver Bullets"
             }
         },
         "BuffTooltip": {
@@ -3931,6 +3943,9 @@
                 "Tw": "提升此角色的特定EX技能的效果。",
                 "Cn": "提升该角色特定EX技能的效果",
                 "Vi": "Tăng tác dụng của một số kỹ năng EX nhất định đối với nhân vật này."
+            },
+            "Special_SilverBullet": {
+                "En": "Augments Sakurako's normal attack to deal damage as an additional hit."
             }
         },
         "ServerName": {
