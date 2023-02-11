@@ -1561,7 +1561,7 @@
                 "Vi": "Cung cấp 1,5 lần EXP khi được sử dụng để cường hóa vũ khí loại MG, SR, MT và RG."
             },
             "WeaponExpGrowthZ": {
-                "En": "Provides 1.5&times; EXP when used to enhance any type of weapon.",
+                "En": "Provides 1.5&times; EXP when used to enhance any type of weapon (except FT).",
                 "Jp": "すべて武器種の固有武器の強化時に獲得EXPが1.5倍になる。",
                 "Kr": "모든 유형의 무기를 강화할 때 경험치 1.5배 증가.",
                 "Tw": "用於強化任何類型武器時提供 1.5 倍經驗",
@@ -3959,7 +3959,7 @@
             "Special_SilverBullet": {
                 "En": "Augments Sakurako's normal attack to deal damage as an additional hit.",
                 "Jp": "サクラコの通常攻撃を追加ダメージ効果を与えるものに強化する。",
-                "Th": "ทำให้การโจมตีทั่วไปสร้างความเสียหายเพิ่มเติมอีกครั้ง",
+                "Th": "ทำให้การโจมตีทั่วไปสร้างความเสียหายเพิ่มเติมอีกครั้ง"
             }
         },
         "ServerName": {
