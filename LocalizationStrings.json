@@ -42,23 +42,23 @@
         "ArmorType": {
             "LightArmor": {
                 "CodeKey": 3837040931,
-                "Cn": "轻护甲",
+                "Cn": "轻甲",
                 "Vi": "Nhẹ"
             },
             "HeavyArmor": {
                 "CodeKey": 2014245498,
-                "Cn": "重装甲",
+                "Cn": "重甲",
                 "Vi": "Nặng"
             },
             "Unarmed": {
                 "CodeKey": 3363459657,
-                "Cn": "特殊装甲",
+                "Cn": "特殊甲",
                 "Vi": "Đặc biệt"
             },
             "Normal": {
                 "CodeKey": 2051696859,
                 "En": "Normal",
-                "Cn": "普通装甲",
+                "Cn": "普通甲",
                 "Th": "เกราะปกติ",
                 "Vi": "Thường"
             }
@@ -637,21 +637,24 @@
                 "Jp": "軽装備性能",
                 "Kr": "경장갑 강화",
                 "Th": "ประสิทธิภาพเกราะเบา",
-                "Tw": "輕裝甲強化"
+                "Tw": "輕裝甲強化",
+                "Cn": "轻甲强化"
             },
             "EnhanceHeavyArmorRate": {
                 "En": "Hvy. Armor Effectiveness",
                 "Jp": "重装甲性能",
                 "Kr": "중장갑 강화",
                 "Th": "ประสิทธิภาพเกราะหนัก",
-                "Tw": "重裝甲強化"
+                "Tw": "重裝甲強化",
+                "Cn": "重甲强化"
             },
             "EnhanceUnarmedRate": {
                 "En": "Spc. Armor Effectiveness",
                 "Jp": "特殊装甲性能",
                 "Kr": "특수장갑 강화",
                 "Th": "ประสิทธิภาพเกราะพิเศษ",
-                "Tw": "特殊裝甲強化"
+                "Tw": "特殊裝甲強化",
+                "Cn": "特殊甲强化"
             },
             "ExtendBuffDuration": {
                 "En": "Buff Duration",
