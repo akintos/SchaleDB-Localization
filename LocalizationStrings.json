@@ -2165,7 +2165,7 @@
             },
             "Debuff_HealedLimit": {
                 "En": "Recovery Limit",
-                "Jp": null,
+                "Jp": "回復制限",
                 "Kr": "회복량 제한",
                 "Th": "จำกัดการฟื้นฟู",
                 "Tw": "限制恢復能力",
@@ -3009,7 +3009,7 @@
             },
             "Debuff_HealedLimit": {
                 "En": "Recovery Limit",
-                "Jp": null,
+                "Jp": "回復制限",
                 "Kr": "받는 회복효과 제한",
                 "Th": "จำกัดการฟื้นฟู",
                 "Tw": "限制恢復能力",
@@ -3287,6 +3287,7 @@
             },
             "Special_SilverBullet": {
                 "En": "Silver Bullets",
+                "Jp": "シルバーバレット",
                 "Th": "ตราแห่งการชำระบาป"
             }
         },
@@ -3743,6 +3744,7 @@
             },
             "Debuff_HealedLimit": {
                 "En": "Limits the amount of HP healing abilities will restore.",
+                "Jp": "回復スキルによるHP回復量を制限する。",
                 "Cn": "限制受到回复时的生命值最大回复量",
                 "Th": "จำกัดจำนวน HP ที่ฟื้นฟูจากความสามารถรักษา",
                 "Vi": "Giới hạn lượng máu sẽ phục hồi."
@@ -3956,6 +3958,7 @@
             },
             "Special_SilverBullet": {
                 "En": "Augments Sakurako's normal attack to deal damage as an additional hit.",
+                "Jp": "サクラコの通常攻撃を追加ダメージ効果を与えるものに強化する。",
                 "Th": "ทำให้การโจมตีทั่วไปสร้างความเสียหายเพิ่มเติมอีกครั้ง",
             }
         },
@@ -6389,7 +6392,7 @@
             },
             "links": {
                 "En": "Links",
-                "Jp": null,
+                "Jp": "リンク集",
                 "Kr": null,
                 "Th": "ลิงค์เพิ่มเติม",
                 "Tw": null,
@@ -6398,7 +6401,7 @@
             },
             "community_resources": {
                 "En": "Community Resources",
-                "Jp": null,
+                "Jp": "コミュニティリソース",
                 "Kr": null,
                 "Th": "แหล่งข้อมูลเพิ่มเติมของคอมมูนิตี้",
                 "Tw": null,
