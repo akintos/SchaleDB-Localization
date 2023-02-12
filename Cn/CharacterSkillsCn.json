@@ -10440,7 +10440,7 @@
         {
             "SkillId": 10035200,
             "NameCn": "古书专家",
-            "DescriptionCn": "令1名除自身外的我方单位<b:CostChange>降低50%\n(EX技能使用2次后失效)(向下取整)/\n<b:ATK>提升<?1>(持续46秒)",
+            "DescriptionCn": "令1名除自身外的我方单位<b:CostChange>降低50%\n(EX技能使用2次后失效)(向上取整)/\n<b:ATK>提升<?1>(持续46秒)",
             "ParametersCn": [
                 [
                     "10%",
@@ -14835,7 +14835,7 @@
         {
             "SkillId": 20022200,
             "NameCn": "给食部的年菜",
-            "DescriptionCn": "令1名我方单位<b:CostChange>降低50%\n(EX技能使用1次后失效)(向下取整)/\n<b:CriticalDamage>提升<?1>(持续35秒)",
+            "DescriptionCn": "令1名我方单位<b:CostChange>降低50%\n(EX技能使用1次后失效)(向上取整)/\n<b:CriticalDamage>提升<?1>(持续35秒)",
             "ParametersCn": [
                 [
                     "18.3%",
