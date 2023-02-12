@@ -1562,7 +1562,7 @@
             },
             "WeaponExpGrowthZ": {
                 "En": "Provides 1.5&times; EXP when used to enhance any type of weapon (except FT).",
-                "Jp": "すべて武器種の固有武器の強化時に獲得EXPが1.5倍になる。",
+                "Jp": "FTを除くすべて武器種の固有武器の強化時に獲得EXPが1.5倍になる。",
                 "Kr": "모든 유형의 무기를 강화할 때 경험치 1.5배 증가.",
                 "Tw": "用於強化任何類型武器時提供 1.5 倍經驗",
                 "Cn": "用于强化任意武器时均提供1.5倍经验",
@@ -6626,7 +6626,7 @@
             },
             "dmginfo_rate_of_fire_tooltip": {
                 "En": "Attack Duration: {0}\nAttack Delay: {1}",
-                "Jp": "発射時間：{0}\n発射間隔：{1}",
+                "Jp": "発射時間：{0}\n発射間時間：{1}",
                 "Kr": null,
                 "Th": "ระยะเวลาในการโจมตี: {0}\nดีเลย์ในการโจมตี: {1}",
                 "Tw": null,
@@ -6644,7 +6644,7 @@
             },
             "dmginfo_reload_time_tooltip": {
                 "En": "Reload Duration: {0}\nStart Delay: {1}\nEnd Delay: {2}",
-                "Jp": "リロード時間：{0}\nリロード前間隔：{1}\nリロード後間隔：{2}",
+                "Jp": "リロード時間：{0}\n発射開始時間：{1}\n発射終了時間：{2}",
                 "Kr": null,
                 "Th": "ระยะเวลารีโหลด: {0}\nดีเลย์ตอนเริ่ม: {1}\nดีเลย์ตอนจบ: {2}",
                 "Tw": null,
