@@ -2915,7 +2915,7 @@
         {
             "SkillId": 13010500,
             "NameCn": "快速心算",
-            "DescriptionCn": "进入掩体掩体掩护状态时，回复自身治愈力<?1>的生命值(冷却10秒)",
+            "DescriptionCn": "进入掩体掩护状态时，回复自身治愈力<?1>的生命值(冷却10秒)",
             "ParametersCn": [
                 [
                     "75%",
@@ -7818,7 +7818,7 @@
         },
         {
             "SkillId": 10025350,
-            "NameCn": "那样很危险+",
+            "NameCn": "那样很危险！+",
             "DescriptionCn": "每25秒对1名敌方单位造成攻击力<?1>的伤害(无视目标<?2>防御力)",
             "ParametersCn": [
                 [
@@ -14454,7 +14454,7 @@
         {
             "SkillId": 10056200,
             "NameCn": "祝福之音",
-            "DescriptionCn": "令自身周围圆形范围内除自身外的我方单位<b:CriticalDamage>提升<?1>(持续50秒)，并获得1个<s:Holiday>(<s:Holiday>至多持有15个)/\n令目标<b:EnhancePierceRate>加算<b:<s:Holiday>持有数x<?2>(持续50秒)",
+            "DescriptionCn": "令自身周围圆形范围内除自身外的我方单位<b:CriticalDamage>提升<?1>(持续50秒)，并获得1个<s:Holiday>(<s:Holiday>至多持有15个)/\n令目标<b:EnhancePierceRate>加算<s:Holiday>持有数x<?2>(持续50秒)",
             "ParametersCn": [
                 [
                     "27.2%",
