@@ -1065,151 +1065,121 @@
         {
             "Key": 990306261,
             "Force": true,
-            "NameEn": "Drill Terrain (Outdoor)",
             "DescriptionEn": "This drill will take place in <b>outdoor</b> terrain."
         },
         {
             "Key": 1329507091,
             "Force": true,
-            "NameEn": "Drill Terrain (Indoor)",
             "DescriptionEn": "This drill will take place in <b>indoor</b> terrain."
         },
         {
             "Key": 3938056289,
             "Force": true,
-            "NameEn": "Drill Terrain (Street)",
             "DescriptionEn": "This drill will take place in <b>street</b> terrain."
         },
         {
             "Key": 2060888564,
             "Force": true,
-            "NameEn": "Enemy Defense Type (Light Armor)",
-            "DescriptionEn": "Enemies' defense type will be <b class='ba-col-explosion'>Light Armor</b>."
-        },
-        {
-            "Key": 2060888564,
-            "Force": true,
-            "NameEn": "Enemy Defense Type (Light Armor)",
             "DescriptionEn": "Enemies' defense type will be <b class='ba-col-explosion'>Light Armor</b>."
         },
         {
             "Key": 2075498290,
             "Force": true,
-            "NameEn": "Enemy Defense Type (Heavy Armor)",
             "DescriptionEn": "Enemies' defense type will be <b class='ba-col-pierce'>Heavy Armor</b>."
         },
         {
             "Key": 2570956929,
             "Force": true,
-            "NameEn": "Enemy Defense Type (Special Armor)",
             "DescriptionEn": "Enemies' defense type will be <b class='ba-col-mystic'>Special Armor</b>."
         },
         {
             "Key": 983164925,
             "Force": true,
-            "NameEn": "Decreased Ally Attack Speed",
             "DescriptionEn": "All allies' <d:AttackSpeed> is decreased by 75%."
         },
         {
             "Key": 3257931121,
             "Force": true,
-            "NameEn": "Increased Enemy Evasion",
             "DescriptionEn": "All enemies' <b:Dodge> is increased by 1000%."
         },
         {
             "Key": 2503860611,
             "Force": true,
-            "NameEn": "Decreased Ally Defense",
             "DescriptionEn": "All allies' <d:DEF> is decreased by 90%."
         },
         {
             "Key": 3301214750,
             "Force": true,
-            "NameEn": "Enemies Explode on Defeat",
             "DescriptionEn": "When an enemy is defeated, they deal <b>100%</b> damage to allies in a circular area around them."
         },
         {
             "Key": 648270201,
             "Force": true,
-            "NameEn": "Decreased SR Ally Attack",
             "DescriptionEn": "Decreases <d:ATK> for all allies who use SR type weapons by 90%."
         },
         {
             "Key": 2856565282,
             "Force": true,
-            "NameEn": "Increased Enemy Accuracy",
             "DescriptionEn": "All enemies' <b:HIT> is increased by <b>1,500</b>."
         },
         {
             "Key": 1949095289,
             "Force": true,
-            "NameEn": "Increased Ally Critical Rate",
             "DescriptionEn": "All allies' <b:CriticalChance> is increased by <b>2,000</b>."
         },
         {
             "Key": 1428571194,
             "Force": true,
-            "NameEn": "Ally Cost Recovery Decreases after using EX Skills",
             "DescriptionEn": "Decreases all allies' <d:CostRegen> by <b>60</b> each time an ally uses their EX skill. Effect lasts until the end of battle."
         },
         {
             "Key": 3009801818,
             "Force": true,
-            "NameEn": "Decreased MT/AR Ally Attack",
             "DescriptionEn": "Decreases <d:ATK> for all allies who use MT or AR type weapons by 90%."
         },
         {
             "Key": 2490399639,
             "Force": true,
-            "NameEn": "Additional Damage when inflicting CC",
             "DescriptionEn": "Enemies have <b>100,000</b> increased <b:MAXHP>. Enemies receive an additional <b>120,000</b> damage whenever they are inflicted with a Crowd Control effect."
         },
         {
             "Key": 719379007,
             "Force": true,
-            "NameEn": "Scarecrow HP Damage over Time",
             "DescriptionEn": "The Scarecrow will receive damage equal to 2% of its Max HP every 1s."
         },
         {
             "Key": 773473613,
             "Force": true,
-            "NameEn": "All Roles Formation",
             "DescriptionEn": "If a unit contains at least one Support, Dealer, Tank, Healer and T.S. student, increases the <b:CostRegen> of all allies by <b>700</b>."
         },
         {
             "Key": 3091509634,
             "Force": true,
-            "NameEn": "The Elite Few",
             "DescriptionEn": "Increases all allies' <b:ATK> by 300%/150%/100%/50% and <b:CostRegen> by <b>3,500/2,450/1,400/1,050</b> if there are only <b>1/2/3/4</b> students in the unit."
         },
         {
             "Key": 3334829467,
             "Force": true,
-            "NameEn": "Enemy Continuous Healing",
             "DescriptionEn": "All enemies restore 1.5% of their Max HP every 1s."
         },
         {
             "Key": 3839125090,
             "Force": true,
-            "NameEn": "Enemy Incoming DMG Limit",
             "DescriptionEn": "All enemies have greatly decreased Max HP, but also have an <b:DamagedLimit> that reduces the damage received from ally attacks to a maximum of <b>1</b>."
         },
         {
             "Key": 89307624,
             "Force": true,
-            "NameEn": "AR/HG Additional Damage",
             "DescriptionEn": "Allies who use AR or HG type weapons will deal damage as an additional hit to enemies."
         },
         {
             "Key": 2045771535,
             "Force": true,
-            "NameEn": "Remove Ally Buffs",
             "DescriptionEn": "Buff effects on allies will be immediately removed as soon as they are applied. (Enhanced Skill effects, Special Students' Sub Skill effects and other buffs that cannot be normally removed are unaffected)"
         },
         {
             "Key": 1582447562,
             "Force": true,
-            "NameEn": "Increased Enemy Defense Piercing",
             "DescriptionEn": "All enemies' <b:Penetration> is increased by <b>2,000</b>."
         },
         {
@@ -1227,7 +1197,7 @@
         {
             "Key": 328739473,
             "Force": true,
-            "NameEn": "Decreases ATK when defeating enemies. Reduction is removed when healed.",
+            "NameEn": "ATK Decrease when enemies are defeated",
             "DescriptionEn": "Each time an ally defeats an enemy, their <d:ATK> decreases by 5% (effect stacks up to <b>50</b> times). Healing an ally will remove up to 5 stacks of this debuff from them."
         },
         {
@@ -1240,13 +1210,49 @@
             "Key": 3153525398,
             "Force": true,
             "NameEn": "Scarecrow State Change",
-            "DescriptionEn": "Every 20s, the Scarecrow will alternate between two states.\n<b>Debuffed State</b>: The Scarecrow has a <d:HealedLimit> that reduces HP restored to 1, and deals 10,000 damage to all allies each time it is healed.\n<b>Normal State</b>: The Scarecrow's HP will recover as normal when healed."
+            "DescriptionEn": "Every 10s, the Scarecrow will alternate between two states:\n<b>Debuffed State</b>: The Scarecrow has a <d:HealedLimit> that reduces HP restored by healing abilities to <b>1</b> and deals <b>10,000</b> damage (affected by DEF, can be evaded) to all allies each time it is healed.\n<b>Normal State</b>: The Scarecrow's HP will recover as normal when healed."
         },
         {
             "Key": 3902330525,
             "Force": true,
             "NameEn": "Enemies Create Burning Zone on Defeat",
             "DescriptionEn": "When an enemy is defeated, they create a circular zone that continuously deals <b>100%</b> damage to allies inside it every 1s for 20s."
-        }
+        },
+        {
+            "Key": 673863759,
+            "Force": true,
+            "NameEn": "The Select Few II",
+            "DescriptionEn": "Increases all allies' <b:MAXHP> and <b:CostRegen> if there are only <b>1/2/3/4</b> students in the unit."
+          },
+          {
+            "Key": 1356579409,
+            "Force": true,
+            "NameEn": "Increased Gehenna Students' ATK",
+            "DescriptionEn": "Increases the <b:ATK> of all Gehenna students."
+          },
+          {
+            "Key": 3258287232,
+            "Force": true,
+            "NameEn": "Decreased Tank HP",
+            "DescriptionEn": "All Tank students' <d:MAXHP> is decreased."
+          },
+          {
+            "Key": 4104132399,
+            "Force": true,
+            "NameEn": "Increased Enemy Attack, Reduced MOV SPD",
+            "DescriptionEn": "All enemies' <b:ATK> is increased but their <d:MoveSpeed> is decreased. Enemies are also immune to being knocked back or pulled in by skills."
+          },
+          {
+            "Key": 3239764743,
+            "Force": true,
+            "NameEn": "Increased Enemy Crit RES",
+            "DescriptionEn": "All enemies' <b:CriticalChanceResistPoint> is increased."
+          },
+          {
+            "Key": 1246791085,
+            "Force": true,
+            "NameEn": "Increased Burn, Chill, Poison & Cheer Fever Damage",
+            "DescriptionEn": "Increases the damage dealt by <d:Burn>, <d:Chill>, <d:Poison> and <d:Cheerleading>. All enemies have increased <b:MAXHP>."
+          }
     ]
 }

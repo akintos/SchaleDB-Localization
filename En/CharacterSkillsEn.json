@@ -8170,7 +8170,7 @@
         {
             "SkillId": 10061200,
             "NameEn": "Baptismal Seal",
-            "DescriptionEn": "Deals <?1> damage to one enemy and applies <d:ConcentratedTarget> to them for 30s. Also augments <s:SilverBullet> to deal <?2> damage as an additional hit for 30s.",
+            "DescriptionEn": "Deals <?1> damage to one enemy and applies <d:ConcentratedTarget> to them for 30s. Also augments <s:SilverBullet> to deal <?2> damage as an additional hit for 30s. (This damage can trigger additional damage from the Sub Skill)",
             "ParametersEn": [
                 [
                     "390%",
