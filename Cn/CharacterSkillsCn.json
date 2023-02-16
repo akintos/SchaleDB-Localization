@@ -15621,7 +15621,7 @@
         {
             "SkillId": 10061200,
             "NameCn": "洗礼之印",
-            "DescriptionCn": "对1名敌方单位造成攻击力<?1>的伤害/\n并施加<d:ConcentratedTarget>状态(持续30秒)/\n<s:SilverBullet>时，对目标造成攻击力<?2>的追加伤害(持续30秒)",
+            "DescriptionCn": "对1名敌方单位造成攻击力<?1>的伤害/\n并施加<d:ConcentratedTarget>状态(持续30秒)/\n<s:SilverBullet>时，对目标造成攻击力<?2>的追加伤害(持续30秒)\n(该追加伤害可触发子技能的追加伤害)",
             "ParametersCn": [
                 [
                     "390%",
