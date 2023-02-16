@@ -1973,8 +1973,8 @@
             "DescriptionTw": "當ATG全滿時使用技能\n對一個敵人射擊<b>五</b>次，每次射擊造成150%攻擊力的傷害，最終一擊造成300%攻擊力的傷害。每次射擊同時附加5秒<c:Stunned>效果。",
             "NameCn": "琉花占卜",
             "DescriptionCn": "ATG提升至100%时使用技能：\n对1名敌方单位造成<b>5</b>次攻击力150%的伤害并在最后造成1次攻击力300%的伤害，每次攻击均对目标施加<c:Stunned>状态(持续5秒)",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Bói hoa bí ẩn",
+            "DescriptionVi": "Gây 150% sát thương lên một kẻ địch <b>5</b> lần cộng lại với một phát cuối gây thêm 300% sát thương. Mỗi đòn đánh gây <c:Stunned> trong 5s."
         },
         {
             "Id": "WakamoSwimsuit01Ex02",
@@ -1987,8 +1987,8 @@
             "DescriptionTw": "當ATG全滿時使用技能\n對直線範圍內的敵人造成750%攻擊力的傷害",
             "NameCn": "爱慕之霰弹",
             "DescriptionCn": "ATG提升至100%时使用技能：\n对直线范围内的敌方单位造成攻击力750%的伤害",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Bắn trúng tâm",
+            "DescriptionVi": "Gây 750% sát thương lên tất cả kẻ địch trên một đường thẳng."
         },
         {
             "Id": "WakamoSwimsuit01Ex03",
@@ -2001,8 +2001,8 @@
             "DescriptionTw": "當ATG全滿時使用技能\n發射追擊最遠目標的導彈，在接觸時造成 750% 傷害。\n導彈可以被其他學生、召喚物或掩蔽物擋下。",
             "NameCn": "占有之榴弹",
             "DescriptionCn": "ATG提升至100%时使用技能：\n对距离自身最远的敌方单位发射导弹，爆炸时造成攻击力750%的伤害\n导弹可被其他学生、召唤物或掩体拦截",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Lựu pháo",
+            "DescriptionVi": "Phóng một tên lửa nhắm vào kẻ địch ở xa nhất và gây 750% sát thương khi va chạm. Tên lửa có thể bị chặn bởi các học sinh, vật cản hoặc khiên chắn."
         },
         {
             "Id": "WakamoSwimsuit01Ex05",
@@ -2015,8 +2015,8 @@
             "DescriptionTw": "每60秒自身獲得下列所有效果的一個等級（最高等級3）。\n在<b>1</b>/<b>2</b>/<b>3</b>等級時，\n<b:ATK>增加30%/60%/90%，\n<b:CriticalChance>增加35%/70%/105%，\nATG恢復速度增加15%/30%/80%，\n<d:DamagedRatio>增加10%/20%/50%。",
             "NameCn": "仅为你一人",
             "DescriptionCn": "每60秒赋予自身以下状态效果(至多3阶段)：\n<b:ATK>提升30%/60%/90%\n<b:CriticalChance>提升35%/70%/105%\n<d:DamagedRatio>提升10%/20%/50%\nATG增长速度提升15%/30%/80%",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Chỉ dành cho bạn thôi đấy",
+            "DescriptionVi": "Cứ sau 60s, nhận được một bậc hiệu ứng sau (tối đa 3 bậc):\nTăng 30%/60%/90% <b:ATK>, <b:CriticalChance> lên 35%/70%/105% và khả năng phục hồi ATG cũng tăng lên 15%/30%/80%, nhưng tăng <d:DamagedRatio> lên 10%/20%/50% theo từng bậc <b>1</b>/<b>2</b>/<b>3</b>."
         },
         {
             "Id": "WakamoSwimsuit01Passive01",
@@ -2029,8 +2029,8 @@
             "DescriptionTw": "被若藻的技能命中的目標會被額外疊加<s:SuddenDeath>。\n疊加到5個印記時，該目標將受到其最大體力 1000% 的傷害。",
             "NameCn": "……别来坏我好事！",
             "DescriptionCn": "被若藻EX技能命中的单位将被施加1层<s:SuddenDeath>状态\n叠加层数达到5后将对该目标造成其最大生命值1000%的伤害。",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Không ai có thể cản được tao",
+            "DescriptionVi": "Các kỹ năng EX của Wakamo đồng thời để lại <s:SuddenDeath> lên mục tiêu.\nNếu mục tiêu đạt đủ 5 vết, mục tiêu sẽ bị gây sát thương bằng 1000% HP tối đa của chúng."
         },
         {
             "Id": "WakamoHoverCraftEx01",
