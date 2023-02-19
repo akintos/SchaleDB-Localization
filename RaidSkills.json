@@ -42,7 +42,7 @@
             "DescriptionTh": "สร้างความเสียหาย 300% ของค่าโจมตีให้กับศัตรูทั้งหมด/\nลด<d:DEF> 50% (เป็นเวลา 30 วินาที)",
             "DescriptionTw": "對所有敵人造成攻擊力300%傷害/\n減少<d:DEF>50% (30秒內)",
             "NameCn": "净化风暴",
-            "DescriptionCn": "对所有敌方单位造成攻击力300%的伤害/\n并令其<d:DEF>减少50%(持续30秒)",
+            "DescriptionCn": "对所有敌方单位造成攻击力300%的伤害/\n<d:DEF>降低50%(持续30秒)",
             "NameVi": "Cơn bão thanh tẩy",
             "DescriptionVi": "Gây 300% sát thương lên tất cả kẻ địch và giảm 50% <d:DEF> của chúng xuống khoảng 30s."
         },
@@ -98,7 +98,7 @@
             ],
             "DescriptionTw": "召喚機械士兵。\n在士兵被召喚出的期間內，ATG會慢慢上升。",
             "NameCn": "此处响应王座之呼唤",
-            "DescriptionCn": "召唤机械士兵/<?1>\n机械士兵在场时，Chesed的ATG将缓慢提升，每波次机械士兵完全消灭后Chesed的ATG将归零/\n消灭Chesed在其前方召唤的机械士兵将增加Chesed的虚弱量表(每波次25%)/\n机械士兵被召唤20秒后将使用技能「自毁模式启动」，将<s:FormChange>变更为造成攻击力3000%的近距离圆形范围自爆攻击/\n歌利亚被消灭时，将产生EMP爆炸，对其周围圆形范围内的机械士兵施加<c:Paralysis>状态(持续3秒)",
+            "DescriptionCn": "召唤机械士兵/<?1>\n机械士兵在场时，Chesed的ATG将缓慢提升，每波次机械士兵完全消灭后Chesed的ATG将清零/\n消灭Chesed在其前方召唤的机械士兵将增加Chesed的虚弱量表(每波次25%)/\n机械士兵被召唤20秒后将使用技能「自毁模式启动」，将<s:FormChange>变更为造成攻击力3000%的近距离圆形范围自爆攻击/\n歌利亚被消灭时，将产生EMP爆炸，对其周围圆形范围内的机械士兵施加<c:Paralysis>状态(持续3秒)",
             "ParametersCn": [
                 [
                     "",
@@ -130,7 +130,7 @@
             "DescriptionTh": "เมื่อเชเซ็ดมี ATG เกินครึ่งจะเพิ่ม<b:AttackSpeed>และ<b:MoveSpeed>ให้แก่ทหารจักรกล 50% (เป็นเวลา 60 วินาที)",
             "DescriptionTw": "當ATG上升到一半以上時，我軍<b:AttackSpeed>、<b:MoveSpeed>增加50%(60秒內)",
             "NameCn": "目睹至高无上之权能",
-            "DescriptionCn": "当ATG提升至50%以上时，令我方单位<b:AttackSpeed>和<b:MoveSpeed>提升50%(持续60秒)",
+            "DescriptionCn": "ATG提升至50%以上时，令我方单位<b:AttackSpeed>和<b:MoveSpeed>提升50%(持续60秒)",
             "NameVi": "Hãy chứng kiến sức mạnh tối cao của ta",
             "DescriptionVi": "Khi thanh ATG của Chesed đạt nửa đoạn, tăng 50% <b:AttackSpeed> và <b:MoveSpeed> lên tất cả người máy còn lại trong 60s."
         },
@@ -142,7 +142,7 @@
             "DescriptionTh": "เมื่อเชเซ็ดมี ATG เต็มจะสร้างความเสียหาย 2000% ของค่าโจมตีให้กับศัตรูทั้งหมด",
             "DescriptionTw": "當ATG全滿時，對所有敵人造成攻擊力2000%傷害",
             "NameCn": "恩赐博爱王者之慈悲",
-            "DescriptionCn": "当ATG提升至100%时，对所有敌方单位造成攻击力2000%的伤害",
+            "DescriptionCn": "ATG提升至100%时，对所有敌方单位造成攻击力2000%的伤害",
             "NameVi": "Lòng thương xót của ngài",
             "DescriptionVi": "Khi thanh ATG đã đạt đủ, gây 2000% sát thương lên tất cả kẻ địch."
         },
@@ -255,7 +255,7 @@
                     "",
                     "",
                     "",
-                    "\n特殊炸弹命中将使敌方单位<d:MoveSpeed>降低80%(持续40秒)"
+                    "\n特殊炸弹命中将令敌方单位<d:MoveSpeed>降低80%(持续40秒)"
                 ]
             ],
             "NameVi": "Dun-Dun-Dun! (Shiro)",
@@ -375,7 +375,7 @@
             ],
             "DescriptionTw": "召喚可造成攻擊力<?1>傷害的炸彈。\n對掩蔽物造成攻擊力300%傷害後，如果掩蔽物沒被破壞會往反方向濺出。",
             "NameCn": "滚起来吧！(白)",
-            "DescriptionCn": "召唤滚球，对路径上的敌方单位造成攻击力<?1>的伤害\n对掩体造成攻击力300%的伤害，若掩体受到攻击后未损坏则将滚球弹回白，并填充<?3>虚弱量表<?2>",
+            "DescriptionCn": "召唤滚球，对路径上的敌方单位造成攻击力<?1>的伤害\n对掩体造成攻击力300%的伤害，掩体受到攻击后未损坏则将滚球弹回白，令其虚弱量表填充<?3><?2>",
             "ParametersCn": [
                 [
                     "600%",
@@ -391,7 +391,7 @@
                     "",
                     "",
                     "",
-                    "\n若命中<d:MoveSpeed>降低的敌方单位，对其造成<b>600,000</b>的追加伤害\n白被弹回的球击中时，<d:DamagedRatio>提升50%(持续40秒)"
+                    "\n命中<d:MoveSpeed>降低的敌方单位时，对其造成<b>600,000</b>的追加伤害\n白被弹回的球击中时，<d:DamagedRatio>提升50%(持续40秒)"
                 ],
                 [
                     "43,000",
@@ -527,7 +527,7 @@
             ],
             "DescriptionTw": "對敵人造成攻擊力<?1>傷害\nATG越高造成的傷害越猛烈。",
             "NameCn": "突进！！！(黑)",
-            "DescriptionCn": "召唤公园游乐设施，对直线范围内碰到的第1个敌方单位造成攻击力<?1>的伤害\n造成的伤害随ATG提升而提升<?2>",
+            "DescriptionCn": "召唤公园游乐设施，对直线范围内击中的第1名敌方单位造成攻击力<?1>的伤害\n造成的伤害随ATG提升而提升<?2>",
             "ParametersCn": [
                 [
                     "400%",
@@ -543,7 +543,7 @@
                     "",
                     "",
                     "",
-                    "\n若命中<d:MoveSpeed>降低的敌方单位，对其造成<b>600,000</b>的追加伤害\n黑被自己的攻击击中时，<d:DamagedRatio>提升50%(持续40秒)"
+                    "\n命中<d:MoveSpeed>降低的敌方单位时，对其造成<b>600,000</b>的追加伤害\n黑被自己的攻击击中时，<d:DamagedRatio>提升50%(持续40秒)"
                 ]
             ],
             "NameVi": "Tấn công! (Kuro)",
@@ -585,7 +585,7 @@
             "DescriptionTh": "สร้างความเสียหาย 100% ของค่าโจมตีให้กับศัตรู\nลด<d:MoveSpeed> 80% (เป็นเวลา 40 วินาที)",
             "DescriptionTw": null,
             "NameCn": "冷漠无情",
-            "DescriptionCn": "对敌方单位造成攻击力100%的伤害\n并使其<d:MoveSpeed>降低80%(持续40秒)",
+            "DescriptionCn": "对敌方单位造成攻击力100%的伤害\n<d:MoveSpeed>降低80%(持续40秒)",
             "NameVi": "Sự thờ ơ",
             "DescriptionVi": "Gây 100% sát thương lên kẻ địch và giảm 80% <d:MoveSpeed> của chúng trong 40s."
         },
@@ -611,7 +611,7 @@
             "DescriptionTh": "สร้างความเสียหาย 350% ของค่าโจมตีให้กับศัตรูในรัศมี\nHP% ของเป้าหมายยิ่งต่ำ ความเสียหายยิ่งเพิ่มขึ้น สูงสุด 50%",
             "DescriptionTw": "對圓形範圍內敵人造成攻擊力350%的傷害\n對象的體力%越低，傷害最多增加50%",
             "NameCn": "达马苏斯的呼唤",
-            "DescriptionCn": "对圆形范围内的敌方单位造成攻击力350%的伤害\n目标当前生命值越低，造成的伤害越高(至多提升50%)",
+            "DescriptionCn": "对圆形范围内的敌方单位造成攻击力350%的伤害\n目标当前生命值百分比越低，造成的伤害越高(至多提升50%)",
             "NameVi": "Lời mời của Damasus",
             "DescriptionVi": "Gây 350% sát thương lên kẻ địch trong khu vực hình tròn. Sát thương sẽ tăng lên tới 50% khi HP của mục tiêu thấp dần.\n\nDama<b>sus</b>"
         },
@@ -663,7 +663,7 @@
             ],
             "DescriptionTw": "賦予1名敵人<d:Hieronymus>，\n<d:Hieronymus>會造成攻擊力20%的持續傷害，10秒後爆炸， \n對圓形範圍內的敵人造成攻擊力325%的傷害後消失不見。\n受<d:Hieronymus>對象的體力為100%時，<d:Hieronymus>會立即消失。",
             "NameCn": "圣经武加大译本",
-            "DescriptionCn": "对1名敌方单位施加<d:Hieronymus>状态\n<d:Hieronymus>将对其造成攻击力20%的持续伤害\n若在10秒内未能解除该状态，则对目标周围圆形范围内的敌方单位造成攻击力325%的伤害\n被施加<d:Hieronymus>的目标生命值为100%或回复至100%时该状态将自动解除<?1>",
+            "DescriptionCn": "对1名敌方单位施加<d:Hieronymus>状态(持续10秒)\n<d:Hieronymus>将对其造成攻击力20%的持续伤害\n在10秒内未能解除该状态时，对该目标及其周围圆形范围内的敌方单位造成攻击力325%的伤害\n被施加<d:Hieronymus>的目标生命值为100%或回复至100%时该状态将自动解除<?1>",
             "ParametersCn": [
                 [
                     "",
@@ -671,7 +671,7 @@
                     "",
                     "",
                     "",
-                    "\n被施加<d:Hieronymus>的目标<b:HealEffectiveness>增加<b>3000</b>(持续10秒)"
+                    "\n被施加<d:Hieronymus>的目标<b:HealEffectiveness>提升<b>3000</b>(持续10秒)"
                 ]
             ],
             "NameVi": "Kinh thánh của Vulgate",
@@ -877,7 +877,7 @@
                 ]
             ],
             "NameCn": "神圣之光(圣遗物)",
-            "DescriptionCn": "圣遗物生命值为100%时使用技能\n技能结束后对自身造成最大生命值95%的伤害，<d:HealEffectiveness>降低50%(持续20秒)\n绿色圣遗物：圣杰罗斯的<d:DamagedRatio>增加55%(至多可叠加5次)<?1>",
+            "DescriptionCn": "圣遗物生命值为100%时使用技能\n技能结束后对自身造成自身最大生命值95%的伤害，<d:HealEffectiveness>降低50%(持续20秒)\n绿色圣遗物：希罗尼穆斯的<d:DamagedRatio>增加55%(至多可叠加5次)<?1>",
             "ParametersCn": [
                 [
                     "\n红色圣遗物: 打断希罗尼穆斯的EX技能\n成功打断后令我方学生<b:CostRegen>提升2500(持续1秒)(至多4人)",
@@ -911,7 +911,7 @@
             "DescriptionTh": "เมื่อ HP ของเรลิกเป็น 0% จะเปิดใช้งานสกิล\nเรลิกม่วง : เพิ่ม<b:ATK> ของฝ่ายเรา <b>25%</b>\nลด<d:HealEffectiveness> 7000\nลด<d:DEF>ของไฮโรนีมัสลง 1500\nเป้าหมายที่มี<d:Hieronymus> จะได้รับ<b:HealEffectiveness> เพิ่ม 4000 (เป็นเวลา 10 วินาที)\nเรลิกม่วงจะไม่ตกเป็นเป้าหมายของการโจมตีปกติและสกิลพื้นฐาน",
             "DescriptionTw": null,
             "NameCn": "不洁之光",
-            "DescriptionCn": "圣遗物生命值为0%时使用技能\n紫色圣遗物：当前编队内所有学生的<b:ATK>提升25%，<d:HealEffectiveness>降低7000\n希罗尼穆斯<d:DEF>降低1500\n当有学生被施加<d:Hieronymus>状态时，该学生<b:HealEffectiveness>提升4000(持续10秒)\n(紫色圣遗物不会成为普通攻击和普通技能的攻击目标)",
+            "DescriptionCn": "圣遗物生命值为0%时使用技能\n紫色圣遗物：当前编队内所有学生<b:ATK>提升25%，<d:HealEffectiveness>降低7000\n希罗尼穆斯<d:DEF>降低1500\n当有学生被施加<d:Hieronymus>状态时，该学生<b:HealEffectiveness>提升4000(持续10秒)\n(紫色圣遗物不会成为普通攻击和普通技能的攻击目标)",
             "NameVi": "Ánh sáng tà ác (Thánh vật)",
             "DescriptionVi": "Khi HP của thánh vật màu tím đạt 0%, tăng 25% <b:ATK> đối với tất cả học sinh thuộc Striker và Special nhưng giảm <d:HealEffectiveness> của tất cả học sinh xuống <b>7,000</b>. Đồng thời giảm <d:DEF> của Hieronymus xuống <b>1,500</b>.\nSau đó, đối với học sinh bị <d:Hieronymus> sẽ được tăng <b:HealEffectiveness> thêm <b>4,000</b> trong 10s.\nThánh vật màu tím không thể bị tấn công bởi các đòn tấn công thường hoặc kỹ năng cơ bản."
         },
@@ -947,7 +947,7 @@
             "DescriptionTh": "แขนซ้าย (กรีน): ลดค่า<b:DamagedRatio> 50%\nยกเลิกทันทีเมื่อโจมตีด้วยสกิล EX 10 ครั้ง",
             "DescriptionTw": "左手臂(綠色)：使受到的傷害量減少50%\n用Ex技能打擊10次時立即解除",
             "NameCn": "无限回转・极致锅盖盾牌",
-            "DescriptionCn": "左臂(绿)：<b:DamagedRatio>降低50%\n使用EX技能造成10次伤害后该状态解除",
+            "DescriptionCn": "左臂(绿)：<b:DamagedRatio>降低50%\n使用学生的EX技能对其造成10次伤害后该状态解除",
             "NameVi": "Vòng lặp vô tận - Lá chắn siêu cấp",
             "DescriptionVi": "<b>Tay trái (xanh)</b>: Giảm 50% <b:DamagedRatio>. Buff sẽ bị gỡ khỏi sau khi nhận 10 đòn đánh từ bất kỳ kỹ năng EX nào."
         },
@@ -959,7 +959,7 @@
             "DescriptionTh": "สร้างความเสียหาย 400% ของค่าโจมตีให้กับศัตรูทั้งหมด, หลบหลีกไม่ได้",
             "DescriptionTw": "對所有敵人造成攻擊力400%傷害，無法迴避",
             "NameCn": "无限回转・终极鲭鱼横斩",
-            "DescriptionCn": "对所有敌方单位造成攻击力400%的无法闪避的伤害",
+            "DescriptionCn": "对所有敌方单位造成攻击力400%的伤害(无法闪避)",
             "NameVi": "Vòng lặp vô tận - Nhát chém cá thu cuối cùng",
             "DescriptionVi": "Gây 400% sát thương cho tất cả kẻ địch. Đòn đánh này không thể bị chặn hoặc né."
         },
@@ -1057,7 +1057,7 @@
             ],
             "DescriptionTw": "每20秒依序啟動右手臂(粉紅色)、胸部(紅色)、左手臂(綠色)。\n右手臂(粉紅色)：攻擊力增加50%\n胸部(紅色)：用Ex技能攻擊時，使對象昏厥(5秒內)\n左手臂(綠色)：防禦力增加1000\n啟動部位時，如受到一定以上的傷害，該部位將會被破壞，且無法再次啟動。\n無法使用被破壞部位的技能。",
             "NameCn": "无限回转的火热之心",
-            "DescriptionCn": "KAITEN FX Mk.0每20秒以右臂(粉)、胸部(红)、左臂(绿)的顺序依次启用躯体部件\n右臂(粉红)：<b:ATK>提升50%\n胸部(红)：使用EX技能进行攻击时，对目标施加<c:Stunned>状态(持续5秒)\n左臂(绿)：<b:DEF>提升1000<?1>\n躯体部件启用期间受到超过<?2>的伤害则将破坏该部件，并填满自身的虚弱量表\n被破坏的部件本场战斗无法再启用，且无法使用与其相关的EX技能",
+            "DescriptionCn": "KAITEN FX Mk.0每20秒以右臂(粉)、胸部(红)、左臂(绿)的顺序依次启用躯体部件\n右臂(粉)：<b:ATK>提升50%\n胸部(红)：使用EX技能攻击时，对目标施加<c:Stunned>状态(持续5秒)\n左臂(绿)：<b:DEF>提升1000<?1>\n躯体部件启用期间受到超过<?2>的伤害则将破坏该部件，并填满自身的虚弱量表\n被破坏的部件本场战斗无法再启用，且无法再使用与其相关的EX技能",
             "ParametersCn": [
                 [
                     "",
@@ -1110,7 +1110,7 @@
             "NameTw": "迴轉之力！",
             "DescriptionTw": null,
             "NameCn": "回转态势！",
-            "DescriptionCn": "凯坦泽将周期性使用其各自的EX技能：\n<b>热血之红！</b>：对自身周围圆形范围内的敌方单位施加<c:Provoke>状态(持续10秒)\n<b>冷彻之黑！</b>：对1名敌方单位造成攻击力300%的伤害\n并使其<d:DamagedRatio>提升50%(持续5秒)\n<b>加班之绿……</b>：对扇形范围内的敌方单位造成攻击力350%的伤害\n<b>勇敢之黄！</b>：对1名敌方单位造成攻击力500%的伤害\n<b>纯真之粉！</b>：令圆形范围内的我方单位<b:ATK>提升6%(持续15秒)",
+            "DescriptionCn": "凯坦泽们将周期性使用其各自的EX技能：\n<b>热血之红！</b>：对自身周围圆形范围内的敌方单位施加<c:Provoke>状态(持续10秒)\n<b>冷彻之黑！</b>：对1名敌方单位造成攻击力300%的伤害\n<d:DamagedRatio>提升50%(持续5秒)\n<b>加班之绿……</b>：对扇形范围内的敌方单位造成攻击力350%的伤害\n<b>勇敢之黄！</b>：对1名敌方单位造成攻击力500%的伤害\n<b>纯真之粉！</b>：令圆形范围内的我方单位<b:ATK>提升6%(持续15秒)",
             "NameVi": "Tư thế Kaiten!",
             "DescriptionVi": "Mỗi Kaitenger sẽ thông thường kích hoạt kỹ năng EX bản thân của chúng:\n<b>Đỏ cuồng nhiệt!</b>: Gây hiệu ứng <c:Provoke> lên tất cả kẻ địch ở gần trong 10s.\n<b>Đen sắc sảo!</b>: Gây <b>300%</b> sát thương lên một kẻ địch và tăng <b>50%</b> <d:DamagedRatio> của chúng trong 5s.\n<b>Wasabi xanh lè</b>: Gây <b>350%</b> sát thương cho kẻ địch trong khu vực hình quạt.\n<b>Vàng phong cách!</b>: Gây <b>500%</b> sát thương lên một kẻ địch.\n<b>Con tim hồng trong sáng!</b>: Tăng <b>6%</b> <b:ATK> của tất cả đồng minh xung quanh trong 15s."
         },
@@ -1162,7 +1162,7 @@
             ],
             "DescriptionTw": "對1名敵人造成等同90%攻擊力的持續傷害（10秒內）\n<d:DEF>減少9999（60秒內）",
             "NameCn": "白热眼光",
-            "DescriptionCn": "对1名敌方单位造成攻击90%的持续伤害(持续10秒)/\n并使其<d:DEF>降低9999(持续60秒)",
+            "DescriptionCn": "对1名敌方单位造成攻击90%的持续伤害(持续10秒)/\n<d:DEF>降低9999(持续60秒)",
             "ParametersCn": [
                 [
                     "",
@@ -1346,7 +1346,7 @@
             ],
             "DescriptionTw": "格羅基量表的進度與倒地的巨大佩洛洛士兵數量成正比",
             "NameCn": "佩洛洛吸收",
-            "DescriptionCn": "吸收所有佩洛洛，并填充50%的ATG\n每个倒地的佩洛洛被吸收后将填充佩洛洛基拉<?1>的虚弱量表\n佩洛洛基拉的虚弱量表填满后将吐出5只防御力更低的小型佩洛洛，小型佩洛洛拥有<s:Immortal>状态且同样能将受到的伤害以100%的倍率同样作用于佩洛洛基拉",
+            "DescriptionCn": "吸收所有佩洛洛，并填充50%的ATG\n每个倒地的佩洛洛被吸收后将令佩洛洛基拉的虚弱量表填充<?1>\n佩洛洛基拉的虚弱量表填满后将吐出5只防御力更低的小型佩洛洛，小型佩洛洛拥有<s:Immortal>状态且同样能将受到的伤害以100%的倍率同样作用于佩洛洛基拉",
             "ParametersCn": [
                 [
                     "<b>1/7</b>",
@@ -1534,7 +1534,7 @@
             "DescriptionTh": "สร้างความเสียหาย 150% ของค่าโจมตีให้กับศัตรูทั้งหมด\nเมื่อ HP ของ Hod ต่ำกว่า 50% จะสร้างความเสียหาย 300% ของค่าโจมตีให้กับศัตรูทั้งหมดและทำลายป้อมปืนคุ้มกันทั้งหมด",
             "DescriptionTw": null,
             "NameCn": "能量过载",
-            "DescriptionCn": "对全体敌方单位造成攻击力150%的伤害\n若Hod的生命值低于50%，则对全体敌方单位造成攻击力300%的伤害并摧毁所有炮台",
+            "DescriptionCn": "对全体敌方单位造成攻击力150%的伤害\nHod的生命值低于50%时，对全体敌方单位造成攻击力300%的伤害并摧毁所有炮台",
             "NameVi": "Năng lượng quá tải",
             "DescriptionVi": "Gây 150% sát thương lên tất cả kẻ địch. Nếu HP của HP thấp hơn 50%, gây 300% sát thương và phá huỷ toàn bộ tháp phòng thủ."
         },
@@ -1548,7 +1548,7 @@
             "DescriptionTh": "สร้างความเสียหาย 740% ของค่าโจมตีให้กับศัตรู\nเพิ่ม<b:ATK>ของ Hod 50% ทุกครั้งที่ใช้สกิลแสงแห่งเกียรติยศ (ซ้อนทับสูงสุด 99 ครั้ง)",
             "DescriptionTw": null,
             "NameCn": "荣耀光辉",
-            "DescriptionCn": "对所有敌方单位造成攻击力740%的伤害，并令自身<b:ATK>增加50%(持续至本场战斗结束)(至多可叠加99层)",
+            "DescriptionCn": "对所有敌方单位造成攻击力740%的伤害/\n<b:ATK>增加50%(持续至本场战斗结束)(至多叠加99层)",
             "NameVi": "Ánh sáng vinh quang",
             "DescriptionVi": "Gây 740% sát thương lên tất cả kẻ địch và tăng 50% <b:ATK> của Hod cho đến khi kết thúc màn chơi. Hiệu ứng có thể cộng dồn tối đa 99 lần."
         },
@@ -1634,7 +1634,7 @@
             ],
             "DescriptionTw": null,
             "NameCn": "荣耀之耻",
-            "DescriptionCn": "Hod和侵蚀之柱免疫群控状态，但对其造成的群控持续时间将等量累计至其群控量表<?2>\n群控量表累计满<?1>后，造成以下效果\nHod：<d:DamagedRatio>提升300%(持续30秒)，虚弱量表填充25%，ATG降低50%\n侵蚀之柱：<d:DamagedRatio>增加300%(持续30秒)，侵蚀范围降低1级",
+            "DescriptionCn": "Hod和侵蚀之柱免疫群控状态，但对其造成的群控持续时间将等量累计至其群控量表<?2>\n群控量表累计满<?1>后，造成以下效果\nHod：<d:DamagedRatio>提升300%(持续30秒)，虚弱量表填充25%，ATG降低50%\n侵蚀之柱：<d:DamagedRatio>提升300%(持续30秒)，侵蚀范围降低1级",
             "ParametersCn": [
                 [
                     "6秒",
@@ -1684,7 +1684,7 @@
             "DescriptionTh": "Hod และเสากัดกร่อนจะมีค่าต้านทานคริเพิ่ม 400%\nเสากัดกร่อนจะไม่ได้รับผลจากเอฟเฟกต์<d:ConcentratedTarget>",
             "DescriptionTw": null,
             "NameCn": "荣光之影",
-            "DescriptionCn": "Hod和侵蚀之柱基础的暴击抵抗率提升400%(提升至500)\n侵蚀之柱对<d:ConcentratedTarget>状态免疫",
+            "DescriptionCn": "Hod和侵蚀之柱的基础暴击抵抗率提升400%(提升至500)\n侵蚀之柱对<d:ConcentratedTarget>状态免疫",
             "NameVi": "Cái bóng của danh dự",
             "DescriptionVi": "Hod và tất cả tháp truyền tải được triệu hồi đều tăng 400% kháng chí mạng.\nTháp truyền tải cũng miễn nhiễm với hiệu ứng <d:ConcentratedTarget>."
         },
@@ -1737,7 +1737,7 @@
             ],
             "DescriptionTw": null,
             "NameCn": "Now You See Us",
-            "DescriptionCn": "戈兹短暂消失，解除自身拥有的所有减益效果\n随后制造与自身能力相同的<b>2</b>个分身共同登场<?1>",
+            "DescriptionCn": "戈兹短暂消失，解除自身拥有的所有减益状态\n随后制造与自身能力相同的<b>2</b>个分身共同登场<?1>",
             "ParametersCn": [
                 [
                     "(分身的攻击力为0)",
@@ -1785,7 +1785,7 @@
             "DescriptionTh": "Goz ทำการวางเหรียญและระเบิดไว้ก่อนที่จะครอบด้วยหมวกแล้วทำการสับเปลี่ยนตำแหน่งของหมวก/\nหลังจากนั้น ศัตรูที่อยู่ในแนวเส้นตรงเดียวกับหมวกที่มีระเบิดจะถูกผลักกระเด็นออกไป, <c:Stunned> (เป็นเวลา 5 วินาที) และได้รับความเสียหาย 800% ของค่าโจมตีของ Goz",
             "DescriptionTw": null,
             "NameCn": "帽子戏法",
-            "DescriptionCn": "生成3个帽子，其中1个帽子未藏有硬币，随后打乱顺序/\n对未藏有硬币帽子所处的直线范围内的敌方单位造成攻击力800%的伤害，并施加c:Stunned>状态(持续5秒)",
+            "DescriptionCn": "生成3个帽子，其中1个帽子未藏有硬币，随后打乱顺序/\n对未藏有硬币帽子所处的直线范围内的敌方单位造成攻击力800%的伤害，并施加<c:Stunned>状态(持续5秒)",
             "NameVi": "Mũ đồng tiền ảo ma",
             "DescriptionVi": "Goz xáo trộn ba chiếc mũ có giấu đồng xu bên trong hai chiếc. Sau khi mũ bị xáo trộn, kẻ địch đứng trên đường thẳng tính từ mũ không có đồng xu sẽ nhận 800% sát thương, bị đẩy lùi bị <c:Stunned> trong 5s."
         },
@@ -2028,7 +2028,7 @@
             "DescriptionTh": "สกิลของวาคาโมะจะมอบเอฟเฟค<s:SuddenDeath>ให้กับเป้าหมาย\nหากเป้าหมายมี<s:SuddenDeath>สะสมครบ 5 ขั้น เป้าหมายจะได้รับความเสียหาย 1000% ของ HP สูงสุดของเป้าหมาย",
             "DescriptionTw": "被若藻的技能命中的目標會被額外疊加<s:SuddenDeath>。\n疊加到5個印記時，該目標將受到其最大體力 1000% 的傷害。",
             "NameCn": "……别来坏我好事！",
-            "DescriptionCn": "被若藻EX技能命中的单位将被施加1层<s:SuddenDeath>状态\n叠加层数达到5后将对该目标造成其最大生命值1000%的伤害。",
+            "DescriptionCn": "被若藻EX技能命中的单位将被施加1层<s:SuddenDeath>状态\n叠加层数达到5时对该目标造成其最大生命值1000%的伤害。",
             "NameVi": "Không ai có thể cản được tao",
             "DescriptionVi": "Các kỹ năng EX của Wakamo đồng thời để lại <s:SuddenDeath> lên mục tiêu.\nNếu mục tiêu đạt đủ 5 vết, mục tiêu sẽ bị gây sát thương bằng 1000% HP tối đa của chúng."
         },
@@ -2084,7 +2084,7 @@
             "DescriptionTh": "สร้างความเสียหาย 450% ของค่าโจมตีให้กับศัตรูในรัศมี\nหากมิสไซล์ถูกทำลาย, เพิ่ม<b:ATK> 400 ให้แก่ศัตรูทั้งหมด",
             "DescriptionTw": "對圓形範圍內的敵人造成攻擊力450%的傷害。\n導彈被摧毀時，全體學生<b:ATK>提升<b>400</b>",
             "NameCn": "安瓿导弹",
-            "DescriptionCn": "对圆形范围内的敌方单位造成该导弹攻击力450%的伤害\n若该导弹被摧毁，编队内所有学生<b:ATK>提升<b>400</b>",
+            "DescriptionCn": "对圆形范围内的敌方单位造成该导弹攻击力450%的伤害\n该导弹被摧毁时，编队内所有学生<b:ATK>提升<b>400</b>",
             "NameVi": null,
             "DescriptionVi": null
         },
@@ -2098,7 +2098,7 @@
             "DescriptionTh": "สร้างความเสียหาย 450% ของค่าโจมตีให้กับศัตรูในรัศมี\nหากมิสไซล์ถูกทำลาย, สร้างความเสียหาย <b>999,999</b> ให้กับมิสไซล์อื่นทั้งหมดในรัศมี",
             "DescriptionTw": "對圓形範圍內敵人造成450%的傷害。如果飛彈被摧毀，對圓形範圍內其它飛彈造成<b>999,999</b>傷害",
             "NameCn": "烈鲨导弹",
-            "DescriptionCn": "对圆形范围内的敌方单位造成该导弹攻击力450%的伤害\n若该导弹被摧毁，对其周围圆形范围内的其它导弹造成<b>999,999</b>伤害",
+            "DescriptionCn": "对圆形范围内的敌方单位造成该导弹攻击力450%的伤害\n该导弹被摧毁时，对其周围圆形范围内的其它导弹造成<b>999,999</b>的伤害",
             "NameVi": null,
             "DescriptionVi": null
         },
@@ -2112,7 +2112,7 @@
             "DescriptionTh": "สร้างความเสียหาย 1000% ของค่าโจมตีให้กับศัตรูในรัศมี\nหากมิสไซล์ถูกทำลาย, สร้างความเสียหาย 400% ของค่าโจมตีให้กับมิสไซล์อื่นทั้งหมดในรัศมี",
             "DescriptionTw": "對圓形範圍內敵人造成1000%的傷害。導彈被摧毀時，對圓形範圍內其它導彈造成400%傷害",
             "NameCn": "焦黑导弹",
-            "DescriptionCn": "对圆形范围内的敌方单位造成该导弹攻击力1000%的伤害\n若该导弹被摧毁，对其周围圆形范围内的其它导弹造成其攻击力400%的伤害",
+            "DescriptionCn": "对圆形范围内的敌方单位造成该导弹攻击力1000%的伤害\n该导弹被摧毁时，对其周围圆形范围内的其它导弹造成攻击力400%的伤害",
             "NameVi": null,
             "DescriptionVi": null
         },
@@ -2126,7 +2126,7 @@
             "DescriptionTh": "สร้างความเสียหาย 450% ของค่าโจมตีให้กับศัตรูในรัศมี\nหากมิสไซล์ถูกทำลาย, สร้างความเสียหาย 400% ของค่าโจมตีให้กับมิสไซล์อื่นทั้งหมดในรัศมี",
             "DescriptionTw": "對圓形範圍內敵人造成450%的傷害。如果飛彈被摧毀，對圓形範圍內其它飛彈造成400%傷害",
             "NameCn": "钢盔团自制导弹",
-            "DescriptionCn": "对圆形范围内的敌方单位造成攻击力450%的伤害\n若该导弹被摧毁，对其周围圆形范围内的其它导弹造成其攻击力400%的伤害",
+            "DescriptionCn": "对圆形范围内的敌方单位造成该导弹攻击力450%的伤害\n该导弹被摧毁时，对其周围圆形范围内的其它导弹造成攻击力400%的伤害",
             "NameVi": null,
             "DescriptionVi": null
         }
