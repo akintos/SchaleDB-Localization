@@ -2,12 +2,12 @@
     "DataList": [
         {
             "Key": 794489241,
-            "Cn": "青叶中央区35番地",
+            "Cn": "青叶中心区35番街",
             "Comment": "Campaign 1-1 Normal"
         },
         {
             "Key": 1991864105,
-            "Cn": "D.U 西部公园",
+            "Cn": "D.U.西部公园",
             "Comment": "Campaign 1-2 Normal"
         },
         {
@@ -17,22 +17,22 @@
         },
         {
             "Key": 3270798800,
-            "Cn": "中央区1番地",
+            "Cn": "中央区1番街",
             "Comment": "Campaign 1-4 Normal"
         },
         {
             "Key": 1632293571,
-            "Cn": "D.U 577区",
+            "Cn": "D.U.577区域",
             "Comment": "Campaign 1-5 Normal"
         },
         {
             "Key": 1130405177,
-            "Cn": "青叶中央区99番地",
+            "Cn": "青叶中心区99番街",
             "Comment": "Campaign 1-1 Hard"
         },
         {
             "Key": 1784475044,
-            "Cn": "D.U 西部公园中心部",
+            "Cn": "D.U.西部公园中心",
             "Comment": "Campaign 1-2 Hard"
         },
         {
@@ -47,7 +47,7 @@
         },
         {
             "Key": 23055234,
-            "Cn": "北区3街",
+            "Cn": "北区3丁目",
             "Comment": "Campaign 2-2 Normal"
         },
         {
@@ -62,12 +62,12 @@
         },
         {
             "Key": 1305471715,
-            "Cn": "第7商业区1区",
+            "Cn": "第7商业区第1区域",
             "Comment": "Campaign 2-5 Normal"
         },
         {
             "Key": 1478717633,
-            "Cn": "双叶公园运动中心",
+            "Cn": "双叶公园体育中心",
             "Comment": "Campaign 2-1 Hard"
         },
         {
@@ -77,7 +77,7 @@
         },
         {
             "Key": 3509622984,
-            "Cn": "北区5街",
+            "Cn": "北区5丁目",
             "Comment": "Campaign 2-3 Hard"
         },
         {
@@ -92,7 +92,7 @@
         },
         {
             "Key": 4001659371,
-            "Cn": "KV高速公路7区",
+            "Cn": "KV公路第7区域",
             "Comment": "Campaign 3-3 Normal"
         },
         {
@@ -102,12 +102,12 @@
         },
         {
             "Key": 784618207,
-            "Cn": "第3主干道 3-51",
+            "Cn": "第三主干道 3-51",
             "Comment": "Campaign 3-5 Normal"
         },
         {
             "Key": 4132343069,
-            "Cn": "黑市中心部",
+            "Cn": "黑市中心",
             "Comment": "Campaign 3-1 Hard"
         },
         {
@@ -117,57 +117,57 @@
         },
         {
             "Key": 74103948,
-            "Cn": "KV高速公路9区",
+            "Cn": "KV公路第9区域",
             "Comment": "Campaign 3-3 Hard"
         },
         {
             "Key": 1407917469,
-            "Cn": "北区玉川河",
+            "Cn": "北区多磨河",
             "Comment": "Campaign 4-1 Normal"
         },
         {
             "Key": 3158313891,
-            "Cn": "南区玉川河",
+            "Cn": "南区西河",
             "Comment": "Campaign 4-2 Normal"
         },
         {
             "Key": 2489606638,
-            "Cn": "阿比多斯本町3番街",
+            "Cn": "阿拜多斯本町3番街",
             "Comment": "Campaign 4-3 Normal"
         },
         {
             "Key": 1395387825,
-            "Cn": "须直町2街",
+            "Cn": "砂尾町2丁目",
             "Comment": "Campaign 4-4 Normal"
         },
         {
             "Key": 1460115131,
-            "Cn": "须直町3街",
+            "Cn": "砂尾町3丁目",
             "Comment": "Campaign 4-5 Normal"
         },
         {
             "Key": 159708508,
-            "Cn": "玉川北部绿地",
+            "Cn": "多磨河北部绿化带",
             "Comment": "Campaign 4-1 Hard"
         },
         {
             "Key": 450413952,
-            "Cn": "阿比多斯本町1番街",
+            "Cn": "阿拜多斯本町1番街",
             "Comment": "Campaign 4-2 Hard"
         },
         {
             "Key": 846561222,
-            "Cn": "须直町5街",
+            "Cn": "砂尾町5街",
             "Comment": "Campaign 4-3 Hard"
         },
         {
             "Key": 2923297898,
-            "Cn": "阿比多斯干线城森站",
+            "Cn": "阿拜多斯干线 城森站",
             "Comment": "Campaign 5-1 Normal"
         },
         {
             "Key": 622810610,
-            "Cn": "阿比多斯干线四叶站",
+            "Cn": "阿拜多斯干线 四叶站",
             "Comment": "Campaign 5-2 Normal"
         },
         {
@@ -177,7 +177,7 @@
         },
         {
             "Key": 1837730964,
-            "Cn": "凯萨PMC驻屯地",
+            "Cn": "凯撒PMC驻地",
             "Comment": "Campaign 5-4 Normal"
         },
         {
@@ -187,12 +187,12 @@
         },
         {
             "Key": 1662660120,
-            "Cn": "东区蜃气楼站",
+            "Cn": "东区新木吕尾站",
             "Comment": "Campaign 5-1 Hard"
         },
         {
             "Key": 3341944519,
-            "Cn": "东部遗迹地带中心部",
+            "Cn": "东部遗迹中心",
             "Comment": "Campaign 5-2 Hard"
         },
         {
@@ -202,47 +202,47 @@
         },
         {
             "Key": 3033255769,
-            "Cn": "北山区2街",
+            "Cn": "北山区2丁目",
             "Comment": "Campaign 6-1 Normal"
         },
         {
             "Key": 503630957,
-            "Cn": "钵山山脊地段",
+            "Cn": "八山山脊线地段",
             "Comment": "Campaign 6-2 Normal"
         },
         {
             "Key": 1450332744,
-            "Cn": "纪州山樱花坡",
+            "Cn": "纪州山樱花山口",
             "Comment": "Campaign 6-3 Normal"
         },
         {
             "Key": 2747153722,
-            "Cn": "纪州山铃兰坡",
+            "Cn": "纪州山铃兰山口",
             "Comment": "Campaign 6-4 Normal"
         },
         {
             "Key": 1715296426,
-            "Cn": "秋田山山谷地带",
+            "Cn": "秋田山山谷",
             "Comment": "Campaign 6-5 Normal"
         },
         {
             "Key": 1376955400,
-            "Cn": "北山区中心部",
+            "Cn": "北山区中心",
             "Comment": "Campaign 6-1 Hard"
         },
         {
             "Key": 3082115387,
-            "Cn": "钵山外围亲山步道",
+            "Cn": "八山外围登山道",
             "Comment": "Campaign 6-2 Hard"
         },
         {
             "Key": 3798034663,
-            "Cn": "纪州山外围亲山步道",
+            "Cn": "纪州山外围登山道",
             "Comment": "Campaign 6-3 Hard"
         },
         {
             "Key": 1713484163,
-            "Cn": "南区第2公立学园",
+            "Cn": "南区第二公立高中",
             "Comment": "Campaign 7-1 Normal"
         },
         {
@@ -257,12 +257,12 @@
         },
         {
             "Key": 511621872,
-            "Cn": "中央区政厅站",
+            "Cn": "中心政厅站",
             "Comment": "Campaign 7-4 Normal"
         },
         {
             "Key": 3022880468,
-            "Cn": "湖滨公园站",
+            "Cn": "湖水公园站",
             "Comment": "Campaign 7-5 Normal"
         },
         {
@@ -272,57 +272,57 @@
         },
         {
             "Key": 625765961,
-            "Cn": "库洛亚奇站 (封锁)",
+            "Cn": "黑柳站 (已封锁)",
             "Comment": "Campaign 7-2 Hard"
         },
         {
             "Key": 1610063724,
-            "Cn": "库洛尤纳站 (封锁)",
+            "Cn": "黑凪站 (已封锁)",
             "Comment": "Campaign 7-3 Hard"
         },
         {
             "Key": 941267244,
-            "Cn": "铃木五金厂",
+            "Cn": "铃木金属工厂",
             "Comment": "Campaign 8-1 Normal"
         },
         {
             "Key": 2080530925,
-            "Cn": "凯萨PMC军需工厂",
+            "Cn": "凯撒PMC军需工厂",
             "Comment": "Campaign 8-2 Normal"
         },
         {
             "Key": 2117740726,
-            "Cn": "北区第3雨水管道",
+            "Cn": "北区第3管路",
             "Comment": "Campaign 8-3 Normal"
         },
         {
             "Key": 742579596,
-            "Cn": "东区第1雨水管道",
+            "Cn": "东区第1管路",
             "Comment": "Campaign 8-4 Normal"
         },
         {
             "Key": 246220569,
-            "Cn": "东区第7雨水管道",
+            "Cn": "东区第7管路",
             "Comment": "Campaign 8-5 Normal"
         },
         {
             "Key": 2418323041,
-            "Cn": "千年自治区内废弃工厂",
+            "Cn": "千年自治区废弃工厂",
             "Comment": "Campaign 8-1 Hard"
         },
         {
             "Key": 1170326184,
-            "Cn": "中央区第4下水管道",
+            "Cn": "中心区第4下水道",
             "Comment": "Campaign 8-2 Hard"
         },
         {
             "Key": 2606632166,
-            "Cn": "中央区第7下水管道",
+            "Cn": "中心区第7下水道",
             "Comment": "Campaign 8-3 Hard"
         },
         {
             "Key": 446341281,
-            "Cn": "亚梅塔科市场",
+            "Cn": "雨蛸市场",
             "Comment": "Campaign 9-1 Normal"
         },
         {
@@ -332,22 +332,22 @@
         },
         {
             "Key": 676555661,
-            "Cn": "克乌萨奇公园",
+            "Cn": "小兔子公园",
             "Comment": "Campaign 9-3 Normal"
         },
         {
             "Key": 54883984,
-            "Cn": "沙迦纳弥公园",
+            "Cn": "细波公园",
             "Comment": "Campaign 9-4 Normal"
         },
         {
             "Key": 3159750387,
-            "Cn": "思莫莫公园",
+            "Cn": "李子公园",
             "Comment": "Campaign 9-5 Normal"
         },
         {
             "Key": 3278265120,
-            "Cn": "亚梅塔科市场中心部",
+            "Cn": "雨蛸市场中心",
             "Comment": "Campaign 9-1 Hard"
         },
         {
@@ -357,57 +357,57 @@
         },
         {
             "Key": 1018147499,
-            "Cn": "北体育公园",
+            "Cn": "北区体育公园",
             "Comment": "Campaign 9-3 Hard"
         },
         {
             "Key": 3588820477,
-            "Cn": "卢加库町1街",
+            "Cn": "能乐町1丁目",
             "Comment": "Campaign 10-1 Normal"
         },
         {
             "Key": 1833424181,
-            "Cn": "甲类封锁区3番地",
+            "Cn": "甲封锁区3番地",
             "Comment": "Campaign 10-2 Normal"
         },
         {
             "Key": 3537502503,
-            "Cn": "乙类封锁区1番地",
+            "Cn": "乙封锁区1番地",
             "Comment": "Campaign 10-3 Normal"
         },
         {
             "Key": 1866078195,
-            "Cn": "丙类封锁区7番地",
+            "Cn": "丙封锁区7番地",
             "Comment": "Campaign 10-4 Normal"
         },
         {
             "Key": 3318701131,
-            "Cn": "丁类封锁区5番地",
+            "Cn": "丁封锁区5番地",
             "Comment": "Campaign 10-5 Normal"
         },
         {
             "Key": 1127026752,
-            "Cn": "甲类封锁区中心部",
+            "Cn": "甲封锁区中心",
             "Comment": "Campaign 10-1 Hard"
         },
         {
             "Key": 1720805074,
-            "Cn": "乙类封锁区中心部",
+            "Cn": "乙封锁区中心",
             "Comment": "Campaign 10-2 Hard"
         },
         {
             "Key": 2818824308,
-            "Cn": "丙类封锁区中心部",
+            "Cn": "丙封锁区中心",
             "Comment": "Campaign 10-3 Hard"
         },
         {
             "Key": 2476607508,
-            "Cn": "KV高速公路1区",
+            "Cn": "KV公路第1区域",
             "Comment": "Campaign 11-1 Normal"
         },
         {
             "Key": 517401930,
-            "Cn": "第11外环路",
+            "Cn": "第11环城公路",
             "Comment": "Campaign 11-2 Normal"
         },
         {
@@ -417,67 +417,67 @@
         },
         {
             "Key": 190517269,
-            "Cn": "第3商业区第1区",
+            "Cn": "第3商业区第1区域",
             "Comment": "Campaign 11-4 Normal"
         },
         {
             "Key": 482817710,
-            "Cn": "中央区3番地",
+            "Cn": "中心区3番地",
             "Comment": "Campaign 11-5 Normal"
         },
         {
             "Key": 2044094752,
-            "Cn": "KV高速公路5区",
+            "Cn": "KV公路第5区域",
             "Comment": "Campaign 11-1 Hard"
         },
         {
             "Key": 612801106,
-            "Cn": "第4商业区第4区",
+            "Cn": "第4商业区第4区域",
             "Comment": "Campaign 11-2 Hard"
         },
         {
             "Key": 3408396183,
-            "Cn": "中央区7番地",
+            "Cn": "中心区7番地",
             "Comment": "Campaign 11-3 Hard"
         },
         {
             "Key": 2354616273,
-            "Cn": "川南站",
+            "Cn": "川三波站",
             "Comment": "Campaign 12-1 Normal"
         },
         {
             "Key": 3293710045,
-            "Cn": "神森站",
+            "Cn": "上森站",
             "Comment": "Campaign 12-2 Normal"
         },
         {
             "Key": 2533375473,
-            "Cn": "中央区第6雨水管道",
+            "Cn": "中心区第6管路",
             "Comment": "Campaign 12-3 Normal"
         },
         {
             "Key": 2465926360,
-            "Cn": "川西站",
+            "Cn": "仁志川站",
             "Comment": "Campaign 12-4 Normal"
         },
         {
             "Key": 3414234287,
-            "Cn": "西区第2雨水管道",
+            "Cn": "西区第2管路",
             "Comment": "Campaign 12-5 Normal"
         },
         {
             "Key": 2212375273,
-            "Cn": "中央区第1下水管道",
+            "Cn": "中心区第1下水道",
             "Comment": "Campaign 12-1 Hard"
         },
         {
             "Key": 4246038586,
-            "Cn": "乌托邦公园站 (封锁)",
+            "Cn": "乌托邦公园站 (已封锁)",
             "Comment": "Campaign 12-2 Hard"
         },
         {
             "Key": 4138020660,
-            "Cn": "西区第1下水管道",
+            "Cn": "西区第1下水道",
             "Comment": "Campaign 12-3 Hard"
         },
         {
@@ -492,7 +492,7 @@
         },
         {
             "Key": 2702883549,
-            "Cn": "冒险区",
+            "Cn": "探险区",
             "Comment": "Campaign 13-3 Normal"
         },
         {
@@ -507,17 +507,17 @@
         },
         {
             "Key": 1195592893,
-            "Cn": "管理楼2区",
+            "Cn": "管理楼第2区域",
             "Comment": "Campaign 13-1 Hard"
         },
         {
             "Key": 731622909,
-            "Cn": "管理楼5区",
+            "Cn": "管理楼第5区域",
             "Comment": "Campaign 13-2 Hard"
         },
         {
             "Key": 214495349,
-            "Cn": "管理楼7区",
+            "Cn": "管理楼第7区域",
             "Comment": "Campaign 13-3 Hard"
         },
         {
@@ -527,37 +527,37 @@
         },
         {
             "Key": 941631469,
-            "Cn": "（旧）私立风信子学园",
+            "Cn": "旧私立风信子学园",
             "Comment": "Campaign 14-2 Normal"
         },
         {
             "Key": 4143110870,
-            "Cn": "利拿里雅学园 (封锁)",
+            "Cn": "柳穿鱼学园 (已封锁)",
             "Comment": "Campaign 14-3 Normal"
         },
         {
             "Key": 2081208121,
-            "Cn": "公立卢比纳斯学园旧址",
+            "Cn": "公立羽扇豆学园旧址",
             "Comment": "Campaign 14-4 Normal"
         },
         {
             "Key": 1330077962,
-            "Cn": "库罗优里学园 (封锁)",
+            "Cn": "黑百合学园 (已封锁)",
             "Comment": "Campaign 14-5 Normal"
         },
         {
             "Key": 2444075510,
-            "Cn": "银莲花学园实习馆",
+            "Cn": "银莲花学园实习馆旧址",
             "Comment": "Campaign 14-1 Hard"
         },
         {
             "Key": 197331732,
-            "Cn": "利拿里雅学园本馆",
+            "Cn": "柳穿鱼学园本馆旧址",
             "Comment": "Campaign 14-2 Hard"
         },
         {
             "Key": 2315578520,
-            "Cn": "公立卢比纳斯学园别馆",
+            "Cn": "公立羽扇豆学园别馆旧址",
             "Comment": "Campaign 14-3 Hard"
         },
         {
@@ -577,12 +577,12 @@
         },
         {
             "Key": 5537018,
-            "Cn": "白貂商店街",
+            "Cn": "菜粉蝶商店街",
             "Comment": "Campaign 15-4 Normal"
         },
         {
             "Key": 126780450,
-            "Cn": "大猫头鹰市场",
+            "Cn": "褐林鸮市场",
             "Comment": "Campaign 15-5 Normal"
         },
         {
@@ -592,7 +592,7 @@
         },
         {
             "Key": 2739873335,
-            "Cn": "黑貂商店街",
+            "Cn": "黑黄鼬商店街",
             "Comment": "Campaign 15-2 Hard"
         },
         {
@@ -602,22 +602,22 @@
         },
         {
             "Key": 3798034253,
-            "Cn": "北部遗迹地带",
+            "Cn": "遗迹地带北部",
             "Comment": "Campaign 16-1 Normal"
         },
         {
             "Key": 208398254,
-            "Cn": "西区干谷河",
+            "Cn": "干谷河西部地区",
             "Comment": "Campaign 16-2 Normal"
         },
         {
             "Key": 3148783108,
-            "Cn": "南部遗迹地带",
+            "Cn": "遗迹地带南部",
             "Comment": "Campaign 16-3 Normal"
         },
         {
             "Key": 1144505422,
-            "Cn": "中央区砂利川",
+            "Cn": "干谷河中心",
             "Comment": "Campaign 16-4 Normal"
         },
         {
@@ -627,112 +627,112 @@
         },
         {
             "Key": 57151051,
-            "Cn": "北部遗迹地带外围",
+            "Cn": "遗迹地带北部外围",
             "Comment": "Campaign 16-1 Hard"
         },
         {
             "Key": 3829506602,
-            "Cn": "干谷河滨下游",
+            "Cn": "干谷河下游",
             "Comment": "Campaign 16-2 Hard"
         },
         {
             "Key": 1203247803,
-            "Cn": "南部遗迹地带中心部",
+            "Cn": "遗迹地带南部中心区",
             "Comment": "Campaign 16-3 Hard"
         },
         {
             "Key": 2438884436,
-            "Cn": "天国游戏路",
+            "Cn": "伊甸园入口",
             "Comment": "Campaign 17-1 Normal"
         },
         {
             "Key": 1260279659,
-            "Cn": "天国咖啡厅",
+            "Cn": "伊甸园咖啡厅",
             "Comment": "Campaign 17-2 Normal"
         },
         {
             "Key": 3945831061,
-            "Cn": "天国餐厅",
+            "Cn": "伊甸园餐厅",
             "Comment": "Campaign 17-3 Normal"
         },
         {
             "Key": 1730603571,
-            "Cn": "天国大厅",
+            "Cn": "伊甸园大厅中心",
             "Comment": "Campaign 17-4 Normal"
         },
         {
             "Key": 2492847121,
-            "Cn": "天国最顶层",
+            "Cn": "伊甸园大厅顶层",
             "Comment": "Campaign 17-5 Normal"
         },
         {
             "Key": 1369825403,
-            "Cn": "天国活动馆J",
+            "Cn": "伊甸园活动室「J」",
             "Comment": "Campaign 17-1 Hard"
         },
         {
             "Key": 3357614847,
-            "Cn": "天国活动馆Q",
+            "Cn": "伊甸园活动室「Q」",
             "Comment": "Campaign 17-2 Hard"
         },
         {
             "Key": 2609115149,
-            "Cn": "天国活动馆K",
+            "Cn": "伊甸园活动室「K」",
             "Comment": "Campaign 17-3 Hard"
         },
         {
             "Key": 3106664702,
-            "Cn": "D.U.迷途西部",
+            "Cn": "D.U.失陷公路西部地区",
             "Comment": "Campaign 18-1 Normal"
         },
         {
             "Key": 1576649077,
-            "Cn": "D.U.迷途十字路口",
+            "Cn": "D.U.失陷公路十字路口",
             "Comment": "Campaign 18-2 Normal"
         },
         {
             "Key": 32554047,
-            "Cn": "被丢弃的开发地区",
+            "Cn": "被遗弃的开发地区",
             "Comment": "Campaign 18-3 Normal"
         },
         {
             "Key": 3375265651,
-            "Cn": "D.U.迷途东部",
+            "Cn": "D.U.失陷公路东部地区",
             "Comment": "Campaign 18-4 Normal"
         },
         {
             "Key": 205151099,
-            "Cn": "（旧）56号商业区",
+            "Cn": "旧第56商业区",
             "Comment": "Campaign 18-5 Normal"
         },
         {
             "Key": 394021502,
-            "Cn": "失落高速公路1区",
+            "Cn": "失陷公路第1区域",
             "Comment": "Campaign 18-1 Hard"
         },
         {
             "Key": 1986280806,
-            "Cn": "失落高速公路2区",
+            "Cn": "失陷公路第2区域",
             "Comment": "Campaign 18-2 Hard"
         },
         {
             "Key": 3067685631,
-            "Cn": "失落高速公路3区",
+            "Cn": "失陷公路第3区域",
             "Comment": "Campaign 18-3 Hard"
         },
         {
             "Key": 1403690722,
-            "Cn": "雪国第1区",
+            "Cn": "雪原地区第1区域",
             "Comment": "Campaign 19-1 Normal"
         },
         {
             "Key": 1548693340,
-            "Cn": "雪国干线铁路上行线",
+            "Cn": "雪原铁路上行线",
             "Comment": "Campaign 19-2 Normal"
         },
         {
             "Key": 474872459,
-            "Cn": "雪国第2区",
+            "Cn": "雪原地区第2区域",
             "Comment": "Campaign 19-3 Normal"
         },
         {
@@ -742,137 +742,137 @@
         },
         {
             "Key": 941545665,
-            "Cn": "雪国第3区",
+            "Cn": "雪原地区第3区域",
             "Comment": "Campaign 19-5 Normal"
         },
         {
             "Key": 277214140,
-            "Cn": "新赫兹本线",
+            "Cn": "新雪干线",
             "Comment": "Campaign 19-1 Hard"
         },
         {
             "Key": 1091014716,
-            "Cn": "日和山",
+            "Cn": "阳依山",
             "Comment": "Campaign 19-2 Hard"
         },
         {
             "Key": 3843190524,
-            "Cn": "野妙义里山",
+            "Cn": "明雾山",
             "Comment": "Campaign 19-3 Hard"
         },
         {
             "Key": 562079057,
-            "Cn": null,
+            "Cn": "Shine Town 3楼走廊",
             "Comment": "Campaign 20-1 Normal"
         },
         {
             "Key": 1092346259,
-            "Cn": null,
+            "Cn": "Triple Blue运动中心",
             "Comment": "Campaign 20-2 Normal"
         },
         {
             "Key": 3997873897,
-            "Cn": null,
+            "Cn": "Scramble City 12楼走廊",
             "Comment": "Campaign 20-3 Normal"
         },
         {
             "Key": 3381534908,
-            "Cn": null,
+            "Cn": "似睡非睡体育馆",
             "Comment": "Campaign 20-4 Normal"
         },
         {
             "Key": 1004681246,
-            "Cn": null,
+            "Cn": "Cocoon Bill 32楼走廊",
             "Comment": "Campaign 20-5 Normal"
         },
         {
             "Key": 1118628224,
-            "Cn": null,
+            "Cn": "Triple Blue第1综合运动区",
             "Comment": "Campaign 20-1 Hard"
         },
         {
             "Key": 1130810961,
-            "Cn": null,
+            "Cn": "Triple Blue第2综合运动区",
             "Comment": "Campaign 20-2 Hard"
         },
         {
             "Key": 3902036902,
-            "Cn": null,
+            "Cn": "Shine Town 1楼回廊",
             "Comment": "Campaign 20-3 Hard"
         },
         {
             "Key": 3082730780,
-            "Cn": null,
+            "Cn": "阿里乌斯本馆入口",
             "Comment": "Campaign 21-1 Normal"
         },
         {
             "Key": 2287503718,
-            "Cn": null,
+            "Cn": "旧城区出口",
             "Comment": "Campaign 21-2 Normal"
         },
         {
             "Key": 4286042601,
-            "Cn": null,
+            "Cn": "和平之门广场",
             "Comment": "Campaign 21-3 Normal"
         },
         {
             "Key": 2113555653,
-            "Cn": null,
+            "Cn": "暗影大道出口",
             "Comment": "Campaign 21-4 Normal"
         },
         {
             "Key": 1010235753,
-            "Cn": null,
+            "Cn": "特鲁大教堂附近",
             "Comment": "Campaign 21-5 Normal"
         },
         {
             "Key": 223027400,
-            "Cn": null,
+            "Cn": "入圣之路",
             "Comment": "Campaign 21-1 Hard"
         },
         {
             "Key": 1242172358,
-            "Cn": null,
+            "Cn": "虔诚之路",
             "Comment": "Campaign 21-2 Hard"
         },
         {
             "Key": 2293055381,
-            "Cn": null,
+            "Cn": "朝圣之路",
             "Comment": "Campaign 21-3 Hard"
         },
         {
             "Key": 808566295,
-            "Cn": "樱花町第3番地",
+            "Cn": "樱亭3番地",
             "Comment": "Event 801-1 Quest"
         },
         {
             "Key": 1946261844,
-            "Cn": "樱花町第12番地",
+            "Cn": "樱亭12番地",
             "Comment": "Event 801-2 Quest"
         },
         {
             "Key": 4168081886,
-            "Cn": "狐狸市场中心部",
+            "Cn": "狐狸市场中心",
             "Comment": "Event 801-3 Quest"
         },
         {
             "Key": 1130935759,
-            "Cn": "狐狸市场东大街",
+            "Cn": "狐狸市场东街",
             "Comment": "Event 801-4 Quest"
         },
         {
             "Key": 733993267,
-            "Cn": "狐狸市场南侧外围",
+            "Cn": "狐狸市场南侧尽头",
             "Comment": "Event 801-5 Quest"
         },
         {
             "Key": 566544349,
-            "Cn": "百夜樱祭中央广场",
+            "Cn": "百夜春樱花祭中心广场",
             "Comment": "Event 801-6 Quest"
         },
         {
             "Key": 4160730292,
-            "Cn": "[挑战] VS 百鬼夜行魑魅魍魉！",
+            "Cn": "【挑战】 VS 百鬼夜行魑魅魍魉！",
             "Comment": "Event 801-7 Quest"
         },
         {
@@ -882,12 +882,12 @@
         },
         {
             "Key": 2086503407,
-            "Cn": "企鹅高速公路1区",
+            "Cn": "企鹅高速公路第1区域",
             "Comment": "Event 802-2 Quest"
         },
         {
             "Key": 3431501204,
-            "Cn": "白鲸市场",
+            "Cn": "白海豚市场",
             "Comment": "Event 802-3 Quest"
         },
         {
@@ -897,32 +897,32 @@
         },
         {
             "Key": 3085230171,
-            "Cn": "企鹅高速公路3区",
+            "Cn": "企鹅高速公路第3区域",
             "Comment": "Event 802-5 Quest"
         },
         {
             "Key": 161998380,
-            "Cn": "黑鲸市场",
+            "Cn": "黑海豚市场",
             "Comment": "Event 802-6 Quest"
         },
         {
             "Key": 3121766626,
-            "Cn": "红胡子大道",
+            "Cn": "人字胡大道",
             "Comment": "Event 802-7 Quest"
         },
         {
             "Key": 3912101863,
-            "Cn": "咯吱咯吱雪山",
+            "Cn": "闪耀雪岭",
             "Comment": "Event 802-1 Challenge"
         },
         {
             "Key": 168671891,
-            "Cn": "硬邦邦雪山",
+            "Cn": "愉悦雪岭",
             "Comment": "Event 802-2 Challenge"
         },
         {
             "Key": 858074081,
-            "Cn": "切里诺会长就任纪念路",
+            "Cn": "切里诺会长就任纪念街",
             "Comment": "Event 802-3 Challenge"
         },
         {
@@ -932,147 +932,147 @@
         },
         {
             "Key": 66348306,
-            "Cn": "亮晶晶沙滩海水浴场东边",
+            "Cn": "星砂海滩东部",
             "Comment": "Event 803-2 Quest"
         },
         {
             "Key": 4233305870,
-            "Cn": "亮晶晶沙滩海水浴场西边",
+            "Cn": "星砂海滩西部",
             "Comment": "Event 803-3 Quest"
         },
         {
             "Key": 4268106809,
-            "Cn": "欺瞒海边",
+            "Cn": "幻梦海滩中心",
             "Comment": "Event 803-4 Quest"
         },
         {
             "Key": 273493978,
-            "Cn": "海胆出没地区",
+            "Cn": "海胆生息区域",
             "Comment": "Event 803-5 Quest"
         },
         {
             "Key": 3050137476,
-            "Cn": "水母出没地区",
+            "Cn": "水母出没区域",
             "Comment": "Event 803-6 Quest"
         },
         {
             "Key": 551087589,
-            "Cn": "河豚出没地区",
+            "Cn": "河豚生息区域",
             "Comment": "Event 803-7 Quest"
         },
         {
             "Key": 1919583969,
-            "Cn": "鲨鱼岩石一带",
+            "Cn": "鲨鱼生息区域",
             "Comment": "Event 803-8 Quest"
         },
         {
             "Key": 3513942807,
-            "Cn": "海带满满沙滩",
+            "Cn": "长满了海带的海岸",
             "Comment": "Event 803-9 Quest"
         },
         {
             "Key": 3670814117,
-            "Cn": "紫菜满满沙滩",
+            "Cn": "长满了石莼的海岸",
             "Comment": "Event 803-10 Quest"
         },
         {
             "Key": 2861524625,
-            "Cn": "花蟹满满沙滩",
+            "Cn": "充满了岩蟹的海岸",
             "Comment": "Event 803-11 Quest"
         },
         {
             "Key": 3235567810,
-            "Cn": "展望台前海岸",
+            "Cn": "远处的灯塔",
             "Comment": "Event 803-12 Quest"
         },
         {
             "Key": 975684130,
-            "Cn": "鲸鱼嘴海边",
+            "Cn": "鲸鱼海岸中心",
             "Comment": "Event 803-1 Challenge"
         },
         {
             "Key": 3105989465,
-            "Cn": "水鬼岩石一带",
+            "Cn": "置锚岩滩",
             "Comment": "Event 803-2 Challenge"
         },
         {
             "Key": 2726558870,
-            "Cn": "禁止游泳区域1号",
+            "Cn": "禁泳第1区域",
             "Comment": "Event 803-3 Challenge"
         },
         {
             "Key": 1797060079,
-            "Cn": "都更预定B区",
+            "Cn": "再开发预定地区C",
             "Comment": "Event 804-1 Quest"
         },
         {
             "Key": 1357182434,
-            "Cn": "阿拉巴海边西边",
+            "Cn": "阿拉巴海岸西部",
             "Comment": "Event 804-2 Quest"
         },
         {
             "Key": 4001045960,
-            "Cn": "阿拉巴贫民区1番地",
+            "Cn": "贫民窟第1地区",
             "Comment": "Event 804-3 Quest"
         },
         {
             "Key": 2013660313,
-            "Cn": "阿拉巴贫民区3番地",
+            "Cn": "贫民窟第3地区",
             "Comment": "Event 804-4 Quest"
         },
         {
             "Key": 835358557,
-            "Cn": "纠察部救难训练预定地",
+            "Cn": "风纪委员会救助训练预定地",
             "Comment": "Event 804-5 Quest"
         },
         {
             "Key": 1149278521,
-            "Cn": "贫民区出入限制区域C",
+            "Cn": "贫民窟禁止进入区域C",
             "Comment": "Event 804-6 Quest"
         },
         {
             "Key": 3703051654,
-            "Cn": "贫民区出入限制区域F",
+            "Cn": "贫民窟禁止进入区域F",
             "Comment": "Event 804-7 Quest"
         },
         {
             "Key": 2075437338,
-            "Cn": "阿拉巴海边中心",
+            "Cn": "阿拉巴海岸中心",
             "Comment": "Event 804-8 Quest"
         },
         {
             "Key": 255712851,
-            "Cn": "阿拉巴贫民区北方街道",
+            "Cn": "贫民窟北区",
             "Comment": "Event 804-9 Quest"
         },
         {
             "Key": 214650880,
-            "Cn": "阿拉巴海边东边",
+            "Cn": "阿拉巴海岸东部",
             "Comment": "Event 804-10 Quest"
         },
         {
             "Key": 3112126712,
-            "Cn": "阿拉巴温泉开发计划区",
+            "Cn": "温泉开发预定区域",
             "Comment": "Event 804-1 Challenge"
         },
         {
             "Key": 2385089758,
-            "Cn": "纠察部行军训练预定地",
+            "Cn": "风纪委员会步行训练预定地",
             "Comment": "Event 804-2 Challenge"
         },
         {
             "Key": 3723454535,
-            "Cn": "阿拉巴贫民区中央广场",
+            "Cn": "贫民窟中心广场",
             "Comment": "Event 804-3 Challenge"
         },
         {
             "Key": 731158126,
-            "Cn": "北东大道1街",
+            "Cn": "东北大道1街",
             "Comment": "Event 805-1 Quest"
         },
         {
             "Key": 2794601722,
-            "Cn": "兰花街道90-7",
+            "Cn": "兰花街道90-7号",
             "Comment": "Event 805-2 Quest"
         },
         {
@@ -1082,52 +1082,52 @@
         },
         {
             "Key": 3850255113,
-            "Cn": "菊花街道52-9",
+            "Cn": "菊花街道52-9号",
             "Comment": "Event 805-4 Quest"
         },
         {
             "Key": 1260205711,
-            "Cn": "南希大道3街",
+            "Cn": "西南大道3街",
             "Comment": "Event 805-5 Quest"
         },
         {
             "Key": 3173410133,
-            "Cn": "美食家巷子",
+            "Cn": "美食家胡同",
             "Comment": "Event 805-6 Quest"
         },
         {
             "Key": 3334516148,
-            "Cn": "北西大道5街",
+            "Cn": "西北大道5街",
             "Comment": "Event 805-7 Quest"
         },
         {
             "Key": 3115678173,
-            "Cn": "玄武商会北边街道",
+            "Cn": "玄武商会北街",
             "Comment": "Event 805-8 Quest"
         },
         {
             "Key": 3967846151,
-            "Cn": "黑竹散步路",
+            "Cn": "冷竹街道63-8号",
             "Comment": "Event 805-9 Quest"
         },
         {
             "Key": 4223447497,
-            "Cn": "玄武商会南边街道",
+            "Cn": "玄武商会南街",
             "Comment": "Event 805-10 Quest"
         },
         {
             "Key": 472153452,
-            "Cn": "红菇散步路",
+            "Cn": "红菇步行街",
             "Comment": "Event 805-11 Quest"
         },
         {
             "Key": 3403763712,
-            "Cn": "玄武商人会办公室前",
+            "Cn": "玄武商会办事处前",
             "Comment": "Event 805-12 Quest"
         },
         {
             "Key": 2109606699,
-            "Cn": "玄武商会后巷",
+            "Cn": "玄武商会胡同口",
             "Comment": "Event 805-1 Challenge"
         },
         {
@@ -1142,47 +1142,47 @@
         },
         {
             "Key": 2953454999,
-            "Cn": "港口白色景观",
+            "Cn": "白港湾",
             "Comment": "Event 806-1 Quest"
         },
         {
             "Key": 1328350377,
-            "Cn": "白色景观海岸",
+            "Cn": "白海岸",
             "Comment": "Event 806-2 Quest"
         },
         {
             "Key": 87067095,
-            "Cn": "白色景观沙丘",
+            "Cn": "白沙丘",
             "Comment": "Event 806-3 Quest"
         },
         {
             "Key": 1938932966,
-            "Cn": "白色景观潟湖",
+            "Cn": "白潟湖",
             "Comment": "Event 806-4 Quest"
         },
         {
             "Key": 447060260,
-            "Cn": "白色景观海水浴场入口",
+            "Cn": "白沙滩入口",
             "Comment": "Event 806-5 Quest"
         },
         {
             "Key": 2750937450,
-            "Cn": "白色景观海水浴场",
+            "Cn": "白沙滩",
             "Comment": "Event 806-6 Quest"
         },
         {
             "Key": 3033000484,
-            "Cn": "海岸沙滩东面",
+            "Cn": "海岸沙滩东部",
             "Comment": "Event 806-7 Quest"
         },
         {
             "Key": 662627121,
-            "Cn": "海岸沙滩西面",
+            "Cn": "海岸沙滩西部",
             "Comment": "Event 806-8 Quest"
         },
         {
             "Key": 965397893,
-            "Cn": "海岸沙滩尽头",
+            "Cn": "海岸沙滩中心",
             "Comment": "Event 806-9 Quest"
         },
         {
@@ -1202,22 +1202,22 @@
         },
         {
             "Key": 2192809040,
-            "Cn": "棕熊露天温泉",
+            "Cn": "露天浴池「棕熊」",
             "Comment": "Event 808-1 Quest"
         },
         {
             "Key": 1359350947,
-            "Cn": "赤熊露天温泉",
+            "Cn": "露天浴池「赤熊」",
             "Comment": "Event 808-2 Quest"
         },
         {
             "Key": 3342514288,
-            "Cn": "温泉浴场58号便桥",
+            "Cn": "温泉乡第58号桥",
             "Comment": "Event 808-3 Quest"
         },
         {
             "Key": 825409107,
-            "Cn": "温泉浴场227号便桥",
+            "Cn": "温泉乡第227号桥",
             "Comment": "Event 808-4 Quest"
         },
         {
@@ -1232,87 +1232,87 @@
         },
         {
             "Key": 453088616,
-            "Cn": "地钱庭园东面",
+            "Cn": "东部庭院「地钱」",
             "Comment": "Event 808-7 Quest"
         },
         {
             "Key": 866930255,
-            "Cn": "柳叶藓庭园西面",
+            "Cn": "西部庭院「柳叶藓」",
             "Comment": "Event 808-8 Quest"
         },
         {
             "Key": 1450662809,
-            "Cn": "榉树露天温泉",
+            "Cn": "露天浴池「榉树」",
             "Comment": "Event 808-9 Quest"
         },
         {
             "Key": 2975575279,
-            "Cn": "大山樱露天温泉",
+            "Cn": "露天浴池「山樱花」",
             "Comment": "Event 808-10 Quest"
         },
         {
             "Key": 4098362524,
-            "Cn": "特等房住客专用步道",
+            "Cn": "VIP专用小路",
             "Comment": "Event 808-11 Quest"
         },
         {
             "Key": 3277106639,
-            "Cn": "竹林休养馆正面",
+            "Cn": "「竹林疗养馆」前门",
             "Comment": "Event 808-12 Quest"
         },
         {
             "Key": 421494080,
-            "Cn": "水豚栖息地",
+            "Cn": "水豚互动广场",
             "Comment": "Event 808-1 Challenge"
         },
         {
             "Key": 2507148763,
-            "Cn": "温泉源再开发预定地",
+            "Cn": "温泉开发预定地",
             "Comment": "Event 808-2 Challenge"
         },
         {
             "Key": 3830973141,
-            "Cn": "和香的秘密庭园",
+            "Cn": "和香的秘密庭院",
             "Comment": "Event 808-3 Challenge"
         },
         {
             "Key": 518467998,
-            "Cn": "特别班学生专用步道",
+            "Cn": "227号特别班专用小路",
             "Comment": "Event 808-4 Challenge"
         },
         {
             "Key": 914720867,
-            "Cn": "<高难度>VIP专用特别温泉",
+            "Cn": "<高难>VIP专用温泉",
             "Comment": "Event 808-5 Challenge"
         },
         {
             "Key": 1404033371,
-            "Cn": "日出山南侧道路",
+            "Cn": "日出山南侧",
             "Comment": "Event 809-1 Quest"
         },
         {
             "Key": 250109521,
-            "Cn": "赏梅路入口",
+            "Cn": "「寒梅道」入口",
             "Comment": "Event 809-2 Quest"
         },
         {
             "Key": 1426415753,
-            "Cn": "赏梅路",
+            "Cn": "「寒梅道」中心附近",
             "Comment": "Event 809-3 Quest"
         },
         {
             "Key": 3039559879,
-            "Cn": "光滑石子路南侧",
+            "Cn": "光滑卵石路南侧",
             "Comment": "Event 809-4 Quest"
         },
         {
             "Key": 3961238847,
-            "Cn": "光滑石子路",
+            "Cn": "光滑卵石路北侧",
             "Comment": "Event 809-5 Quest"
         },
         {
             "Key": 1156094963,
-            "Cn": "歌声溪边",
+            "Cn": "绕梁吟声之溪",
             "Comment": "Event 809-6 Quest"
         },
         {
@@ -1322,7 +1322,7 @@
         },
         {
             "Key": 885049385,
-            "Cn": "祈愿道",
+            "Cn": "祈愿道中心",
             "Comment": "Event 809-8 Quest"
         },
         {
@@ -1332,172 +1332,172 @@
         },
         {
             "Key": 2701864881,
-            "Cn": "天风小溪边",
+            "Cn": "微风吹拂之溪",
             "Comment": "Event 809-10 Quest"
         },
         {
             "Key": 1057439775,
-            "Cn": "日出山北侧道路",
+            "Cn": "日出山北侧",
             "Comment": "Event 809-11 Quest"
         },
         {
             "Key": 3039672262,
-            "Cn": "赏梅路出口",
+            "Cn": "「寒梅道」出口",
             "Comment": "Event 809-12 Quest"
         },
         {
             "Key": 4023058918,
-            "Cn": "莲花休息区",
+            "Cn": "盛梅休息区",
             "Comment": "Event 809-1 Challenge"
         },
         {
             "Key": 3195426988,
-            "Cn": "古树附近",
+            "Cn": "古树道附近",
             "Comment": "Event 809-2 Challenge"
         },
         {
             "Key": 3971538340,
-            "Cn": "灯火十字路北侧",
+            "Cn": "灯火十字路口北侧",
             "Comment": "Event 809-3 Challenge"
         },
         {
             "Key": 1248802722,
-            "Cn": "山脚岔路",
+            "Cn": "日出山山麓岔路",
             "Comment": "Event 809-4 Challenge"
         },
         {
             "Key": 1729772806,
-            "Cn": "日出瞭望台",
+            "Cn": "日出山瞭望台",
             "Comment": "Event 809-5 Challenge"
         },
         {
             "Key": 2716808453,
-            "Cn": "D.U中央大道",
+            "Cn": "D.U.中央大道",
             "Comment": "Event 810-1 Quest"
         },
         {
             "Key": 3425498738,
-            "Cn": "KV高速公路2区",
+            "Cn": "KV公路第2区域",
             "Comment": "Event 810-2 Quest"
         },
         {
             "Key": 1220628695,
-            "Cn": "D.U 427区",
+            "Cn": "D.U.427区域",
             "Comment": "Event 810-3 Quest"
         },
         {
             "Key": 1677964314,
-            "Cn": "KV高速公路4区",
+            "Cn": "KV公路第4区域",
             "Comment": "Event 810-4 Quest"
         },
         {
             "Key": 399725675,
-            "Cn": "D.U市立图书馆前",
+            "Cn": "D.U.图书馆前",
             "Comment": "Event 810-5 Quest"
         },
         {
             "Key": 3203011223,
-            "Cn": "KV高速公路13区",
+            "Cn": "KV公路第13区域",
             "Comment": "Event 810-6 Quest"
         },
         {
             "Key": 2761701287,
-            "Cn": "D.U商店街入口",
+            "Cn": "D.U.商店街入口",
             "Comment": "Event 810-7 Quest"
         },
         {
             "Key": 1180701882,
-            "Cn": "KV高速公路26区",
+            "Cn": "KV公路第26区域",
             "Comment": "Event 810-8 Quest"
         },
         {
             "Key": 4292464309,
-            "Cn": "D.U 7号停车场",
+            "Cn": "D.U.7号停车场",
             "Comment": "Event 810-9 Quest"
         },
         {
             "Key": 73146281,
-            "Cn": "KV高速公路37区",
+            "Cn": "KV公路第37区域",
             "Comment": "Event 810-10 Quest"
         },
         {
             "Key": 768214757,
-            "Cn": "D.U地铁出口",
+            "Cn": "D.U.地铁出口",
             "Comment": "Event 810-11 Quest"
         },
         {
             "Key": 4119302795,
-            "Cn": "KV高速公路43区",
+            "Cn": "KV公路第43区域",
             "Comment": "Event 810-12 Quest"
         },
         {
             "Key": 842299797,
-            "Cn": "D.U 2号停车场",
+            "Cn": "D.U.2号停车场",
             "Comment": "Event 810-1 Challenge"
         },
         {
             "Key": 2821669265,
-            "Cn": "D.U 51区",
+            "Cn": "D.U.51区域",
             "Comment": "Event 810-2 Challenge"
         },
         {
             "Key": 4211392987,
-            "Cn": "KV高速公路25区",
+            "Cn": "KV公路第25区域",
             "Comment": "Event 810-3 Challenge"
         },
         {
             "Key": 4274782968,
-            "Cn": "D.U桥梁入口",
+            "Cn": "D.U.天桥入口",
             "Comment": "Event 810-4 Challenge"
         },
         {
             "Key": 1656912452,
-            "Cn": "KV高速公路3区",
+            "Cn": "KV公路第3区域",
             "Comment": "Event 810-5 Challenge"
         },
         {
             "Key": 357355472,
-            "Cn": "D.U南街",
+            "Cn": "D.U.南街",
             "Comment": "Event 811-1 Quest"
         },
         {
             "Key": 4054272039,
-            "Cn": "樱花町第77番地",
+            "Cn": "樱亭77番地",
             "Comment": "Event 811-2 Quest"
         },
         {
             "Key": 2737592134,
-            "Cn": "鲸鱼嘴海边东边",
+            "Cn": "鲸鱼海岸东部",
             "Comment": "Event 811-3 Quest"
         },
         {
             "Key": 1201699813,
-            "Cn": "中央区第7街区",
+            "Cn": "中心区第7街区",
             "Comment": "Event 811-4 Quest"
         },
         {
             "Key": 1143337596,
-            "Cn": "阿拉巴贫民区7番地",
+            "Cn": "阿拉巴海岸贫民窟第7地区",
             "Comment": "Event 811-5 Quest"
         },
         {
             "Key": 1177756716,
-            "Cn": "菊花街道52-7",
+            "Cn": "菊花街道52-7号",
             "Comment": "Event 811-6 Quest"
         },
         {
             "Key": 723425919,
-            "Cn": "天国活动馆A",
+            "Cn": "伊甸园活动室「A」",
             "Comment": "Event 811-7 Quest"
         },
         {
             "Key": 3181409526,
-            "Cn": "D.U 1区",
+            "Cn": "D.U.1区域",
             "Comment": "Event 811-8 Quest"
         },
         {
             "Key": 403734002,
-            "Cn": "三一大圣堂入口",
+            "Cn": "三一教堂入口附近",
             "Comment": "Event 812-1 Quest"
         },
         {
@@ -1507,827 +1507,827 @@
         },
         {
             "Key": 4023626677,
-            "Cn": "大教堂第一礼拜堂",
+            "Cn": "第1礼拜堂",
             "Comment": "Event 812-3 Quest"
         },
         {
             "Key": 4273407934,
-            "Cn": "大教堂第二礼拜堂",
+            "Cn": "第2礼拜堂",
             "Comment": "Event 812-4 Quest"
         },
         {
             "Key": 2656524513,
-            "Cn": "大教堂会议室",
+            "Cn": "第3礼拜堂",
             "Comment": "Event 812-5 Quest"
         },
         {
             "Key": 3787976617,
-            "Cn": "大教堂小讲堂",
+            "Cn": "第1讲堂",
             "Comment": "Event 812-6 Quest"
         },
         {
             "Key": 1844023991,
-            "Cn": "大教堂大讲堂",
+            "Cn": "第2讲堂",
             "Comment": "Event 812-7 Quest"
         },
         {
             "Key": 2438826981,
-            "Cn": "大教堂物品保管室",
+            "Cn": "物品保管室",
             "Comment": "Event 812-8 Quest"
         },
         {
             "Key": 928235490,
-            "Cn": "大教堂忏悔室",
+            "Cn": "忏悔室附近",
             "Comment": "Event 812-9 Quest"
         },
         {
             "Key": 3314167040,
-            "Cn": "大教堂修女休息室",
+            "Cn": "修女会休息室附近",
             "Comment": "Event 812-10 Quest"
         },
         {
             "Key": 29093243,
-            "Cn": "大教堂办公室",
+            "Cn": "修女会等候室附近",
             "Comment": "Event 812-11 Quest"
         },
         {
             "Key": 1600972202,
-            "Cn": "三一大圣堂出口",
+            "Cn": "三一大圣堂出口附近",
             "Comment": "Event 812-12 Quest"
         },
         {
             "Key": 3546874558,
-            "Cn": "三一古教堂遗迹入口",
+            "Cn": "三一大圣堂入口附近",
             "Comment": "Event 812-1 Challenge"
         },
         {
             "Key": 1356674000,
-            "Cn": "古教堂遗迹中央区",
+            "Cn": "大圣堂遗迹中心",
             "Comment": "Event 812-2 Challenge"
         },
         {
             "Key": 1400743065,
-            "Cn": "古教堂遗迹礼拜室区",
+            "Cn": "大圣堂礼拜堂遗迹附近",
             "Comment": "Event 812-3 Challenge"
         },
         {
             "Key": 2792172299,
-            "Cn": "古教堂大讲堂区",
+            "Cn": "大圣堂讲堂遗迹",
             "Comment": "Event 812-4 Challenge"
         },
         {
             "Key": 253241911,
-            "Cn": "三一古教堂出口",
+            "Cn": "大圣堂出口遗迹附近",
             "Comment": "Event 812-5 Challenge"
         },
         {
             "Key": 2025482854,
-            "Cn": "鱼板公演舞台前",
+            "Cn": "舞台「THE·鱼糕」前方",
             "Comment": "Event 813-1 Quest"
         },
         {
             "Key": 2901059984,
-            "Cn": "鱼板公演舞台后方",
+            "Cn": "舞台「THE·鱼糕」后方",
             "Comment": "Event 813-2 Quest"
         },
         {
             "Key": 3293107064,
-            "Cn": "时代剧第1次展示街",
+            "Cn": "时代剧展示街·其一=",
             "Comment": "Event 813-3 Quest"
         },
         {
             "Key": 899632120,
-            "Cn": "时代剧第4次展示街",
+            "Cn": "时代剧展示街·其四",
             "Comment": "Event 813-4 Quest"
         },
         {
             "Key": 3391417199,
-            "Cn": "第2次甲虫皇后会场",
+            "Cn": "甲虫皇后大会第2会场",
             "Comment": "Event 813-5 Quest"
         },
         {
             "Key": 1305907421,
-            "Cn": "漩涡路边摊街",
+            "Cn": "漩涡电影村·临时舞台街",
             "Comment": "Event 813-6 Quest"
         },
         {
             "Key": 83831020,
-            "Cn": "第3次甲虫皇后会场",
+            "Cn": "甲虫皇后大会第3会场",
             "Comment": "Event 813-7 Quest"
         },
         {
             "Key": 423865505,
-            "Cn": "甲虫皇后大赛决胜关卡",
+            "Cn": "甲虫皇后大会决战舞台",
             "Comment": "Event 813-8 Quest"
         },
         {
             "Key": 2130283883,
-            "Cn": "漩涡纪念品店前",
+            "Cn": "漩涡电影村·纪念品贩卖处前",
             "Comment": "Event 813-9 Quest"
         },
         {
             "Key": 3547523642,
-            "Cn": "漩涡摄影工作室前",
+            "Cn": "漩涡电影村·摄影工作室前",
             "Comment": "Event 813-10 Quest"
         },
         {
             "Key": 3961105500,
-            "Cn": "柴犬汪汪导演纪念馆",
+            "Cn": "「柴犬汪汪」导演纪念馆",
             "Comment": "Event 813-11 Quest"
         },
         {
             "Key": 4152676632,
-            "Cn": "百鬼夜行学园宣传街",
+            "Cn": "百鬼夜行联合学园宣传街",
             "Comment": "Event 813-12 Quest"
         },
         {
             "Key": 453513,
-            "Cn": "漩涡茶屋前庭",
+            "Cn": "茶屋「漩涡」前庭",
             "Comment": "Event 813-1 Challenge"
         },
         {
             "Key": 2004596183,
-            "Cn": "漩涡摄影棚第1区域",
+            "Cn": "漩涡电影村·第1摄影棚",
             "Comment": "Event 813-2 Challenge"
         },
         {
             "Key": 2869506335,
-            "Cn": "<和乐公主>舞台前",
+            "Cn": "舞台「和乐公主」前方",
             "Comment": "Event 813-3 Challenge"
         },
         {
             "Key": 2848081325,
-            "Cn": "漩涡摄影棚第7区域",
+            "Cn": "漩涡电影村·第7摄影棚",
             "Comment": "Event 813-4 Challenge"
         },
         {
             "Key": 1950851073,
-            "Cn": "<和乐公主>舞台后方",
+            "Cn": "舞台「和乐公主」后方",
             "Comment": "Event 813-5 Challenge"
         },
         {
             "Key": 68779473,
-            "Cn": "度假胜地指定海水浴场入口",
+            "Cn": "度假村指定海水浴场入口",
             "Comment": "Event 814-1 Quest"
         },
         {
             "Key": 2231964632,
-            "Cn": "度假胜地指定海水浴场出口",
+            "Cn": "度假村指定海水浴场",
             "Comment": "Event 814-2 Quest"
         },
         {
             "Key": 2499866369,
-            "Cn": "度假胜地步道入口",
+            "Cn": "度假村散步小路入口",
             "Comment": "Event 814-3 Quest"
         },
         {
             "Key": 2089998472,
-            "Cn": "度假胜地步道出口",
+            "Cn": "度假村散步小路",
             "Comment": "Event 814-4 Quest"
         },
         {
             "Key": 917400140,
-            "Cn": "西艾斯塔海滩入口",
+            "Cn": "汐斯塔海岸入口",
             "Comment": "Event 814-5 Quest"
         },
         {
             "Key": 1380584522,
-            "Cn": "西艾斯塔海滩出口",
+            "Cn": "汐斯塔海岸",
             "Comment": "Event 814-6 Quest"
         },
         {
             "Key": 1533999410,
-            "Cn": "鹦声瀑布入口",
+            "Cn": "鸚鵡飞瀑入口",
             "Comment": "Event 814-7 Quest"
         },
         {
             "Key": 1925336460,
-            "Cn": "鹦声瀑布出口",
+            "Cn": "鸚鵡飞瀑",
             "Comment": "Event 814-8 Quest"
         },
         {
             "Key": 751375685,
-            "Cn": "星光波浪海滩",
+            "Cn": "暮光海岸",
             "Comment": "Event 814-9 Quest"
         },
         {
             "Key": 2991838395,
-            "Cn": "星光波浪海水浴场",
+            "Cn": "暮光海水浴场",
             "Comment": "Event 814-10 Quest"
         },
         {
             "Key": 3870703814,
-            "Cn": "河边木桥入口",
+            "Cn": "清流木桥入口",
             "Comment": "Event 814-11 Quest"
         },
         {
             "Key": 2058621940,
-            "Cn": "河边木桥出口",
+            "Cn": "清流木桥",
             "Comment": "Event 814-12 Quest"
         },
         {
             "Key": 988440711,
-            "Cn": "被弃置的海岸",
+            "Cn": "被遗忘的海岸",
             "Comment": "Event 814-1 Challenge"
         },
         {
             "Key": 2705191376,
-            "Cn": "废弃的试胆大会路线",
+            "Cn": "试胆大赛废墟",
             "Comment": "Event 814-2 Challenge"
         },
         {
             "Key": 1481015930,
-            "Cn": "试胆大会路线出口",
+            "Cn": "试胆大赛废墟出口",
             "Comment": "Event 814-3 Challenge"
         },
         {
             "Key": 310263153,
-            "Cn": "海风海滩",
+            "Cn": "盐风海岸",
             "Comment": "Event 814-4 Challenge"
         },
         {
             "Key": 582221788,
-            "Cn": "海风海滩出口",
+            "Cn": "盐风海岸出口",
             "Comment": "Event 814-5 Challenge"
         },
         {
             "Key": 1133804349,
-            "Cn": null,
+            "Cn": "7号悠闲小路",
             "Comment": "Event 816-1 Quest"
         },
         {
             "Key": 2398875687,
-            "Cn": null,
+            "Cn": "7号悠闲小路后方",
             "Comment": "Event 816-2 Quest"
         },
         {
             "Key": 3055007204,
-            "Cn": null,
+            "Cn": "三一喷泉公园内",
             "Comment": "Event 816-3 Quest"
         },
         {
             "Key": 3913886111,
-            "Cn": null,
+            "Cn": "闹剧街",
             "Comment": "Event 816-4 Quest"
         },
         {
             "Key": 3938642531,
-            "Cn": null,
+            "Cn": "摸鱼街前",
             "Comment": "Event 816-5 Quest"
         },
         {
             "Key": 3312333594,
-            "Cn": null,
+            "Cn": "2-5号·幽暗大道",
             "Comment": "Event 816-6 Quest"
         },
         {
             "Key": 3619036392,
-            "Cn": null,
+            "Cn": "蓝天公园内",
             "Comment": "Event 816-7 Quest"
         },
         {
             "Key": 2723690330,
-            "Cn": null,
+            "Cn": "摸鱼街",
             "Comment": "Event 816-8 Quest"
         },
         {
             "Key": 2864041294,
-            "Cn": null,
+            "Cn": "7号·市区",
             "Comment": "Event 816-9 Quest"
         },
         {
             "Key": 4272272679,
-            "Cn": null,
+            "Cn": "2-1号·幽暗大道",
             "Comment": "Event 816-10 Quest"
         },
         {
             "Key": 1079043575,
-            "Cn": null,
+            "Cn": "蓝天公园前",
             "Comment": "Event 816-11 Quest"
         },
         {
             "Key": 2461798063,
-            "Cn": null,
+            "Cn": "荒凉街·10路",
             "Comment": "Event 816-12 Quest"
         },
         {
             "Key": 893350295,
-            "Cn": null,
+            "Cn": "D.U.贫民窟前",
             "Comment": "Event 816-1 Challenge"
         },
         {
             "Key": 1911865277,
-            "Cn": null,
+            "Cn": "D.U.贫民窟一带",
             "Comment": "Event 816-2 Challenge"
         },
         {
             "Key": 452711404,
-            "Cn": null,
+            "Cn": "混混占领区外",
             "Comment": "Event 816-3 Challenge"
         },
         {
             "Key": 3304242516,
-            "Cn": null,
+            "Cn": "混混占领区",
             "Comment": "Event 816-4 Challenge"
         },
         {
             "Key": 3449953827,
-            "Cn": null,
+            "Cn": "D.U.废车场内",
             "Comment": "Event 816-5 Challenge"
         },
         {
             "Key": 1307664007,
-            "Cn": null,
+            "Cn": "选手等候区",
             "Comment": "Event 817-1 Quest"
         },
         {
             "Key": 3919987443,
-            "Cn": null,
+            "Cn": "100m跑道",
             "Comment": "Event 817-2 Quest"
         },
         {
             "Key": 352858056,
-            "Cn": null,
+            "Cn": "滚球专用赛道",
             "Comment": "Event 817-3 Quest"
         },
         {
             "Key": 1538765558,
-            "Cn": null,
+            "Cn": "100m跨栏跑道",
             "Comment": "Event 817-4 Quest"
         },
         {
             "Key": 1473094770,
-            "Cn": null,
+            "Cn": "200m跑道",
             "Comment": "Event 817-5 Quest"
         },
         {
             "Key": 2878330678,
-            "Cn": null,
+            "Cn": "1000m跑道起点",
             "Comment": "Event 817-6 Quest"
         },
         {
             "Key": 4246783224,
-            "Cn": null,
+            "Cn": "4×400m接力跑道",
             "Comment": "Event 817-7 Quest"
         },
         {
             "Key": 3347420896,
-            "Cn": null,
+            "Cn": "400m跑道",
             "Comment": "Event 817-8 Quest"
         },
         {
             "Key": 3740555210,
-            "Cn": null,
+            "Cn": "篮球部社团室",
             "Comment": "Event 817-9 Quest"
         },
         {
             "Key": 270271376,
-            "Cn": null,
+            "Cn": "更衣室后方过道",
             "Comment": "Event 817-10 Quest"
         },
         {
             "Key": 3563192753,
-            "Cn": null,
+            "Cn": "排球部社团室",
             "Comment": "Event 817-11 Quest"
         },
         {
             "Key": 451520086,
-            "Cn": null,
+            "Cn": "体能检测中心前",
             "Comment": "Event 817-12 Quest"
         },
         {
             "Key": 4191333886,
-            "Cn": null,
+            "Cn": "长跑专用赛道",
             "Comment": "Event 817-1 Challenge"
         },
         {
             "Key": 3907069315,
-            "Cn": null,
+            "Cn": "第2体育中心",
             "Comment": "Event 817-2 Challenge"
         },
         {
             "Key": 2459106273,
-            "Cn": null,
+            "Cn": "第3体育中心",
             "Comment": "Event 817-3 Challenge"
         },
         {
             "Key": 2835222852,
-            "Cn": null,
+            "Cn": "1500m跑道",
             "Comment": "Event 817-4 Challenge"
         },
         {
             "Key": 1403973013,
-            "Cn": null,
+            "Cn": "强化选手训练区",
             "Comment": "Event 817-5 Challenge"
         },
         {
             "Key": 2753412782,
-            "Cn": null,
+            "Cn": "热身赛道",
             "Comment": "Event 818-1 Quest"
         },
         {
             "Key": 3717670372,
-            "Cn": null,
+            "Cn": "电子计分板西部应援席",
             "Comment": "Event 818-2 Quest"
         },
         {
             "Key": 2181080445,
-            "Cn": null,
+            "Cn": "第1球类运动场地",
             "Comment": "Event 818-3 Quest"
         },
         {
             "Key": 3099080211,
-            "Cn": null,
+            "Cn": "第2球类运动场地",
             "Comment": "Event 818-4 Quest"
         },
         {
             "Key": 872065122,
-            "Cn": null,
+            "Cn": "晄轮大祭纪念品商店",
             "Comment": "Event 818-5 Quest"
         },
         {
             "Key": 4093128104,
-            "Cn": null,
+            "Cn": "电子计分板东部应援席",
             "Comment": "Event 818-6 Quest"
         },
         {
             "Key": 3380567018,
-            "Cn": null,
+            "Cn": "「海参苏打水狂饮竞赛」特设区域",
             "Comment": "Event 818-7 Quest"
         },
         {
             "Key": 3798597957,
-            "Cn": null,
+            "Cn": "晄轮大祭设备整备室",
             "Comment": "Event 818-8 Quest"
         },
         {
             "Key": 753015445,
-            "Cn": null,
+            "Cn": "吃面包赛跑跑道",
             "Comment": "Event 818-9 Quest"
         },
         {
             "Key": 225676454,
-            "Cn": null,
+            "Cn": "晄轮大祭后夜祭舞台",
             "Comment": "Event 818-10 Quest"
         },
         {
             "Key": 2271709301,
-            "Cn": null,
+            "Cn": "运动场体育仓库",
             "Comment": "Event 818-11 Quest"
         },
         {
             "Key": 4038462818,
-            "Cn": null,
+            "Cn": "运动场大型仓库",
             "Comment": "Event 818-12 Quest"
         },
         {
             "Key": 1929840698,
-            "Cn": null,
+            "Cn": "2000m障碍赛跑跑道",
             "Comment": "Event 818-1 Challenge"
         },
         {
             "Key": 612617455,
-            "Cn": null,
+            "Cn": "选拔选手专用赛道",
             "Comment": "Event 818-2 Challenge"
         },
         {
             "Key": 2681985744,
-            "Cn": null,
+            "Cn": "田径运动场参赛者区域",
             "Comment": "Event 818-3 Challenge"
         },
         {
             "Key": 466981324,
-            "Cn": null,
+            "Cn": "3000m障碍赛跑跑道",
             "Comment": "Event 818-4 Challenge"
         },
         {
             "Key": 3910051617,
-            "Cn": null,
+            "Cn": "田径运动场VIP区域",
             "Comment": "Event 818-5 Challenge"
         },
         {
             "Key": 675634209,
-            "Cn": null,
+            "Cn": "梦幻面包道2番街",
             "Comment": "Event 819-1 Quest"
         },
         {
             "Key": 2686467662,
-            "Cn": null,
+            "Cn": "梦幻面包道2番街小道",
             "Comment": "Event 819-2 Quest"
         },
         {
             "Key": 3104015278,
-            "Cn": null,
+            "Cn": "冰点佳酿道小路",
             "Comment": "Event 819-3 Quest"
         },
         {
             "Key": 2631577127,
-            "Cn": null,
+            "Cn": "7-5号·幽暗小路",
             "Comment": "Event 819-4 Quest"
         },
         {
             "Key": 2364551832,
-            "Cn": null,
+            "Cn": "拂晓天光道7-3路",
             "Comment": "Event 819-5 Quest"
         },
         {
             "Key": 245813537,
-            "Cn": null,
+            "Cn": "拂晓天光道7-3路后巷",
             "Comment": "Event 819-6 Quest"
         },
         {
             "Key": 931115354,
-            "Cn": null,
+            "Cn": "小小奇迹道1番街",
             "Comment": "Event 819-7 Quest"
         },
         {
             "Key": 2118455124,
-            "Cn": null,
+            "Cn": "小小忧郁道4番街",
             "Comment": "Event 819-8 Quest"
         },
         {
             "Key": 424766896,
-            "Cn": null,
+            "Cn": "D.U.东路3番街",
             "Comment": "Event 819-9 Quest"
         },
         {
             "Key": 1671545474,
-            "Cn": null,
+            "Cn": "咖啡街·228番地",
             "Comment": "Event 819-10 Quest"
         },
         {
             "Key": 3524278567,
-            "Cn": null,
+            "Cn": "D.U.西路1番街",
             "Comment": "Event 819-11 Quest"
         },
         {
             "Key": 2524827298,
-            "Cn": null,
+            "Cn": "咖啡街·9-3番街",
             "Comment": "Event 819-12 Quest"
         },
         {
             "Key": 3058521658,
-            "Cn": null,
+            "Cn": "残阳道4番街",
             "Comment": "Event 819-1 Challenge"
         },
         {
             "Key": 479342107,
-            "Cn": null,
+            "Cn": "雏菊绿2-2路",
             "Comment": "Event 819-2 Challenge"
         },
         {
             "Key": 21806566,
-            "Cn": null,
+            "Cn": "D.U.中央大道7番街",
             "Comment": "Event 819-3 Challenge"
         },
         {
             "Key": 3210188579,
-            "Cn": null,
+            "Cn": "D.U.西路2番街",
             "Comment": "Event 819-4 Challenge"
         },
         {
             "Key": 323770345,
-            "Cn": null,
+            "Cn": "蓝花园8番街",
             "Comment": "Event 819-5 Challenge"
         },
         {
             "Key": 3335303591,
-            "Cn": null,
+            "Cn": "边吃边走街1番街",
             "Comment": "Event 820-1 Quest"
         },
         {
             "Key": 2581553895,
-            "Cn": null,
+            "Cn": "边吃边走街3番街",
             "Comment": "Event 820-2 Quest"
         },
         {
             "Key": 1168037982,
-            "Cn": null,
+            "Cn": "美食家路249番地",
             "Comment": "Event 820-3 Quest"
         },
         {
             "Key": 160021596,
-            "Cn": null,
+            "Cn": "美食家路249番地后方",
             "Comment": "Event 820-4 Quest"
         },
         {
             "Key": 282882819,
-            "Cn": null,
+            "Cn": "暴饮暴食街4番街",
             "Comment": "Event 820-5 Quest"
         },
         {
             "Key": 2878746313,
-            "Cn": null,
+            "Cn": "暴饮暴食街7番街",
             "Comment": "Event 820-6 Quest"
         },
         {
             "Key": 324347411,
-            "Cn": null,
+            "Cn": "红磨坊街2-4路",
             "Comment": "Event 820-7 Quest"
         },
         {
             "Key": 1762962802,
-            "Cn": null,
+            "Cn": "朗特里商店前街",
             "Comment": "Event 820-8 Quest"
         },
         {
             "Key": 1002536313,
-            "Cn": null,
+            "Cn": "鹈鹕面包店西侧",
             "Comment": "Event 820-9 Quest"
         },
         {
             "Key": 2348427955,
-            "Cn": null,
+            "Cn": "地平线之树东侧",
             "Comment": "Event 820-10 Quest"
         },
         {
             "Key": 1445204126,
-            "Cn": null,
+            "Cn": "商人街8-2番街",
             "Comment": "Event 820-11 Quest"
         },
         {
             "Key": 3972520230,
-            "Cn": null,
+            "Cn": "点心街北侧",
             "Comment": "Event 820-12 Quest"
         },
         {
             "Key": 2964980144,
-            "Cn": null,
+            "Cn": "狐狸亭后方小巷",
             "Comment": "Event 820-1 Challenge"
         },
         {
             "Key": 1745565439,
-            "Cn": null,
+            "Cn": "商人街入口",
             "Comment": "Event 820-2 Challenge"
         },
         {
             "Key": 972124863,
-            "Cn": null,
+            "Cn": "商人街高架桥",
             "Comment": "Event 820-3 Challenge"
         },
         {
             "Key": 193203788,
-            "Cn": null,
+            "Cn": "海产市场外街",
             "Comment": "Event 820-4 Challenge"
         },
         {
             "Key": 1051909185,
-            "Cn": null,
+            "Cn": "场外市场小路",
             "Comment": "Event 820-5 Challenge"
         },
         {
             "Key": 3901590947,
-            "Cn": "阿比多斯废墟1区",
+            "Cn": "阿拜多斯的某处废墟-区域1",
             "Comment": "Event 701-1 Quest"
         },
         {
             "Key": 2251194116,
-            "Cn": "阿比多斯废墟2区",
+            "Cn": "阿拜多斯的某处废墟-区域2",
             "Comment": "Event 701-2 Quest"
         },
         {
             "Key": 2562665560,
-            "Cn": "封锁车站1区",
+            "Cn": "已封锁的车站-区域1",
             "Comment": "Event 701-3 Quest"
         },
         {
             "Key": 3479787298,
-            "Cn": "封锁车站2区",
+            "Cn": "已封锁的车站-区域2",
             "Comment": "Event 701-4 Quest"
         },
         {
             "Key": 809211990,
-            "Cn": "PMC挖掘地1区",
+            "Cn": "PMC挖掘区-区域1",
             "Comment": "Event 701-5 Quest"
         },
         {
             "Key": 3743672891,
-            "Cn": "PMC挖掘地2区",
+            "Cn": "PMC挖掘区-区域2",
             "Comment": "Event 701-6 Quest"
         },
         {
             "Key": 2243175979,
-            "Cn": "封锁车站换乘基地",
+            "Cn": "已封锁的车站-换乘区",
             "Comment": "Event 701-7 Quest"
         },
         {
             "Key": 1948692396,
-            "Cn": "封锁车站旧装备中心",
+            "Cn": "已封锁的车站-旧车辆段",
             "Comment": "Event 701-8 Quest"
         },
         {
             "Key": 686853734,
-            "Cn": "被水淹没的废墟第1区域",
+            "Cn": "水没废墟第1区域",
             "Comment": "Event 701-9 Quest"
         },
         {
             "Key": 1941427758,
-            "Cn": "被水淹没的废墟第2区域",
+            "Cn": "水没废墟第2区域",
             "Comment": "Event 701-10 Quest"
         },
         {
             "Key": 310980935,
-            "Cn": "被水淹没的废墟未确认区域",
+            "Cn": "废墟水没地区未确认区域",
             "Comment": "Event 701-1 Challenge"
         },
         {
             "Key": 324647806,
-            "Cn": null,
+            "Cn": "废墟水没地区封锁区域A",
             "Comment": "Event 701-2 Challenge"
         },
         {
             "Key": 3643751503,
-            "Cn": null,
+            "Cn": "废墟水没地区封锁区域B",
             "Comment": "Event 701-3 Challenge"
         },
         {
             "Key": 3456757681,
-            "Cn": null,
+            "Cn": "废墟水没地区中心",
             "Comment": "Event 701-4 Challenge"
         },
         {
             "Key": 3207442653,
-            "Cn": null,
+            "Cn": "樱亭1番地",
             "Comment": "Event 10801-1 Challenge"
         },
         {
             "Key": 3276651336,
-            "Cn": null,
+            "Cn": "狸町6番地",
             "Comment": "Event 10801-2 Challenge"
         },
         {
             "Key": 2079256914,
-            "Cn": null,
+            "Cn": "狐狸市场北门",
             "Comment": "Event 10801-3 Challenge"
         },
         {
             "Key": 3972335602,
-            "Cn": null,
+            "Cn": "红熊广播电台·新馆",
             "Comment": "Event 10802-4 Challenge"
         },
         {
             "Key": 724247144,
-            "Cn": null,
+            "Cn": "红熊广播电台·别馆",
             "Comment": "Event 10802-5 Challenge"
         },
         {
             "Key": 1936111840,
-            "Cn": "银沙滩海水浴场",
+            "Cn": "银砂海滩",
             "Comment": "Event 10803-4 Challenge"
         },
         {
             "Key": 2890432783,
-            "Cn": "迎月海边",
+            "Cn": "月间海岸",
             "Comment": "Event 10803-5 Challenge"
         },
         {
             "Key": 38863592,
-            "Cn": null,
+            "Cn": "风纪委员会宿营训练预定地",
             "Comment": "Event 10804-4 Challenge"
         },
         {
             "Key": 3940915386,
-            "Cn": null,
+            "Cn": "风纪委员会夜间射击靶场",
             "Comment": "Event 10804-5 Challenge"
         },
         {
             "Key": 3587759542,
-            "Cn": null,
+            "Cn": "玄武商会再开发区域",
             "Comment": "Event 10805-4 Challenge"
         },
         {
             "Key": 4285285142,
-            "Cn": null,
+            "Cn": "黑麒麟胡同",
             "Comment": "Event 10805-5 Challenge"
         },
         {
             "Key": 318476605,
-            "Cn": null,
+            "Cn": "深蓝会场",
             "Comment": "Event 10806-4 Challenge"
         },
         {
             "Key": 4262463361,
-            "Cn": null,
+            "Cn": "渊蓝会场",
             "Comment": "Event 10806-5 Challenge"
         },
         {
             "Key": 2364214295,
-            "Cn": "薇娜",
+            "Cn": "Binah",
             "Comment": "Raid - Binah Name"
         },
         {
             "Key": 3920080884,
-            "Cn": "十字神名是主张自己为神圣的求道者的人工智能系统。目前追随十字神名的10名预言者正在基沃托斯各地出没。\n\n薇娜为十字神名第3预言者，第一次在阿比多斯的沙漠地区探测到它的存在。\n虽然无法得知薇娜为何来到此地，但若就此放任不管，他肯定是极其危险的存在。",
+            "Cn": "十字神名是声称自己为神圣求道者的人工智能系统。目前，信奉其的10名预言者正在基沃托斯各地出没。\nBinah是十字神名的第3位预言者，其在阿拜多斯沙漠地区被首次发现。\n虽然并不知道它为什么会在这里出现，但若放任不管肯定是个极其危险的存在。",
             "Comment": "Raid - Binah Profile"
         },
         {
             "Key": 2954669086,
-            "Cn": "赫赛德",
+            "Cn": "Chesed",
             "Comment": "Raid - Chesed Name"
         },
         {
             "Key": 3639039230,
-            "Cn": "十字神名是主张自己为神圣的求道者的人工智能系统。目前追随十字神名的10名预言者正在基沃托斯各地出没。\n\n薇娜为十字神名第3预言者，第一次在阿比多斯的沙漠地区探测到它的存在。\n虽然无法得知薇娜为何来到此地，但若就此放任不管，他肯定是极其危险的存在。",
+            "Cn": "十字神名是声称自己为神圣求道者的人工智能系统。目前，信奉其的10名预言者正在基沃托斯各地出没。\nChesed是十字神名的第4位预言者，现已确认其已控制了千年郊外某处军需工厂的生产系统。若是让它不断生产出无限的军队的话，基沃托斯将面临前所未有的灾难",
             "Comment": "Raid - Chesed Profile"
         },
         {
@@ -2337,17 +2337,17 @@
         },
         {
             "Key": 3601545918,
-            "Cn": "根据报告指出，很久以前因为财政困难而停业的游乐园<史林皮亚>，发生了不明的怪异现象。其怪异现象就是传闻所说的，已停止运作的游乐石像和各种游乐设施在大半夜再次运转，并且袭击人们。\n\n虽然不知道游乐石像白&黑再次动起来的原因，但看起来确实是在重现过去游乐园的华丽庆典。",
+            "Cn": "最近有报告指出，很久以前因破产而停业的游乐园「史兰皮亚」里发生了不可思议的现象。据说本已停止活动的人偶和各种游乐设施在午夜再次运作，并开始攻击人们。\n虽然不知道人偶白&黑再次动起来的原因，但看上去很明显它们想重现过去游乐园的辉煌游行。",
             "Comment": "Raid - Shiro & Kuro Profile"
         },
         {
             "Key": 3864011318,
-            "Cn": "耶罗尼姆斯",
+            "Cn": "希罗尼穆斯",
             "Comment": "Raid - Hieronymus Name"
         },
         {
             "Key": 3550217605,
-            "Cn": "在三一地区的古圣堂遗迹地下发现来历不明的存在。\n耶罗尼姆斯是人称<圣徒相通>的人造天使系列的完成型。有一种说法是，其为盖玛特利亚基于古代教义创造出来的实验体。\n不能就此放任耶罗尼姆斯的压倒性力量不管。为了基沃托斯的安宁，是时候采取行动了！",
+            "Cn": "希罗尼穆斯是在三一地区古圣堂被发现的不明实体。\n其是被称为「Communio Sanctorum」、即「诸圣相同」的人造天使系列之首。另一种说法认为其为数秘术基于古代教义创造出来的实验体。不能就此放任拥有如此强大力量的希罗尼穆斯不管。为了基沃托斯的安宁，是时候采取行动了！",
             "Comment": "Raid - Hieronymus Profile"
         },
         {
@@ -2357,27 +2357,27 @@
         },
         {
             "Key": 491740630,
-            "Cn": "如同妨碍到根据地一样，凯坦泽们的秘密武器登场了。\n凯坦泽们似乎运用一直以来所掠夺的资金和技术在这里打造了巨大的合体机器人“KAITEN FX Mk.0”。\n尽管成品一定非常壮观迷人，但一想到这具机器人可能引发的各种问题，必须就地扼杀这个美梦才行。",
+            "Cn": "大概是因为谁拦住了前往根据地的去路，凯坦泽们的秘密武器登场了。\n凯坦泽们使用迄今为止所掠夺的资金和技术在这里打造了巨大的合体机器人「KAITEN FX Mk.0」。尽管合体机器人的确浪漫，但鉴于其迄今为止的所作所为，还是别浪漫了吧。",
             "Comment": "Raid - KAITEN FX Mk.0 Profile"
         },
         {
             "Key": 2581651537,
-            "Cn": "佩洛洛吉拉",
+            "Cn": "佩洛洛基拉",
             "Comment": "Raid - Perorodzilla Name"
         },
         {
             "Key": 1866624346,
-            "Cn": "在D.U.邻近海域发现了来历不明的巨大怪兽。这只怪兽的外型和以前沉入海中的Momo好友玩具造型一样。\n虽然完全不知道为什么会发生这种事，但阻止这只怪兽的进击是势在必行！",
+            "Cn": "在D.U.附近的海域发现了巨大的不明实体。根据情报所说，其外观就和过去某个沉入大海的Momo Friends玩偶一样。\n虽然完全不知道为什么会发生这种事，但首要任务是阻止它的进攻！",
             "Comment": "Raid - Perorodzilla Profile"
         },
         {
             "Key": 3192527187,
-            "Cn": "霍德",
+            "Cn": "Hod",
             "Comment": "Raid - Hod Name"
         },
         {
             "Key": 2223988532,
-            "Cn": "十字神名是主张自己为神圣的求道者的人工智能系统。目前追随十字神名的10名预言者正出没于基沃托斯各地。\n\n霍德原本是千年自治区通讯网临时架设的AI处理器，受到不明AI攻击后开始宣称自己是十字神名的第8预言者。\n如果这座集结千年技术精华的演算机关不停止暴走的话，千年自治区的安全将失去保障。",
+            "Cn": "十字神名是声称自己为神圣求道者的人工智能系统。目前，信奉其的10名预言者正在基沃托斯各地出没。\nHod原本是千年的通信单元AI，受到不明AI攻击后开始宣称自己是十字神名的第8位预言者。如果这座凝聚了千年最先进科技的计算设施不停止暴走的话，千年地区的安全一定会受到威胁。",
             "Comment": "Raid - Hod Profile"
         },
         {
@@ -2387,7 +2387,7 @@
         },
         {
             "Key": 276060001,
-            "Cn": "以前から、財政難で廃業したアミューズパーク「スランピア」で未知の怪奇現象が起きているという報告されています。停止していたアミューズドールと各種アトラクションが真夜中に動き出し、人々を襲うという噂が、この報告を裏付けています。 \n\nアミューズドール・ゴズは、空虚に満ちた「スランピア」で一人だけのショーを続けています。その奇妙な笑顔の下に隠された本性は善か悪か。私たちがそれを推測するのは容易ではないでしょう。",
+            "Cn": "最近有报告指出，很久以前因破产而停业的游乐园「史兰皮亚」里发生了不可思议的现象。本已停止活动的人偶和各种游乐设施在午夜再次运作，并开始攻击人们。\n游乐园玩偶戈兹，独自一人在空荡的「史兰皮亚」里继续上演它的独角戏。它那诡异的笑脸下是善是恶，我们很难推测。",
             "Comment": "Raid - Goz Profile"
         }
     ]
