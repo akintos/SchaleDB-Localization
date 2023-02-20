@@ -246,7 +246,7 @@
             "Countermeasure": {
                 "ScenarioKey": 3192151255,
                 "Cn": "对策委员会",
-                "Vi": "Lực lượng đặc nhiệm tịch thu tài sản"
+                "Vi": "Lực lượng đặc nhiệm thu hồi tài sản"
             },
             "Engineer": {
                 "ScenarioKey": 3688098515,
@@ -356,7 +356,7 @@
             "SisterHood": {
                 "ScenarioKey": 48146678,
                 "Cn": "修女会",
-                "Vi": "Hội chị em"
+                "Vi": "Giáo hội"
             },
             "Class227": {
                 "ScenarioKey": 1601558005,
@@ -376,7 +376,7 @@
             "PandemoniumSociety": {
                 "ScenarioKey": 3888645239,
                 "Cn": "万魔殿",
-                "Vi": "Hội Pandemonium"
+                "Vi": "Ban bảo vệ trật tự xã hội"
             },
             "AriusSqud": {
                 "ScenarioKey": 1856328608,
@@ -387,19 +387,22 @@
                 "ScenarioKey": 3522220440,
                 "En": "Hot Springs Department",
                 "Th": "ชมรมพัฒนาบ่อน้ำพุร้อน",
-                "Cn": "温泉开发部"
+                "Cn": "温泉开发部",
+                "Vi": "Ban phát triển Suối nước nóng"
             },
             "TeaParty": {
                 "ScenarioKey": 1961436132,
                 "En": "Tea Party",
                 "Th": "สภาน้ำชา",
-                "Cn": "茶会"
+                "Cn": "茶会",
+                "Vi": "Tiệc trà"
             },
             "PublicPeaceBureau": {
                 "ScenarioKey": 1099365500,
                 "En": "Public Peace Bureau",
                 "Th": "กรมความมั่นคงสาธารณะ",
-                "Cn": "公安局"
+                "Cn": "公安局",
+                "Vi": "Cục hòa bình công cộng"
             },
             "EmptyClub": {
                 "ScenarioKey": 3385575796,
