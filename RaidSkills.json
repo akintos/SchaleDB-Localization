@@ -2043,8 +2043,8 @@
             "DescriptionTw": "最多對8名敵人輪流射擊，分別造成70%攻擊力的傷害",
             "NameCn": "双管加农炮",
             "DescriptionCn": "对至多8名敌方单位分别造成攻击力70%的伤害",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Pháo đôi",
+            "DescriptionVi": "Gây 70% sát thương lên tối đa 8 kẻ địch."
         },
         {
             "Id": "WakamoHoverCraftEx02",
@@ -2057,8 +2057,8 @@
             "DescriptionTw": "最多對2名敵人輪流射擊，分別造成250%攻擊力的傷害",
             "NameCn": "烈焰火箭",
             "DescriptionCn": "对至多2名敌方单位分别造成攻击力250%的伤害",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Hoả tiễn",
+            "DescriptionVi": "Gây 250% sát thương lên tối đa 2 kẻ địch."
         },
         {
             "Id": "WakamoHoverCraftEx03",
@@ -2071,8 +2071,8 @@
             "DescriptionTw": "當ATG全滿時，將進入破壞度假勝地的導彈炸裂模式。度假勝地被摧毀則立即戰敗。\n導彈炸裂模式中，氣墊船<s:Immortal>。\n導彈炸裂模式結束後，氣墊船將發生故障並進入無力狀態。\n無力狀態下，<d:DamagedRatio>提升200%，<d:CriticalChanceResistPoint>減少100%。",
             "NameCn": "既然这样的话……！",
             "DescriptionCn": "ATG提升至100%时切换至导弹暴走模式以破坏度假村，期间气垫船将被赋予<s:Immortal>状态\n导弹暴走模式结束后，气垫船发生故障，立即填满虚弱量表，<d:DamagedRatio>提升200%，<d:CriticalChanceResistPoint>降低100%\n度假村血量归零时战斗将立即失败",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Đã đến nước này thì...!",
+            "DescriptionVi": "Khi thanh ATG đầy, tàu đệm khí chuyển sang chế độ xả tên lửa và bắt đầu nhắm vào khu nghỉ dưỡng. Trong khoảng thời gian xả tên lửa, tàu đệm khí sẽ chuyển qua trạng thái <s:Immortal>.\nSau khi thời gian kết thúc, thanh choáng của tàu đệm khí sẽ được làm đầy đến mức tối đa. Khi tàu đệm khí bị choáng, <d:DamagedRatio> tăng lên 200% và <d:CriticalChanceResistPoint> giảm xuống 100%. Nếu khu nghỉ dưỡng bị phá huỷ, màn chơi sẽ bị coi là thất bại."
         },
         {
             "Id": "WakamoHoverCraftPassive01",
@@ -2085,8 +2085,8 @@
             "DescriptionTw": "對圓形範圍內的敵人造成攻擊力450%的傷害。\n導彈被摧毀時，全體學生<b:ATK>提升<b>400</b>",
             "NameCn": "安瓿导弹",
             "DescriptionCn": "对圆形范围内的敌方单位造成该导弹攻击力450%的伤害\n该导弹被摧毁时，编队内所有学生<b:ATK>提升<b>400</b>",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Tên lửa Ampoule",
+            "DescriptionVi": "Gây 450% sát thương lên kẻ địch trong một khu vực hình tròn. Nếu tên lửa này bị phá huỷ, <b:ATK> của tất cả học sinh tăng lên <b>400</b>."
         },
         {
             "Id": "WakamoHoverCraftPassive02",
@@ -2099,8 +2099,8 @@
             "DescriptionTw": "對圓形範圍內敵人造成450%的傷害。如果飛彈被摧毀，對圓形範圍內其它飛彈造成<b>999,999</b>傷害",
             "NameCn": "烈鲨导弹",
             "DescriptionCn": "对圆形范围内的敌方单位造成该导弹攻击力450%的伤害\n该导弹被摧毁时，对其周围圆形范围内的其它导弹造成<b>999,999</b>的伤害",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Tên lửa cá mập",
+            "DescriptionVi": "Gây 450% sát thương lên kẻ địch trong một khu vực hình tròn. Nếu tên lửa này bị phá huỷ, gây <b>999,999</b> sát thương lên các tên lửa khác trong một khu vực hình tròn."
         },
         {
             "Id": "WakamoHoverCraftPassive03",
@@ -2113,8 +2113,8 @@
             "DescriptionTw": "對圓形範圍內敵人造成1000%的傷害。導彈被摧毀時，對圓形範圍內其它導彈造成400%傷害",
             "NameCn": "焦黑导弹",
             "DescriptionCn": "对圆形范围内的敌方单位造成该导弹攻击力1000%的伤害\n该导弹被摧毁时，对其周围圆形范围内的其它导弹造成攻击力400%的伤害",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Tên lửa đen",
+            "DescriptionVi": "Gây 1000% sát thương lên kẻ địch trong một khu vực hình tròn. Nếu tên lửa này bị phá huỷ, gây 400% sát thương lên các tên lửa khác trong một khu vực hình tròn."
         },
         {
             "Id": "WakamoHoverCraftPassive04",
@@ -2127,8 +2127,8 @@
             "DescriptionTw": "對圓形範圍內敵人造成450%的傷害。如果飛彈被摧毀，對圓形範圍內其它飛彈造成400%傷害",
             "NameCn": "钢盔团自制导弹",
             "DescriptionCn": "对圆形范围内的敌方单位造成该导弹攻击力450%的伤害\n该导弹被摧毁时，对其周围圆形范围内的其它导弹造成攻击力400%的伤害",
-            "NameVi": null,
-            "DescriptionVi": null
+            "NameVi": "Tên lửa tự chế của hội Giang hồ mũ BH",
+            "DescriptionVi": "Gây 450% sát thương lên kẻ địch trong một khu vực hình tròn. Nếu tên lửa này bị phá huỷ, gây 400% sát thương lên các tên lửa khác trong một khu vực hình tròn."
         }
     ]
 }
