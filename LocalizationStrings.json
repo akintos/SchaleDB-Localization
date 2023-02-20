@@ -562,7 +562,8 @@
                 "Jp": "与えるダメージ量",
                 "Kr": "주는 대미지량",
                 "Th": "ความเสียหายที่ทำได้",
-                "Cn": "全局伤害倍率"
+                "Cn": "全局伤害倍率",
+                "Vi": "Sát thương gây ra"
             },
             "DamagedRatio": {
                 "En": "Incoming DMG RES",
@@ -642,7 +643,8 @@
                 "Kr": "경장갑 강화",
                 "Th": "ประสิทธิภาพเกราะเบา",
                 "Tw": "輕裝甲強化",
-                "Cn": "轻护甲性能"
+                "Cn": "轻护甲性能",
+                "Vi": "Hiệu quả giáp hạng nhẹ"
             },
             "EnhanceHeavyArmorRate": {
                 "En": "Hvy. Armor Effectiveness",
@@ -650,7 +652,8 @@
                 "Kr": "중장갑 강화",
                 "Th": "ประสิทธิภาพเกราะหนัก",
                 "Tw": "重裝甲強化",
-                "Cn": "重装甲性能"
+                "Cn": "重装甲性能",
+                "Vi": "Hiệu quả giáp hạng nặng"
             },
             "EnhanceUnarmedRate": {
                 "En": "Spc. Armor Effectiveness",
@@ -658,7 +661,8 @@
                 "Kr": "특수장갑 강화",
                 "Th": "ประสิทธิภาพเกราะพิเศษ",
                 "Tw": "特殊裝甲強化",
-                "Cn": "特殊装甲性能"
+                "Cn": "特殊装甲性能",
+                "Vi": "Hiệu quả giáp đặc biệt"
             },
             "ExtendBuffDuration": {
                 "En": "Buff Duration",
@@ -712,7 +716,7 @@
                 "Th": "เกจมึนงง",
                 "Tw": "無力量表",
                 "Cn": "虚弱量表",
-                "Vi": null
+                "Vi": "Thanh choáng"
             },
             "GroggyTime": {
                 "En": "Groggy Duration",
@@ -721,7 +725,7 @@
                 "Th": "ระยะเวลามึนงง",
                 "Tw": "無力持續時間",
                 "Cn": "虚弱持续时间",
-                "Vi": null
+                "Vi": "Thời lượng choáng"
             }
         },
         "IsLimited": {
@@ -809,7 +813,8 @@
             "110": {
                 "EtcKey": 4141233484,
                 "En": "Abydos Classroom Set",
-                "Cn": "阿拜多斯教室组合"
+                "Cn": "阿拜多斯教室组合",
+                "Vi": "Bộ lớp học Abydos"
             }
         },
         "ItemCategory": {
@@ -1209,12 +1214,13 @@
                 "ScenarioKey": 3515690501,
                 "En": "A Game Before the New Year's Feast",
                 "Cn": "在年菜之前稍作比试 一决胜负 ",
-                "Vi": null
+                "Vi": "Cuộc chơi trước Tết"
             },
             "821": {
                 "ScenarioKey": 38610745,
                 "En": "Battle for the False Sanctum",
-                "Cn": "虚妄神圣之塔攻略战"
+                "Cn": "虚妄神圣之塔攻略战",
+                "Vi": "Cuộc chiến cho thánh đường giả"
             }
         },
         "StageType": {
@@ -1620,7 +1626,7 @@
                 "Th": "หัวใจแห่งการบรรเทาทุกข์",
                 "Tw": "準備急救",
                 "Cn": "「救护准备」",
-                "Vi": null
+                "Vi": "Sơ cứu sẵn sàng"
             },
             "Buff_AmmoCount": {
                 "En": "Mag Count",
@@ -1746,7 +1752,7 @@
                 "Th": "ความเสียหายที่ทำได้",
                 "Tw": "造成傷害",
                 "Cn": "全局伤害倍率",
-                "Vi": null
+                "Vi": "Sát thương gây ra"
             },
             "Buff_DEF": {
                 "En": "DEF",
@@ -1808,7 +1814,8 @@
                 "Kr": "경장갑 강화",
                 "Th": "ประสิทธิภาพเกราะเบา",
                 "Tw": "輕裝甲強化",
-                "Cn": "轻护甲性能"
+                "Cn": "轻护甲性能",
+                "Vi": "Hiệu quả giáp hạng nhẹ"
             },
             "Buff_EnhanceHeavyArmorRate": {
                 "En": "Hvy. Armor Effectiveness",
@@ -1816,7 +1823,8 @@
                 "Kr": "중장갑 강화",
                 "Th": "ประสิทธิภาพเกราะหนัก",
                 "Tw": "重裝甲強化",
-                "Cn": "重装甲性能"
+                "Cn": "重装甲性能",
+                "Vi": "Hiệu quả giáp hạng nặng"
             },
             "Buff_EnhanceUnarmedRate": {
                 "En": "Spc. Armor Effectiveness",
@@ -1824,7 +1832,8 @@
                 "Kr": "특수장갑 강화",
                 "Th": "ประสิทธิภาพเกราะพิเศษ",
                 "Tw": "特殊裝甲強化",
-                "Cn": "特殊装甲性能"
+                "Cn": "特殊装甲性能",
+                "Vi": "Hiệu quả giáp đặc biệt"
             },
             "Buff_ExtendBuffDuration": {
                 "En": "Buff Duration",
@@ -2102,7 +2111,7 @@
                 "Th": "ความเสียหายที่ทำได้",
                 "Tw": "造成傷害",
                 "Cn": "全局伤害倍率",
-                "Vi": null
+                "Vi": "Sát thương gây ra"
             },
             "Debuff_DEF": {
                 "En": "DEF",
@@ -2129,7 +2138,7 @@
                 "Th": "ประสิทธิภาพความเสียหายระเบิด",
                 "Tw": "爆發傷害",
                 "Cn": "爆破克制倍率",
-                "Vi": "Heiu65 quả nổ"
+                "Vi": "Hiệu quả nổ"
             },
             "Debuff_EnhancePierceRate": {
                 "En": "Piercing Effectiveness",
@@ -2155,7 +2164,8 @@
                 "Kr": "경장갑 강화",
                 "Th": "ประสิทธิภาพเกราะเบา",
                 "Tw": "輕裝甲強化",
-                "Cn": "轻护甲性能"
+                "Cn": "轻护甲性能",
+                "Vi": "Hiệu quả giáp hạng nhẹ"
             },
             "Debuff_EnhanceHeavyArmorRate": {
                 "En": "Hvy. Armor Effectiveness",
@@ -2163,7 +2173,8 @@
                 "Kr": "중장갑 강화",
                 "Th": "ประสิทธิภาพเกราะหนัก",
                 "Tw": "重裝甲強化",
-                "Cn": "重装甲性能"
+                "Cn": "重装甲性能",
+                "Vi": "Hiệu quả giáp hạng nặng"
             },
             "Debuff_EnhanceUnarmedRate": {
                 "En": "Spc. Armor Effectiveness",
@@ -2171,7 +2182,8 @@
                 "Kr": "특수장갑 강화",
                 "Th": "ประสิทธิภาพเกราะพิเศษ",
                 "Tw": "特殊裝甲強化",
-                "Cn": "特殊装甲性能"
+                "Cn": "特殊装甲性能",
+                "Vi": "Hiệu quả giáp đặc biệt"
             },
             "Debuff_HealedLimit": {
                 "En": "Recovery Limit",
@@ -2470,7 +2482,7 @@
                 "Th": "หัวใจแห่งการบรรเทาทุกข์",
                 "Tw": "準備急救",
                 "Cn": "救护准备",
-                "Vi": null
+                "Vi": "Sơ cứu sẵn sàng"
             },
             "Buff_AmmoCount": {
                 "En": "Mag Count Up",
@@ -2596,7 +2608,7 @@
                 "Th": "ความเสียหายที่ทำได้เพิ่มขึ้น",
                 "Tw": "造成傷害增加",
                 "Cn": "全局伤害倍率提升",
-                "Vi": null
+                "Vi": "Sát thương gây ra tăng"
             },
             "Buff_DEF": {
                 "En": "DEF Up",
@@ -2658,7 +2670,8 @@
                 "Kr": "경장갑 강화",
                 "Th": "ประสิทธิภาพเกราะเบาเพิ่มขึ้น",
                 "Tw": "輕裝甲強化",
-                "Cn": "轻护甲性能提升"
+                "Cn": "轻护甲性能提升",
+                "Vi": "Hiệu quả giáp hạng nhẹ tăng"
             },
             "Buff_EnhanceHeavyArmorRate": {
                 "En": "Heavy Armor Effectiveness Up",
@@ -2666,7 +2679,8 @@
                 "Kr": "중장갑 강화",
                 "Th": "ประสิทธิภาพเกราะหนักเพิ่มขึ้น",
                 "Tw": "重裝甲強化",
-                "Cn": "重装甲性能提升"
+                "Cn": "重装甲性能提升",
+                "Vi": "Hiệu quả giáp hạng nặng tăng"
             },
             "Buff_EnhanceUnarmedRate": {
                 "En": "Special Armor Effectiveness Up",
@@ -2674,7 +2688,8 @@
                 "Kr": "특수장갑 강화",
                 "Th": "ประสิทธิภาพเกราะพิเศษเพิ่มขึ้น",
                 "Tw": "特殊裝甲強化",
-                "Cn": "特殊装甲性能提升"
+                "Cn": "特殊装甲性能提升",
+                "Vi": "Hiệu quả giáp đặc biệt tăng"
             },
             "Buff_ExtendBuffDuration": {
                 "En": "Buff Duration Up",
@@ -2952,7 +2967,7 @@
                 "Th": "ความเสียหายที่ทำได้ลดลง",
                 "Tw": "造成傷害減少",
                 "Cn": "全局伤害倍率降低",
-                "Vi": null
+                "Vi": "Sát thương gây ra giảm"
             },
             "Debuff_DEF": {
                 "En": "DEF Down",
@@ -3005,7 +3020,8 @@
                 "Kr": "경장갑 강화",
                 "Th": "ประสิทธิภาพเกราะเบาลดลง",
                 "Tw": "輕裝甲強化",
-                "Cn": "轻护甲性能降低"
+                "Cn": "轻护甲性能降低",
+                "Vi": "Hiệu quả giáp hạng nhẹ giảm"
             },
             "Debuff_EnhanceHeavyArmorRate": {
                 "En": "Heavy Armor Effectiveness Down",
@@ -3013,7 +3029,8 @@
                 "Kr": "중장갑 강화",
                 "Th": "ประสิทธิภาพเกราะหนักลดลง",
                 "Tw": "重裝甲強化",
-                "Cn": "重装甲性能降低"
+                "Cn": "重装甲性能降低",
+                "Vi": "Hiệu quả giáp hạng nặng giảm"
             },
             "Debuff_EnhanceUnarmedRate": {
                 "En": "Special Armor Effectiveness Down",
@@ -3021,7 +3038,8 @@
                 "Kr": "특수장갑 강화",
                 "Th": "ประสิทธิภาพเกราะพิเศษลดลง",
                 "Tw": "特殊裝甲強化",
-                "Cn": "特殊装甲性能降低"
+                "Cn": "特殊装甲性能降低",
+                "Vi": "Hiệu quả giáp đặc biệt giảm"
             },
             "Debuff_HealedLimit": {
                 "En": "Recovery Limit",
@@ -3305,7 +3323,8 @@
                 "En": "Silver Bullets",
                 "Jp": "シルバーバレット",
                 "Th": "ตราแห่งการชำระบาป",
-                "Cn": "白银圣弹"
+                "Cn": "白银圣弹",
+                "Vi": "Viên đạn bạc"
             }
         },
         "BuffTooltip": {
@@ -3316,7 +3335,7 @@
                 "Th": "ฟื้นฟู HP ช้าๆ เป็นเวลาต่อเนื่อง",
                 "Tw": "以一定時間間隔持續回覆生命值",
                 "Cn": "以一定时间间隔持续回复生命值",
-                "Vi": null
+                "Vi": "Liên tục phục hồi HP theo khoảng thời gian đã định."
             },
             "Buff_AmmoCount": {
                 "En": "Increases the maximum amount of weapon ammunition used by Normal Attacks.",
@@ -3424,7 +3443,7 @@
                 "Th": "เพิ่มความเสียหายที่ทำได้ขึ้นเป็นเปอร์เซ็นต์",
                 "Tw": "以百分比率提升所有造成的傷害。",
                 "Cn": "以一定倍率提升攻击造成的所有伤害",
-                "Vi": null
+                "Vi": "Tăng tất cả sát thương gây ra theo phần trăm."
             },
             "Buff_DEF": {
                 "En": "Decreases the damage received from attacks.",
@@ -3472,19 +3491,22 @@
                 "En": "Decreases the damage received from attacks when defense type is Light Armor.",
                 "Jp": "防御タイプが軽装備の場合、攻撃によって受けるダメージを減少する。",
                 "Th": "ลดความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะเบา",
-                "Cn": "(暂定)降低护甲类型为轻护甲时受到的伤害"
+                "Cn": "(暂定)降低护甲类型为轻护甲时受到的伤害",
+                "Vi": "Giảm sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Hạng nhẹ."
             },
             "Buff_EnhanceHeavyArmorRate": {
                 "En": "Decreases the damage received from attacks when defense type is Heavy Armor.",
                 "Jp": "防御タイプが重装甲の場合、攻撃によって受けるダメージを減少する。",
                 "Th": "ลดความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะหนัก",
-                "Cn": "(暂定)降低护甲类型为重装甲时受到的伤害"
+                "Cn": "(暂定)降低护甲类型为重装甲时受到的伤害",
+                "Vi": "Giảm sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Hạng nặng."
             },
             "Buff_EnhanceUnarmedRate": {
                 "En": "Decreases the damage received from attacks when defense type is Special Armor.",
                 "Jp": "防御タイプが特殊装甲の場合、攻撃によって受けるダメージを減少する。",
                 "Th": "ลดความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะพิเศษ",
-                "Cn": "(暂定)降低护甲类型为神秘装甲时受到的伤害"
+                "Cn": "(暂定)降低护甲类型为神秘装甲时受到的伤害",
+                "Vi": "Giảm sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Đặc biệt."
             },
             "Buff_ExtendBuffDuration": {
                 "En": "Increases the duration of buffs granted to self and allies.",
@@ -3710,7 +3732,7 @@
                 "Th": "ลดความเสียหายที่ทำได้ลงเป็นเปอร์เซ็นต์",
                 "Tw": "以百分比率減少所有造成的傷害。",
                 "Cn": "以一定倍率降低攻击造成的所有伤害",
-                "Vi": null
+                "Vi": "Giảm tất cả sát thương gây ra theo phần trăm."
             },
             "Debuff_DEF": {
                 "En": "Increases the damage received from attacks.",
@@ -3751,19 +3773,22 @@
                 "En": "Increases the damage received from attacks when defense type is Light Armor.",
                 "Jp": "防御タイプが軽装備の場合、攻撃によって受けるダメージを増加する。",
                 "Th": "เพิ่มความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะเบา",
-                "Cn": "(暂定)提升护甲类型为轻护甲时受到的伤害"
+                "Cn": "(暂定)提升护甲类型为轻护甲时受到的伤害",
+                "Vi": "Tăng sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Hạng nhẹ."
             },
             "Debuff_EnhanceHeavyArmorRate": {
                 "En": "Increases the damage received from attacks when defense type is Heavy Armor.",
                 "Jp": "防御タイプが重装甲の場合、攻撃によって受けるダメージを増加する。",
                 "Th": "เพิ่มความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะหนัก",
-                "Cn": "(暂定)提升护甲类型为重装甲时受到的伤害"
+                "Cn": "(暂定)提升护甲类型为重装甲时受到的伤害",
+                "Vi": "Tăng sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Hạng nặng."
             },
             "Debuff_EnhanceUnarmedRate": {
                 "En": "Increases the damage received from attacks when defense type is Special Armor.",
                 "Jp": "防御タイプが特殊装甲の場合、攻撃によって受けるダメージを増加する。",
                 "Th": "เพิ่มความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะพิเศษ",
-                "Cn": "(暂定)提升护甲类型为神秘装甲时受到的伤害"
+                "Cn": "(暂定)提升护甲类型为神秘装甲时受到的伤害",
+                "Vi": "Tăng sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Đặc biệt."
             },
             "Debuff_HealedLimit": {
                 "En": "Limits the amount of HP healing abilities will restore.",
@@ -3983,7 +4008,8 @@
                 "En": "Augments Sakurako's normal attack to deal damage as an additional hit.",
                 "Jp": "サクラコの通常攻撃を追加ダメージ効果を与えるものに強化する。",
                 "Th": "ทำให้การโจมตีทั่วไปสร้างความเสียหายเพิ่มเติมอีกครั้ง",
-                "Cn": "强化樱子的普通攻击，普通攻击时造成追加伤害(该追伤可触发子技能追伤)"
+                "Cn": "强化樱子的普通攻击，普通攻击时造成追加伤害(该追伤可触发子技能追伤)",
+                "Vi": "Tăng cường đòn tấn công bình thường của Sakurako để gây sát thương như một đòn đánh bổ sung."
             }
         },
         "ServerName": {
@@ -4067,7 +4093,7 @@
                 "Th": "เพิ่มเมื่อได้รับความเสียหาย {0}",
                 "Tw": "受到{0}傷害時增加。",
                 "Cn": "受到{0}伤害时提升",
-                "Vi": null
+                "Vi": "Tăng khi gây {0} sát thương."
             },
             "Chesed": {
                 "En": "Increases when automaton soldiers are defeated.",
@@ -4076,7 +4102,7 @@
                 "Th": "เพิ่มเมื่อทหารจักรกลถูกทำลาย (ไม่นับรวมหุ่นดูดฝุ่น)",
                 "Tw": "自動機士兵被擊敗時增加。",
                 "Cn": "自动机士兵被摧毁时提升",
-                "Vi": null
+                "Vi": "Tăng khi lính máy bị đánh bại."
             },
             "ShiroKuro": {
                 "En": "Increases when hit by own attacks.",
@@ -4085,7 +4111,7 @@
                 "Th": "เพิ่มเมื่อถูกโจมตีโดยการโจมตีของตัวเอง",
                 "Tw": "被自身攻擊擊中時增加。",
                 "Cn": "被自身攻击命中时提升",
-                "Vi": null
+                "Vi": "Tăng khi bị trúng bởi đòn đánh của bản thân."
             },
             "Hieronymus": {
                 "En": "Increases when EX Skills are interrupted.",
@@ -4094,7 +4120,7 @@
                 "Th": "เพิ่มเมื่อถูกเรลิกแดงขัดขวางการใช้สกิล EX",
                 "Tw": "EX技能被打斷時增加。",
                 "Cn": "EX技能被打断时提升",
-                "Vi": null
+                "Vi": "Tăng khi kỹ năng EX bị gián đoạn."
             },
             "KaitenFxMk0": {
                 "En": "Increases when components are destroyed.",
@@ -4103,7 +4129,7 @@
                 "Th": "เพิ่มเมื่อได้รับความเสียหายจนชิ้นส่วนถูกทำลาย",
                 "Tw": "組件被摧毀時增加。",
                 "Cn": "组件被摧毁时提升",
-                "Vi": null
+                "Vi": "Tăng khi các bộ phận bị phá huỷ."
             },
             "Perorozilla": {
                 "En": "Increases when stunned Perorominions are absorbed.",
@@ -4112,7 +4138,7 @@
                 "Th": "เพิ่มเมื่อลูกสมุนเพโรโร่ที่ล้มลงถูกดูดซับ",
                 "Tw": "被擊暈的佩洛洛士兵被吸收時增加。",
                 "Cn": "被击倒的佩洛洛被吸收时提升",
-                "Vi": null
+                "Vi": "Tăng khi lính Peroro bị choáng được hấp thụ."
             },
             "HOD": {
                 "En": "Increases when Erosion Towers are destroyed or Hod's CC Gauge is filled.",
@@ -4121,7 +4147,7 @@
                 "Th": "เพิ่มเมื่อเสากัดกร่อนถูกทำลายหรือเกจพิเศษของ Hod เต็ม",
                 "Tw": "侵蝕塔被摧毀或霍德的CC量表充滿時增加。",
                 "Cn": "侵蚀之柱被摧毁或Hod的群控量表充满时提升",
-                "Vi": null
+                "Vi": "Tăng khi tháp truyền tải bị phá huỷ hoặc thanh CC của Hod đạt đủ."
             },
             "HoverCraft": {
                 "En": "Increases when Missile Frenzy mode ends.",
@@ -4130,7 +4156,7 @@
                 "Th": "เพิ่มเมื่อโหมดยิงมิสไซล์จบลง",
                 "Tw": "導彈炸裂模式結束時增加。",
                 "Cn": "导弹暴走模式结束时提升",
-                "Vi": null
+                "Vi": "Tăng khi chế độ khai hoả tên lửa kết thúc."
             }
         },
         "ui": {
@@ -4375,7 +4401,7 @@
                 "Th": "ข้อมูลสามารถนำเข้ามาจาก SchaleDB หรือ <a href=\"https://justin163.com/planner/\">Justin163's resource planner</a> ได้ (เลือก Transfer > Export)",
                 "Tw": "數據可以從 Schale 或 <a href=\"https://justin163.com/planner/\">Justin163's resource planner</a> 導入。(選擇傳輸 > 導出)",
                 "Cn": "数据可以从 Schale 或 <a href=\"https://justin163.com/planner/\">Justin163's resource planner</a> 导入(选择传输 > 导出)",
-                "Vi": null
+                "Vi": "Dữ liệu có thể nhập từ Schale hoặc <a href=\"https://justin163.com/planner/\">Công cụ sắp xếp tài nguyên của Justin163</a>. (Chọn Transfer > Export)"
             },
             "collection_import_warning": {
                 "En": "This will overwrite your current collection",
@@ -4393,7 +4419,7 @@
                 "Th": "พบข้อมูลส่งออกสำหรับนักเรียน {0} คน",
                 "Tw": "找到了{0}個學生的數據。",
                 "Cn": "找到了{0}个学生的数据",
-                "Vi": null
+                "Vi": "Dữ liệu xuất cho {0} học sinh được tìm thấy."
             },
             "collection_import_status_invalid": {
                 "En": "Export data is invalid.",
@@ -4402,7 +4428,7 @@
                 "Th": "ข้อมูลส่งออกไม่ถูกต้อง",
                 "Tw": "導出數據無效。",
                 "Cn": "导出数据无效",
-                "Vi": null
+                "Vi": "Dữ liệu xuất không hợp lệ."
             },
             "collection_export_placeholder": {
                 "En": "Click export to generate an export string from your collection",
@@ -4501,7 +4527,7 @@
                 "Th": "สิ้นสุดในอีก <b>{0} วัน, {1} ชั่วโมง {2} นาที</b>",
                 "Tw": "<b>{0}天{1}小時{2}分鐘</b>後結束",
                 "Cn": "<b>{0}天{1}时{2}分</b>后结束",
-                "Vi": "Kết thúc sau <b>{0} ngày, {1} giờ và {2} phút </b>."
+                "Vi": "Kết thúc sau <b>{0} ngày, {1} giờ và {2} phút</b>."
             },
             "student_birthdays": {
                 "En": "The following students are celebrating their birthday in the next 7 days!",
@@ -4879,7 +4905,7 @@
                 "Th": "ได้รับความเสียหาย <b>&times;1</b> จากการโจมตีประเภท<b class='ba-col-explosion'>ระเบิด</b>, <b class='ba-col-pierce'>เจาะเกราะ</b>และ<b class='ba-col-mystic'>ลึกลับ</b>",
                 "Tw": "承受<b>1倍</b><b class='ba-col-explosion'>爆炸</b>、<b class='ba-col-pierce'>貫穿</b>與<b class='ba-col-mystic'>神秘</b>攻擊傷害。",
                 "Cn": "承受<b>1倍</b><b class='ba-col-explosion'>爆破</b>、<b class='ba-col-pierce'>贯通</b>与<b class='ba-col-mystic'>神秘</b>攻击伤害",
-                "Vi": "Receives <b>1&times;</b> damage from <b class='ba-col-explosion'>Explosive</b>, <b class='ba-col-pierce'>Piercing</b> and <b class='ba-col-mystic'>Mystic</b> attacks."
+                "Vi": "Nhận <b>1x</b> sát thương từ các đòn đánh loại <b class='ba-col-explosion'>Nổ</b>, <b class='ba-col-pierce'>Xuyên thủng</b> và <b class='ba-col-mystic'>Huyền bí</b>."
             },
             "comfort": {
                 "En": "Comfort",
@@ -5113,7 +5139,7 @@
                 "Th": "หายาก",
                 "Tw": "稀有度",
                 "Cn": "稀有度/获取方式",
-                "Vi": "Độ hiếm / Số lần Rerun"
+                "Vi": "Độ hiếm / Khả dụng"
             },
             "attacktype": {
                 "En": "Attack Type",
@@ -5212,7 +5238,7 @@
                 "Th": "เพลงประกอบล็อบบี้ฯ: {0}",
                 "Tw": "大廳BGM: {0}",
                 "Cn": "大厅BGM: {0}",
-                "Vi": null
+                "Vi": "Nhạc nền của sảnh chính: {0}"
             },
             "terrain_adaption": {
                 "En": "{0} Combat Power",
@@ -5364,7 +5390,8 @@
                 "Kr": "구역",
                 "Th": "พื้นที่",
                 "Tw": "區域",
-                "Cn": "区域"
+                "Cn": "区域",
+                "Vi": "Vùng"
             },
             "event_rerun": {
                 "En": " (Rerun)",
@@ -5628,7 +5655,7 @@
                 "Th": "3★",
                 "Tw": "3★",
                 "Cn": "3★",
-                "Vi": "3 sao"
+                "Vi": "3★"
             },
             "rewards_season": {
                 "En": "Season Reward",
@@ -5734,7 +5761,7 @@
                 "Th": "ระดับอุปกรณ์",
                 "Tw": "裝備級數",
                 "Cn": "装备梯级",
-                "Vi": "Bậc thiết bị"
+                "Vi": "Bậc trang bị"
             },
             "furniture_interaction_list": {
                 "En": "The following students interact with this furniture",
@@ -5770,7 +5797,7 @@
                 "Th": "เพิ่มค่าความสัมพันธ์ {0} {1} เมื่อมอบให้กับนักเรียนดังต่อไปนี้",
                 "Tw": "{1} 贈予以下學生時 +{0} 羈絆經驗",
                 "Cn": "{1} 赠送给下列学生时 +{0} 羁绊经验",
-                "Vi": null
+                "Vi": "+{0} điểm mối quan hệ {1} khi tặng cho những học sinh sau"
             },
             "item_student_favor_default": {
                 "En": "+{0} Relationship EXP {1} when given to any other student",
@@ -5779,7 +5806,7 @@
                 "Th": "เพิ่มค่าความสัมพันธ์ {0} {1} เมื่อมอบให้กับนักเรียนคนอื่นๆ",
                 "Tw": "{1} 贈予任何其他學生時 +{0} 羈絆經驗",
                 "Cn": "{1} 赠送给其他学生时 +{0} 羁绊经验",
-                "Vi": null
+                "Vi": "+{0} điểm mối quan hệ {1} khi tặng cho bất kỳ học sinh"
             },
             "item_student_favor_all": {
                 "En": "+{0} Relationship EXP {1} when given to any student",
@@ -5788,7 +5815,7 @@
                 "Th": "เพิ่มค่าความสัมพันธ์ {0} {1} เมื่อมอบให้กับนักเรียนทุกคน",
                 "Tw": "{1} 贈予任何學生時 +{0} 羈絆經驗",
                 "Cn": "{1} 赠送给任何学生时 +{0} 羁绊经验",
-                "Vi": null
+                "Vi": "+{0} điểm mối quan hệ {1} khi tặng cho bất kỳ học sinh"
             },
             "item_usedby_gear": {
                 "En": "Used to improve the following students' unique item",
@@ -5824,7 +5851,7 @@
                 "Th": "ใช้ในการอัปเกรดสกิล EX: {0}",
                 "Tw": "EX技能需要：{0}",
                 "Cn": "EX技能需求量：{0}",
-                "Vi": null
+                "Vi": "Cần thiết cho kỹ năng EX: {0}"
             },
             "item_usedby_skill_amount": {
                 "En": "Needed for Basic/Enhanced/Sub Skill: {0}",
@@ -5833,7 +5860,7 @@
                 "Th": "ใช้ในการอัปเกรดสกิลพื้นฐาน/ติดตัว/รอง: {0}",
                 "Tw": "基本/增强/子技能需要：{0}",
                 "Cn": "普通技能/被动技能/子技能需求量：{0}",
-                "Vi": null
+                "Vi": "Cần thiết cho các kỹ năng cơ bản/cải thiện/phụ: {0}"
             },
             "item_usedby_skill": {
                 "En": "Used to improve the following students' skills",
@@ -5878,7 +5905,7 @@
                 "Th": "ไอเทมนี้ได้รับโบนัสดรอปจากนักเรียนดังต่อไปนี้",
                 "Tw": "以下學生可以額外獲得這種貨幣。",
                 "Cn": "以下学生可增加获得该活动代币的数量",
-                "Vi": null
+                "Vi": "Những học sinh sau sẽ được thưởng thêm loại tiền thưởng này."
             },
             "item_randombox_tier": {
                 "En": "Random {0} {1}",
@@ -5905,7 +5932,7 @@
                 "Th": "บรรจุหนึ่งในสูตรอุปกรณ์ดังต่อไปนี้",
                 "Tw": "包含以下裝備碎片之一：",
                 "Cn": "包含以下装备图纸之一：",
-                "Vi": "Chứa một trong các phần trang bị sau:"
+                "Vi": "Chứa một trong các mảnh trang bị sau:"
             },
             "item_contains_random": {
                 "En": "Randomly rewards one of the following items",
@@ -5914,7 +5941,7 @@
                 "Th": "สุ่มรับหนึ่งในบรรดาไอเทมดังต่อไปนี้",
                 "Tw": "隨機獲得以下物品中的一件",
                 "Cn": "可随机获得下列物品中的一项",
-                "Vi": null
+                "Vi": "Phần thưởng ngẫu nhiên một trong các vật phẩm sau"
             },
             "item_contains_choice": {
                 "En": "Rewards a choice of one of the following items",
@@ -5923,7 +5950,7 @@
                 "Th": "เลือกรับหนึ่งในบรรดาไอเทมดังต่อไปนี้",
                 "Tw": "選擇獲得以下物品中的一件",
                 "Cn": "可选择获得下列物品中的一项",
-                "Vi": null
+                "Vi": "Phần thưởng tự chọn một trong các vật phẩm sau"
             },
             "item_is_immediateuse": {
                 "En": "※ This item is used immediately when acquired",
@@ -5932,7 +5959,7 @@
                 "Th": "※ ไอเทมนี้จะถูกใช้งานทันทีที่ได้รับ",
                 "Tw": "※ 此物品在獲得后立刻被使用",
                 "Cn": "※ 此物品在获得后立刻被使用",
-                "Vi": null
+                "Vi": "※ Vật phẩm này được sử dụng ngay tức thì khi mua."
             },
             "conquest_area": {
                 "En": "Area {0}",
@@ -5949,7 +5976,8 @@
                 "Kr": "점령",
                 "Th": "ยึด",
                 "Tw": "佔領",
-                "Cn": "占领"
+                "Cn": "占领",
+                "Vi": "Tái chiếm"
             },
             "conquest_operate": {
                 "En": "Operate",
@@ -5957,7 +5985,8 @@
                 "Kr": "운영",
                 "Th": "จัดการ",
                 "Tw": "營運",
-                "Cn": "运营"
+                "Cn": "运营",
+                "Vi": "Vận hành"
             },
             "conquest_settlement": {
                 "En": "Settlement Acquisition Reward",
@@ -5965,7 +5994,8 @@
                 "Kr": "정산 획득 보상",
                 "Th": "รางวัลดำเนินการ",
                 "Tw": "結算獲得獎勵",
-                "Cn": "结算获得报酬"
+                "Cn": "结算获得报酬",
+                "Vi": "Phần thưởng tái chiếm định cư"
             },
             "school_bonus": {
                 "En": "Academy Buff",
@@ -5973,7 +6003,8 @@
                 "Kr": "학원 편성 효과",
                 "Th": "เอฟเฟกต์จัดทีมโรงเรียน",
                 "Tw": "學園編輯效果",
-                "Cn": "学园编队效果"
+                "Cn": "学园编队效果",
+                "Vi": "Hiệu ứng buff học viện"
             },
             "school_bonus_num_students": {
                 "En": "{0} Students: ",
@@ -5981,7 +6012,8 @@
                 "Kr": "{0}명: ",
                 "Th": "{0}คน: ",
                 "Tw": "{0}名: ",
-                "Cn": "{0}名学生: "
+                "Cn": "{0}名学生: ",
+                "Vi": "{0} học sinh: "
             },
             "school_bonus_conquest": {
                 "En": "(Operate) Event Currency Reward +{0}%, (Occupy) ATK +{1}%",
@@ -5989,7 +6021,8 @@
                 "Kr": "운영 보상 추가 획득 +{0}%, 공격력 증가 +{1}%",
                 "Th": "รับรางวัลจัดการเพิ่ม +{0}%, เพิ่มค่าโจมตี +{1}%",
                 "Tw": "營運獎勵額外獲得＋{0}%, 攻擊力增加＋{1}%",
-                "Cn": "运营报酬+{0}%, 占领攻击力+{1}%"
+                "Cn": "运营报酬+{0}%, 占领攻击力+{1}%",
+                "Vi": "Tiền thưởng sự kiện +{0}%, ATK +{1}%"
             },
             "tooltip_relationship_bonus": {
                 "En": "Include {0}'s Relationship Bonus",
@@ -6232,7 +6265,7 @@
                 "Th": "นำเข้าข้อมูลนักเรียนในคอลเลคชั่นสำเร็จ",
                 "Tw": "導入學生集成功",
                 "Cn": "导入学生集成功",
-                "Vi": "Đã nhập thành công bộ sưu tập học sinh"
+                "Vi": "Đã nhập thành công bộ sưu tập gồm {0} học sinh"
             },
             "toast_import_failure": {
                 "En": "Error importing student collection",
@@ -6331,7 +6364,7 @@
                 "Th": "การโจมตีปกติใช้กระสุน {0} นัดและสร้างความเสียหายจำนวน {1} ครั้งให้กับศัตรูในพื้นที่รูปทรงกรวย",
                 "Tw": "普通攻擊消耗 {0} 彈藥並對扇形區域內的敵人造成 {1} 次攻擊",
                 "Cn": "普通攻击消耗{0}弹药并对扇形范围内的敌方单位造成{1}次伤害",
-                "Vi": null
+                "Vi": "Đánh thường tiêu hao {0} đạn và gây {1} đòn đánh lên kẻ thù trong một khu vực hình quạt."
             },
             "skill_hits_tooltip": {
                 "En": "Deals a total of {0} hit(s)",
@@ -6385,7 +6418,7 @@
                 "Th": "ในปัจจุบัน Schale สามารถใช้งานได้ใน 7 ภาษา อยากให้ความช่วยเหลือในการแปลภาษา? ติดต่อได้ทาง Discord (lonqie#2708) หรือลองเข้าไปตรวจสอบใน<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">โปรเจคแปลภาษา</a>ได้เลย! ",
                 "Tw": "Schale 目前支援7種語言。如果你想幫忙翻譯請透過Discord(lonqie#2708)聯係或查看<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">本地化項目</a>！",
                 "Cn": "Schale 目前支持7种语言。如果你想帮助翻译请通过Discord(lonqie#2708)联系或查看<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\" target=\"_blank\">本地化项目</a>！",
-                "Vi": "Schale DB hiện đã có sẵn 6 ngôn ngữ + 1 ngôn ngữ đang phát triển (tiếng Việt). Muốn góp phần cho bản dịch này? Vui lòng liên hệ qua Discord: Miyakami.#9666."
+                "Vi": "Schale DB hiện đã có sẵn 6 ngôn ngữ + 1 ngôn ngữ đang phát triển (tiếng Việt). Muốn góp phần cho bản dịch này? Vui lòng liên hệ qua Discord: Miyakami.#9666 (Vi) hoặc lonqie#2708 (En)."
             },
             "home_features_list": {
                 "En": "<li>Full information on all students and their skills, summons and vehicles.</li><li>Calculation feature that can display a student's stats under any configuration of level, equipment and buffs, and calculate skill damage and healing against a configurable target enemy.</li><li>Complete Items, Equipment and Furniture database.</li><li>Reward drops, maps and detailed enemy information for all Campaign, Event Quest, Challenge and Daily stages.</li><li>Stats and Skill information for Total Assault bosses and Joint Firing Drill events.</li><li>View the chances of possible items received from crafting nodes.</li>",
@@ -6421,7 +6454,7 @@
                 "Th": "ลิงค์เพิ่มเติม",
                 "Tw": null,
                 "Cn": "链接",
-                "Vi": null
+                "Vi": "Liên kết"
             },
             "community_resources": {
                 "En": "Community Resources",
@@ -6430,7 +6463,7 @@
                 "Th": "แหล่งข้อมูลเพิ่มเติมของคอมมูนิตี้",
                 "Tw": null,
                 "Cn": "社区资源",
-                "Vi": null
+                "Vi": "Tài nguyên Cộng đồng"
             },
             "skillinfo_empty": {
                 "En": "The selected character has no damage-dealing or healing skills to display.",
@@ -6484,7 +6517,7 @@
                 "Th": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูในพื้นที่รูปทรงกรวย",
                 "Tw": "對扇形區域內敵人造成<?1>傷害。",
                 "Cn": "对扇形范围内的敌方单位造成攻击力<?1>的伤害。",
-                "Vi": null
+                "Vi": "Gây <?1> sát thương lên kẻ địch trong khu vực hình quạt."
             },
             "type_effectiveness": {
                 "En": "Type Effectiveness",
