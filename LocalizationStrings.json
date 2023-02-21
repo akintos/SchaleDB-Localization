@@ -760,60 +760,60 @@
         "FurnitureSet": {
             "100": {
                 "EtcKey": 2633292506,
-                "Cn": "Momo好友咖啡厅组合",
+                "Cn": "Momo好友咖啡厅系列",
                 "Vi": "Bộ cà phê Momo Friends"
             },
             "101": {
                 "EtcKey": 2130797913,
-                "Cn": "果冻娱乐室组合",
+                "Cn": "果冻娱乐室系列",
                 "Vi": "Bộ Jellies cổ điển"
             },
             "102": {
                 "EtcKey": 2700178132,
-                "Cn": "情人节组合",
+                "Cn": "情人节系列",
                 "Vi": "Bộ lễ tình nhân"
             },
             "103": {
                 "EtcKey": 1112765859,
-                "Cn": "避暑胜地组合",
+                "Cn": "避暑胜地系列",
                 "Vi": "Bộ dành cho tiệc hồ bơi của khu nghỉ dưỡng mùa hè"
             },
             "104": {
                 "EtcKey": 2295911688,
-                "Cn": "万圣节咖啡厅组合",
+                "Cn": "万圣节咖啡厅系列",
                 "Vi": "Bộ cà phê Jack-O-Lantern"
             },
             "105": {
                 "EtcKey": 2218356853,
-                "Cn": "传统温泉乡组合",
+                "Cn": "传统温泉乡系列",
                 "Vi": "Bộ khu nghỉ dưỡng suối nước nóng"
             },
             "106": {
                 "EtcKey": 1880396630,
-                "Cn": "正月组合",
+                "Cn": "正月系列",
                 "Vi": "Bộ nhà năm mới"
             },
             "107": {
                 "EtcKey": 660700768,
-                "Cn": "军事露营区组合",
+                "Cn": "军事露营区系列",
                 "Vi": "Bộ cắm trại quân sự"
             },
             "108": {
                 "EtcKey": 1334657209,
                 "En": "Beachside Set",
-                "Cn": "海滨组合",
+                "Cn": "海滨系列",
                 "Vi": "Bộ bên bờ biển"
             },
             "109": {
                 "EtcKey": 3711274552,
                 "En": "Sports Day Set",
-                "Cn": "大运动会组合",
+                "Cn": "大运动会系列",
                 "Vi": "Bộ hội thao"
             },
             "110": {
                 "EtcKey": 4141233484,
                 "En": "Abydos Classroom Set",
-                "Cn": "阿拜多斯教室组合",
+                "Cn": "阿拜多斯教室系列",
                 "Vi": "Bộ lớp học Abydos"
             }
         },
