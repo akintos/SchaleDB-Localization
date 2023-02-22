@@ -418,6 +418,15 @@
         "NameVi": "Thánh vật màu xanh"
     },
     {
+        "Id": 7303906,
+        "NameEn": "Green Relic",
+        "NameJp": "緑色の聖遺物",
+        "NameTw": "綠色聖遺物",
+        "NameCn": "绿色圣遗物",
+        "NameTh": "เรลิกเขียว",
+        "NameVi": "Thánh vật màu xanh"
+    },
+    {
         "Id": 7303910,
         "NameEn": "Red Relic",
         "NameJp": "赤色の聖遺物",
@@ -473,6 +482,15 @@
     },
     {
         "Id": 7303925,
+        "NameEn": "Violet Relic",
+        "NameJp": "紫色の聖遺物",
+        "NameTw": "紫色聖遺物",
+        "NameCn": "紫色圣遗物",
+        "NameTh": "เรลิกม่วง",
+        "NameVi": "Thánh vật màu tím"
+    },
+    {
+        "Id": 7303926,
         "NameEn": "Violet Relic",
         "NameJp": "紫色の聖遺物",
         "NameTw": "紫色聖遺物",

@@ -34,10 +34,9 @@
                 "Cn": "普通",
                 "Vi": "Thường"
             },
-            "Siege": {
-                "CodeKey": 3580810486,
-                "Vi": "Siege",
-                "Cn": "攻城"
+            "Sonic": {
+                "CodeKey": 4004205343,
+                "En": "Sonic"
             }
         },
         "ArmorType": {
@@ -56,10 +55,49 @@
                 "Cn": "特殊装甲",
                 "Vi": "Đặc biệt"
             },
+            "ElasticArmor": {
+                "CodeKey": 3649373495,
+                "En": "Elastic"
+            },
             "Normal": {
                 "CodeKey": 2051696859,
-                "En": "Normal",
                 "Cn": "普通护甲",
+                "Vi": "Thường"
+            }
+        },
+        "ArmorTypeLong": {
+            "LightArmor": {
+                "CodeKey": 3837040931,
+                "En": "Light Armor",
+                "Cn": "轻甲",
+                "Vi": "Nhẹ"
+            },
+            "HeavyArmor": {
+                "CodeKey": 2014245498,
+                "En": "Heavy Armor",
+                "Cn": "重甲",
+                "Vi": "Nặng"
+            },
+            "Unarmed": {
+                "CodeKey": 3363459657,
+                "En": "Special Armor",
+                "Cn": "特殊甲",
+                "Vi": "Đặc biệt"
+            },
+            "Structure": {
+                "CodeKey": 345145061,
+                "En": "Structures",
+                "Cn": "构造物",
+                "Vi": "cấu trúc"
+            },
+            "ElasticArmor": {
+                "CodeKey": 3649373495,
+                "En": "Elastic Armor"
+            },
+            "Normal": {
+                "CodeKey": 2051696859,
+                "En": "Normal Armor",
+                "Cn": "普通甲",
                 "Th": "เกราะปกติ",
                 "Vi": "Thường"
             }
@@ -1073,6 +1111,134 @@
                 "Vi": "Hiện vật"
             }
         },
+        "ArtifactClass": {
+            "10": {
+                "En": "Nebra Sky Disk",
+                "Jp": null,
+                "Kr": null,
+                "Tw": null,
+                "Cn": null,
+                "Th": null,
+                "Vi": null
+            },
+            "11": {
+                "En": "Phaistos Disc",
+                "Jp": null,
+                "Kr": null,
+                "Tw": null,
+                "Cn": null,
+                "Th": null,
+                "Vi": null
+            },
+            "12": {
+                "En": "Wolfsegg Steel",
+                "Jp": null,
+                "Kr": null,
+                "Tw": null,
+                "Cn": null,
+                "Th": null,
+                "Vi": null
+            },
+            "13": {
+                "En": "Nimrud Lens",
+                "Jp": null,
+                "Kr": null,
+                "Tw": null,
+                "Cn": null,
+                "Th": null,
+                "Vi": null
+            },
+            "14": {
+                "En": "Mandrake",
+                "Jp": null,
+                "Kr": null,
+                "Tw": null,
+                "Cn": null,
+                "Th": null,
+                "Vi": null
+            },
+            "15": {
+                "En": "Rohonc Codex",
+                "Jp": null,
+                "Kr": null,
+                "Tw": null,
+                "Cn": null,
+                "Th": null,
+                "Vi": null
+            },
+            "16": {
+                "En": "Aether",
+                "Jp": null,
+                "Kr": null,
+                "Tw": null,
+                "Cn": null,
+                "Th": null,
+                "Vi": null
+            },
+            "17": {
+                "En": "Antikythera",
+                "Jp": null,
+                "Kr": null,
+                "Tw": null,
+                "Cn": null,
+                "Th": null,
+                "Vi": null
+            },
+            "18": {
+                "En": "Voynich Manuscript",
+                "Jp": null,
+                "Kr": null,
+                "Tw": null,
+                "Cn": null,
+                "Th": null,
+                "Vi": null
+            },
+            "19": {
+                "En": "Crystal Haniwa",
+                "Jp": null,
+                "Kr": null,
+                "Tw": null,
+                "Cn": null,
+                "Th": null,
+                "Vi": null
+            },
+            "20": {
+                "En": "Totem Pole",
+                "Jp": null,
+                "Kr": null,
+                "Tw": null,
+                "Cn": null,
+                "Th": null,
+                "Vi": null
+            },
+            "21": {
+                "En": "Ancient Battery",
+                "Jp": null,
+                "Kr": null,
+                "Tw": null,
+                "Cn": null,
+                "Th": null,
+                "Vi": null
+            },
+            "24": {
+                "En": "Disco Colgante",
+                "Jp": null,
+                "Kr": null,
+                "Tw": null,
+                "Cn": null,
+                "Th": null,
+                "Vi": null
+            },
+            "29": {
+                "En": "Winnipesaukee Stone",
+                "Jp": null,
+                "Kr": null,
+                "Tw": null,
+                "Cn": null,
+                "Th": null,
+                "Vi": null
+            }
+        },
         "EnemyTags": {
             "EnemySmall": {
                 "En": "Small",
@@ -1221,6 +1387,10 @@
                 "En": "Battle for the False Sanctum",
                 "Cn": "虚妄神圣之塔攻略战",
                 "Vi": "Cuộc chiến cho thánh đường giả"
+            },
+            "822": {
+                "ScenarioKey": 3767391336,
+                "En": "Atra-Hasis' Ark Conquest"
             }
         },
         "StageType": {
@@ -1348,6 +1518,10 @@
                 "CodeKey": 3551476547,
                 "Cn": "失乐园度假群岛",
                 "Vi": "Quần đảo nghỉ dưỡng thiên đường mất tích"
+            },
+            "822": {
+                "CodeKey": 1364759382,
+                "En": "Atra-Hasis' Ark"
             }
         },
         "StageTitle": {
@@ -1540,6 +1714,10 @@
                 "CodeKey": 1050461170,
                 "En": "Insane",
                 "Vi": "Cuồng loạn"
+            },
+            "6": {
+                "CodeKey": 4201122760,
+                "En": "Torment"
             }
         },
         "WeaponPartExpBonus": {
@@ -2472,6 +2650,9 @@
                 "Tw": "一般攻擊",
                 "Cn": "普通攻击",
                 "Vi": "Tấn công thường"
+            },
+            "Special_CH0187Mod": {
+                "En": "Charge"
             }
         },
         "BuffNameLong": {
@@ -3325,6 +3506,9 @@
                 "Th": "ตราแห่งการชำระบาป",
                 "Cn": "白银圣弹",
                 "Vi": "Viên đạn bạc"
+            },
+            "Special_CH0187Mod": {
+                "En": "Abi-Eshuh Mode Charge"
             }
         },
         "BuffTooltip": {
@@ -4010,6 +4194,9 @@
                 "Th": "ทำให้การโจมตีทั่วไปสร้างความเสียหายเพิ่มเติมอีกครั้ง",
                 "Cn": "强化樱子的普通攻击，普通攻击时造成追加伤害(该追伤可触发子技能追伤)",
                 "Vi": "Tăng cường đòn tấn công bình thường của Sakurako để gây sát thương như một đòn đánh bổ sung."
+            },
+            "Special_CH0187Mod": {
+                "En": "Allows the use of Toki's EX Skill while in Abi-Eshuh Mode. Abi-Eshuh mode ends once all stacks are consumed."
             }
         },
         "ServerName": {
@@ -4808,6 +4995,15 @@
                 "Cn": "被动技能",
                 "Vi": "Kỹ năng nâng cao"
             },
+            "student_skill_weaponpassive": {
+                "En": "Enhanced Skill+",
+                "Jp": "パッシブスキル＋",
+                "Kr": "강화 스킬+",
+                "Th": "สกิลติดตัว+",
+                "Tw": "強化技能+",
+                "Cn": "被动技能+",
+                "Vi": "Kỹ năng nâng cao+"
+            },
             "student_skill_sub": {
                 "En": "Sub Skill",
                 "Jp": "サブスキル",
@@ -4872,34 +5068,34 @@
                 "Vi": "Mở khóa kỹ năng cơ bản +"
             },
             "attack_type_desc": {
-                "En": "Deals <b>2&times;</b> damage to {0} armor targets.<br>Deals <b>0.5&times;</b> damage to {1} armor targets.<br>Deals <b>0.5&times;</b> damage to <b>Structures</b>.",
-                "Jp": "{0}に<b>2倍</b>のダメージを与える。<br>{1}に<b>0.5倍</b>のダメージを与える。<br>構造物に<b>0.5倍</b>のダメージを与える。",
-                "Kr": "{0} 대상에게 <b>2&times;</b> 대미지.<br>{0} 대상에게 <b>0.5&times;</b> 대미지.<br>구조물 대상에게 <b>0.5&times;</b> 대미지.",
-                "Th": "สร้างความเสียหาย <b>&times;2</b> ให้กับเป้าหมายประเภท{0}<br>สร้างความเสียหาย <b>&times;0.5</b> ให้กับเป้าหมายประเภท{1}<br>สร้างความเสียหาย <b>&times;0.5</b> ให้กับเป้าหมายประเภท<b>สิ่งปลูกสร้าง</b>",
-                "Tw": "對{0}目標造成<b>2倍</b>傷害。<br>對{1}目標造成<b>0.5倍</b>傷害。<br>對<b class='ba-col-siege'>構造物</b>造成<b>0.5倍</b>傷害。",
-                "Cn": "对{0}目标造成<b>2倍</b>伤害<br>对{1}目标造成<b>0.5倍</b>伤害<br>对<b class='ba-col-siege'>构造物</b>造成<b>0.5倍</b>伤害",
-                "Vi": "Gây <b>2x</b> sát thương cho mục tiêu có giáp {0}.<br>Gây sát thương <b>0,5x</b> cho mục tiêu có giáp {1}.<br>Gây <b>0,5x</b> hư hỏng đối với loại <b>cấu trúc</b>."
+                "En": "Deals <b>{0}&times;</b> damage to {1}.",
+                "Jp": "{1}に<b>{0}倍</b>のダメージを与える。",
+                "Kr": "{1} 대상에게 <b>{0}&times;</b> 대미지.",
+                "Th": "สร้างความเสียหาย <b>&times;{0}</b> ให้กับเป้าหมายประเภท{1}",
+                "Tw": "對{1}目標造成<b>{0}倍</b>傷害。",
+                "Cn": "对{1}目标造成<b>{0}倍</b>伤害",
+                "Vi": "Gây <b>{0}x</b> sát thương cho mục tiêu có giáp {1}."
             },
             "attack_type_normal_desc": {
-                "En": "Deals <b>1&times;</b> damage to <b class='ba-col-explosion'>Light</b>, <b class='ba-col-pierce'>Heavy</b> and <b class='ba-col-mystic'>Special</b> armor targets.<br>Deals <b>0.5&times;</b> damage to <b class='ba-col-siege'>Structures</b>.",
+                "En": "Deals <b>1&times;</b> damage to <b class='ba-col-explosion'>Light Armor</b>, <b class='ba-col-pierce'>Heavy Armor</b>, <b class='ba-col-mystic'>Special Armor</b> and <b class='ba-col-elasticarmor'>Elastic Armor</b>.<br>Deals <b>0.5&times;</b> damage to <b>Structures</b>.",
                 "Jp": "すべての防御タイプに<b>1倍</b>のダメージを与える<br>構造物に<b>0.5倍</b>のダメージを与える。",
                 "Kr": "<b class='ba-col-explosion'>경장갑</b>, <b class='ba-col-pierce'>중장갑</b>, <b class='ba-col-mystic'>신비장갑</b> 대상에게 <b>1&times;</b> 대미지.<br>구조물 대상에게 <b>0.5&times;</b> 대미지.",
-                "Th": "สร้างความเสียหาย <b>&times;1</b> ให้กับเป้าหมายประเภท<b class='ba-col-explosion'>เกราะเบา</b>, <b class='ba-col-pierce'>เกราะหนัก</b>และ<b class='ba-col-mystic'>เกราะพิเศษ</b><br>สร้างความเสียหาย <b>&times;0.5</b> ให้กับเป้าหมายประเภท<b class='ba-col-siege'>สิ่งปลูกสร้าง</b>",
-                "Tw": "對<b class='ba-col-explosion'>輕裝甲</b>、<b class='ba-col-pierce'>重裝甲</b>與<b class='ba-col-mystic'>神秘裝甲</b>目標造成<b>1倍</b>傷害。<br>對<b class='ba-col-siege'>構造物</b>造成<b>0.5倍</b>傷害。",
-                "Cn": "对<b class='ba-col-explosion'>轻护甲</b>、<b class='ba-col-pierce'>重装甲</b>与<b class='ba-col-mystic'>神秘装甲</b>目标造成<b>1倍</b>伤害<br>对<b class='ba-col-siege'>构造物</b>造成<b>0.5倍</b>伤害",
-                "Vi": "Gây <b>1x</b> sát thương lên mục tiêu có giáp <b class='ba-col-explosion'>nhẹ</b>, <b class='ba-col-pierce'>nặng</b> và <b class='ba-col-mystic'>đặc biệt</b>.<br>Gây <b>0,5x</b> sát thương cho <b class='ba-col-siege'>cấu trúc</b>."
+                "Th": "สร้างความเสียหาย <b>&times;1</b> ให้กับเป้าหมายประเภท<b class='ba-col-explosion'>เกราะเบา</b>, <b class='ba-col-pierce'>เกราะหนัก</b>และ<b class='ba-col-mystic'>เกราะพิเศษ</b><br>สร้างความเสียหาย <b>&times;0.5</b> ให้กับเป้าหมายประเภท<b>สิ่งปลูกสร้าง</b>",
+                "Tw": "對<b class='ba-col-explosion'>輕裝甲</b>、<b class='ba-col-pierce'>重裝甲</b>與<b class='ba-col-mystic'>神秘裝甲</b>目標造成<b>1倍</b>傷害。<br>對<b>構造物</b>造成<b>0.5倍</b>傷害。",
+                "Cn": "对<b class='ba-col-explosion'>轻护甲</b>、<b class='ba-col-pierce'>重装甲</b>与<b class='ba-col-mystic'>神秘装甲</b>目标造成<b>1倍</b>伤害<br>对<b>构造物</b>造成<b>0.5倍</b>伤害",
+                "Vi": "Gây <b>1x</b> sát thương lên mục tiêu có giáp <b class='ba-col-explosion'>nhẹ</b>, <b class='ba-col-pierce'>nặng</b> và <b class='ba-col-mystic'>đặc biệt</b>.<br>Gây <b>0,5x</b> sát thương cho <b>cấu trúc</b>."
             },
             "defense_type_desc": {
-                "En": "Receives <b>2&times;</b> damage from {0} attacks.<br>Receives <b>0.5&times;</b> damage from {1} attacks.",
-                "Jp": "{0}攻撃から<b>2倍</b>のダメージを受ける。<br>{1}攻撃から<b>0.5倍</b>のダメージを受ける。",
-                "Kr": "{0} 공격으로부터<b>2&times;</b> 대미지를 받습니다.<br>{1} 공격으로부터 <b>0.5&times;</b> 대미지를 받습니다.",
-                "Th": "ได้รับความเสียหาย <b>&times;2</b> จากการโจมตีประเภท{0}<br>ได้รับความเสียหาย <b>&times;0.5</b> จากการโจมตีประเภท{1}",
-                "Tw": "承受<b>2倍</b>{0}攻擊傷害。<br>承受<b>0.5倍</b>{1}攻擊傷害。",
-                "Cn": "承受<b>2倍</b>{0}攻击伤害<br>承受<b>0.5倍</b>{1}攻击伤害",
-                "Vi": "Nhận <b>2x</b> sát thương từ các đòn đánh loại {0}.<br>Nhận <b>0.5x</b> sát thương từ các đòn đánh loại {1}."
+                "En": "Receives <b>{0}&times;</b> damage from {1} attacks.",
+                "Jp": "{1}攻撃から<b>{0}倍</b>のダメージを受ける。",
+                "Kr": "{1} 공격으로부터<b>{0}&times;</b> 대미지를 받습니다.",
+                "Th": "ได้รับความเสียหาย <b>&times;{0}</b> จากการโจมตีประเภท{1}",
+                "Tw": "承受<b>{0}倍</b>{1}攻擊傷害。",
+                "Cn": "承受<b>{0}倍</b>{1}攻击伤害",
+                "Vi": "Nhận <b>{0}x</b> sát thương từ các đòn đánh loại {1}."
             },
             "defense_type_normal_desc": {
-                "En": "Receives <b>1&times;</b> damage from <b class='ba-col-explosion'>Explosive</b>, <b class='ba-col-pierce'>Piercing</b> and <b class='ba-col-mystic'>Mystic</b> attacks.",
+                "En": "Receives <b>1&times;</b> damage from <b class='ba-col-explosion'>Explosive</b>, <b class='ba-col-pierce'>Piercing</b>, <b class='ba-col-mystic'>Mystic</b> and <b class='ba-col-sonic'>Sonic</b> attacks.",
                 "Jp": "<b class='ba-col-explosion'>爆発</b>、<b class='ba-col-pierce'>貫通</b>および<b class='ba-col-mystic'>神秘</b>攻撃から<b>1倍</b>のダメージを受ける。",
                 "Kr": "<b class='ba-col-explosion'>폭발</b>, <b class='ba-col-pierce'>관통</b>, <b class='ba-col-mystic'>신비</b> 공격으로부터 <b>1&times;</b> 대미지를 받습니다.",
                 "Th": "ได้รับความเสียหาย <b>&times;1</b> จากการโจมตีประเภท<b class='ba-col-explosion'>ระเบิด</b>, <b class='ba-col-pierce'>เจาะเกราะ</b>และ<b class='ba-col-mystic'>ลึกลับ</b>",
@@ -5203,6 +5399,51 @@
                 "Tw": "地形戰鬥力",
                 "Cn": "地形适应性",
                 "Vi": "Điểm mạnh địa hình"
+            },
+            "misc": {
+                "En": "Misc.",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
+            },
+            "uses_cover": {
+                "En": "Uses Cover",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
+            },
+            "can_cc": {
+                "En": "Can CC",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
+            },
+            "uses_artifact": {
+                "En": "Uses Artifact",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
+            },
+            "filter_include_weapon_upgrade": {
+                "En": "Include Weapon Upgrade",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
             },
             "memory_lobby": {
                 "En": "Recollection Lobby",
@@ -5969,6 +6210,15 @@
                 "Tw": "區域{0}",
                 "Cn": "区域{0}",
                 "Vi": "Khu {0}"
+            },
+            "conquest_title": {
+                "En": "Area {0}, Team {1}",
+                "Jp": "エリア{0}、チーム{1}",
+                "Kr": "{0} 지역 {1}팀",
+                "Th": "พื้นที่ {0} ทีม {1}",
+                "Tw": "區域{0} 隊伍{1}",
+                "Cn": null,
+                "Vi": null
             },
             "conquest_occupy": {
                 "En": "Occupy",

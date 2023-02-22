@@ -2326,18 +2326,13 @@
             "Comment": "Event815-Conquest Team1"
         },
         {
+            "Key": 1211477760,
+            "Cn": "「深海温泉島」集中開発地域",
+            "Comment": "Event815-Conquest Team1"
+        },
+        {
             "Key": 3431550252,
             "Cn": "決着！「ムシクイーンクルーズ」決勝会場",
-            "Comment": "Event815-Conquest Team1"
-        },
-        {
-            "Key": 1464192063,
-            "Cn": "「超豪華リゾート」チャンピオンロード",
-            "Comment": "Event815-Conquest Team1"
-        },
-        {
-            "Key": 2515931302,
-            "Cn": "「ヘルメット団最強リゾート」決闘場",
             "Comment": "Event815-Conquest Team1"
         },
         {
@@ -2376,41 +2371,6 @@
             "Comment": "Event815-Conquest Team3"
         },
         {
-            "Key": 1809256870,
-            "Cn": "「超豪華リゾート」特産品通り",
-            "Comment": "Event815-Conquest Team2"
-        },
-        {
-            "Key": 4286439297,
-            "Cn": "「超豪華リゾート」ぼったくり通り",
-            "Comment": "Event815-Conquest Team2"
-        },
-        {
-            "Key": 188350994,
-            "Cn": "「超豪華リゾート」集結地",
-            "Comment": "Event815-Conquest Team3"
-        },
-        {
-            "Key": 2809546449,
-            "Cn": "「ヘルメット団最強リゾート」試練場",
-            "Comment": "Event815-Conquest Team1"
-        },
-        {
-            "Key": 1613571755,
-            "Cn": "「ヘルメット団最凶クルーズ船」急",
-            "Comment": "Event815-Conquest Team2"
-        },
-        {
-            "Key": 1727893164,
-            "Cn": "カイザーPMC補給基地",
-            "Comment": "Event815-Conquest Team3"
-        },
-        {
-            "Key": 1211477760,
-            "Cn": "「深海温泉島」集中開発地域",
-            "Comment": "Event815-Conquest Team1"
-        },
-        {
             "Key": 1767669355,
             "Cn": "「ムシクイーンクルーズ」大会参加者宿舎A",
             "Comment": "Event815-Conquest Team2"
@@ -2429,6 +2389,26 @@
             "Key": 1423331498,
             "Cn": "「ムシクイーンクルーズ」屋外会場",
             "Comment": "Event815-Conquest Team2"
+        },
+        {
+            "Key": 1464192063,
+            "Cn": "「超豪華リゾート」チャンピオンロード",
+            "Comment": "Event815-Conquest Team1"
+        },
+        {
+            "Key": 1809256870,
+            "Cn": "「超豪華リゾート」特産品通り",
+            "Comment": "Event815-Conquest Team2"
+        },
+        {
+            "Key": 4286439297,
+            "Cn": "「超豪華リゾート」ぼったくり通り",
+            "Comment": "Event815-Conquest Team2"
+        },
+        {
+            "Key": 188350994,
+            "Cn": "「超豪華リゾート」集結地",
+            "Comment": "Event815-Conquest Team3"
         },
         {
             "Key": 4286439297,
@@ -2499,6 +2479,26 @@
             "Key": 2023729273,
             "Cn": "「超豪華リゾート」ショッピング街",
             "Comment": "Event815-Conquest Team1"
+        },
+        {
+            "Key": 2515931302,
+            "Cn": "「ヘルメット団最強リゾート」決闘場",
+            "Comment": "Event815-Conquest Team1"
+        },
+        {
+            "Key": 2809546449,
+            "Cn": "「ヘルメット団最強リゾート」試練場",
+            "Comment": "Event815-Conquest Team1"
+        },
+        {
+            "Key": 1613571755,
+            "Cn": "「ヘルメット団最凶クルーズ船」急",
+            "Comment": "Event815-Conquest Team2"
+        },
+        {
+            "Key": 1727893164,
+            "Cn": "カイザーPMC補給基地",
+            "Comment": "Event815-Conquest Team3"
         },
         {
             "Key": 2128735342,

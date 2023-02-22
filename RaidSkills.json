@@ -625,6 +625,7 @@
                     "",
                     "",
                     "",
+                    "\nAlso increases the <b:HealEffectiveness> of the curse target by <b>3,000</b> for 10s.",
                     "\nAlso increases the <b:HealEffectiveness> of the curse target by <b>3,000</b> for 10s."
                 ]
             ],
@@ -636,6 +637,7 @@
                     "",
                     "",
                     "",
+                    "\nさらに<d:Hieronymus>の敵の<b:HealEffectiveness>値を<b>3000</b>増加。（10秒間）",
                     "\nさらに<d:Hieronymus>の敵の<b:HealEffectiveness>値を<b>3000</b>増加。（10秒間）"
                 ]
             ],
@@ -647,6 +649,7 @@
                     "",
                     "",
                     "",
+                    "\n추가로 <d:Hieronymus> 대상의 <b:HealEffectiveness>이 3000 만큼 증가한다. (10초간)",
                     "\n추가로 <d:Hieronymus> 대상의 <b:HealEffectiveness>이 3000 만큼 증가한다. (10초간)"
                 ]
             ],
@@ -658,6 +661,7 @@
                     "",
                     "",
                     "",
+                    "\nเพิ่ม<b:HealEffectiveness> <b>3,000</b> ให้กับศัตรูที่ถูกสาป (เป็นเวลา 10 วินาที)",
                     "\nเพิ่ม<b:HealEffectiveness> <b>3,000</b> ให้กับศัตรูที่ถูกสาป (เป็นเวลา 10 วินาที)"
                 ]
             ],
@@ -671,6 +675,7 @@
                     "",
                     "",
                     "",
+                    "\n被施加<d:Hieronymus>的目标<b:HealEffectiveness>提升<b>3000</b>(持续10秒)",
                     "\n被施加<d:Hieronymus>的目标<b:HealEffectiveness>提升<b>3000</b>(持续10秒)"
                 ]
             ],
@@ -683,6 +688,7 @@
                     "",
                     "",
                     "",
+                    "\nĐồng thời tăng <b:HealEffectiveness> của mục tiêu bị nguyền rủa lên <b>3,000</b> trong 10s.",
                     "\nĐồng thời tăng <b:HealEffectiveness> của mục tiêu bị nguyền rủa lên <b>3,000</b> trong 10s."
                 ]
             ]
@@ -709,6 +715,7 @@
                     "40%",
                     "40%",
                     "40%",
+                    "30%",
                     "30%"
                 ],
                 [
@@ -717,6 +724,7 @@
                     "\nWhen Hieronymus's ATG gauge is full, deals damage to each enemy equal to 1000% of their Max HP.",
                     "\nWhen Hieronymus's ATG gauge is full, deals damage to each enemy equal to 1000% of their Max HP.",
                     "\nWhen Hieronymus's ATG gauge is full, deals damage to each enemy equal to 1000% of their Max HP.",
+                    "\nWhen Hieronymus's ATG gauge is full, makes all enemies <s:Immortal> for 10s and then deals damage to each enemy equal to 1000% of their Max HP.\nAlso increases all enemies' <b:HealEffectiveness> by <b>2,000</b> for 10s.",
                     "\nWhen Hieronymus's ATG gauge is full, makes all enemies <s:Immortal> for 10s and then deals damage to each enemy equal to 1000% of their Max HP.\nAlso increases all enemies' <b:HealEffectiveness> by <b>2,000</b> for 10s."
                 ]
             ],
@@ -728,6 +736,7 @@
                     "40%",
                     "40%",
                     "40%",
+                    "30%",
                     "30%"
                 ],
                 [
@@ -736,6 +745,7 @@
                     "\nATGの値がMAXの場合、全ての敵に対して、敵の最大HPの1000%分のダメージ",
                     "\nATGの値がMAXの場合、全ての敵に対して、敵の最大HPの1000%分のダメージ",
                     "\nATGの値がMAXの場合、全ての敵に対して、敵の最大HPの1000%分のダメージ",
+                    "\nATGの値がMAXの場合、全ての敵に対して、<s:Immortal>を付与（10秒間）\nさらにHPの1000%分のダメージを付与、\n<b:HealEffectiveness>値を2000増加。（10秒間）",
                     "\nATGの値がMAXの場合、全ての敵に対して、<s:Immortal>を付与（10秒間）\nさらにHPの1000%分のダメージを付与、\n<b:HealEffectiveness>値を2000増加。（10秒間）"
                 ]
             ],
@@ -747,6 +757,7 @@
                     "40%",
                     "40%",
                     "40%",
+                    "30%",
                     "30%"
                 ],
                 [
@@ -755,6 +766,7 @@
                     "\nATG가 가득 찰 경우 모든 적 대상 최대 체력 1000% 만큼의 대미지를 준다.",
                     "\nATG가 가득 찰 경우 모든 적 대상 최대 체력 1000% 만큼의 대미지를 준다.",
                     "\nATG가 가득 찰 경우 모든 적 대상 최대 체력 1000% 만큼의 대미지를 준다.",
+                    "\nATG가 가득 찰 경우 모든 적 대상에게 <s:Immortal> (10초간)\n추가로 최대 체력 1000% 만큼의 대미지를 주며\n<b:HealEffectiveness>을 2000 만큼 증가한다. (10초간)",
                     "\nATG가 가득 찰 경우 모든 적 대상에게 <s:Immortal> (10초간)\n추가로 최대 체력 1000% 만큼의 대미지를 주며\n<b:HealEffectiveness>을 2000 만큼 증가한다. (10초간)"
                 ]
             ],
@@ -766,6 +778,7 @@
                     "40%",
                     "40%",
                     "40%",
+                    "30%",
                     "30%"
                 ],
                 [
@@ -774,6 +787,7 @@
                     "\nหาก ATG เต็มจะสร้างความเสียหาย 1000% ของค่า HP สูงสุดให้กับศัตรูทั้งหมด",
                     "\nหาก ATG เต็มจะสร้างความเสียหาย 1000% ของค่า HP สูงสุดให้กับศัตรูทั้งหมด",
                     "\nหาก ATG เต็มจะสร้างความเสียหาย 1000% ของค่า HP สูงสุดให้กับศัตรูทั้งหมด",
+                    "\nหาก ATG เต็ม ศัตรูเป้าหมายทั้งหมดจะ<s:Immortal> (เป็นเวลา 10 วินาที)\nสร้างความเสียหาย 1000% ของค่า HP สูงสุดให้กับศัตรูทั้งหมด\nเพิ่ม<b:HealEffectiveness>ให้กับศัตรู <b>2,000</b> (เป็นเวลา 10 วินาที)",
                     "\nหาก ATG เต็ม ศัตรูเป้าหมายทั้งหมดจะ<s:Immortal> (เป็นเวลา 10 วินาที)\nสร้างความเสียหาย 1000% ของค่า HP สูงสุดให้กับศัตรูทั้งหมด\nเพิ่ม<b:HealEffectiveness>ให้กับศัตรู <b>2,000</b> (เป็นเวลา 10 วินาที)"
                 ]
             ],
@@ -787,6 +801,7 @@
                     "40%",
                     "40%",
                     "40%",
+                    "30%",
                     "30%"
                 ],
                 [
@@ -795,6 +810,7 @@
                     "\nATG提升至100%时，对所有敌方单位造成其最大生命值1000%的伤害",
                     "\nATG提升至100%时，对所有敌方单位造成其最大生命值1000%的伤害",
                     "\nATG提升至100%时，对所有敌方单位造成其最大生命值1000%的伤害",
+                    "\nATG提升至100%时，赋予所有敌方单位<s:Immortal>状态(持续10秒)\n对所有敌方单位造成其最大生命值1000%的伤害\n所有敌方单位<b:HealEffectiveness>提升2000(持续10秒)",
                     "\nATG提升至100%时，赋予所有敌方单位<s:Immortal>状态(持续10秒)\n对所有敌方单位造成其最大生命值1000%的伤害\n所有敌方单位<b:HealEffectiveness>提升2000(持续10秒)"
                 ]
             ],
@@ -807,6 +823,7 @@
                     "40%",
                     "40%",
                     "40%",
+                    "30%",
                     "30%"
                 ],
                 [
@@ -815,6 +832,7 @@
                     "\nKhi thanh ATG của Hieronymus đã đạt đủ, gây sát thương cho mỗi kẻ địch bằng 1000% HP tối đa của chúng.",
                     "\nKhi thanh ATG của Hieronymus đã đạt đủ, gây sát thương cho mỗi kẻ địch bằng 1000% HP tối đa của chúng.",
                     "\nKhi thanh ATG của Hieronymus đã đạt đủ, gây sát thương cho mỗi kẻ địch bằng 1000% HP tối đa của chúng.",
+                    "\nKhi thanh ATG của Hieronymus đã đạt đủ, khiến tất cả kẻ địch <s:Immortal> trong 10s và sau đó gây sát thương cho mỗi kẻ địch bằng 1000% HP tối đa của chúng.\nĐồng thời tăng <b:HealEffectiveness> của tất cả kẻ địch lên <b>2,000</b> trong 10s.",
                     "\nKhi thanh ATG của Hieronymus đã đạt đủ, khiến tất cả kẻ địch <s:Immortal> trong 10s và sau đó gây sát thương cho mỗi kẻ địch bằng 1000% HP tối đa của chúng.\nĐồng thời tăng <b:HealEffectiveness> của tất cả kẻ địch lên <b>2,000</b> trong 10s."
                 ]
             ]
@@ -829,6 +847,7 @@
                     "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, fills Hieronymus's groggy gauge to the maximum and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
                     "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, fills Hieronymus's groggy gauge to the maximum and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
                     "\n<b>Red Relic</b>: Interrupts Hieronymus's currently active skill. If a skill is successfully interrupted, fills Hieronymus's groggy gauge to the maximum and increases the <b:CostRegen> of up to 4 students by <b>2500</b> for 1s.",
+                    "",
                     ""
                 ]
             ],
@@ -840,6 +859,7 @@
                     "\n赤色の聖遺物の場合、ヒエロニムスのスキル発動を妨害。妨害に成功した時、味方生徒の<b:CostRegen>を2500増加（1秒間）（最大で4人分まで）",
                     "\n赤色の聖遺物の場合、ヒエロニムスのスキル発動を妨害。妨害に成功した時、味方生徒の<b:CostRegen>を2500増加（1秒間）（最大で4人分まで）",
                     "\n赤色の聖遺物の場合、ヒエロニムスのスキル発動を妨害。妨害に成功した時、味方生徒の<b:CostRegen>を2500増加（1秒間）（最大で4人分まで）",
+                    "",
                     ""
                 ]
             ],
@@ -851,6 +871,7 @@
                     "\n적색 성유물: 예로니무스의 스킬을 방해한다. 성공 시 아군 학생의\n<b:CostRegen> 2500 증가 (1초간)(최대 4인)",
                     "\n적색 성유물: 예로니무스의 스킬을 방해한다. 성공 시 아군 학생의\n<b:CostRegen> 2500 증가 (1초간)(최대 4인)",
                     "\n적색 성유물: 예로니무스의 스킬을 방해한다. 성공 시 아군 학생의\n<b:CostRegen> 2500 증가 (1초간)(최대 4인)",
+                    "",
                     ""
                 ]
             ],
@@ -862,6 +883,7 @@
                     "\nเรลิกแดง: ขัดขวางสกิลของไฮโรนีมัส หากขัดขวางสำเร็จ นักเรียนฝ่ายเรา\nจะเพิ่ม<b:CostRegen> 2500 (เป็นเวลา 1 วินาที) (สูงสุด 4 เป้าหมาย)",
                     "\nเรลิกแดง: ขัดขวางสกิลของไฮโรนีมัส หากขัดขวางสำเร็จ นักเรียนฝ่ายเรา\nจะเพิ่ม<b:CostRegen> 2500 (เป็นเวลา 1 วินาที) (สูงสุด 4 เป้าหมาย)",
                     "\nเรลิกแดง: ขัดขวางสกิลของไฮโรนีมัส หากขัดขวางสำเร็จ นักเรียนฝ่ายเรา\nจะเพิ่ม<b:CostRegen> 2500 (เป็นเวลา 1 วินาที) (สูงสุด 4 เป้าหมาย)",
+                    "",
                     ""
                 ]
             ],
@@ -873,6 +895,7 @@
                     "\n紅色聖遺物: 妨礙耶羅尼姆斯的技能。成功時，我軍學生的\n<b:CostRegen>增加2500(1秒內)(最多4人)",
                     "\n紅色聖遺物: 妨礙耶羅尼姆斯的技能。成功時，我軍學生的\n<b:CostRegen>增加2500(1秒內)(最多4人)",
                     "\n紅色聖遺物: 妨礙耶羅尼姆斯的技能。成功時，我軍學生的\n<b:CostRegen>增加2500(1秒內)(最多4人)",
+                    "",
                     ""
                 ]
             ],
@@ -885,6 +908,7 @@
                     "\n红色圣遗物: 打断希罗尼穆斯的EX技能\n成功打断后令我方学生<b:CostRegen>提升2500(持续1秒)(至多4人)",
                     "\n红色圣遗物: 打断希罗尼穆斯的EX技能\n成功打断后令我方学生<b:CostRegen>提升2500(持续1秒)(至多4人)",
                     "\n红色圣遗物: 打断希罗尼穆斯的EX技能\n成功打断后令我方学生<b:CostRegen>提升2500(持续1秒)(至多4人)",
+                    "",
                     ""
                 ]
             ],
@@ -897,6 +921,7 @@
                     "\n<b>Thánh vật màu đỏ/b>: Làm gián đoạn kỹ năng đang triển khai của Hieronymus. Nếu kỹ năng bị ngắt thành công, thanh choáng của Hieronymus sẽ đạt đến mức tối đa và tăng thêm <b>2500</b> <b:CostRegen> cho tối đa 4 học sinh trong 1s.",
                     "\n<b>Thánh vật màu đỏ/b>: Làm gián đoạn kỹ năng đang triển khai của Hieronymus. Nếu kỹ năng bị ngắt thành công, thanh choáng của Hieronymus sẽ đạt đến mức tối đa và tăng thêm <b>2500</b> <b:CostRegen> cho tối đa 4 học sinh trong 1s.",
                     "\n<b>Thánh vật màu đỏ/b>: Làm gián đoạn kỹ năng đang triển khai của Hieronymus. Nếu kỹ năng bị ngắt thành công, thanh choáng của Hieronymus sẽ đạt đến mức tối đa và tăng thêm <b>2500</b> <b:CostRegen> cho tối đa 4 học sinh trong 1s.",
+                    "",
                     ""
                 ]
             ]
@@ -905,7 +930,18 @@
             "Id": "HieronymusInsanePassive02",
             "NameEn": "Unholy Light (Relic)",
             "NameTh": "แสงชั่วร้าย (เรลิก)",
-            "DescriptionEn": "When the violet relic's HP reaches 0%, increases the <b:ATK> of all Striker and Special students by <b>25%</b> but decreases their <d:HealEffectiveness> by <b>7,000</b>. Also decreases Hieronymus's <d:DEF> by <b>1,500</b>.\nFollowing this, students inflicted with <d:Hieronymus> will have their <b:HealEffectiveness> increased by a further <b>4,000</b> for 10s.\nThe violet relic cannot be targeted by normal attacks or basic skills.",
+            "DescriptionEn": "When the violet relic's HP reaches 0%, increases the <b:ATK> <?1>of all Striker and Special students by <b>25%</b> but decreases their <d:HealEffectiveness> by <b>7,000</b>. Also decreases Hieronymus's <d:DEF> by <b>1,500</b>.\nFollowing this, students inflicted with <d:Hieronymus> will have their <b:HealEffectiveness> increased by a further <b>4,000</b> for 10s.\nThe violet relic cannot be targeted by normal attacks or basic skills.",
+            "ParametersEn": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "and <b:DamageRatio> "
+                ]
+            ],
             "DescriptionJp": "聖遺物のHPが0%になるとスキル発動。\n紫色の聖遺物の場合、全てのストライカー、スペシャル生徒の<b:ATK>を25%増加し\n<d:HealEffectiveness>値を7000減少。\nさらにヒエロニムスの<d:DEF>を1500減少。\n発動後、<d:Hieronymus>になった生徒の<b:HealEffectiveness>値を4000増加（10秒間）\n（紫色の聖遺物は通常攻撃、ノーマルスキルのターゲットになりません）",
             "DescriptionKr": "성유물 체력이 0% 가 되면 스킬 발동\n자색 성유물: 모든 스트라이커, 스페셜 학생의 <b:ATK>이 25% 증가하고\n<d:HealEffectiveness>이 7000 만큼 감소한다.\n추가로 예로니무스의 <d:DEF>이 1500 만큼 감소한다.\n이후 <d:Hieronymus>를 받는 아군의 <b:HealEffectiveness>이 4000 만큼 증가한다. (10초간)\n(자색 성유물은 일반 공격, 기본 스킬의 타겟이 되지 않습니다.)",
             "DescriptionTh": "เมื่อ HP ของเรลิกเป็น 0% จะเปิดใช้งานสกิล\nเรลิกม่วง : เพิ่ม<b:ATK> ของฝ่ายเรา <b>25%</b>\nลด<d:HealEffectiveness> 7000\nลด<d:DEF>ของไฮโรนีมัสลง 1500\nเป้าหมายที่มี<d:Hieronymus> จะได้รับ<b:HealEffectiveness> เพิ่ม 4000 (เป็นเวลา 10 วินาที)\nเรลิกม่วงจะไม่ตกเป็นเป้าหมายของการโจมตีปกติและสกิลพื้นฐาน",
@@ -914,6 +950,13 @@
             "DescriptionCn": "圣遗物生命值为0%时使用技能\n紫色圣遗物：当前编队内所有学生<b:ATK>提升25%，<d:HealEffectiveness>降低7000\n希罗尼穆斯<d:DEF>降低1500\n当有学生被施加<d:Hieronymus>状态时，该学生<b:HealEffectiveness>提升4000(持续10秒)\n(紫色圣遗物不会成为普通攻击和普通技能的攻击目标)",
             "NameVi": "Ánh sáng tà ác (Thánh vật)",
             "DescriptionVi": "Khi HP của thánh vật màu tím đạt 0%, tăng 25% <b:ATK> đối với tất cả học sinh thuộc Striker và Special nhưng giảm <d:HealEffectiveness> của tất cả học sinh xuống <b>7,000</b>. Đồng thời giảm <d:DEF> của Hieronymus xuống <b>1,500</b>.\nSau đó, đối với học sinh bị <d:Hieronymus> sẽ được tăng <b:HealEffectiveness> thêm <b>4,000</b> trong 10s.\nThánh vật màu tím không thể bị tấn công bởi các đòn tấn công thường hoặc kỹ năng cơ bản."
+        },
+        {
+            "Id": "HieronymusTormentPassive03",
+            "NameEn": "Enlightenment Through Penance",
+            "DescriptionEn": "Increases Hieronymus' <b:Penetration> by <b>750</b>.",
+            "DescriptionJp": "<b:Penetration>を750増加します。",
+            "DescriptionKr": "<b:Penetration> 수치가 750 만큼 증가합니다."
         },
         {
             "Id": "KaitenFxMk0ExSkill01",

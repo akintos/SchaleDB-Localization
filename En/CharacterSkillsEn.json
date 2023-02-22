@@ -8285,6 +8285,399 @@
                     "26.6%"
                 ]
             ]
+        },
+        {
+            "SkillId": 20024200,
+            "NameEn": "Time On Target",
+            "DescriptionEn": "Deals <?1> damage to enemies in a circular area. Also decreases the <d:DEF> of <b class='ba-col-explosion'>Light Armor</b> enemies before the attack hits by <?2> for 15s.",
+            "ParametersEn": [
+                [
+                    "482%",
+                    "554%",
+                    "627%",
+                    "699%",
+                    "772%",
+                    "844%",
+                    "989%",
+                    "1061%",
+                    "1206%",
+                    "1278%"
+                ],
+                [
+                    "30.9%",
+                    "30.9%",
+                    "35.6%",
+                    "35.6%",
+                    "40.2%",
+                    "40.2%",
+                    "40.2%",
+                    "40.2%",
+                    "40.2%",
+                    "40.2%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 20024300,
+            "NameEn": "Afternoon Tea",
+            "DescriptionEn": "Every 50s, restores the HP of the ally with the lowest HP by <?1> of Healing. If the target is from <b>Trinity General School</b>, restores their HP by <?2> of Healing instead.",
+            "ParametersEn": [
+                [
+                    "147%",
+                    "154%",
+                    "161%",
+                    "191%",
+                    "198%",
+                    "205%",
+                    "235%",
+                    "242%",
+                    "249%",
+                    "279%"
+                ],
+                [
+                    "207%",
+                    "217%",
+                    "227%",
+                    "269%",
+                    "279%",
+                    "290%",
+                    "331%",
+                    "341%",
+                    "352%",
+                    "393%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 20024400,
+            "NameEn": "Pride of Tea Party",
+            "DescriptionEn": "Increases <b:ATK> by <?1>.",
+            "ParametersEn": [
+                [
+                    "14%",
+                    "14.7%",
+                    "15.4%",
+                    "18.2%",
+                    "18.9%",
+                    "19.6%",
+                    "22.4%",
+                    "23.1%",
+                    "23.8%",
+                    "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 20024500,
+            "NameEn": "Noblesse Oblige",
+            "DescriptionEn": "Increases the <b:CriticalDamage> of all allies who use <b class='ba-col-explosion'>Explosive</b> type attacks by <?1>.",
+            "ParametersEn": [
+                [
+                    "12.7%",
+                    "13.4%",
+                    "14%",
+                    "16.5%",
+                    "17.2%",
+                    "17.8%",
+                    "20.4%",
+                    "21%",
+                    "21.7%",
+                    "24.2%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 20024450,
+            "NameEn": "Pride of Tea Party+",
+            "DescriptionEn": "Increases <b:CriticalDamage> by <?1> and <b:ATK> by <?2>.",
+            "ParametersEn": [
+                [
+                    "2000",
+                    "2100",
+                    "2200",
+                    "2600",
+                    "2700",
+                    "2800",
+                    "3200",
+                    "3300",
+                    "3400",
+                    "3800"
+                ],
+                [
+                    "14%",
+                    "14.7%",
+                    "15.4%",
+                    "18.2%",
+                    "18.9%",
+                    "19.6%",
+                    "22.4%",
+                    "23.1%",
+                    "23.8%",
+                    "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10062200,
+            "NameEn": "System: Abi-Eshuh",
+            "DescriptionEn": "Toki engages Abi-Eshuh mode, increasing <b:ATK> by <?1>, <b:HIT> by <?2> and <b:Dodge> by 12.2% while gaining 3 <s:CH0187Mod> stacks.\nWhile in Abi-Eshuh mode, Toki's EX Skill changes to <b><i>COST: 5</i></b> and fire 3 lasers towards the targeted enemy. The first and second lasers deal <?3> damage to enemies in a straight line towards the target, the third laser deals <?4> damage to the targeted enemy and <?5> damage to other enemies in a straight line range.\nEX Skills used while in Abi-Eshuh mode consume one <s:CH0187Mod> and ignore <?6> of the enemy's DEF. Abi-Eshuh mode ends when all charges are consumed.",
+            "ParametersEn": [
+                [
+                    "26.1%",
+                    "30%",
+                    "34%",
+                    "37.9%",
+                    "41.8%",
+                    "45.7%",
+                    "53.6%",
+                    "55.5%",
+                    "63.4%",
+                    "65.3%"
+                ],
+                [
+                    "13.9%",
+                    "13.9%",
+                    "16%",
+                    "16%",
+                    "18.1%",
+                    "18.1%",
+                    "18.1%",
+                    "19.1%",
+                    "19.1%",
+                    "20.2%"
+                ],
+                [
+                    "87.5%",
+                    "101%",
+                    "127%",
+                    "140.5%",
+                    "167%",
+                    "180%",
+                    "206.5%",
+                    "219.5%",
+                    "246%",
+                    "259%"
+                ],
+                [
+                    "607%",
+                    "698%",
+                    "880%",
+                    "971%",
+                    "1153%",
+                    "1244%",
+                    "1426%",
+                    "1517%",
+                    "1699%",
+                    "1790%"
+                ],
+                [
+                    "121%",
+                    "139%",
+                    "176%",
+                    "194%",
+                    "230%",
+                    "248%",
+                    "285%",
+                    "303%",
+                    "339%",
+                    "358%"
+                ],
+                [
+                    "40%",
+                    "40%",
+                    "50%",
+                    "50%",
+                    "60%",
+                    "60%",
+                    "60%",
+                    "60%",
+                    "60%",
+                    "60%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10062300,
+            "NameEn": "Tactical Judgement",
+            "DescriptionEn": "Every 35s, deals <?1> damage to one enemy. If Toki is in Abi-Eshuh mode, this attack ignores <?2> of the enemy's DEF.",
+            "ParametersEn": [
+                [
+                    "486%",
+                    "511%",
+                    "535%",
+                    "584%",
+                    "608%",
+                    "632%",
+                    "681%",
+                    "705%",
+                    "730%",
+                    "778%"
+                ],
+                [
+                    "30%",
+                    "30%",
+                    "30%",
+                    "40%",
+                    "40%",
+                    "40%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "60%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10062400,
+            "NameEn": "Codename Zero Four",
+            "DescriptionEn": "Increases <b:ATK> by <?1>.",
+            "ParametersEn": [
+                [
+                    "14%",
+                    "14.7%",
+                    "15.4%",
+                    "18.2%",
+                    "18.9%",
+                    "19.6%",
+                    "22.4%",
+                    "23.1%",
+                    "23.8%",
+                    "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10062500,
+            "NameEn": "Eye For An Eye",
+            "DescriptionEn": "While in Abi-Eshuh mode, Toki's EX Skill deals <?1>/<?2>/<?3> damage as an additional hit for the <b>1st</b>/<b>2nd</b>/<b>3rd</b> use of the skill (count resets when Abi-Eshuh mode ends). This additional damage ignores <?4> of the enemy's DEF.",
+            "ParametersEn": [
+                [
+                    "17.6%",
+                    "18.5%",
+                    "19.4%",
+                    "20.3%",
+                    "21.1%",
+                    "22.1%",
+                    "22.9%",
+                    "23.8%",
+                    "24.7%",
+                    "25.6%"
+                ],
+                [
+                    "35.2%",
+                    "37%",
+                    "38.8%",
+                    "40.5%",
+                    "42.3%",
+                    "44.1%",
+                    "45.8%",
+                    "47.6%",
+                    "49.4%",
+                    "51.1%"
+                ],
+                [
+                    "52.9%",
+                    "55.6%",
+                    "58.2%",
+                    "60.9%",
+                    "63.5%",
+                    "66.2%",
+                    "68.8%",
+                    "71.4%",
+                    "74%",
+                    "76.7%"
+                ],
+                [
+                    "30%",
+                    "30%",
+                    "30%",
+                    "40%",
+                    "40%",
+                    "40%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "60%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10062450,
+            "NameEn": "Codename Zero Four+",
+            "DescriptionEn": "Increases <b:ATK> by <?1> plus a further <?2>.",
+            "ParametersEn": [
+                [
+                    "279",
+                    "293",
+                    "307",
+                    "362",
+                    "376",
+                    "390",
+                    "446",
+                    "460",
+                    "474",
+                    "529"
+                ],
+                [
+                    "14%",
+                    "14.7%",
+                    "15.4%",
+                    "18.2%",
+                    "18.9%",
+                    "19.6%",
+                    "22.4%",
+                    "23.1%",
+                    "23.8%",
+                    "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10063200,
+            "NameEn": "Tricky Variables",
+            "DescriptionEn": "Randomly throws one of three bombs that deal a different amount of damage to enemies in a circular area, depending on the bomb chosen.\n<b>Bullet Bomb</b>: <?1> damage.\n<b>Electric Field Bomb</b>: <?2> damage.\n<b>Explosive Bomb</b>: <?3> damage.",
+            "ParametersEn": [
+            ]
+        },
+        {
+            "SkillId": 10063300,
+            "NameEn": "Did You Think You're Alone!?",
+            "DescriptionEn": "Every ??s, deals <?1> damage to one enemy that ricochets and deals the same damage to up to two nearby enemies. Koyuki reloads immediately after activation.",
+            "ParametersEn": [
+            ]
+        },
+        {
+            "SkillId": 10063400,
+            "NameEn": "Do You Believe in Miracles?",
+            "DescriptionEn": "Increases <b:ATK> by <?1>.",
+            "ParametersEn": [
+                [
+                    "14%",
+                    "14.7%",
+                    "15.4%",
+                    "18.2%",
+                    "18.9%",
+                    "19.6%",
+                    "22.4%",
+                    "23.1%",
+                    "23.8%",
+                    "26.6%"
+                ]
+            ]
+        },
+        {
+            "SkillId": 10063500,
+            "NameEn": "Chaos Theory",
+            "DescriptionEn": "When Koyuki activates her EX Skill, increases her <b:ATK> by a different amount depending on the bomb chosen.\n<b>Bullet Bomb</b>: <?1> for ??s.\n<b>Electric Field Bomb</b>: <?2> for ??s.\n<b>Explosive Bomb</b>: <?3> for ??s.",
+            "ParametersEn": [
+            ]
+        },
+        {
+            "SkillId": 10063450,
+            "NameEn": "Do You Believe in Miracles?+",
+            "DescriptionEn": "",
+            "ParametersEn": [
+            ]
         }
     ]
 }
