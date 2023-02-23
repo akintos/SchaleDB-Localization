@@ -6264,6 +6264,15 @@
                 "Cn": "运营",
                 "Vi": "Vận hành"
             },
+            "conquest_analyze": {
+                "En": "Analyze",
+                "Jp": "分析",
+                "Kr": "분석",
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
+            },
             "conquest_settlement": {
                 "En": "Settlement Acquisition Reward",
                 "Jp": "精算獲得報酬",
@@ -6292,12 +6301,12 @@
                 "Vi": "{0} học sinh: "
             },
             "school_bonus_conquest": {
-                "En": "(Operate) Event Currency Reward +{0}%, (Occupy) ATK +{1}%",
-                "Jp": "運営報酬追加獲得+{0}%, 攻撃力増加+{1}%",
-                "Kr": "운영 보상 추가 획득 +{0}%, 공격력 증가 +{1}%",
-                "Th": "รับรางวัลจัดการเพิ่ม +{0}%, เพิ่มค่าโจมตี +{1}%",
-                "Tw": "營運獎勵額外獲得＋{0}%, 攻擊力增加＋{1}%",
-                "Cn": "运营报酬+{0}%, 占领攻击力+{1}%",
+                "En": "({2}) Event Currency Reward +{0}%, (Occupy) ATK +{1}%",
+                "Jp": "{2}報酬追加獲得+{0}%, 攻撃力増加+{1}%",
+                "Kr": "{2} 보상 추가 획득 +{0}%, 공격력 증가 +{1}%",
+                "Th": "รับรางวัล{2}เพิ่ม +{0}%, เพิ่มค่าโจมตี +{1}%",
+                "Tw": "{2}獎勵額外獲得＋{0}%, 攻擊力增加＋{1}%",
+                "Cn": "{2}报酬+{0}%, 占领攻击力+{1}%",
                 "Vi": "Tiền thưởng sự kiện +{0}%, ATK +{1}%"
             },
             "tooltip_relationship_bonus": {
