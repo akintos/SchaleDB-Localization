@@ -16036,7 +16036,7 @@
         {
             "SkillId": 20024500,
             "NameCn": "位高则任重",
-            "DescriptionCn": "编队内所有<b class='ba-col-pierce'>爆破</b>攻击属性的学生<b:CriticalDamage>提升<?1>",
+            "DescriptionCn": "编队内所有<b class='ba-col-explosion'>爆破</b>攻击属性的学生<b:CriticalDamage>提升<?1>",
             "ParametersCn": [
                 [
                     "12.7%",
