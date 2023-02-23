@@ -37,7 +37,8 @@
             "Sonic": {
                 "CodeKey": 4004205343,
                 "En": "Sonic",
-                "Cn": "振动"
+                "Cn": "振动",
+                "Vi": "Siêu thanh"
             }
         },
         "ArmorType": {
@@ -90,19 +91,20 @@
                 "CodeKey": 345145061,
                 "En": "Structures",
                 "Cn": "构造物",
-                "Vi": "cấu trúc"
+                "Vi": "Cấu trúc"
             },
             "ElasticArmor": {
                 "CodeKey": 3649373495,
                 "En": "Elastic Armor",
-                "Cn": "弹性装甲"
+                "Cn": "弹性装甲",
+                "Vi": "Giáp mỏng"
             },
             "Normal": {
                 "CodeKey": 2051696859,
                 "En": "Normal Armor",
                 "Cn": "普通护甲",
                 "Th": "เกราะปกติ",
-                "Vi": "Thường"
+                "Vi": "Giáp thường"
             }
         },
         "TacticRole": {
@@ -129,7 +131,7 @@
             "Vehicle": {
                 "CodeKey": 793651723,
                 "Cn": "战术支援",
-                "Vi": "T.S."
+                "Vi": "Xe quân sự"
             }
         },
         "School": {
@@ -1122,7 +1124,7 @@
                 "Tw": null,
                 "Cn": "内布拉星象磁盘",
                 "Th": null,
-                "Vi": null
+                "Vi": "Đĩa chiêm tinh Nebra"
             },
             "11": {
                 "En": "Phaistos Disc",
@@ -1131,7 +1133,7 @@
                 "Tw": null,
                 "Cn": "斐斯托斯圆盘",
                 "Th": null,
-                "Vi": null
+                "Vi": "Đĩa Phaistos"
             },
             "12": {
                 "En": "Wolfsegg Steel",
@@ -1140,7 +1142,7 @@
                 "Tw": null,
                 "Cn": "沃尔夫赛格铁块",
                 "Th": null,
-                "Vi": null
+                "Vi": "Thép Wolfsegg"
             },
             "13": {
                 "En": "Nimrud Lens",
@@ -1149,7 +1151,7 @@
                 "Tw": null,
                 "Cn": "尼姆鲁德透镜",
                 "Th": null,
-                "Vi": null
+                "Vi": "Ống kính Nimrud"
             },
             "14": {
                 "En": "Mandrake",
@@ -1158,7 +1160,7 @@
                 "Tw": null,
                 "Cn": "曼德拉草",
                 "Th": null,
-                "Vi": null
+                "Vi": "Nhân sâm"
             },
             "15": {
                 "En": "Rohonc Codex",
@@ -1167,7 +1169,7 @@
                 "Tw": null,
                 "Cn": "罗洪特抄本",
                 "Th": null,
-                "Vi": null
+                "Vi": "Rohonc Codex"
             },
             "16": {
                 "En": "Aether",
@@ -1176,7 +1178,7 @@
                 "Tw": null,
                 "Cn": "以太",
                 "Th": null,
-                "Vi": null
+                "Vi": "Bụi tinh tuý"
             },
             "17": {
                 "En": "Antikythera",
@@ -1185,7 +1187,7 @@
                 "Tw": null,
                 "Cn": "安提基特拉机械",
                 "Th": null,
-                "Vi": null
+                "Vi": "Cơ chế Antikythera"
             },
             "18": {
                 "En": "Voynich Manuscript",
@@ -1194,7 +1196,7 @@
                 "Tw": null,
                 "Cn": "伏尼契手稿",
                 "Th": null,
-                "Vi": null
+                "Vi": "Bản thảo Voynich"
             },
             "19": {
                 "En": "Crystal Haniwa",
@@ -1203,7 +1205,7 @@
                 "Tw": null,
                 "Cn": "水晶埴轮",
                 "Th": null,
-                "Vi": null
+                "Vi": "Pha lê Haniwa"
             },
             "20": {
                 "En": "Totem Pole",
@@ -1212,7 +1214,7 @@
                 "Tw": null,
                 "Cn": "图腾柱",
                 "Th": null,
-                "Vi": null
+                "Vi": "Cột vật tổ"
             },
             "21": {
                 "En": "Ancient Battery",
@@ -1221,7 +1223,7 @@
                 "Tw": null,
                 "Cn": "古代电池",
                 "Th": null,
-                "Vi": null
+                "Vi": "Pin cổ đại"
             },
             "24": {
                 "En": "Disco Colgante",
@@ -1230,7 +1232,7 @@
                 "Tw": null,
                 "Cn": "圆盘坠饰",
                 "Th": null,
-                "Vi": null
+                "Vi": "Mặt dây chuyền đĩa"
             },
             "29": {
                 "En": "Winnipesaukee Stone",
@@ -1239,7 +1241,7 @@
                 "Tw": null,
                 "Cn": "温尼珀索基石",
                 "Th": null,
-                "Vi": null
+                "Vi": "Đá Winnipesaukee"
             }
         },
         "EnemyTags": {
@@ -1371,7 +1373,7 @@
                 "ScenarioKey": 3198922083,
                 "En": "Get Set, Go!: Kivotos Grand Sports Festival",
                 "Cn": "基沃托斯大运动会 晄轮大祭 Get Set, Go!",
-                "Vi": "Chuẩn bị, Chạy!: Đại hội Thể thao Kivotos"
+                "Vi": "Đại hội thao Kivotos"
             },
             "819": {
                 "ScenarioKey": 2558784607,
@@ -1394,7 +1396,8 @@
             "822": {
                 "ScenarioKey": 3767391336,
                 "En": "Atra-Hasis' Ark Conquest",
-                "Cn": "阿特拉哈西斯方舟占领"
+                "Cn": "阿特拉哈西斯方舟占领",
+                "Vi": "Cuộc chinh phục rương của Atra-Hasis"
             }
         },
         "StageType": {
@@ -1526,7 +1529,8 @@
             "822": {
                 "CodeKey": 1364759382,
                 "En": "Atra-Hasis' Ark",
-                "Cn": "阿特拉哈西斯方舟"
+                "Cn": "阿特拉哈西斯方舟",
+                "Vi": "Rương của Atra-Hasis"
             }
         },
         "StageTitle": {
@@ -1722,7 +1726,8 @@
             },
             "6": {
                 "CodeKey": 4201122760,
-                "En": "Torment"
+                "En": "Torment",
+                "Vi": "Điên loạn"
             }
         },
         "WeaponPartExpBonus": {
@@ -2658,7 +2663,8 @@
             },
             "Special_CH0187Mod": {
                 "En": "Charge",
-                "Cn": "充能"
+                "Cn": "充能",
+                "Vi": "Nạp điện"
             }
         },
         "BuffNameLong": {
@@ -3515,7 +3521,8 @@
             },
             "Special_CH0187Mod": {
                 "En": "Abi-Eshuh Mode Charge",
-                "Cn": "阿比舒模式充能"
+                "Cn": "阿比舒模式充能",
+                "Vi": "Chế độ nạp điện Abi-Eshuh"
             }
         },
         "BuffTooltip": {
@@ -4204,7 +4211,8 @@
             },
             "Special_CH0187Mod": {
                 "En": "Allows the use of Toki's EX Skill while in Abi-Eshuh Mode. Abi-Eshuh mode ends once all stacks are consumed.",
-                "Cn": "允许时处于阿比舒模式时使用EX技能\n所有充能层数耗尽时，阿比舒模式结束"
+                "Cn": "允许时处于阿比舒模式时使用EX技能\n所有充能层数耗尽时，阿比舒模式结束",
+                "Vi": "Cho phép sử dụng Kỹ năng EX của Toki khi ở chế độ Abi-Eshuh. Chế độ Abi-Eshuh kết thúc sau khi năng lượng nạp được sử dụng hết."
             }
         },
         "ServerName": {
@@ -5415,7 +5423,7 @@
                 "Th": null,
                 "Tw": null,
                 "Cn": "其他",
-                "Vi": null
+                "Vi": "Khác"
             },
             "uses_cover": {
                 "En": "Uses Cover",
@@ -5424,7 +5432,7 @@
                 "Th": null,
                 "Tw": null,
                 "Cn": "使用掩体",
-                "Vi": null
+                "Vi": "Sử dụng chỗ ẩn nấp"
             },
             "can_cc": {
                 "En": "Can CC",
@@ -5433,7 +5441,7 @@
                 "Th": null,
                 "Tw": null,
                 "Cn": "可施加群控状态",
-                "Vi": null
+                "Vi": "Có khả năng kiểm soát đám đông"
             },
             "uses_artifact": {
                 "En": "Uses Artifact",
@@ -5442,7 +5450,7 @@
                 "Th": null,
                 "Tw": null,
                 "Cn": "养成所需欧帕兹",
-                "Vi": null
+                "Vi": "Sử dụng thánh vật"
             },
             "filter_include_weapon_upgrade": {
                 "En": "Include Weapon Upgrade",
@@ -5451,7 +5459,7 @@
                 "Th": null,
                 "Tw": null,
                 "Cn": "含适应性强化",
-                "Vi": null
+                "Vi": "Bao gồm nâng cấp vũ khí"
             },
             "memory_lobby": {
                 "En": "Recollection Lobby",
@@ -6226,7 +6234,7 @@
                 "Th": "พื้นที่ {0} ทีม {1}",
                 "Tw": "區域{0} 隊伍{1}",
                 "Cn": "区域{0} 队伍{1}",
-                "Vi": null
+                "Vi": "Khu {0}, Đội {1}"
             },
             "conquest_occupy": {
                 "En": "Occupy",
