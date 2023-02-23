@@ -36,7 +36,8 @@
             },
             "Sonic": {
                 "CodeKey": 4004205343,
-                "En": "Sonic"
+                "En": "Sonic",
+                "Cn": "振动"
             }
         },
         "ArmorType": {
@@ -52,12 +53,13 @@
             },
             "Unarmed": {
                 "CodeKey": 3363459657,
-                "Cn": "特殊装甲",
+                "Cn": "特种装甲",
                 "Vi": "Đặc biệt"
             },
             "ElasticArmor": {
                 "CodeKey": 3649373495,
-                "En": "Elastic"
+                "En": "Elastic",
+                "Cn": "弹性装甲"
             },
             "Normal": {
                 "CodeKey": 2051696859,
@@ -69,19 +71,19 @@
             "LightArmor": {
                 "CodeKey": 3837040931,
                 "En": "Light Armor",
-                "Cn": "轻甲",
+                "Cn": "轻护甲",
                 "Vi": "Nhẹ"
             },
             "HeavyArmor": {
                 "CodeKey": 2014245498,
                 "En": "Heavy Armor",
-                "Cn": "重甲",
+                "Cn": "重装甲",
                 "Vi": "Nặng"
             },
             "Unarmed": {
                 "CodeKey": 3363459657,
                 "En": "Special Armor",
-                "Cn": "特殊甲",
+                "Cn": "特种装甲",
                 "Vi": "Đặc biệt"
             },
             "Structure": {
@@ -92,12 +94,13 @@
             },
             "ElasticArmor": {
                 "CodeKey": 3649373495,
-                "En": "Elastic Armor"
+                "En": "Elastic Armor",
+                "Cn": "弹性装甲"
             },
             "Normal": {
                 "CodeKey": 2051696859,
                 "En": "Normal Armor",
-                "Cn": "普通甲",
+                "Cn": "普通护甲",
                 "Th": "เกราะปกติ",
                 "Vi": "Thường"
             }
@@ -699,7 +702,7 @@
                 "Kr": "특수장갑 강화",
                 "Th": "ประสิทธิภาพเกราะพิเศษ",
                 "Tw": "特殊裝甲強化",
-                "Cn": "特殊装甲性能",
+                "Cn": "特种装甲性能",
                 "Vi": "Hiệu quả giáp đặc biệt"
             },
             "ExtendBuffDuration": {
@@ -1117,7 +1120,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "内布拉星象磁盘",
                 "Th": null,
                 "Vi": null
             },
@@ -1126,7 +1129,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "斐斯托斯圆盘",
                 "Th": null,
                 "Vi": null
             },
@@ -1135,7 +1138,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "沃尔夫赛格铁块",
                 "Th": null,
                 "Vi": null
             },
@@ -1144,7 +1147,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "尼姆鲁德透镜",
                 "Th": null,
                 "Vi": null
             },
@@ -1153,7 +1156,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "曼德拉草",
                 "Th": null,
                 "Vi": null
             },
@@ -1162,7 +1165,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "罗洪特抄本",
                 "Th": null,
                 "Vi": null
             },
@@ -1171,7 +1174,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "以太",
                 "Th": null,
                 "Vi": null
             },
@@ -1180,7 +1183,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "安提基特拉机械",
                 "Th": null,
                 "Vi": null
             },
@@ -1189,7 +1192,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "伏尼契手稿",
                 "Th": null,
                 "Vi": null
             },
@@ -1198,7 +1201,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "水晶埴轮",
                 "Th": null,
                 "Vi": null
             },
@@ -1207,7 +1210,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "图腾柱",
                 "Th": null,
                 "Vi": null
             },
@@ -1216,7 +1219,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "古代电池",
                 "Th": null,
                 "Vi": null
             },
@@ -1225,7 +1228,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "圆盘坠饰",
                 "Th": null,
                 "Vi": null
             },
@@ -1234,7 +1237,7 @@
                 "Jp": null,
                 "Kr": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "温尼珀索基石",
                 "Th": null,
                 "Vi": null
             }
@@ -1390,7 +1393,8 @@
             },
             "822": {
                 "ScenarioKey": 3767391336,
-                "En": "Atra-Hasis' Ark Conquest"
+                "En": "Atra-Hasis' Ark Conquest",
+                "Cn": "阿特拉哈西斯方舟占领"
             }
         },
         "StageType": {
@@ -1521,7 +1525,8 @@
             },
             "822": {
                 "CodeKey": 1364759382,
-                "En": "Atra-Hasis' Ark"
+                "En": "Atra-Hasis' Ark",
+                "Cn": "阿特拉哈西斯方舟"
             }
         },
         "StageTitle": {
@@ -2010,7 +2015,7 @@
                 "Kr": "특수장갑 강화",
                 "Th": "ประสิทธิภาพเกราะพิเศษ",
                 "Tw": "特殊裝甲強化",
-                "Cn": "特殊装甲性能",
+                "Cn": "特种装甲性能",
                 "Vi": "Hiệu quả giáp đặc biệt"
             },
             "Buff_ExtendBuffDuration": {
@@ -2360,7 +2365,7 @@
                 "Kr": "특수장갑 강화",
                 "Th": "ประสิทธิภาพเกราะพิเศษ",
                 "Tw": "特殊裝甲強化",
-                "Cn": "特殊装甲性能",
+                "Cn": "特种装甲性能",
                 "Vi": "Hiệu quả giáp đặc biệt"
             },
             "Debuff_HealedLimit": {
@@ -2652,7 +2657,8 @@
                 "Vi": "Tấn công thường"
             },
             "Special_CH0187Mod": {
-                "En": "Charge"
+                "En": "Charge",
+                "Cn": "充能"
             }
         },
         "BuffNameLong": {
@@ -2869,7 +2875,7 @@
                 "Kr": "특수장갑 강화",
                 "Th": "ประสิทธิภาพเกราะพิเศษเพิ่มขึ้น",
                 "Tw": "特殊裝甲強化",
-                "Cn": "特殊装甲性能提升",
+                "Cn": "特种装甲性能提升",
                 "Vi": "Hiệu quả giáp đặc biệt tăng"
             },
             "Buff_ExtendBuffDuration": {
@@ -3219,7 +3225,7 @@
                 "Kr": "특수장갑 강화",
                 "Th": "ประสิทธิภาพเกราะพิเศษลดลง",
                 "Tw": "特殊裝甲強化",
-                "Cn": "特殊装甲性能降低",
+                "Cn": "特种装甲性能降低",
                 "Vi": "Hiệu quả giáp đặc biệt giảm"
             },
             "Debuff_HealedLimit": {
@@ -3508,7 +3514,8 @@
                 "Vi": "Viên đạn bạc"
             },
             "Special_CH0187Mod": {
-                "En": "Abi-Eshuh Mode Charge"
+                "En": "Abi-Eshuh Mode Charge",
+                "Cn": "阿比舒模式充能"
             }
         },
         "BuffTooltip": {
@@ -3667,7 +3674,7 @@
             "Buff_EnhanceMysticRate": {
                 "En": "Increases the damage bonus when dealing Mystic type attacks against Special Armor targets.",
                 "Jp": "特殊装甲の対象に神秘タイプの攻撃を行う際のダメージ倍率を増加する。",
-                "Cn": "提升神秘伤害对特殊装甲单位攻击时的伤害倍率",
+                "Cn": "提升神秘伤害对特种装甲单位攻击时的伤害倍率",
                 "Th": "เพิ่มความเสียหายของการโจมตีประเภทลึกลับเมื่อโจมตีใส่เป้าหมายที่มีเกราะพิเศษ",
                 "Vi": "Tăng thêm sát thương gây ra bởi các đòn tấn công loại huyền bí đối với các mục tiêu đặc biệt."
             },
@@ -3689,7 +3696,7 @@
                 "En": "Decreases the damage received from attacks when defense type is Special Armor.",
                 "Jp": "防御タイプが特殊装甲の場合、攻撃によって受けるダメージを減少する。",
                 "Th": "ลดความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะพิเศษ",
-                "Cn": "(暂定)降低护甲类型为神秘装甲时受到的伤害",
+                "Cn": "(暂定)降低护甲类型为特种装甲时受到的伤害",
                 "Vi": "Giảm sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Đặc biệt."
             },
             "Buff_ExtendBuffDuration": {
@@ -3949,7 +3956,7 @@
             "Debuff_EnhanceMysticRate": {
                 "En": "Decreases the damage bonus when dealing Mystic type attacks against Special Armor targets.",
                 "Jp": "特殊装甲の対象に神秘タイプの攻撃を行う際のダメージ倍率を減少する。",
-                "Cn": "降低神秘伤害对特殊装甲单位攻击时的伤害倍率",
+                "Cn": "降低神秘伤害对特种装甲单位攻击时的伤害倍率",
                 "Th": "ลดความเสียหายของการโจมตีประเภทลึกลับเมื่อโจมตีใส่เป้าหมายที่มีเกราะพิเศษ",
                 "Vi": "Giảm bớt sát thương cộng thêm khi gây ra các đòn tấn công loại huyền bí lên các mục tiêu đặc biệt."
             },
@@ -3971,7 +3978,7 @@
                 "En": "Increases the damage received from attacks when defense type is Special Armor.",
                 "Jp": "防御タイプが特殊装甲の場合、攻撃によって受けるダメージを増加する。",
                 "Th": "เพิ่มความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะพิเศษ",
-                "Cn": "(暂定)提升护甲类型为神秘装甲时受到的伤害",
+                "Cn": "(暂定)提升护甲类型为特种装甲时受到的伤害",
                 "Vi": "Tăng sát thương nhận vào từ các đòn đánh khi loại phòng thủ thuộc Đặc biệt."
             },
             "Debuff_HealedLimit": {
@@ -4196,7 +4203,8 @@
                 "Vi": "Tăng cường đòn tấn công bình thường của Sakurako để gây sát thương như một đòn đánh bổ sung."
             },
             "Special_CH0187Mod": {
-                "En": "Allows the use of Toki's EX Skill while in Abi-Eshuh Mode. Abi-Eshuh mode ends once all stacks are consumed."
+                "En": "Allows the use of Toki's EX Skill while in Abi-Eshuh Mode. Abi-Eshuh mode ends once all stacks are consumed.",
+                "Cn": "允许时处于阿比舒模式时使用EX技能\n所有充能层数耗尽时，阿比舒模式结束"
             }
         },
         "ServerName": {
@@ -5082,7 +5090,7 @@
                 "Kr": "<b class='ba-col-explosion'>경장갑</b>, <b class='ba-col-pierce'>중장갑</b>, <b class='ba-col-mystic'>신비장갑</b> 대상에게 <b>1&times;</b> 대미지.<br>구조물 대상에게 <b>0.5&times;</b> 대미지.",
                 "Th": "สร้างความเสียหาย <b>&times;1</b> ให้กับเป้าหมายประเภท<b class='ba-col-explosion'>เกราะเบา</b>, <b class='ba-col-pierce'>เกราะหนัก</b>และ<b class='ba-col-mystic'>เกราะพิเศษ</b><br>สร้างความเสียหาย <b>&times;0.5</b> ให้กับเป้าหมายประเภท<b>สิ่งปลูกสร้าง</b>",
                 "Tw": "對<b class='ba-col-explosion'>輕裝甲</b>、<b class='ba-col-pierce'>重裝甲</b>與<b class='ba-col-mystic'>神秘裝甲</b>目標造成<b>1倍</b>傷害。<br>對<b>構造物</b>造成<b>0.5倍</b>傷害。",
-                "Cn": "对<b class='ba-col-explosion'>轻护甲</b>、<b class='ba-col-pierce'>重装甲</b>与<b class='ba-col-mystic'>神秘装甲</b>目标造成<b>1倍</b>伤害<br>对<b>构造物</b>造成<b>0.5倍</b>伤害",
+                "Cn": "对<b class='ba-col-explosion'>轻护甲</b>、<b class='ba-col-pierce'>重装甲</b>、<b class='ba-col-mystic'>特种装甲</b>与<b class='ba-col-elasticarmor'>弹性装甲</b>目标造成<b>1倍</b>伤害<br>对<b>构造物</b>造成<b>0.5倍</b>伤害",
                 "Vi": "Gây <b>1x</b> sát thương lên mục tiêu có giáp <b class='ba-col-explosion'>nhẹ</b>, <b class='ba-col-pierce'>nặng</b> và <b class='ba-col-mystic'>đặc biệt</b>.<br>Gây <b>0,5x</b> sát thương cho <b>cấu trúc</b>."
             },
             "defense_type_desc": {
@@ -5100,7 +5108,7 @@
                 "Kr": "<b class='ba-col-explosion'>폭발</b>, <b class='ba-col-pierce'>관통</b>, <b class='ba-col-mystic'>신비</b> 공격으로부터 <b>1&times;</b> 대미지를 받습니다.",
                 "Th": "ได้รับความเสียหาย <b>&times;1</b> จากการโจมตีประเภท<b class='ba-col-explosion'>ระเบิด</b>, <b class='ba-col-pierce'>เจาะเกราะ</b>และ<b class='ba-col-mystic'>ลึกลับ</b>",
                 "Tw": "承受<b>1倍</b><b class='ba-col-explosion'>爆炸</b>、<b class='ba-col-pierce'>貫穿</b>與<b class='ba-col-mystic'>神秘</b>攻擊傷害。",
-                "Cn": "承受<b>1倍</b><b class='ba-col-explosion'>爆破</b>、<b class='ba-col-pierce'>贯通</b>与<b class='ba-col-mystic'>神秘</b>攻击伤害",
+                "Cn": "承受<b>1倍</b><b class='ba-col-explosion'>爆破</b>、<b class='ba-col-pierce'>贯通</b>、<b class='ba-col-mystic'>神秘</b>与<b class='ba-col-sonic'>振动</b>攻击伤害",
                 "Vi": "Nhận <b>1x</b> sát thương từ các đòn đánh loại <b class='ba-col-explosion'>Nổ</b>, <b class='ba-col-pierce'>Xuyên thủng</b> và <b class='ba-col-mystic'>Huyền bí</b>."
             },
             "comfort": {
@@ -5406,7 +5414,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "其他",
                 "Vi": null
             },
             "uses_cover": {
@@ -5415,7 +5423,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "使用掩体",
                 "Vi": null
             },
             "can_cc": {
@@ -5424,7 +5432,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "可施加群控状态",
                 "Vi": null
             },
             "uses_artifact": {
@@ -5433,7 +5441,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "养成所需欧帕兹",
                 "Vi": null
             },
             "filter_include_weapon_upgrade": {
@@ -5442,7 +5450,7 @@
                 "Kr": null,
                 "Th": null,
                 "Tw": null,
-                "Cn": null,
+                "Cn": "含适应性强化",
                 "Vi": null
             },
             "memory_lobby": {
@@ -6217,7 +6225,7 @@
                 "Kr": "{0} 지역 {1}팀",
                 "Th": "พื้นที่ {0} ทีม {1}",
                 "Tw": "區域{0} 隊伍{1}",
-                "Cn": null,
+                "Cn": "区域{0} 队伍{1}",
                 "Vi": null
             },
             "conquest_occupy": {

@@ -15130,7 +15130,7 @@
         {
             "SkillId": 10058500,
             "NameCn": "不屈勇气",
-            "DescriptionCn": "使用EX技能时，赋予自身<b:AidAttitude>状态；\n其效果为赋予自身治愈力<?1>的<b:DotHeal>状态(持续10秒)/\n自身已拥有<b:AidAttitude>状态时，改为：\n<b:CriticalChanceResistPoint>提升<?2>(持续20秒)",
+            "DescriptionCn": "使用EX技能时，赋予自身<b:AidAttitude>状态；\n其效果为赋予自身治愈力<?1>的<b>持续治疗</b>状态(持续10秒)/\n自身已拥有<b:AidAttitude>状态时，改为：\n<b:CriticalChanceResistPoint>提升<?2>(持续20秒)",
             "ParametersCn": [
                 [
                     "64.8%",
@@ -15690,7 +15690,7 @@
         {
             "SkillId": 10061500,
             "NameCn": "愿光与你同在",
-            "DescriptionCn": "攻击时，对护甲类型为<b class='ba-col-mystic'>特殊装甲</b>的目标造成攻击力<?1>的追加伤害",
+            "DescriptionCn": "攻击时，对护甲类型为<b class='ba-col-mystic'>特种装甲</b>的目标造成攻击力<?1>的追加伤害",
             "ParametersCn": [
                 [
                     "4.8%",
@@ -15739,8 +15739,8 @@
         },
         {
             "SkillId": 10062200,
-            "NameCn": "システム：アビ・エシュフ",
-            "DescriptionCn": "アビ・エシュフモードに転換、攻撃力を<?1>、命中値を<?2>、<b:Dodge>を12.2%増加\n（Exスキル3回使用時に解除）/\nモード転換後、Exスキル（5コスト）の使用時1、2撃目の攻撃は直線範囲内の敵に対して、攻撃力の<?3>分のダメージ\n最後の攻撃は直線範囲内の指定した敵に対して、攻撃力の<?4>分のダメージ、その他の敵に対して、攻撃力の<?5>分のダメージ\n（3回攻撃全て敵の防御力を<?6>無視）",
+            "NameCn": "系统：阿比舒",
+            "DescriptionCn": "转换为阿比舒模式，<b:ATK>提升<?1>、<b:HIT>提升<?2>、<b:Dodge>提升12.2%、获得3层<s:CH0187Mod>/\n模式转换后，使用EX技能(<b><i>COST: 5</i></b>)时，第1、2段攻击各对较小直线范围内的敌方单位造成攻击力<?3>的伤害\n第3段攻击对该直线范围内锁定的目标造成攻击力<?4>的伤害，对较大直线范围内的其他敌方单位造成攻击力<?5>的伤害/\n消耗1层<s:CH0187Mod>\n(3段攻击均无视目标<?6>防御力)",
             "ParametersCn": [
                 [
                     "26.1%",
@@ -15818,8 +15818,8 @@
         },
         {
             "SkillId": 10062300,
-            "NameCn": "戦術的判断",
-            "DescriptionCn": "35秒毎に、敵1人に対して攻撃力の<?1>分のダメージ/\nアビ・エシュフモードではこの攻撃が敵の防御力を<?2>無視",
+            "NameCn": "战术判断",
+            "DescriptionCn": "每35秒对1名敌方单位造成攻击力<?1>的伤害/\n处于阿比舒模式时，该攻击无视目标<?2>防御力",
             "ParametersCn": [
                 [
                     "486%",
@@ -15849,8 +15849,8 @@
         },
         {
             "SkillId": 10062400,
-            "NameCn": "コールサインゼロフォー",
-            "DescriptionCn": "<b:ATK>を<?1>増加",
+            "NameCn": "呼号Zero 4",
+            "DescriptionCn": "<b:ATK>提升<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -15868,8 +15868,8 @@
         },
         {
             "SkillId": 10062500,
-            "NameCn": "目には目を",
-            "DescriptionCn": "アビ・エシュフモードの転換後、Exスキルの使用時、使用回数によって追加ダメージ\nExスキル1回使用時：攻撃力の<?1>分のダメージ\nExスキル2回使用時：攻撃力の<?2>分のダメージ\nExスキル3回使用時：攻撃力の<?3>分のダメージ\n（この攻撃は敵の防御力を<?4>無視します）",
+            "NameCn": "以眼还眼",
+            "DescriptionCn": "转换至阿比舒模式后，基于EX技能使用次数造成相应的追加伤害(模式解除后计数清零)\n第1次：造成攻击力<?1>的追加伤害\n第2次：造成攻击力<?2>的追加伤害\n第3次：造成攻击力<?3>的追加伤害\n(该攻击无视目标<?4>防御力)",
             "ParametersCn": [
                 [
                     "17.6%",
@@ -15923,8 +15923,8 @@
         },
         {
             "SkillId": 10062450,
-            "NameCn": "コールサインゼロフォー+",
-            "DescriptionCn": "<b:ATK>を<?1>増加/\nさらに<b:ATK>を<?2>増加",
+            "NameCn": "呼号Zero 4+",
+            "DescriptionCn": "<b:ATK>提升<?1>/\n<b:ATK>提升<?2>",
             "ParametersCn": [
                 [
                     "279",
@@ -15954,8 +15954,8 @@
         },
         {
             "SkillId": 20024200,
-            "NameCn": "Time On Target",
-            "DescriptionCn": "円形範囲内の敵に対して、攻撃力の<?1>分のダメージ/\n対象が軽装備の場合、攻撃前に<d:DEF>を<?2>減少（15秒間）",
+            "NameCn": "命中所需时间是……",
+            "DescriptionCn": "对圆形范围内的敌方单位造成攻击力<?1>的伤害/\n目标护甲类型为<b class='ba-col-explosion'>轻护甲</b>时，攻击击中前令其<d:DEF>降低<?2>(持续15秒)",
             "ParametersCn": [
                 [
                     "482%",
@@ -15985,8 +15985,8 @@
         },
         {
             "SkillId": 20024300,
-            "NameCn": "Afternoon Tea",
-            "DescriptionCn": "50秒毎に、HPが最も低い味方1人に対して治癒力の<?1>分の回復/\n対象がトリニティ総合学園に所属する生徒の場合、治癒力の<?2>分の回復",
+            "NameCn": "下午茶",
+            "DescriptionCn": "每50秒令1名<b>当前生命值百分比</b>最低的我方单位回复治愈力<?1>的生命值/\n目标从属<b>三一综合学院</b>时，改为：\n回复治愈力<?2>的生命值",
             "ParametersCn": [
                 [
                     "147%",
@@ -16016,8 +16016,8 @@
         },
         {
             "SkillId": 20024400,
-            "NameCn": "Pride of Tea Party",
-            "DescriptionCn": "<b:ATK>を<?1>増加",
+            "NameCn": "茶会的尊严",
+            "DescriptionCn": "<b:ATK>提升<?1>",
             "ParametersCn": [
                 [
                     "14%",
@@ -16035,8 +16035,8 @@
         },
         {
             "SkillId": 20024500,
-            "NameCn": "Noblesse oblige",
-            "DescriptionCn": "爆発タイプの味方の<b:CriticalDamage>率を<?1>増加",
+            "NameCn": "位高则任重",
+            "DescriptionCn": "编队内所有<b class='ba-col-pierce'>爆破</b>攻击属性的学生<b:CriticalDamage>提升<?1>",
             "ParametersCn": [
                 [
                     "12.7%",
@@ -16054,8 +16054,8 @@
         },
         {
             "SkillId": 20024450,
-            "NameCn": "Pride of Tea Party+",
-            "DescriptionCn": "<b:CriticalDamage>を<?1>増加/\nさらに<b:ATK>を<?2>増加",
+            "NameCn": "茶会的尊严+",
+            "DescriptionCn": "<b:CriticalDamage>提升<?1>/\n<b:ATK>提升<?2>",
             "ParametersCn": [
                 [
                     "2000",
