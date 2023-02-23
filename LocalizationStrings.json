@@ -1123,7 +1123,7 @@
         "ArtifactClass": {
             "10": {
                 "En": "Nebra Sky Disk",
-                "Jp": null,
+                "Jp": "ネブラディスク",
                 "Kr": null,
                 "Tw": null,
                 "Cn": "内布拉星象磁盘",
@@ -1132,7 +1132,7 @@
             },
             "11": {
                 "En": "Phaistos Disc",
-                "Jp": null,
+                "Jp": "ファイストス円盤",
                 "Kr": null,
                 "Tw": null,
                 "Cn": "斐斯托斯圆盘",
@@ -1141,7 +1141,7 @@
             },
             "12": {
                 "En": "Wolfsegg Steel",
-                "Jp": null,
+                "Jp": "ヴォルフスエック鋼鉄",
                 "Kr": null,
                 "Tw": null,
                 "Cn": "沃尔夫赛格铁块",
@@ -1150,7 +1150,7 @@
             },
             "13": {
                 "En": "Nimrud Lens",
-                "Jp": null,
+                "Jp": "ニムルドレンズ",
                 "Kr": null,
                 "Tw": null,
                 "Cn": "尼姆鲁德透镜",
@@ -1159,7 +1159,7 @@
             },
             "14": {
                 "En": "Mandrake",
-                "Jp": null,
+                "Jp": "マンドレイク",
                 "Kr": null,
                 "Tw": null,
                 "Cn": "曼德拉草",
@@ -1168,7 +1168,7 @@
             },
             "15": {
                 "En": "Rohonc Codex",
-                "Jp": null,
+                "Jp": "レヒニッツ写本",
                 "Kr": null,
                 "Tw": null,
                 "Cn": "罗洪特抄本",
@@ -1177,7 +1177,7 @@
             },
             "16": {
                 "En": "Aether",
-                "Jp": null,
+                "Jp": "エーテル",
                 "Kr": null,
                 "Tw": null,
                 "Cn": "以太",
@@ -1186,7 +1186,7 @@
             },
             "17": {
                 "En": "Antikythera",
-                "Jp": null,
+                "Jp": "アンティキティラ装置",
                 "Kr": null,
                 "Tw": null,
                 "Cn": "安提基特拉机械",
@@ -1195,7 +1195,7 @@
             },
             "18": {
                 "En": "Voynich Manuscript",
-                "Jp": null,
+                "Jp": "ヴォイニッチ手稿",
                 "Kr": null,
                 "Tw": null,
                 "Cn": "伏尼契手稿",
@@ -1204,7 +1204,7 @@
             },
             "19": {
                 "En": "Crystal Haniwa",
-                "Jp": null,
+                "Jp": "水晶埴輪",
                 "Kr": null,
                 "Tw": null,
                 "Cn": "水晶埴轮",
@@ -1213,7 +1213,7 @@
             },
             "20": {
                 "En": "Totem Pole",
-                "Jp": null,
+                "Jp": "トーテムポール",
                 "Kr": null,
                 "Tw": null,
                 "Cn": "图腾柱",
@@ -1222,7 +1222,7 @@
             },
             "21": {
                 "En": "Ancient Battery",
-                "Jp": null,
+                "Jp": "古代の電池",
                 "Kr": null,
                 "Tw": null,
                 "Cn": "古代电池",
@@ -1231,7 +1231,7 @@
             },
             "24": {
                 "En": "Disco Colgante",
-                "Jp": null,
+                "Jp": "円盤型ペンダント",
                 "Kr": null,
                 "Tw": null,
                 "Cn": "圆盘坠饰",
@@ -1240,7 +1240,7 @@
             },
             "29": {
                 "En": "Winnipesaukee Stone",
-                "Jp": null,
+                "Jp": "ミステリーストーン",
                 "Kr": null,
                 "Tw": null,
                 "Cn": "温尼珀索基石",
@@ -2667,6 +2667,7 @@
             },
             "Special_CH0187Mod": {
                 "En": "Charge",
+                "Jp": "チャージ",
                 "Th": "พลังงาน",
                 "Cn": "充能",
                 "Vi": "Nạp điện"
@@ -3526,6 +3527,7 @@
             },
             "Special_CH0187Mod": {
                 "En": "Abi-Eshuh Mode Charge",
+                "Jp": "アビ・エシュフモードチャージ",
                 "Th": "พลังงานของอาบี-เอชูฮ์",
                 "Cn": "阿比舒模式充能",
                 "Vi": "Chế độ nạp điện Abi-Eshuh"
@@ -4217,6 +4219,7 @@
             },
             "Special_CH0187Mod": {
                 "En": "Allows the use of Toki's EX Skill while in Abi-Eshuh Mode. Abi-Eshuh mode ends once all stacks are consumed.",
+                "Jp": "アビ・エシュフモード中にトキのEXスキルを使用可能にする。すべてのチャージを使用するとアビ・エシュフモードは終了する。",
                 "Th": "เปลี่ยนรูปแบบสกิล EX ของโทคิในโหมดอาบี-เอชูฮ์และใช้งาน 1 อันต่อการใช้สกิล EX 1 ครั้ง\nโหมดอาบี-เอชูฮ์จะจบลงเมื่อพลังงานทั้งหมดถูกใช้งาน",
                 "Cn": "允许时处于阿比舒模式时使用EX技能\n所有充能层数耗尽时，阿比舒模式结束",
                 "Vi": "Cho phép sử dụng Kỹ năng EX của Toki khi ở chế độ Abi-Eshuh. Chế độ Abi-Eshuh kết thúc sau khi năng lượng nạp được sử dụng hết."
@@ -5101,7 +5104,7 @@
             },
             "attack_type_normal_desc": {
                 "En": "Deals <b>1&times;</b> damage to <b class='ba-col-explosion'>Light Armor</b>, <b class='ba-col-pierce'>Heavy Armor</b>, <b class='ba-col-mystic'>Special Armor</b> and <b class='ba-col-elasticarmor'>Elastic Armor</b>.<br>Deals <b>0.5&times;</b> damage to <b>Structures</b>.",
-                "Jp": "すべての防御タイプに<b>1倍</b>のダメージを与える<br>構造物に<b>0.5倍</b>のダメージを与える。",
+                "Jp": "<b class='ba-col-explosion'>軽装備</b>、<b class='ba-col-pierce'>重装甲</b>、<b class='ba-col-mystic'>特殊装甲</b>および<b class='ba-col-elasticarmor'>弾力装甲</b>に対して<b>1倍</b>のダメージを与える。<br>構造物に<b>0.5倍</b>のダメージを与える。",
                 "Kr": "<b class='ba-col-explosion'>경장갑</b>, <b class='ba-col-pierce'>중장갑</b>, <b class='ba-col-mystic'>신비장갑</b> 대상에게 <b>1&times;</b> 대미지.<br>구조물 대상에게 <b>0.5&times;</b> 대미지.",
                 "Th": "สร้างความเสียหาย <b>&times;1</b> ให้กับเป้าหมายประเภท<b class='ba-col-explosion'>เกราะเบา</b>, <b class='ba-col-pierce'>เกราะหนัก</b>และ<b class='ba-col-mystic'>เกราะพิเศษ</b><br>สร้างความเสียหาย <b>&times;0.5</b> ให้กับเป้าหมายประเภท<b>สิ่งปลูกสร้าง</b>",
                 "Tw": "對<b class='ba-col-explosion'>輕裝甲</b>、<b class='ba-col-pierce'>重裝甲</b>與<b class='ba-col-mystic'>神秘裝甲</b>目標造成<b>1倍</b>傷害。<br>對<b>構造物</b>造成<b>0.5倍</b>傷害。",
@@ -5119,7 +5122,7 @@
             },
             "defense_type_normal_desc": {
                 "En": "Receives <b>1&times;</b> damage from <b class='ba-col-explosion'>Explosive</b>, <b class='ba-col-pierce'>Piercing</b>, <b class='ba-col-mystic'>Mystic</b> and <b class='ba-col-sonic'>Sonic</b> attacks.",
-                "Jp": "<b class='ba-col-explosion'>爆発</b>、<b class='ba-col-pierce'>貫通</b>および<b class='ba-col-mystic'>神秘</b>攻撃から<b>1倍</b>のダメージを受ける。",
+                "Jp": "<b class='ba-col-explosion'>爆発</b>、<b class='ba-col-pierce'>貫通</b>、<b class='ba-col-mystic'>神秘</b>および<b class='ba-col-sonic'>振動</b>攻撃から<b>1倍</b>のダメージを受ける。",
                 "Kr": "<b class='ba-col-explosion'>폭발</b>, <b class='ba-col-pierce'>관통</b>, <b class='ba-col-mystic'>신비</b> 공격으로부터 <b>1&times;</b> 대미지를 받습니다.",
                 "Th": "ได้รับความเสียหาย <b>&times;1</b> จากการโจมตีประเภท<b class='ba-col-explosion'>ระเบิด</b>, <b class='ba-col-pierce'>เจาะเกราะ</b>และ<b class='ba-col-mystic'>ลึกลับ</b>",
                 "Tw": "承受<b>1倍</b><b class='ba-col-explosion'>爆炸</b>、<b class='ba-col-pierce'>貫穿</b>與<b class='ba-col-mystic'>神秘</b>攻擊傷害。",
@@ -5425,7 +5428,7 @@
             },
             "misc": {
                 "En": "Misc.",
-                "Jp": null,
+                "Jp": "その他",
                 "Kr": null,
                 "Th": "อื่นๆ",
                 "Tw": null,
@@ -5434,7 +5437,7 @@
             },
             "uses_cover": {
                 "En": "Uses Cover",
-                "Jp": null,
+                "Jp": "遮蔽物使用",
                 "Kr": null,
                 "Th": "ใช้กำบังได้",
                 "Tw": null,
@@ -5443,7 +5446,7 @@
             },
             "can_cc": {
                 "En": "Can CC",
-                "Jp": null,
+                "Jp": "CC付与",
                 "Kr": null,
                 "Th": "มีเอฟเฟกต์กดขี่",
                 "Tw": null,
@@ -5452,7 +5455,7 @@
             },
             "uses_artifact": {
                 "En": "Uses Artifact",
-                "Jp": null,
+                "Jp": "使用オーパーツ",
                 "Kr": null,
                 "Th": "ใช้วัตถุหลงยุค",
                 "Tw": null,
@@ -5461,7 +5464,7 @@
             },
             "filter_include_weapon_upgrade": {
                 "En": "Include Weapon Upgrade",
-                "Jp": null,
+                "Jp": "固有武器による強化を含める",
                 "Kr": null,
                 "Th": "นับรวมผลของอาวุธเฉพาะ",
                 "Tw": null,
@@ -6236,7 +6239,7 @@
             },
             "conquest_title": {
                 "En": "Area {0}, Team {1}",
-                "Jp": "エリア{0}、チーム{1}",
+                "Jp": "エリア{0}、部隊{1}",
                 "Kr": "{0} 지역 {1}팀",
                 "Th": "พื้นที่ {0} ทีม {1}",
                 "Tw": "區域{0} 隊伍{1}",
