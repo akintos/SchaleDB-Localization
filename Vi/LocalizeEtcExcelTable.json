@@ -2614,78 +2614,78 @@
         },
         {
             "Key": 2043178916,
-            "NameVi": "あんぱん",
-            "DescriptionVi": "パン食い競争に使われる、ビニールに包まれたあんぱん。小豆だけが入ったシンプルな構成のパンだが、一部のヴァルキューレ警察学校の生徒たちから大好評を受けたという。"
+            "NameVi": "Bánh nhân đậu đỏ",
+            "DescriptionVi": "Bánh nhân đậu đỏ bọc vỏ nhựa, dùng trong các cuộc thi ăn bánh mì. Đó là một loại bánh mì đơn giản chỉ chứa đậu đỏ, nhưng nó được cho là đã được một số sinh viên Học viện Cảnh sát Valkyrie đón nhận rất nồng nhiệt."
         },
         {
             "Key": 3227336825,
-            "NameVi": "案内パンフレット",
-            "DescriptionVi": "晄輪大祭実行委員会本部から配っている案内パンフレット。試合日程はもちろんの事、競技場近くのグルメマップまで詳細に記載されている。"
+            "NameVi": "Tờ rơi thông tin",
+            "DescriptionVi": "Một cuốn sách nhỏ thông tin được phân phát bởi trụ sở của Ủy ban Điều hành Lễ hội Shurin. Không chỉ lịch thi đấu mà cả bản đồ sành chơi gần sân vận động cũng được mô tả chi tiết."
         },
         {
             "Key": 2905328212,
-            "NameVi": "クリスマスプレゼント",
-            "DescriptionVi": "クリスマスに誰もが待っているもの。悪い子はもらえない。"
+            "NameVi": "Quà Giáng sinh",
+            "DescriptionVi": "Thứ mà nhiều người mong đợi vào đêm Giáng sinh."
         },
         {
             "Key": 1128970523,
-            "NameVi": "クリスマスソックス",
-            "DescriptionVi": "プレゼントを楽しみにして掛けておくソックス。履けばしっかり暖かい。"
+            "NameVi": "Tất Giáng sinh",
+            "DescriptionVi": "Loại tất treo trên lò sưởi như một món quà. Nó sẽ giữ ấm cho bạn khi bạn mặc nó."
         },
         {
             "Key": 4179360865,
-            "NameVi": "キャンディケイン",
-            "DescriptionVi": "杖の形で作られたクリスマスキャンディ。通常はミント味。"
+            "NameVi": "Cây kẹo",
+            "DescriptionVi": "Kẹo Giáng sinh làm theo hình cây gậy. Thường có hương vị bạc hà."
         },
         {
             "Key": 1459661267,
-            "NameVi": "エッグノッグ",
-            "DescriptionVi": "牛乳と卵、砂糖で作る温かい飲み物。寒い日に飲むと体が温まる。"
+            "NameVi": "Rượu trứng",
+            "DescriptionVi": "Một thức uống nóng làm từ sữa, trứng và đường. Uống nó vào một ngày lạnh sẽ làm bạn ấm lên."
         },
         {
             "Key": 2264400688,
-            "NameVi": "紅白かまぼこ",
-            "DescriptionVi": "紅白2色のかまぼこ。紅はめでたさを、白は魔除けを意味している縁起物。"
+            "NameVi": "Kamaboko đỏ và trắng",
+            "DescriptionVi": "Loại bánh surimi kamaboko đỏ và trắng. Màu đỏ có nghĩa là may mắn và màu trắng có nghĩa là bùa hộ mệnh."
         },
         {
             "Key": 3707337679,
-            "NameVi": "おめでタイ",
-            "DescriptionVi": "その名の通り、めでたさを祝う縁起物のお魚。おせちでエビと共に欠かせない。"
+            "NameVi": "Cá tráp",
+            "DescriptionVi": "Đúng như tên gọi, nó là loài cá may mắn, tượng trưng cho hạnh phúc. Mâm cơm ngày Tết không thể thiếu nó.\n\nTên vật phẩm có thể sai sót hoặc không chính xác."
         },
         {
             "Key": 2091304235,
-            "NameVi": "おみくじ引換券",
-            "DescriptionVi": "おみくじの引換券。複数集めるとおみくじを引くことができる。一年の運試しにいかが？"
+            "NameVi": "Phiếu mua hàng Omikuji",
+            "DescriptionVi": "Phiếu mua hàng Omikuji. Nếu bạn thu thập nhiều hơn một, bạn có thể vẽ một omikuji. Làm thế nào về việc thử vận ​​​​may của bạn trong năm?"
         },
         {
             "Key": 2629342802,
-            "NameVi": "多次元演算回路",
-            "DescriptionVi": "アトラ・ハシースの箱舟から切り離された演算装置の断片。複雑な回路で構成されている。"
+            "NameVi": "Mạch tính đa chiều",
+            "DescriptionVi": "Các mảnh vỡ của đơn vị tính toán được tách ra từ hòm của Atla Hashith. Nó bao gồm các mạch phức tạp."
         },
         {
             "Key": 1015134010,
-            "NameVi": "次元エンジン付属品",
-            "DescriptionVi": "次元エンジンから切り離された付属品。今は機械の塊に過ぎず、特に使えるところはなさそうだ。"
+            "NameVi": "Phụ kiện động cơ chiều",
+            "DescriptionVi": "Một phần phụ tách ra khỏi động cơ chiều. Bây giờ nó chỉ là một phần của máy móc, và dường như không có bất kỳ mục đích sử dụng cụ thể nào cho nó."
         },
         {
             "Key": 3353425290,
-            "NameVi": "宇宙チョコバーガー",
-            "DescriptionVi": "誰かが宇宙食として使用するために密封されたチョコバーガー。なぜチョコバーガーを密封処理したのか、未だに疑問は解消されていない。"
+            "NameVi": "Burger sô cô la không gian",
+            "DescriptionVi": "Bánh mì kẹp thịt sô cô la được niêm phong để ai đó dùng làm thức ăn ngoài không gian. Câu hỏi vẫn chưa được giải đáp là tại sao bánh mì kẹp thịt sô cô la lại được niêm phong và xử lý."
         },
         {
             "Key": 3142506941,
-            "NameVi": "ゲートアンロックコード - 外郭2区",
-            "DescriptionVi": "外郭2区のゲートを開放できるアンロックコードが認識されたチップ。"
+            "NameVi": "Code Mở Cổng - Ngoại Khu 2",
+            "DescriptionVi": "Một con chip có mã mở khóa được công nhận có thể mở cổng của hai khu bên ngoài."
         },
         {
             "Key": 2995130259,
-            "NameVi": "ゲートアンロックコード - 外郭3区",
-            "DescriptionVi": "外郭3区のゲートを開放できるアンロックコードが認識されたチップ。"
+            "NameVi": "Code Mở Cổng - Ngoại Khu 3",
+            "DescriptionVi": "Một con chip có mã mở khóa được công nhận có thể mở cổng của ba khu bên ngoài."
         },
         {
             "Key": 1012273839,
-            "NameVi": "ゲートアンロックコード - 中央区",
-            "DescriptionVi": "中央区のゲートを開放できるアンロックコードが認識されたチップ。"
+            "NameVi": "Mã mở cổng - Trung tâm",
+            "DescriptionVi": "Một con chip có mã mở khóa được công nhận có thể mở cổng của khu trung tâm."
         },
         {
             "Key": 2057278413,
@@ -2879,8 +2879,8 @@
         },
         {
             "Key": 1257788779,
-            "NameVi": "T7装備設計図選択ボックス",
-            "DescriptionVi": "任意のT7装備の設計図を選択して交換することができる選択ボックス。"
+            "NameVi": "Vé lựa chọn bản thiết kế trang bị T7",
+            "DescriptionVi": "Một vé có thể đổi lấy bản thiết kế trang bị do bạn chọn."
         },
         {
             "Key": 4263715469,
