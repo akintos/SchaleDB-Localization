@@ -976,7 +976,7 @@
             "CharacterExpGrowth": {
                 "En": "Character EXP",
                 "Jp": "キャラクターEXP",
-                "Kr": null,
+                "Kr": "캐릭터 경험치",
                 "Th": "EXP ตัวละคร",
                 "Tw": "角色經驗",
                 "Cn": "角色经验",
@@ -1124,7 +1124,7 @@
             "10": {
                 "En": "Nebra Sky Disk",
                 "Jp": "ネブラディスク",
-                "Kr": null,
+                "Kr": "네브라 디스크",
                 "Tw": null,
                 "Cn": "内布拉星象磁盘",
                 "Th": "ดิสก์เนบรา",
@@ -1133,7 +1133,7 @@
             "11": {
                 "En": "Phaistos Disc",
                 "Jp": "ファイストス円盤",
-                "Kr": null,
+                "Kr": "파에스토스 원반",
                 "Tw": null,
                 "Cn": "斐斯托斯圆盘",
                 "Th": "จักรเฟสทอส",
@@ -1142,7 +1142,7 @@
             "12": {
                 "En": "Wolfsegg Steel",
                 "Jp": "ヴォルフスエック鋼鉄",
-                "Kr": null,
+                "Kr": "볼프셰크 강철",
                 "Tw": null,
                 "Cn": "沃尔夫赛格铁块",
                 "Th": "เหล็กวูล์ฟเซก",
@@ -1151,7 +1151,7 @@
             "13": {
                 "En": "Nimrud Lens",
                 "Jp": "ニムルドレンズ",
-                "Kr": null,
+                "Kr": "님루드 렌즈",
                 "Tw": null,
                 "Cn": "尼姆鲁德透镜",
                 "Th": "เลนส์นิมรุด",
@@ -1160,7 +1160,7 @@
             "14": {
                 "En": "Mandrake",
                 "Jp": "マンドレイク",
-                "Kr": null,
+                "Kr": "만드라고라",
                 "Tw": null,
                 "Cn": "曼德拉草",
                 "Th": "แมนดราโกร่า",
@@ -1169,7 +1169,7 @@
             "15": {
                 "En": "Rohonc Codex",
                 "Jp": "レヒニッツ写本",
-                "Kr": null,
+                "Kr": "로혼치 사본",
                 "Tw": null,
                 "Cn": "罗洪特抄本",
                 "Th": "สำเนาโรฮอนซ์",
@@ -1178,7 +1178,7 @@
             "16": {
                 "En": "Aether",
                 "Jp": "エーテル",
-                "Kr": null,
+                "Kr": "에테르",
                 "Tw": null,
                 "Cn": "以太",
                 "Th": "อีเธอร์",
@@ -1187,7 +1187,7 @@
             "17": {
                 "En": "Antikythera",
                 "Jp": "アンティキティラ装置",
-                "Kr": null,
+                "Kr": "안티키테라 장치",
                 "Tw": null,
                 "Cn": "安提基特拉机械",
                 "Th": "อุปกรณ์แอนเทรา",
@@ -1196,7 +1196,7 @@
             "18": {
                 "En": "Voynich Manuscript",
                 "Jp": "ヴォイニッチ手稿",
-                "Kr": null,
+                "Kr": "보이니치 사본",
                 "Tw": null,
                 "Cn": "伏尼契手稿",
                 "Th": "สำเนาวอยนิช",
@@ -1205,7 +1205,7 @@
             "19": {
                 "En": "Crystal Haniwa",
                 "Jp": "水晶埴輪",
-                "Kr": null,
+                "Kr": "수정 하니와",
                 "Tw": null,
                 "Cn": "水晶埴轮",
                 "Th": "คริสตัลฮานิวา",
@@ -1214,7 +1214,7 @@
             "20": {
                 "En": "Totem Pole",
                 "Jp": "トーテムポール",
-                "Kr": null,
+                "Kr": "토템폴",
                 "Tw": null,
                 "Cn": "图腾柱",
                 "Th": "เสาโทเทม",
@@ -1223,7 +1223,7 @@
             "21": {
                 "En": "Ancient Battery",
                 "Jp": "古代の電池",
-                "Kr": null,
+                "Kr": "고대 전지",
                 "Tw": null,
                 "Cn": "古代电池",
                 "Th": "แบตเตอรี่โบราณ",
@@ -1232,7 +1232,7 @@
             "24": {
                 "En": "Disco Colgante",
                 "Jp": "円盤型ペンダント",
-                "Kr": null,
+                "Kr": "디스코 콜칸테",
                 "Tw": null,
                 "Cn": "圆盘坠饰",
                 "Th": "ดิสโก โคลกานเต",
@@ -1241,7 +1241,7 @@
             "29": {
                 "En": "Winnipesaukee Stone",
                 "Jp": "ミステリーストーン",
-                "Kr": null,
+                "Kr": "위니페소키 스톤",
                 "Tw": null,
                 "Cn": "温尼珀索基石",
                 "Th": "หินวินนีเพอซอกี",
@@ -1814,7 +1814,7 @@
             "Buff_AidAttitude": {
                 "En": "First Aid Ready",
                 "Jp": "「救護の心構え」",
-                "Kr": null,
+                "Kr": "구호의 마음가짐",
                 "Th": "หัวใจแห่งการบรรเทาทุกข์",
                 "Tw": "準備急救",
                 "Cn": "「救护准备」",
@@ -4302,7 +4302,7 @@
             "TypeDamage": {
                 "En": "Increases when dealt {0} damage.",
                 "Jp": "{0}ダメージを受けると増加する。",
-                "Kr": null,
+                "Kr": "{0} 데미지를 입으면 증가.",
                 "Th": "เพิ่มเมื่อได้รับความเสียหาย {0}",
                 "Tw": "受到{0}傷害時增加。",
                 "Cn": "受到{0}伤害时提升",
@@ -4311,7 +4311,7 @@
             "Chesed": {
                 "En": "Increases when automaton soldiers are defeated.",
                 "Jp": "自律兵器が破壊されると増加する。",
-                "Kr": null,
+                "Kr": "기계 병사를 처치하면 증가.",
                 "Th": "เพิ่มเมื่อทหารจักรกลถูกทำลาย (ไม่นับรวมหุ่นดูดฝุ่น)",
                 "Tw": "自動機士兵被擊敗時增加。",
                 "Cn": "自动机士兵被摧毁时提升",
@@ -4320,7 +4320,7 @@
             "ShiroKuro": {
                 "En": "Increases when hit by own attacks.",
                 "Jp": "自身の攻撃を受けると増加する。",
-                "Kr": null,
+                "Kr": "자신의 공격에 맞으면 증가.",
                 "Th": "เพิ่มเมื่อถูกโจมตีโดยการโจมตีของตัวเอง",
                 "Tw": "被自身攻擊擊中時增加。",
                 "Cn": "被自身攻击命中时提升",
@@ -4329,7 +4329,7 @@
             "Hieronymus": {
                 "En": "Increases when EX Skills are interrupted.",
                 "Jp": "EXスキルが中断されると増加する。",
-                "Kr": null,
+                "Kr": "EX 스킬이 방해받으면 증가.",
                 "Th": "เพิ่มเมื่อถูกเรลิกแดงขัดขวางการใช้สกิล EX",
                 "Tw": "EX技能被打斷時增加。",
                 "Cn": "EX技能被打断时提升",
@@ -4338,7 +4338,7 @@
             "KaitenFxMk0": {
                 "En": "Increases when components are destroyed.",
                 "Jp": "パーツが破壊されると増加する。",
-                "Kr": null,
+                "Kr": "부위가 파괴되면 증가.",
                 "Th": "เพิ่มเมื่อได้รับความเสียหายจนชิ้นส่วนถูกทำลาย",
                 "Tw": "組件被摧毀時增加。",
                 "Cn": "组件被摧毁时提升",
@@ -4347,7 +4347,7 @@
             "Perorozilla": {
                 "En": "Increases when stunned Perorominions are absorbed.",
                 "Jp": "気絶状態のペロロミニオンを吸い込むと増加する。",
-                "Kr": null,
+                "Kr": "쓰러진 페로로 미니언이 흡수되면 증가.",
                 "Th": "เพิ่มเมื่อลูกสมุนเพโรโร่ที่ล้มลงถูกดูดซับ",
                 "Tw": "被擊暈的佩洛洛士兵被吸收時增加。",
                 "Cn": "被击倒的佩洛洛被吸收时提升",
@@ -4356,7 +4356,7 @@
             "HOD": {
                 "En": "Increases when Erosion Towers are destroyed or Hod's CC Gauge is filled.",
                 "Jp": "インベイドピラーが破壊されるかホドのCCゲージが一杯になると増加する。",
-                "Kr": null,
+                "Kr": "침식 타워가 파괴되거나 호드의 CC 게이지가 가득 차면 증가.",
                 "Th": "เพิ่มเมื่อเสากัดกร่อนถูกทำลายหรือเกจพิเศษของ Hod เต็ม",
                 "Tw": "侵蝕塔被摧毀或霍德的CC量表充滿時增加。",
                 "Cn": "侵蚀之柱被摧毁或Hod的群控量表充满时提升",
@@ -4365,7 +4365,7 @@
             "HoverCraft": {
                 "En": "Increases when Missile Frenzy mode ends.",
                 "Jp": "ミサイル暴走モードが終了すると増加する。",
-                "Kr": null,
+                "Kr": "미사일 폭주 모드가 종료되면 증가.",
                 "Th": "เพิ่มเมื่อโหมดยิงมิสไซล์จบลง",
                 "Tw": "導彈炸裂模式結束時增加。",
                 "Cn": "导弹暴走模式结束时提升",
@@ -4529,7 +4529,7 @@
             "navbar_settings_contrast_description": {
                 "En": "Disables blur and transparency effects.<br>May also improve performance.",
                 "Jp": "ぼかし効果と透過効果を無効にします。<br>パフォーマンスが向上することもあります。",
-                "Kr": null,
+                "Kr": "투명 효과를 비활성화합니다.<br>성능이 향상될 수 있습니다.",
                 "Th": "ลบเอฟเฟคเบลอและโปร่งใสออก <br>อาจจะเพิ่มประสิทธิภาพการทำงาน",
                 "Tw": "禁用模糊與透明效果。<br>可能提升性能。",
                 "Cn": "禁用模糊和透明效果<br>可能提升性能",
@@ -5114,7 +5114,7 @@
             "defense_type_desc": {
                 "En": "Receives <b>{0}&times;</b> damage from {1} attacks.",
                 "Jp": "{1}攻撃から<b>{0}倍</b>のダメージを受ける。",
-                "Kr": "{1} 공격으로부터<b>{0}&times;</b> 대미지를 받습니다.",
+                "Kr": "{1} 공격으로부터 <b>{0}&times;</b> 대미지를 받습니다.",
                 "Th": "ได้รับความเสียหาย <b>&times;{0}</b> จากการโจมตีประเภท{1}",
                 "Tw": "承受<b>{0}倍</b>{1}攻擊傷害。",
                 "Cn": "承受<b>{0}倍</b>{1}攻击伤害",
@@ -5429,7 +5429,7 @@
             "misc": {
                 "En": "Misc.",
                 "Jp": "その他",
-                "Kr": null,
+                "Kr": "기타",
                 "Th": "อื่นๆ",
                 "Tw": null,
                 "Cn": "其他",
@@ -5438,7 +5438,7 @@
             "uses_cover": {
                 "En": "Uses Cover",
                 "Jp": "遮蔽物使用",
-                "Kr": null,
+                "Kr": "엄폐",
                 "Th": "ใช้กำบังได้",
                 "Tw": null,
                 "Cn": "使用掩体",
@@ -5447,7 +5447,7 @@
             "can_cc": {
                 "En": "Can CC",
                 "Jp": "CC付与",
-                "Kr": null,
+                "Kr": "군중제어기",
                 "Th": "มีเอฟเฟกต์กดขี่",
                 "Tw": null,
                 "Cn": "可施加群控状态",
@@ -5456,7 +5456,7 @@
             "uses_artifact": {
                 "En": "Uses Artifact",
                 "Jp": "使用オーパーツ",
-                "Kr": null,
+                "Kr": "사용 오파츠",
                 "Th": "ใช้วัตถุหลงยุค",
                 "Tw": null,
                 "Cn": "养成所需欧帕兹",
@@ -5465,7 +5465,7 @@
             "filter_include_weapon_upgrade": {
                 "En": "Include Weapon Upgrade",
                 "Jp": "固有武器による強化を含める",
-                "Kr": null,
+                "Kr": "고유 무기 업그레이드 포함",
                 "Th": "นับรวมผลของอาวุธเฉพาะ",
                 "Tw": null,
                 "Cn": "含适应性强化",
@@ -5501,7 +5501,7 @@
             "memory_lobby_bgm": {
                 "En": "Lobby BGM: {0}",
                 "Jp": "メモリアルロビーBGM：{0}",
-                "Kr": null,
+                "Kr": "메모리얼 BGM: {0}",
                 "Th": "เพลงประกอบล็อบบี้ฯ: {0}",
                 "Tw": "大廳BGM: {0}",
                 "Cn": "大厅BGM: {0}",
@@ -6087,7 +6087,7 @@
             "item_usedby_gear": {
                 "En": "Used to improve the following students' unique item",
                 "Jp": "以下の生徒の愛用品の強化に必要",
-                "Kr": null,
+                "Kr": "아래 학생의 애장품 업그레이드에 필요",
                 "Th": "ใช้ในการอัปเกรดอุปกรณ์พิเศษของนักเรียนดังต่อไปนี้",
                 "Tw": "用於强化以下學生的愛用品",
                 "Cn": "用于强化以下学生的爱用品",
@@ -6402,7 +6402,7 @@
             "collection_owned": {
                 "En": "Owned",
                 "Jp": "所持",
-                "Kr": null,
+                "Kr": "보유",
                 "Th": "มีแล้ว",
                 "Tw": "已擁有",
                 "Cn": "已添加",
@@ -6411,7 +6411,7 @@
             "collection_notowned": {
                 "En": "Not Owned",
                 "Jp": "未所持",
-                "Kr": null,
+                "Kr": "미보유",
                 "Th": "ยังไม่มี",
                 "Tw": "未擁有",
                 "Cn": "未添加",
@@ -6447,7 +6447,7 @@
             "maptile_teleport_oneway_entrance": {
                 "En": "One-way Teleporter Entrance",
                 "Jp": "一方通行テレポート入口",
-                "Kr": null,
+                "Kr": "단방향 텔레포터 입구",
                 "Th": "ทางเข้าเทเลพอร์ททางเดียว",
                 "Tw": "單向移動入口",
                 "Cn": "单向传送单元格(入口)",
@@ -6456,7 +6456,7 @@
             "maptile_teleport_oneway_exit": {
                 "En": "One-way Teleporter Exit",
                 "Jp": "一方通行テレポート出口",
-                "Kr": null,
+                "Kr": "단방향 텔레포터 출구",
                 "Th": "ทางออกเทเลพอร์ททางเดียว",
                 "Tw": "單向移動出口",
                 "Cn": "单向传送单元格(出口)",
@@ -6465,7 +6465,7 @@
             "maptile_teleport_twoway": {
                 "En": "Two-way Teleporter",
                 "Jp": "双方向テレポート",
-                "Kr": null,
+                "Kr": "양방향 텔레포터",
                 "Th": "เทเลพอร์ทสองทาง",
                 "Tw": "雙向移動",
                 "Cn": "双向传送单元格",
@@ -6474,7 +6474,7 @@
             "maptile_item_food": {
                 "En": "Food Pickup\n(Heals unit for 50% of their Max HP)",
                 "Jp": "食物タイル\n（最大HPの50%を回復）",
-                "Kr": null,
+                "Kr": "음식 타일\n(유닛들의 HP를 최대치의 50% 회복)",
                 "Th": "จุดเก็บอาหาร\n(ฟื้นฟู HP 50% ของ Max HP ให้กับยูนิทที่เก็บ)",
                 "Tw": "食物拾取\n(恢複學生 50% 最大體力)",
                 "Cn": "食物单元格\n(回复学生50%最大生命值)",
@@ -6483,7 +6483,7 @@
             "maptile_item_atk": {
                 "En": "Gun Pickup\n(Increases unit's ATK by 10% for the next two turns)",
                 "Jp": "銃タイル\n（2ターンの間攻撃力を10%増加）",
-                "Kr": null,
+                "Kr": "총 타일\n(2턴 동안 유닛의 공격력이 10% 증가)",
                 "Th": "จุดเก็บปืน\n(เพิ่มค่าโจมตี 10% ให้กับยูนิทที่เก็บในอีก 2 เทิร์นถัดไป)",
                 "Tw": "武器拾取\n(兩回合內學生攻擊力增加 10%)",
                 "Cn": "武器单元格\n(两回合内增加10%学生攻击力)",
@@ -6492,7 +6492,7 @@
             "maptile_item_def": {
                 "En": "Armor Pickup\n(Increases unit's DEF by 10% for the next two turns)",
                 "Jp": "盾タイル\n（2ターンの間防御力を10%増加）",
-                "Kr": null,
+                "Kr": "방패 타일\n(2턴 동안 유닛의 방어력이 10% 증가)",
                 "Th": "จุดเก็บเกราะ\n(เพิ่มค่าป้องกัน 10% ให้กับยูนิทที่เก็บในอีก 2 เทิร์นถัดไป)",
                 "Tw": "護甲拾取\n(兩回合內學生防禦力增加 10%)",
                 "Cn": "护甲单元格\n(两回合内增加10%学生防御力)",
@@ -6501,7 +6501,7 @@
             "maptile_switch_down": {
                 "En": "Lowered Switch Tile",
                 "Jp": "下がったスイッチタイル",
-                "Kr": null,
+                "Kr": "내려간 스위치 타일",
                 "Th": "พื้นสวิทช์ลดระดับ",
                 "Tw": "降低的交換方格",
                 "Cn": "降低的升降切换单元格",
@@ -6510,7 +6510,7 @@
             "maptile_switch_up": {
                 "En": "Raised Switch Tile",
                 "Jp": "上がったスイッチタイル",
-                "Kr": null,
+                "Kr": "올라온 스위치 타일",
                 "Th": "พื้นสวิทช์ยกระดับ",
                 "Tw": "升高的交換方格",
                 "Cn": "升高的升降切换单元格",
@@ -6519,7 +6519,7 @@
             "maptile_switch_target_down": {
                 "En": "Lowered Tile",
                 "Jp": "下がったタイル",
-                "Kr": null,
+                "Kr": "내려간 타일",
                 "Th": "พื้นลดระดับ",
                 "Tw": "降低的方格",
                 "Cn": "降低的升降单元格",
@@ -6528,7 +6528,7 @@
             "maptile_switch_target_up": {
                 "En": "Raised Tile",
                 "Jp": "上がったタイル",
-                "Kr": null,
+                "Kr": "올라온 타일",
                 "Th": "พื้นยกระดับ",
                 "Tw": "升高的方格",
                 "Cn": "升高的升降单元格",
@@ -6537,7 +6537,7 @@
             "maptile_enemy_default_msg": {
                 "En": "Click on an enemy unit on the map to view a list of enemies.",
                 "Jp": "マップ上の敵をクリックすると敵一覧が表示されます。",
-                "Kr": null,
+                "Kr": "지도상의 적 유닛을 클릭하면 적 목록을 볼 수 있습니다.",
                 "Th": "คลิกยูนิทศัตรูบนแผนที่เพื่อดูรายชื่อของศัตรู",
                 "Tw": "單擊地圖上的敵方單位以預覽敵人列表。",
                 "Cn": "单击地图上的敌方单位以展开敌人列表",
@@ -6573,7 +6573,7 @@
             "toast_amount_invalid": {
                 "En": "Invalid amount entered",
                 "Jp": "不正な値です",
-                "Kr": null,
+                "Kr": "올바르지 않은 수치",
                 "Th": "ค่าที่ใส่ลงไปไม่ถูกต้อง",
                 "Tw": "鍵入的數值無效",
                 "Cn": "输入的数值无效",
@@ -6654,7 +6654,7 @@
             "skill_hits_tooltip": {
                 "En": "Deals a total of {0} hit(s)",
                 "Jp": "合計{0}回ヒットする",
-                "Kr": null,
+                "Kr": "총 {0}회 타격",
                 "Th": "สร้างความเสียหายจำนวน {0} ครั้ง",
                 "Tw": "共造成{0}次打擊",
                 "Cn": "共计造成{0}次伤害",
@@ -6663,7 +6663,7 @@
             "home_welcome": {
                 "En": "Welcome, Sensei!",
                 "Jp": "ようこそ、先生！",
-                "Kr": null,
+                "Kr": "안녕하세요, 선생님!",
                 "Th": "ยินดีต้อนรับเหล่าเซ็นเซย์ทุกท่านค่ะ!",
                 "Tw": "歡迎回來，老師！",
                 "Cn": "欢迎回来，老师！",
@@ -6672,7 +6672,7 @@
             "home_introduction": {
                 "En": "Schale is an unofficial database and calculation tool for the mobile game <i class=\"text-bold\">Blue Archive</i> developed by Nexon Games and published by Yostar (Japan) and Nexon (Global) for iOS and Android.",
                 "Jp": "Schaleは、Nexson Gamesが開発しYostar（日本版）およびNexson（グローバル版）が運営するスマートフォン向けゲーム『<b>ブルーアーカイブ</b>』の非公式データベースです。",
-                "Kr": null,
+                "Kr": "Schale는 넥슨 게임즈가 개발하고 요스타(일본)와 넥슨(글로벌)이 iOS와 안드로이드로 서비스하는 모바일 게임 <i class=\"text-bold\">블루 아카이브</i>의 비공식 데이터베이스 및 계산 도구입니다.",
                 "Th": "Schale เป็นศูนย์รวมข้อมูลอย่างไม่เป็นทางการของเกมมือถือ <i class=\"text-bold\">Blue Archive</i> ที่พัฒนาโดยทาง Nexon Games และได้รับการเผยแพร่โดย Yostar (เซิร์ฟเวอร์ญี่ปุ่น) และ Nexon (เซิร์ฟเวอร์โกลบอล) ทั้งในระบบ iOS และ Android",
                 "Tw": "Schale 是 Nexon Games 開發，日服由 Yostar、國際服由 Nexon 運營的手游<i class=\"text-bold\">蔚藍檔案</i>的非官方數據庫。",
                 "Cn": "Schale 是 Nexon Games 开发，日服由 Yostar、国际服由 Nexon 运营的手游<i class=\"text-bold\">蔚蓝档案</i>的非官方数据库。",
@@ -6681,7 +6681,7 @@
             "home_change_server": {
                 "En": "Please select your game server using the settings menu <i class=\"fa-solid fa-gear mx-1\"></i> to see only information that has been released on that server.",
                 "Jp": "設定メニュー<i class=\"fa-solid fa-gear mx-1\"></i>からあなたが遊んでいるサーバーを選択するとそのサーバー向けの情報だけが表示されるようになります。",
-                "Kr": null,
+                "Kr": "설정 메뉴 <i class=\"fa-solid fa-gear mx-1\"></i> 에서 플레이중인 서버를 선택하면 해당 서버에 출시된 데이터만 표시됩니다.",
                 "Th": "กรุณาเลือกเซิร์ฟเวอร์เกมของคุณในหน้าเมนูตั้งค่า <i class=\"fa-solid fa-gear mx-1\"></i> เพื่อมองเห็นเฉพาะข้อมูลที่ได้รับการอัปเดทแล้วในเซิร์ฟเวอร์นั้นๆ",
                 "Tw": "請使用設置菜單 <i class=\"fa-solid fa-gear mx-1\"></i> 選擇日服/國際服以顯示對應伺服器的内容。",
                 "Cn": "请使用设置菜单 <i class=\"fa-solid fa-gear mx-1\"></i> 选择日服/国际服以显示对应服务器的内容。",
@@ -6690,7 +6690,7 @@
             "home_features": {
                 "En": "Features",
                 "Jp": "当サイトの特徴",
-                "Kr": null,
+                "Kr": "특징",
                 "Th": "คุณสมบัติต่างๆ",
                 "Tw": "特性",
                 "Cn": "特点：",
@@ -6699,7 +6699,7 @@
             "home_translations_help": {
                 "En": "Schale is currently available in 7 languages. Want to help translate? Please get in touch via Discord (lonqie#2708) or check out the <a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">localization project</a>!",
                 "Jp": "現在Schaleは7種類の言語でご利用になれます。翻訳を支援したい方はDiscord（lonqie#2708）経由でご連絡いただくか<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">ローライズプロジェクトサイト</a>をご確認ください。",
-                "Kr": null,
+                "Kr": "Schale는 현재 7가지 언어를 지원합니다. 번역을 돕고 싶으시다면 Discord(lonqie#2708)로 연락하시거나 <a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">현지화 프로젝트</a>를 확인해 보세요!",
                 "Th": "ในปัจจุบัน Schale สามารถใช้งานได้ใน 7 ภาษา อยากให้ความช่วยเหลือในการแปลภาษา? ติดต่อได้ทาง Discord (lonqie#2708) หรือลองเข้าไปตรวจสอบใน<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">โปรเจคแปลภาษา</a>ได้เลย! ",
                 "Tw": "Schale 目前支援7種語言。如果你想幫忙翻譯請透過Discord(lonqie#2708)聯係或查看<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\">本地化項目</a>！",
                 "Cn": "Schale 目前支持7种语言。如果你想帮助翻译请通过Discord(lonqie#2708)联系或查看<a class=\"text-emphasis\" href=\"https://github.com/lonqie/SchaleDB-Localization\" target=\"_blank\">本地化项目</a>！",
@@ -6708,7 +6708,7 @@
             "home_features_list": {
                 "En": "<li>Full information on all students and their skills, summons and vehicles.</li><li>Calculation feature that can display a student's stats under any configuration of level, equipment and buffs, and calculate skill damage and healing against a configurable target enemy.</li><li>Complete Items, Equipment and Furniture database.</li><li>Reward drops, maps and detailed enemy information for all Campaign, Event Quest, Challenge and Daily stages.</li><li>Stats and Skill information for Total Assault bosses and Joint Firing Drill events.</li><li>View the chances of possible items received from crafting nodes.</li>",
                 "Jp": "<li>すべての生徒とそのスキル、召喚物ならびに搭乗物に関する詳細な情報。</li><li>レベル、装備、バフのあらゆる組み合わせに対応した網羅的なステータス計算機能および様々な敵設定に対応したスキルダメージ量と回復量の計算機能。</li><li>アイテム、装備、家具に関する完全なデータベース。</li><li>すべての任務、イベントクエスト、チャレンジ、デイリーステージに関する獲得報酬、マップ、敵の詳細な情報。</li><li>総力戦ボスと合同火力演習に関するステータスとスキルの情報</li><li>各製造ノードから入手可能なアイテムの入手確率。</li>",
-                "Kr": null,
+                "Kr": "<li>학생들의 능력치, 스킬, 소환물에 대한 모든 정보.</li><li>학생의 레벨, 장비, 버프에 따른 능력치와, 특정 적에 대한 공격과 스킬의 치유/데미지량 계산 기능.</li><li>아이템, 장비, 가구의 데이터베이스.</li><li>스테이지, 이벤트, 챌린지의 보상, 지도, 적 정보.</li><li>총력전 보스의 능력치와 스킬 정보와 종합전술시험 이벤트 정보.</li><li>제조 노드의 등장 확률과 획득 가능한 보상 정보.</li>",
                 "Th": "<li>ข้อมูลของนักเรียนและสกิลทุกคน รวมไปถึงยานพาหนะ, วัตถุอัญเชิญและวัตถุกำบังอย่างครบถ้วน</li><li>หน้าต่างคำนวนค่าสถานะต่างๆ ของนักเรียนภายใต้เงื่อนไขทุกรูปแบบไม่ว่าจะเป็นจำนวนดาว, เลเวล, อุปกรณ์สวมใส่หรือบัพจากสกิลต่างๆ</li><li>ลิสของไอเทม, อุปกรณ์สวมใส่และเฟอร์นิเจอร์อย่างครบถ้วน</li><li>รางวัลที่ได้รับ, แผนที่และข้อมูลของศัตรูแบบละเอียดสำหรับทุกภารกิจหลัก, เควสอีเวนท์, ชาเลนจ์และด่านเควสรายวัน</li><li>ค่าสถานะและข้อมูลสกิลสำหรับอีเวนท์เรดบอสและการสอบประมวลผล</li><li>ดูตารางและอัตราการได้รับไอเทมต่างๆ จากการคราฟไอเทม</li>",
                 "Tw": "<li>有關全體學生和技能，包含召喚單位與載具單位的完整信息。</li><li>全面的數據計算，可以顯示學生在任何星級、等級、裝備和技能的增益效果下的面板數據。</li><li>完整的物品、裝備和傢俱數據庫。</li><li>所有關卡的獎勵掉落、地圖和詳細的敵人信息。</li><li>總力戰BOSS與綜合戰術考試的數據與技能信息。</li><li>查看從合成節點可能獲取物品的幾率。</li>",
                 "Cn": "<li>全体学生及其技能、召唤物、战术支援载具的完整信息</li><li>全面的数据计算，可以显示学生在任意星级、等级、装备、技能和增益状态下的面板数据</li><li>完整的物品、装备和家具数据库</li><li>所有关卡的掉落奖励、地图和详细的敌人信息</li><li>总力战BOSS与综合战术考试的数据及技能信息</li><li>查看从制造节点可能获取物品的概率</li>",
@@ -6717,7 +6717,7 @@
             "home_footer_text": {
                 "En": "Schale is developed and maintained by lonqie, with additional translation work by CanXue233, TKRotund, Gedanke & yumiruuwu.\nSchale is not affiliated with Nexon, Nexon Games or Yostar. All game artwork, information and assets used in this database are the property and copyright of the respective authors.",
                 "Jp": "Schaleはlonqieによって開発・運営されています。また、CanXue233、TKRotund、GedankeおよびYumiruuwuから翻訳の支援を受けています。\nSchaleはNexon、Nexon GamesおよびYostarとは一切関係ありません。当データベースで使用されているゲーム画像、情報ならびにアセットの所有権および著作権はそれぞれの権利者に帰属します。",
-                "Kr": null,
+                "Kr": "Schale는 lonqie에 의해 개발되고 있으며, CanXue233, TKRotund, Gedanke, yumiruuwu 에 의해 번역되고 있습니다.\nSchale는 넥슨, 넥슨 게임즈 또는 요스타의 공식 서비스가 아니며, 모든 게임 아트워크, 정보, 애셋의 권리와 저작권은 해당 저작권자의 소유입니다.",
                 "Th": "Schale พัฒนาและอัปเดทโดย lonqie โดยได้รับความช่วยเหลือในการแปลภาษาเพิ่มเติมจาก CanXue233, TKRotund, Gedanke และ Yumiruuwu\nSchale นั้นไม่ได้มีส่วนเกี่ยวข้องใดๆ กับทาง Nexon, Nexon Games หรือ Yostar รูปภาพและข้อมูลต่างๆ ที่ใช้ในฐานข้อมูลนี้ถือเป็นสมบัติและทรัพย์สินทางปัญญาของผู้ถือครองลิขสิทธิ์ดั้งเดิม",
                 "Tw": "Schale 由 lonqie 開發與維護，CanXue233、TKRotund、Gedanke 与 yumiruuwu 提供額外翻譯。\nSchale 與 Yostar、Nexon、Nexon Games 沒有關聯。本數據庫中使用的所有游戲作品、信息和素材均爲各自作者的財產和版權。",
                 "Cn": "Schale 由 lonqie 开发与维护，CanXue233、TKRotund、Gedanke 与 yumiruuwu 提供额外翻译。\nSchale 与 Yostar、Nexon、Nexon Games 没有关联。本数据库中使用的所有游戏作品、信息和素材均为各自作者的财产和版权。",
@@ -6726,7 +6726,7 @@
             "changelog": {
                 "En": "Changelog",
                 "Jp": "更新履歴",
-                "Kr": null,
+                "Kr": "변경사항",
                 "Th": "บันทึกการอัปเดท",
                 "Tw": "更新日志",
                 "Cn": "更新日志",
@@ -6735,7 +6735,7 @@
             "links": {
                 "En": "Links",
                 "Jp": "リンク集",
-                "Kr": null,
+                "Kr": "링크",
                 "Th": "ลิงค์เพิ่มเติม",
                 "Tw": null,
                 "Cn": "链接",
@@ -6744,7 +6744,7 @@
             "community_resources": {
                 "En": "Community Resources",
                 "Jp": "コミュニティリソース",
-                "Kr": null,
+                "Kr": "커뮤니티 자료",
                 "Th": "แหล่งข้อมูลเพิ่มเติมของคอมมูนิตี้",
                 "Tw": null,
                 "Cn": "社区资源",
@@ -6753,7 +6753,7 @@
             "skillinfo_empty": {
                 "En": "The selected character has no damage-dealing or healing skills to display.",
                 "Jp": "選択されたキャラクターはダメージスキルまたは回復スキルを持っていません。",
-                "Kr": null,
+                "Kr": "선택한 캐릭터는 공격 또는 치유 능력이 없습니다.",
                 "Th": "นักเรียนที่เลือกไม่มีสกิลสร้างความเสียหายหรือสกิลรักษาที่จะแสดงให้ดู",
                 "Tw": "選中的角色沒有可展示的造成傷害或恢復體力的技能。",
                 "Cn": "选中的角色没有可显示的造成伤害或回复生命值的技能。",
