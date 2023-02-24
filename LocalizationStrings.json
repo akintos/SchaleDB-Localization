@@ -6271,7 +6271,7 @@
                 "Th": null,
                 "Tw": null,
                 "Cn": null,
-                "Vi": null
+                "Vi": "Phân tích"
             },
             "conquest_settlement": {
                 "En": "Settlement Acquisition Reward",
@@ -6307,7 +6307,7 @@
                 "Th": "รับรางวัล{2}เพิ่ม +{0}%, เพิ่มค่าโจมตี +{1}%",
                 "Tw": "{2}獎勵額外獲得＋{0}%, 攻擊力增加＋{1}%",
                 "Cn": "{2}报酬+{0}%, 占领攻击力+{1}%",
-                "Vi": "Tiền thưởng sự kiện +{0}%, ATK +{1}%"
+                "Vi": "({2}) Tiền thưởng sự kiện +{0}%, ATK +{1}%"
             },
             "tooltip_relationship_bonus": {
                 "En": "Include {0}'s Relationship Bonus",
