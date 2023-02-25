@@ -2601,6 +2601,291 @@
             "Comment": "Event815-Conquest None"
         },
         {
+            "Key": 4229889733,
+            "Vi": "「外郭1区」演算装置",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 4255530903,
+            "Vi": "「外郭1区」演算補助装置",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 4255530903,
+            "Vi": "「外郭1区」演算補助装置",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 998509749,
+            "Vi": "「外郭1区」次元エンジン防御システム",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 3359797954,
+            "Vi": "「外郭2区」演算装置 - アルファ",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 2274276067,
+            "Vi": "「外郭2区」演算装置 - ベータ",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 905985257,
+            "Vi": "「外郭2区」次元エンジン防御システム",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 2648962102,
+            "Vi": "「外郭2区」記録装置 - アルファ",
+            "Comment": "Event822-Conquest Team2"
+        },
+        {
+            "Key": 25025391,
+            "Vi": "「外郭2区」記録装置 - ベータ",
+            "Comment": "Event822-Conquest Team2"
+        },
+        {
+            "Key": 3352665222,
+            "Vi": "「外郭2区」記録装置 - ガンマ",
+            "Comment": "Event822-Conquest Team2"
+        },
+        {
+            "Key": 29787380,
+            "Vi": "「外郭2区」制御装置 - アルファ",
+            "Comment": "Event822-Conquest Team3"
+        },
+        {
+            "Key": 239699296,
+            "Vi": "「外郭2区」制御装置 - ベータ",
+            "Comment": "Event822-Conquest Team3"
+        },
+        {
+            "Key": 295614680,
+            "Vi": "「外郭2区」制御装置 - ガンマ",
+            "Comment": "Event822-Conquest Team3"
+        },
+        {
+            "Key": 4237007235,
+            "Vi": "「外郭2区」演算補助装置",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 3716979925,
+            "Vi": "「外郭2区」記録補助装置",
+            "Comment": "Event822-Conquest Team2"
+        },
+        {
+            "Key": 3386870649,
+            "Vi": "「外郭2区」制御補助装置",
+            "Comment": "Event822-Conquest Team3"
+        },
+        {
+            "Key": 2420919787,
+            "Vi": "「外郭3区」演算装置 - アルファ",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 2278358627,
+            "Vi": "「外郭3区」演算装置 - ベータ",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 381081700,
+            "Vi": "「外郭3区」次元エンジン防御システム",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 1733755344,
+            "Vi": "「外郭3区」記録装置 - アルファ",
+            "Comment": "Event822-Conquest Team2"
+        },
+        {
+            "Key": 1196609746,
+            "Vi": "「外郭3区」記録装置 - ベータ",
+            "Comment": "Event822-Conquest Team2"
+        },
+        {
+            "Key": 2914431095,
+            "Vi": "「外郭3区」記録装置 - ガンマ",
+            "Comment": "Event822-Conquest Team2"
+        },
+        {
+            "Key": 2688058132,
+            "Vi": "「外郭3区」制御装置 - アルファ",
+            "Comment": "Event822-Conquest Team3"
+        },
+        {
+            "Key": 1618710922,
+            "Vi": "「外郭3区」制御装置 - ベータ",
+            "Comment": "Event822-Conquest Team3"
+        },
+        {
+            "Key": 3280552440,
+            "Vi": "「外郭3区」制御装置 - デルタ",
+            "Comment": "Event822-Conquest Team3"
+        },
+        {
+            "Key": 2825608855,
+            "Vi": "「外郭3区」演算補助装置",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 2825608855,
+            "Vi": "「外郭3区」演算補助装置",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 2825608855,
+            "Vi": "「外郭3区」演算補助装置",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 3595441445,
+            "Vi": "「外郭3区」記録補助装置",
+            "Comment": "Event822-Conquest Team2"
+        },
+        {
+            "Key": 3595441445,
+            "Vi": "「外郭3区」記録補助装置",
+            "Comment": "Event822-Conquest Team2"
+        },
+        {
+            "Key": 3595441445,
+            "Vi": "「外郭3区」記録補助装置",
+            "Comment": "Event822-Conquest Team2"
+        },
+        {
+            "Key": 2292382411,
+            "Vi": "「外郭3区」制御補助装置",
+            "Comment": "Event822-Conquest Team3"
+        },
+        {
+            "Key": 2292382411,
+            "Vi": "「外郭3区」制御補助装置",
+            "Comment": "Event822-Conquest Team3"
+        },
+        {
+            "Key": 2292382411,
+            "Vi": "「外郭3区」制御補助装置",
+            "Comment": "Event822-Conquest Team3"
+        },
+        {
+            "Key": 1173209283,
+            "Vi": "「中央区」演算装置 - アルファ",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 700268612,
+            "Vi": "「中央区」演算装置 - ベータ",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 425011666,
+            "Vi": "「中央区」次元エンジン防御システム",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 3978070239,
+            "Vi": "「中央区」記録装置 - アルファ",
+            "Comment": "Event822-Conquest Team2"
+        },
+        {
+            "Key": 312377502,
+            "Vi": "「中央区」記録装置 - ベータ",
+            "Comment": "Event822-Conquest Team2"
+        },
+        {
+            "Key": 1600293976,
+            "Vi": "「中央区」記録装置 - デルタ",
+            "Comment": "Event822-Conquest Team2"
+        },
+        {
+            "Key": 2107713797,
+            "Vi": "「中央区」制御装置 - アルファ",
+            "Comment": "Event822-Conquest Team3"
+        },
+        {
+            "Key": 2391136381,
+            "Vi": "「中央区」制御装置 - ベータ",
+            "Comment": "Event822-Conquest Team3"
+        },
+        {
+            "Key": 792530227,
+            "Vi": "「中央区」制御装置 - デルタ",
+            "Comment": "Event822-Conquest Team3"
+        },
+        {
+            "Key": 131767456,
+            "Vi": "「中央区」演算補助装置",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 131767456,
+            "Vi": "「中央区」演算補助装置",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 131767456,
+            "Vi": "「中央区」演算補助装置",
+            "Comment": "Event822-Conquest Team1"
+        },
+        {
+            "Key": 2370127785,
+            "Vi": "「中央区」記録補助装置",
+            "Comment": "Event822-Conquest Team2"
+        },
+        {
+            "Key": 2370127785,
+            "Vi": "「中央区」記録補助装置",
+            "Comment": "Event822-Conquest Team2"
+        },
+        {
+            "Key": 2370127785,
+            "Vi": "「中央区」記録補助装置",
+            "Comment": "Event822-Conquest Team2"
+        },
+        {
+            "Key": 1840091205,
+            "Vi": "「中央区」制御補助装置",
+            "Comment": "Event822-Conquest Team3"
+        },
+        {
+            "Key": 1840091205,
+            "Vi": "「中央区」制御補助装置",
+            "Comment": "Event822-Conquest Team3"
+        },
+        {
+            "Key": 1840091205,
+            "Vi": "「中央区」制御補助装置",
+            "Comment": "Event822-Conquest Team3"
+        },
+        {
+            "Key": 1898748935,
+            "Vi": "多次元解釈制御補助装置1",
+            "Comment": "Event822-Conquest None"
+        },
+        {
+            "Key": 3667349209,
+            "Vi": "多次元解釈制御補助装置2",
+            "Comment": "Event822-Conquest None"
+        },
+        {
+            "Key": 593668341,
+            "Vi": "多次元解釈演算補助装置1",
+            "Comment": "Event822-Conquest None"
+        },
+        {
+            "Key": 1019929923,
+            "Vi": "多次元解釈演算補助装置2",
+            "Comment": "Event822-Conquest None"
+        },
+        {
+            "Key": 1849346003,
+            "Vi": "多次元解釈制御補助装置",
+            "Comment": "Event822-Conquest None"
+        },
+        {
             "Key": 2364214295,
             "Vi": "ビナー",
             "Comment": "Raid - Binah Name"

@@ -8420,7 +8420,7 @@
         {
             "SkillId": 10062200,
             "NameEn": "System: Abi-Eshuh",
-            "DescriptionEn": "Toki engages Abi-Eshuh mode, increasing <b:ATK> by <?1>, <b:HIT> by <?2> and <b:Dodge> by 12.2% while gaining 3 <s:CH0187Mod> stacks.\nWhile in Abi-Eshuh mode, Toki's EX Skill changes to <b><i>COST: 5</i></b> and fire 3 lasers towards the targeted enemy. The first and second lasers deal <?3> damage to enemies in a straight line towards the target, the third laser deals <?4> damage to the targeted enemy and <?5> damage to other enemies in a straight line range.\nEX Skills used while in Abi-Eshuh mode consume one <s:CH0187Mod> and ignore <?6> of the enemy's DEF. Abi-Eshuh mode ends when all charges are consumed.",
+            "DescriptionEn": "Toki engages <s:CH0187Mod>, increasing her <b:ATK> by <?1>, <b:HIT> by <?2> and <b:Dodge> by 12.2% while changing <s:FormChange> pattern.\nIn this mode Toki's EX Skill changes to cost <b>5</b> and has the following effect:\nFires 3 lasers towards the targeted enemy. The first and second lasers deal <?3> damage to enemies in a straight line towards the target, the third laser deals <?4> damage to the targeted enemy and <?5> damage to other enemies in a straight line range. This attack ignores <?6> of the enemy's DEF.\n<s:CH0187Mod> ends after <b>3</b> EX Skill uses.",
             "ParametersEn": [
                 [
                     "26.1%",
@@ -8499,7 +8499,7 @@
         {
             "SkillId": 10062300,
             "NameEn": "Tactical Judgement",
-            "DescriptionEn": "Every 35s, deals <?1> damage to one enemy. If Toki is in Abi-Eshuh mode, this attack ignores <?2> of the enemy's DEF.",
+            "DescriptionEn": "Every 35s, deals <?1> damage to one enemy. If Toki is in <s:CH0187Mod>, this attack will ignore <?2> of the enemy's DEF.",
             "ParametersEn": [
                 [
                     "486%",
@@ -8549,7 +8549,7 @@
         {
             "SkillId": 10062500,
             "NameEn": "Eye For An Eye",
-            "DescriptionEn": "While in Abi-Eshuh mode, Toki's EX Skill deals <?1>/<?2>/<?3> damage as an additional hit for the <b>1st</b>/<b>2nd</b>/<b>3rd</b> use of the skill (count resets when Abi-Eshuh mode ends). This additional damage ignores <?4> of the enemy's DEF.",
+            "DescriptionEn": "While in <s:CH0187Mod>, Toki's EX Skill deals <?1>/<?2>/<?3> damage as an additional hit for the <b>1st</b>/<b>2nd</b>/<b>3rd</b> use of the skill (count resets when Abi-Eshuh mode ends). This additional damage ignores <?4> of the enemy's DEF.",
             "ParametersEn": [
                 [
                     "17.6%",

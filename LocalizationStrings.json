@@ -2666,8 +2666,9 @@
                 "Vi": "Tấn công thường"
             },
             "Special_CH0187Mod": {
-                "En": "Charge",
-                "Jp": "チャージ",
+                "En": "Abi-Eshuh Mode",
+                "Jp": "アビ・エシュフモード",
+                "Kr": "아비 에슈흐 모드",
                 "Th": "พลังงาน",
                 "Cn": "充能",
                 "Vi": "Nạp điện"
@@ -3526,8 +3527,9 @@
                 "Vi": "Viên đạn bạc"
             },
             "Special_CH0187Mod": {
-                "En": "Abi-Eshuh Mode Charge",
-                "Jp": "アビ・エシュフモードチャージ",
+                "En": "Abi-Eshuh Mode",
+                "Jp": "アビ・エシュフモード",
+                "Kr": "아비 에슈흐 모드",
                 "Th": "พลังงานของอาบี-เอชูฮ์",
                 "Cn": "阿比舒模式充能",
                 "Vi": "Chế độ nạp điện Abi-Eshuh"
@@ -4218,7 +4220,7 @@
                 "Vi": "Tăng cường đòn tấn công bình thường của Sakurako để gây sát thương như một đòn đánh bổ sung."
             },
             "Special_CH0187Mod": {
-                "En": "Allows the use of Toki's EX Skill while in Abi-Eshuh Mode. Abi-Eshuh mode ends once all stacks are consumed.",
+                "En": "Increases Toki's ATK, Accuracy and Evasion and changes her EX Skill, Basic Skill and Normal Attack pattern. Ends after using the EX Skill 3 times.",
                 "Jp": "アビ・エシュフモード中にトキのEXスキルを使用可能にする。すべてのチャージを使用するとアビ・エシュフモードは終了する。",
                 "Th": "เปลี่ยนรูปแบบสกิล EX ของโทคิในโหมดอาบี-เอชูฮ์และใช้งาน 1 อันต่อการใช้สกิล EX 1 ครั้ง\nโหมดอาบี-เอชูฮ์จะจบลงเมื่อพลังงานทั้งหมดถูกใช้งาน",
                 "Cn": "允许时处于阿比舒模式时使用EX技能\n所有充能层数耗尽时，阿比舒模式结束",
@@ -6849,26 +6851,8 @@
                 "Cn": "安定率波动",
                 "Vi": "Phương sai ổn định"
             },
-            "dmginfo_hit_count": {
-                "En": "Hit Count",
-                "Jp": "ヒット回数",
-                "Kr": "공격 횟수",
-                "Th": "จำนวนครั้งที่โจมตี",
-                "Tw": "命中次數",
-                "Cn": "伤害段数",
-                "Vi": "Số lần trúng"
-            },
-            "dmginfo_heal_count": {
-                "En": "Heal Count",
-                "Jp": "回復回数",
-                "Kr": "치유 횟수",
-                "Th": "จำนวนครั้งที่ฟื้นฟู",
-                "Tw": "治療次數",
-                "Cn": "回复次数",
-                "Vi": "Số lần hồi HP"
-            },
             "dmginfo_ignore_def": {
-                "En": "Ignore DEF",
+                "En": "DEF Ignored",
                 "Jp": "防御力無視",
                 "Kr": "방어력 무시",
                 "Th": "อัตราค่าป้องกันที่ไม่สน",
@@ -6893,6 +6877,15 @@
                 "Tw": " (暴擊)",
                 "Cn": " (暴击)",
                 "Vi": " (Bạo kích)"
+            },
+            "dmginfo_numhits": {
+                "En": "{0} hits",
+                "Jp": null,
+                "Kr": null,
+                "Th": null,
+                "Tw": null,
+                "Cn": null,
+                "Vi": null
             },
             "dmginfo_total_avg": {
                 "En": "Avg. Total DMG",
