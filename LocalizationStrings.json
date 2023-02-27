@@ -1737,7 +1737,7 @@
         "WeaponPartExpBonus": {
             "WeaponExpGrowthA": {
                 "En": "Provides 1.5&times; EXP when used to enhance SMG, SG, HG and FT type weapons.",
-                "Jp": "SMG、SG、HGの固有武器の強化時に獲得EXPが1.5倍になる。",
+                "Jp": "SMG、SG、HGおよびFTの固有武器の強化時に獲得EXPが1.5倍になる。",
                 "Kr": "SMG, SG, HG 유형의 무기를 강화할 때 경험치 1.5배 증가.",
                 "Tw": "用於強化 SMG、SG、HG 類型武器時提供 1.5 倍經驗",
                 "Cn": "用于强化SMG、SG、HG类武器时提供1.5倍经验",
@@ -1746,7 +1746,7 @@
             },
             "WeaponExpGrowthB": {
                 "En": "Provides 1.5&times; EXP when used to enhance AR, GL and RL type weapons.",
-                "Jp": "AR、GL、RLの固有武器の強化時に獲得EXPが1.5倍になる。",
+                "Jp": "AR、GLおよびRLの固有武器の強化時に獲得EXPが1.5倍になる。",
                 "Kr": "AR, GL, RL 유형의 무기를 강화할 때 경험치 1.5배 증가.",
                 "Tw": "用於強化 AR、GL、RL 類型武器時提供 1.5 倍經驗",
                 "Cn": "用于强化AR、GL、RL类武器时提供1.5倍经验",
@@ -1755,7 +1755,7 @@
             },
             "WeaponExpGrowthC": {
                 "En": "Provides 1.5&times; EXP when used to enhance MG, SR, MT and RG type weapons.",
-                "Jp": "MG、SR、MT、RGの固有武器の強化時に獲得EXPが1.5倍になる。",
+                "Jp": "MG、SR、MおよびRGの固有武器の強化時に獲得EXPが1.5倍になる。",
                 "Kr": "MG, SR, MT, RG 유형의 무기를 강화할 때 경험치 1.5배 증가.",
                 "Tw": "用於強化 MG、SR、MT、RG 類型武器時提供 1.5 倍經驗",
                 "Cn": "用于强化MG、SR、MT、RG类武器时提供 1.5 倍经验",
@@ -1764,7 +1764,7 @@
             },
             "WeaponExpGrowthZ": {
                 "En": "Provides 1.5&times; EXP when used to enhance any type of weapon.",
-                "Jp": "FTを除くすべて武器種の固有武器の強化時に獲得EXPが1.5倍になる。",
+                "Jp": "すべて武器種の固有武器の強化時に獲得EXPが1.5倍になる。",
                 "Kr": "모든 유형의 무기를 강화할 때 경험치 1.5배 증가.",
                 "Tw": "用於強化任何類型武器時提供 1.5 倍經驗",
                 "Cn": "用于强化除FT类武器外的任意武器时提供1.5倍经验",
@@ -4746,7 +4746,7 @@
             },
             "student_birthdays": {
                 "En": "The following students are celebrating their birthday in the next 7 days!",
-                "Jp": "これから1週間のうちに誕生日を迎える生徒さんたちです！",
+                "Jp": "これから1週間のうちに誕生日を迎える生徒さんです！",
                 "Kr": "일주일 내로 생일이 돌아오는 학생들입니다!",
                 "Th": "นักเรียนที่มีวันเกิดอยู่ในสัปดาห์นี้!",
                 "Tw": "以下學生在本周迎來生日。",
