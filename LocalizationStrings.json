@@ -1736,7 +1736,7 @@
         },
         "WeaponPartExpBonus": {
             "WeaponExpGrowthA": {
-                "En": "Provides 1.5&times; EXP when used to enhance SMG, SG and HG type weapons.",
+                "En": "Provides 1.5&times; EXP when used to enhance SMG, SG, HG and FT type weapons.",
                 "Jp": "SMG、SG、HGの固有武器の強化時に獲得EXPが1.5倍になる。",
                 "Kr": "SMG, SG, HG 유형의 무기를 강화할 때 경험치 1.5배 증가.",
                 "Tw": "用於強化 SMG、SG、HG 類型武器時提供 1.5 倍經驗",
@@ -1763,7 +1763,7 @@
                 "Vi": "Cung cấp 1,5 lần EXP khi được sử dụng để cường hóa vũ khí loại MG, SR, MT và RG."
             },
             "WeaponExpGrowthZ": {
-                "En": "Provides 1.5&times; EXP when used to enhance any type of weapon (except FT).",
+                "En": "Provides 1.5&times; EXP when used to enhance any type of weapon.",
                 "Jp": "FTを除くすべて武器種の固有武器の強化時に獲得EXPが1.5倍になる。",
                 "Kr": "모든 유형의 무기를 강화할 때 경험치 1.5배 증가.",
                 "Tw": "用於強化任何類型武器時提供 1.5 倍經驗",
