@@ -1738,7 +1738,7 @@
             "WeaponExpGrowthA": {
                 "En": "Provides 1.5&times; EXP when used to enhance SMG, SG, HG and FT type weapons.",
                 "Jp": "SMG、SG、HGおよびFTの固有武器の強化時に獲得EXPが1.5倍になる。",
-                "Kr": "SMG, SG, HG 유형의 무기를 강화할 때 경험치 1.5배 증가.",
+                "Kr": "SMG, SG, HG, FT 유형의 무기를 강화할 때 경험치 1.5배 증가.",
                 "Tw": "用於強化 SMG、SG、HG 類型武器時提供 1.5 倍經驗",
                 "Cn": "用于强化SMG、SG、HG类武器时提供1.5倍经验",
                 "Th": "ได้รับ Exp x1.5 เมื่อใช้อัปเกรดอาวุธประเภท SMG, SG, HG และ FT",
@@ -5062,7 +5062,7 @@
             "student_skills_materials_none": {
                 "En": "No materials required.",
                 "Jp": "育成素材は不要です。",
-                "Kr": null,
+                "Kr": "필요 재료 없음.",
                 "Th": "ไม่มีวัตถุดิบที่ต้องการ",
                 "Tw": "無需成長材料。",
                 "Cn": "无需成长材料",
@@ -5107,7 +5107,7 @@
             "attack_type_normal_desc": {
                 "En": "Deals <b>1&times;</b> damage to <b class='ba-col-explosion'>Light Armor</b>, <b class='ba-col-pierce'>Heavy Armor</b>, <b class='ba-col-mystic'>Special Armor</b> and <b class='ba-col-elasticarmor'>Elastic Armor</b>.<br>Deals <b>0.5&times;</b> damage to <b>Structures</b>.",
                 "Jp": "<b class='ba-col-explosion'>軽装備</b>、<b class='ba-col-pierce'>重装甲</b>、<b class='ba-col-mystic'>特殊装甲</b>および<b class='ba-col-elasticarmor'>弾力装甲</b>に対して<b>1倍</b>のダメージを与える。<br>構造物に<b>0.5倍</b>のダメージを与える。",
-                "Kr": "<b class='ba-col-explosion'>경장갑</b>, <b class='ba-col-pierce'>중장갑</b>, <b class='ba-col-mystic'>신비장갑</b> 대상에게 <b>1&times;</b> 대미지.<br>구조물 대상에게 <b>0.5&times;</b> 대미지.",
+                "Kr": "<b class='ba-col-explosion'>경장갑</b>, <b class='ba-col-pierce'>중장갑</b>, <b class='ba-col-mystic'>신비장갑</b>, <b class='ba-col-elasticarmor'>탄력장갑</b> 대상에게 <b>1&times;</b> 대미지.<br>구조물 대상에게 <b>0.5&times;</b> 대미지.",
                 "Th": "สร้างความเสียหาย <b>&times;1</b> ให้กับเป้าหมายประเภท<b class='ba-col-explosion'>เกราะเบา</b>, <b class='ba-col-pierce'>เกราะหนัก</b>และ<b class='ba-col-mystic'>เกราะพิเศษ</b><br>สร้างความเสียหาย <b>&times;0.5</b> ให้กับเป้าหมายประเภท<b>สิ่งปลูกสร้าง</b>",
                 "Tw": "對<b class='ba-col-explosion'>輕裝甲</b>、<b class='ba-col-pierce'>重裝甲</b>與<b class='ba-col-mystic'>神秘裝甲</b>目標造成<b>1倍</b>傷害。<br>對<b>構造物</b>造成<b>0.5倍</b>傷害。",
                 "Cn": "对<b class='ba-col-explosion'>轻护甲</b>、<b class='ba-col-pierce'>重装甲</b>、<b class='ba-col-mystic'>特种装甲</b>与<b class='ba-col-elasticarmor'>弹性装甲</b>目标造成<b>1倍</b>伤害<br>对<b>构造物</b>造成<b>0.5倍</b>伤害",
@@ -5125,7 +5125,7 @@
             "defense_type_normal_desc": {
                 "En": "Receives <b>1&times;</b> damage from <b class='ba-col-explosion'>Explosive</b>, <b class='ba-col-pierce'>Piercing</b>, <b class='ba-col-mystic'>Mystic</b> and <b class='ba-col-sonic'>Sonic</b> attacks.",
                 "Jp": "<b class='ba-col-explosion'>爆発</b>、<b class='ba-col-pierce'>貫通</b>、<b class='ba-col-mystic'>神秘</b>および<b class='ba-col-sonic'>振動</b>攻撃から<b>1倍</b>のダメージを受ける。",
-                "Kr": "<b class='ba-col-explosion'>폭발</b>, <b class='ba-col-pierce'>관통</b>, <b class='ba-col-mystic'>신비</b> 공격으로부터 <b>1&times;</b> 대미지를 받습니다.",
+                "Kr": "<b class='ba-col-explosion'>폭발</b>, <b class='ba-col-pierce'>관통</b>, <b class='ba-col-mystic'>신비</b>, <b class='ba-col-sonic'>진동</b> 공격으로부터 <b>1&times;</b> 대미지를 받습니다.",
                 "Th": "ได้รับความเสียหาย <b>&times;1</b> จากการโจมตีประเภท<b class='ba-col-explosion'>ระเบิด</b>, <b class='ba-col-pierce'>เจาะเกราะ</b>และ<b class='ba-col-mystic'>ลึกลับ</b>",
                 "Tw": "承受<b>1倍</b><b class='ba-col-explosion'>爆炸</b>、<b class='ba-col-pierce'>貫穿</b>與<b class='ba-col-mystic'>神秘</b>攻擊傷害。",
                 "Cn": "承受<b>1倍</b><b class='ba-col-explosion'>爆破</b>、<b class='ba-col-pierce'>贯通</b>、<b class='ba-col-mystic'>神秘</b>与<b class='ba-col-sonic'>振动</b>攻击伤害",
@@ -5233,7 +5233,7 @@
             "favoritem_none": {
                 "En": "This student does not have any favourite gifts.",
                 "Jp": "この生徒にはお気に入りの贈り物がありません。",
-                "Kr": null,
+                "Kr": "이 학생은 좋아하는 선물이 없습니다.",
                 "Th": "นักเรียนนี้ไม่มีของขวัญที่ชื่นชอบเป็นพิเศษ",
                 "Tw": "此學生沒有任何喜歡的禮物。",
                 "Cn": "此学生没有任何喜欢的礼物",
@@ -5611,7 +5611,7 @@
             "rewards_none": {
                 "En": "No rewards.",
                 "Jp": "報酬はありません。",
-                "Kr": null,
+                "Kr": "보상 없음.",
                 "Th": "ไม่มีรางวัลที่ได้รับ",
                 "Tw": "無報酬",
                 "Cn": "无报酬",
@@ -5620,7 +5620,7 @@
             "rewards_findgift_msg": {
                 "En": "Each enemy defeated will drop one of the following items:",
                 "Jp": "倒した敵一体につき以下の中から一つを獲得:",
-                "Kr": null,
+                "Kr": "적을 쓰러트리면 다음 중 하나의 보상 획득:",
                 "Th": "ศัตรูแต่ละตัวที่ถูกกำจัดจะดรอปไอเทมต่อไปนี้",
                 "Tw": "每個擊敗的敵人會掉落以下物品中的一項：",
                 "Cn": "每个被击败的敌人会掉落以下物品中的一项：",
@@ -6062,7 +6062,7 @@
             "item_student_favor": {
                 "En": "+{0} Relationship EXP {1} when given to the following students",
                 "Jp": "以下の生徒にプレゼントすると絆EXPを{0}増加する{1}",
-                "Kr": null,
+                "Kr": "아래 학생들에게 선물하면 +{0} 인연 EXP {1}",
                 "Th": "เพิ่มค่าความสัมพันธ์ {0} {1} เมื่อมอบให้กับนักเรียนดังต่อไปนี้",
                 "Tw": "{1} 贈予以下學生時 +{0} 羈絆經驗",
                 "Cn": "{1} 赠送给下列学生时 +{0} 羁绊经验",
@@ -6071,7 +6071,7 @@
             "item_student_favor_default": {
                 "En": "+{0} Relationship EXP {1} when given to any other student",
                 "Jp": "それ以外の生徒にプレゼントすると絆EXPを{0}増加する{1}",
-                "Kr": null,
+                "Kr": "다른 학생들에게 선물하면 +{0} 인연 EXP {1}",
                 "Th": "เพิ่มค่าความสัมพันธ์ {0} {1} เมื่อมอบให้กับนักเรียนคนอื่นๆ",
                 "Tw": "{1} 贈予任何其他學生時 +{0} 羈絆經驗",
                 "Cn": "{1} 赠送给其他学生时 +{0} 羁绊经验",
@@ -6080,7 +6080,7 @@
             "item_student_favor_all": {
                 "En": "+{0} Relationship EXP {1} when given to any student",
                 "Jp": "どの生徒にプレゼントした時も絆EXPを{0}増加する{1}",
-                "Kr": null,
+                "Kr": "모든 학생들에게 선물하면 +{0} 인연 EXP {1}",
                 "Th": "เพิ่มค่าความสัมพันธ์ {0} {1} เมื่อมอบให้กับนักเรียนทุกคน",
                 "Tw": "{1} 贈予任何學生時 +{0} 羈絆經驗",
                 "Cn": "{1} 赠送给任何学生时 +{0} 羁绊经验",
@@ -6098,7 +6098,7 @@
             "item_specialgift": {
                 "En": "This gift will be treated as a liked item {0} when given to any student",
                 "Jp": "この贈り物はすべての生徒のお気に入り{0}として扱われる",
-                "Kr": null,
+                "Kr": "이 선물은 모든 학생들에게 좋아하는 선물 {0} 로 취급됩니다.",
                 "Th": "ของขวัญชิ้นนี้จะถือว่าเป็นของขวัญที่เป็นที่รัก {0} เมื่อมอบให้กับนักเรียนคนไหนก็ตาม",
                 "Tw": "此禮物在贈予任何學生時會被當做喜歡的項目{0}看待",
                 "Cn": "此礼物在赠送给任何学生时都会被当做喜欢的物品{0}看待",
@@ -6341,7 +6341,7 @@
             "tooltip_buffs_bonus": {
                 "En": "Include {0} Selected Buffs",
                 "Jp": "{0}選択済みのバフを含める",
-                "Kr": null,
+                "Kr": "선택된 버프 {0}개 포함",
                 "Th": "เปิด/ปิด {0} บัพที่เลือกไว้",
                 "Tw": "包含{0}選擇的增益效果",
                 "Cn": "切换{0}选择的增益状态",
@@ -6368,7 +6368,7 @@
             "tooltip_collection_add": {
                 "En": "Add to Collection\n<small>(Saves selected stats)</small>",
                 "Jp": "生徒データに追加\n<small>(選択されたステータスを保存します)</small>",
-                "Kr": null,
+                "Kr": "컬렉션에 추가\n<small>(학생 상태 저장)</small>",
                 "Th": "เพิ่มลงในคอลเลคชั่น",
                 "Tw": "添加到集合",
                 "Cn": "添加到集合",
@@ -6377,7 +6377,7 @@
             "tooltip_collection_remove": {
                 "En": "Remove from Collection",
                 "Jp": "生徒データから削除",
-                "Kr": null,
+                "Kr": "컬렉션에서 제거",
                 "Th": "เอาออกจากคอลเลคชั่น",
                 "Tw": "從集合中移除",
                 "Cn": "从集合中移除",
@@ -6395,7 +6395,7 @@
             "collection": {
                 "En": "Collection",
                 "Jp": "所持状況",
-                "Kr": null,
+                "Kr": "컬렉션",
                 "Th": "คอลเลคชั่น",
                 "Tw": "集合",
                 "Cn": "集合",
@@ -6422,7 +6422,7 @@
             "maptile_spawn": {
                 "En": "Spawn Tile",
                 "Jp": "生成タイル",
-                "Kr": null,
+                "Kr": "생성 타일",
                 "Th": "เพิ่มช่อง",
                 "Tw": "生成方格",
                 "Cn": "生成单元格",
@@ -6431,7 +6431,7 @@
             "maptile_drone": {
                 "En": "Drone (Reveals surrounding tiles)",
                 "Jp": "ドローン（周囲のタイルを表示する）",
-                "Kr": null,
+                "Kr": "드론 (주변 타일을 밝힘)",
                 "Th": "โดรน (แสดงช่องรอบข้าง)",
                 "Tw": "無人機（照亮周遭視野）",
                 "Cn": "无人机(获取2格距离内视野)",
@@ -6440,7 +6440,7 @@
             "maptile_remove": {
                 "En": "Remove Tile",
                 "Jp": "消去タイル",
-                "Kr": null,
+                "Kr": "제거 타일",
                 "Th": "ลบช่อง",
                 "Tw": "移除方格",
                 "Cn": "移除单元格",
@@ -6674,7 +6674,7 @@
             "home_introduction": {
                 "En": "Schale is an unofficial database and calculation tool for the mobile game <i class=\"text-bold\">Blue Archive</i> developed by Nexon Games and published by Yostar (Japan) and Nexon (Global) for iOS and Android.",
                 "Jp": "Schaleは、Nexson Gamesが開発しYostar（日本版）およびNexson（グローバル版）が運営するスマートフォン向けゲーム『<b>ブルーアーカイブ</b>』の非公式データベースです。",
-                "Kr": "Schale는 넥슨 게임즈가 개발하고 요스타(일본)와 넥슨(글로벌)이 iOS와 안드로이드로 서비스하는 모바일 게임 <i class=\"text-bold\">블루 아카이브</i>의 비공식 데이터베이스 및 계산 도구입니다.",
+                "Kr": "Schale는 넥슨 게임즈가 개발하고 요스타(일본)와 넥슨(글로벌)이 iOS와 안드로이드로 서비스하는 모바일 게임 <b>블루 아카이브</b>의 비공식 데이터베이스 및 계산 도구입니다.",
                 "Th": "Schale เป็นศูนย์รวมข้อมูลอย่างไม่เป็นทางการของเกมมือถือ <i class=\"text-bold\">Blue Archive</i> ที่พัฒนาโดยทาง Nexon Games และได้รับการเผยแพร่โดย Yostar (เซิร์ฟเวอร์ญี่ปุ่น) และ Nexon (เซิร์ฟเวอร์โกลบอล) ทั้งในระบบ iOS และ Android",
                 "Tw": "Schale 是 Nexon Games 開發，日服由 Yostar、國際服由 Nexon 運營的手游<i class=\"text-bold\">蔚藍檔案</i>的非官方數據庫。",
                 "Cn": "Schale 是 Nexon Games 开发，日服由 Yostar、国际服由 Nexon 运营的手游<i class=\"text-bold\">蔚蓝档案</i>的非官方数据库。",
