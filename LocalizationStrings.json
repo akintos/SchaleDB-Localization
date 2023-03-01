@@ -1742,7 +1742,7 @@
                 "Tw": "用於強化 SMG、SG、HG 類型武器時提供 1.5 倍經驗",
                 "Cn": "用于强化SMG、SG、HG类武器时提供1.5倍经验",
                 "Th": "ได้รับ Exp x1.5 เมื่อใช้อัปเกรดอาวุธประเภท SMG, SG, HG และ FT",
-                "Vi": "Cung cấp 1,5 lần EXP khi được sử dụng để cường hóa vũ khí loại SMG, SG và HG."
+                "Vi": "Cung cấp 1,5 lần EXP khi được sử dụng để cường hóa vũ khí loại SMG, SG, HG và FT."
             },
             "WeaponExpGrowthB": {
                 "En": "Provides 1.5&times; EXP when used to enhance AR, GL and RL type weapons.",
@@ -2671,7 +2671,7 @@
                 "Kr": "아비 에슈흐 모드",
                 "Th": "โหมดอาบี-เอชูฮ์",
                 "Cn": "阿比舒模式",
-                "Vi": "Nạp điện"
+                "Vi": "Chế độ Abi-Eshuh"
             }
         },
         "BuffNameLong": {
@@ -3532,7 +3532,7 @@
                 "Kr": "아비 에슈흐 모드",
                 "Th": "พลังงานของอาบี-เอชูฮ์",
                 "Cn": "阿比舒模式充能",
-                "Vi": "Chế độ nạp điện Abi-Eshuh"
+                "Vi": "Chế độ Abi-Eshuh"
             }
         },
         "BuffTooltip": {
@@ -4224,7 +4224,7 @@
                 "Jp": "トキの攻撃力、命中値および回避値を増加し、EXスキル、ノーマルスキルおよび通常攻撃を変更する。EXスキルを3回使用すると解除される。",
                 "Th": "เพิ่มค่าโจมตี, ความแม่นยำและหลบหลีกของโทคิ\nเปลี่ยนรูปแบบของสกิล EX และการโจมตีทั่วไปของโทคิ รวมทั้งเพิ่มความสามารถในการไม่สนค่าป้องกันของศัตรูส่วนหนึ่งให้กับสกิลพื้นฐานและสกิลรอง\nโหมดอาบี-เอชูฮ์จะสิ้นสุดลงเมื่อใช้งานสกิล EX ในโหมดอาบี-เอชูฮ์ครบ 3 ครั้ง",
                 "Cn": "提升时的攻击力、命中值和闪避值，并改变EX技能、普通技能和普通攻击的模式\n使用3次EX技能后模式解除",
-                "Vi": "Cho phép sử dụng Kỹ năng EX của Toki khi ở chế độ Abi-Eshuh. Chế độ Abi-Eshuh kết thúc sau khi năng lượng nạp được sử dụng hết."
+                "Vi": "Tăng ATK, độ chính xác, né tránh và thay đổi kỹ năng cũ, kỹ năng cơ bản và tấn công bình thường của Toki. Kết thúc sau khi sử dụng kỹ năng cũ 3 lần."
             }
         },
         "ServerName": {
@@ -6885,7 +6885,7 @@
                 "Th": "{0} ครั้ง",
                 "Tw": null,
                 "Cn": "{0} 段",
-                "Vi": null
+                "Vi": "{0} lần trúng"
             },
             "dmginfo_total_avg": {
                 "En": "Avg. Total DMG",
