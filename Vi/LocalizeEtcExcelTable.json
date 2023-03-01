@@ -2884,83 +2884,83 @@
         },
         {
             "Key": 4263715469,
-            "NameVi": "オーパーツ（１）選択ボックス",
-            "DescriptionVi": "10種類のオーパーツの中から任意のオーパーツを選択して交換することができる選択ボックス。"
+            "NameVi": "Hộp lựa chọn hiện vật bậc I",
+            "DescriptionVi": "Một hộp lựa chọn cho phép bạn chọn và trao đổi bất kỳ loại nào trong 10 loại hiện vật khác nhau."
         },
         {
             "Key": 3856142760,
-            "NameVi": "オーパーツ（２）選択ボックス",
-            "DescriptionVi": "10種類のオーパーツの中から任意のオーパーツを選択して交換することができる選択ボックス。"
+            "NameVi": "Hộp lựa chọn hiện vật bậc II",
+            "DescriptionVi": "Một hộp lựa chọn cho phép bạn chọn và trao đổi bất kỳ loại nào trong 10 loại hiện vật khác nhau."
         },
         {
             "Key": 1230896237,
-            "NameVi": "オーパーツ（３）選択ボックス",
-            "DescriptionVi": "10種類のオーパーツの中から任意のオーパーツを選択して交換することができる選択ボックス。"
+            "NameVi": "Hộp lựa chọn hiện vật bậc III",
+            "DescriptionVi": "Một hộp lựa chọn cho phép bạn chọn và trao đổi bất kỳ loại nào trong 10 loại hiện vật khác nhau."
         },
         {
             "Key": 1007808150,
-            "NameVi": "オーパーツ（４）選択ボックス",
-            "DescriptionVi": "10種類のオーパーツの中から任意のオーパーツを選択して交換することができる選択ボックス。"
+            "NameVi": "Hộp lựa chọn hiện vật bậc IV",
+            "DescriptionVi": "Một hộp lựa chọn cho phép bạn chọn và trao đổi bất kỳ loại nào trong 10 loại hiện vật khác nhau."
         },
         {
             "Key": 1040092627,
-            "NameVi": "Vé lựa chọn đồ nội thất khởi đầu",
-            "DescriptionVi": "Một vé có thể được đổi lấy món nội thất mà bạn lựa chọn."
+            "NameVi": "Hộp lựa chọn nội thất khởi đầu",
+            "DescriptionVi": "Một hộp lựa chọn cho phép bạn đổi lấy một món nội thất khởi đầu do bạn lựa chọn."
         },
         {
             "Key": 4119019242,
-            "NameVi": "Vé lựa chọn đồ nội thất Momo Friends",
-            "DescriptionVi": "Một vé có thể đổi lấy nội thất Momo Friends mà bạn lựa chọn."
+            "NameVi": "Hộp lựa chọn nội thất chủ đề Momo Friends",
+            "DescriptionVi": "Một hộp lựa chọn cho phép bạn đổi lấy một món nội thất thuộc chủ đề Momo Friends do bạn lựa chọn."
         },
         {
             "Key": 993580005,
-            "NameVi": "Vé lựa chọn đồ nội thất Jellies Arcade",
-            "DescriptionVi": "Một vé có thể đổi lấy nội thất Jellies Arcade mà bạn lựa chọn."
+            "NameVi": "Hộp lựa chọn nội thất chủ đề Jellies Arcade",
+            "DescriptionVi": "Một hộp lựa chọn cho phép bạn đổi lấy một món nội thất thuộc chủ đề Jellies Arcade do bạn lựa chọn."
         },
         {
             "Key": 3974018317,
-            "NameVi": "Vé lựa chọn nội thất cho lễ tình nhân",
-            "DescriptionVi": "Một vé có thể đổi lấy nội thất cho lễ tình nhân do bạn lựa chọn."
+            "NameVi": "Hộp lựa chọn nội thất chủ đề lễ tình nhân",
+            "DescriptionVi": "Một hộp lựa chọn cho phép bạn đổi lấy một món nội thất thuộc chủ đề lễ tình nhân do bạn lựa chọn."
         },
         {
             "Key": 1593070154,
-            "NameVi": "Vé lựa chọn nội thất khu nghỉ dưỡng mùa hè",
-            "DescriptionVi": "Một vé có thể đổi lấy nội thất khu nghỉ dưỡng mùa hè mà bạn lựa chọn."
+            "NameVi": "Hộp lựa chọn nội thất chủ đề mùa hè",
+            "DescriptionVi": "Một hộp lựa chọn cho phép bạn đổi lấy một món nội thất thuộc chủ đề mùa hè do bạn lựa chọn."
         },
         {
             "Key": 1972120206,
-            "NameVi": "Vé lựa chọn nội thất Halloween",
-            "DescriptionVi": "Một vé có thể đổi lấy nội thất Halloween mà bạn lựa chọn."
+            "NameVi": "Hộp lựa chọn nội thất chủ đề Halloween",
+            "DescriptionVi": "Một hộp lựa chọn cho phép bạn đổi lấy một món nội thất thuộc chủ đề Halloween do bạn lựa chọn."
         },
         {
             "Key": 3971529412,
-            "NameVi": "Vé lựa chọn nội thất khu nghỉ dưỡng suối nước nóng",
-            "DescriptionVi": "Một vé có thể đổi lấy nội thất khu nghỉ dưỡng suối nước nóng mà bạn lựa chọn."
+            "NameVi": "Hộp lựa chọn nội thất chủ đề khu nghỉ dưỡng suối nước nóng",
+            "DescriptionVi": "Một hộp lựa chọn cho phép bạn đổi lấy một món nội thất thuộc chủ đề khu nghỉ dưỡng suối nước nóng do bạn lựa chọn."
         },
         {
             "Key": 2659269254,
-            "NameVi": "Vé lựa chọn nội thất cho năm mới",
-            "DescriptionVi": "Một vé có thể đổi lấy nội thất cho năm mới do bạn lựa chọn."
+            "NameVi": "Hộp lựa chọn nội thất chủ đề năm mới",
+            "DescriptionVi": "Một hộp lựa chọn cho phép bạn đổi lấy một món nội thất thuộc chủ đề năm mới do bạn lựa chọn."
         },
         {
             "Key": 1471534719,
-            "NameVi": "Vé lựa chọn nội thất khu cắm trại quân đội",
-            "DescriptionVi": "Một loại vé có thể đổi lấy nội thất thuộc bộ khu cắm trại quân đội do bạn lựa chọn."
+            "NameVi": "Hộp lựa chọn nội thất chủ đề quân sự",
+            "DescriptionVi": "Một hộp lựa chọn cho phép bạn đổi lấy một món nội thất thuộc chủ đề quân sự do bạn lựa chọn."
         },
         {
             "Key": 3982564678,
-            "NameVi": "ビーチサイドシリーズ選択ボックス",
-            "DescriptionVi": "ビーチサイドシリーズの中から、任意の家具を選択して交換することができる選択ボックス。"
+            "NameVi": "Hộp lựa chọn nội thất chủ đề bãi biển",
+            "DescriptionVi": "Một hộp lựa chọn cho phép bạn đổi lấy một món nội thất thuộc chủ đề bãi biển do bạn lựa chọn."
         },
         {
             "Key": 3548508106,
-            "NameVi": "選択式・大運動会シリーズ",
-            "DescriptionVi": "大運動会シリーズの中から、任意の家具を選択して交換することができる。"
+            "NameVi": "Hộp lựa chọn nội thất chủ đề thể thao",
+            "DescriptionVi": "Một hộp lựa chọn cho phép bạn đổi lấy một món nội thất thuộc chủ đề thể thao do bạn lựa chọn."
         },
         {
             "Key": 553667910,
-            "NameVi": "アビドス教室シリーズ選択ボックス",
-            "DescriptionVi": "アビドス教室シリーズの中から、任意の家具を選択して交換することができる選択ボックス。"
+            "NameVi": "Hộp lựa chọn nội thất chủ đề lớp học Abydos",
+            "DescriptionVi": "Một hộp lựa chọn cho phép bạn đổi lấy một món nội thất thuộc chủ đề lớp học Abydos do bạn lựa chọn."
         },
         {
             "Key": 2832660177,
@@ -3319,103 +3319,103 @@
         },
         {
             "Key": 3411154794,
-            "NameVi": "不器用な手作りチョコレート",
-            "DescriptionVi": "ココナが不器用ながら丁寧にラッピングした手作りチョコレート。本人は頑なに市販品だと主張しており、彼女から「絶対に一人で食べてください！」と念押しされた。"
+            "NameVi": "Sô cô la tự làm vụng về",
+            "DescriptionVi": "Sô cô la tự làm được bọc vụng về nhưng cẩn thận của Kokona. Em ấy bướng bỉnh khăng khăng rằng chúng được mua ở cửa hàng, và em ấy nhắc nhở tôi, \"Nhất định phải ăn chúng một mình!\"."
         },
         {
             "Key": 421170184,
-            "NameVi": "小さなショコラ",
-            "DescriptionVi": "ヒナタが聖堂を訪れた子どもたちに配っているショコラ。それぞれの好みに合わせられるよう、全ての味を食べ比べたらしい。"
+            "NameVi": "Sô cô la nhỏ",
+            "DescriptionVi": "Sô cô la mà Hinata phân phát cho những đứa trẻ đến thăm nhà thờ. Cô so sánh tất cả các hương vị sao cho hợp khẩu vị từng người."
         },
         {
             "Key": 412848971,
-            "NameVi": "しっとりめのチョコクッキー",
-            "DescriptionVi": "ウイが用意してくれたチョコクッキー。粉が落ちにくいように、しっとりとしている物を選んだという。"
+            "NameVi": "Bánh quy sô cô la ẩm",
+            "DescriptionVi": "Ui đã chuẩn bị những chiếc bánh quy sô cô la này. Cô chọn những loại còn ẩm để bột bánh không bị rơi ra."
         },
         {
             "Key": 1622643101,
-            "NameVi": "苺のチョコケーキ",
-            "DescriptionVi": "カズサが買ってきてくれた苺のチョコケーキ。どうやら、ショーケースの前でかなり悩んでいたんだとか。"
+            "NameVi": "Bánh kem sô cô la dâu tây",
+            "DescriptionVi": "Kazusa đã mua chiếc bánh kem sô cô la dâu tây này cho mình. Rõ ràng, trông em ấy như muốn được thưởng thức nó khi tặng mình."
         },
         {
             "Key": 2747826200,
-            "NameVi": "オール・トゥ・ユー",
-            "DescriptionVi": "ヒヨリがある意味では「すべて」と引き換えに用意してくれたチョコレート。小さな袋の中には、彼女の気持ちがたくさん込められている。"
+            "NameVi": "Tất cả cho bạn",
+            "DescriptionVi": "Hiyori đã chuẩn bị những viên sô cô la này để đổi lấy \"mọi thứ\" theo một nghĩa nào đó. Bên trong chiếc túi nhỏ chứa rất nhiều tình cảm của em ấy."
         },
         {
             "Key": 2837160480,
-            "NameVi": "丁寧なラッピング済みチョコレート",
-            "DescriptionVi": "ミサキが用意したチョコレート。2色のリボンが使われた繊細なラッピングは、彼女の隠れた一面を表しているようにも見える。"
+            "NameVi": "Sô cô la được bọc cẩn thận",
+            "DescriptionVi": "Sô cô la do Misaki chuẩn bị; lớp bọc tinh tế với những dải ruy băng hai màu dường như cho thấy khía cạnh ẩn giấu của cô ấy."
         },
         {
             "Key": 4062180493,
-            "NameVi": "青いバラとチョコレート",
-            "DescriptionVi": "秘密の多いお姫様がくれた、手作りのチョコレート。添えられた一輪の花は、アツコが努力した証でもある。"
+            "NameVi": "Hoa hồng xanh và sô cô la",
+            "DescriptionVi": "Một sô cô la thủ công được tặng bởi một công chúa với nhiều bí mật. Bông hoa duy nhất gắn trên đó là bằng chứng cho những nỗ lực của Atsuko."
         },
         {
             "Key": 3932209420,
-            "NameVi": "ギディバのチョコレート",
-            "DescriptionVi": "サオリが準備した最高級のチョコレート。その過程は複雑で、簡単なものではないが、そこには多くの価値があるはず。"
+            "NameVi": "Sô cô la Godiva",
+            "DescriptionVi": "Sô cô la ngon nhất được chuẩn bị bởi Saori. Quá trình này phức tạp và không dễ dàng, nhưng phải có rất nhiều giá trị trong đó."
         },
         {
             "Key": 2263489181,
-            "NameVi": "桜チョコレート",
-            "DescriptionVi": "桜の形をしたミモリの手作りチョコレート。読心術は使えなくても、ひとつ食べると彼女の気持ちが伝わってくる。"
+            "NameVi": "Sô cô la anh đào",
+            "DescriptionVi": "Sô cô la tự làm của Mimori có hình hoa anh đào. Ngay cả khi bạn không thể đọc suy nghĩ, bạn có thể cảm nhận được cảm xúc của cô ấy khi bạn ăn một cái."
         },
         {
             "Key": 170445747,
-            "NameVi": "最強のチョコサウルス",
-            "DescriptionVi": "カエデが作った最強のチョコサウルス。失敗した恐竜発掘チョコレートの欠片を組み合わせるという、逆転の発想から作られた。見て楽しい食べて嬉しいそんなチョコレートには、彼女らしさが強く表れている。"
+            "NameVi": "Chocosaurus mạnh nhất",
+            "DescriptionVi": "Chocosaurus mạnh nhất từng được Kaede tạo ra. Nó được tạo ra dựa trên sự đảo ngược ý tưởng kết hợp các mảnh sô cô la khai quật khủng long thất bại. Sô-cô-la, nhìn vui mắt và ăn thích thú, là biểu hiện mạnh mẽ cho sự độc đáo của cô ấy."
         },
         {
             "Key": 566203770,
-            "NameVi": "とろけるロップイヤーチョコ",
-            "DescriptionVi": "ツクヨお手製の可愛いロップイヤーチョコレート。大切に扱っていたあまり、少しだけ溶けてしまっている。"
+            "NameVi": "Sô cô la tai Lop tan chảy",
+            "DescriptionVi": "Sôcôla tai lop dễ thương do Tsukuyo làm thủ công. Nó đã được xử lý cẩn thận đến mức nó đã bị chảy ra một chút."
         },
         {
             "Key": 2104744538,
-            "NameVi": "超天才清楚系病弱美少女ハッカー'sチョコレート",
-            "DescriptionVi": "ヒマリが自分自身の姿をデフォルメして作った、手作りのチョコレート。突発的ではありつつも論理的な判断と合理的な帰結により、シャーレに戻ってから味わうことになった。"
+            "NameVi": "Sô cô la của cô gái hacker siêu thiên tài gọn gàng và xinh đẹp thon gọn",
+            "DescriptionVi": "Sô cô la tự làm của Himari, biến dạng để trông giống cô ấy. Một quyết định tức thời nhưng hợp lý và hệ quả hợp lý đã khiến tôi nếm thử nó sau khi trở lại đĩa petri của mình."
         },
         {
             "Key": 3304317128,
-            "NameVi": "イロハの手作りスティックチョコ",
-            "DescriptionVi": "イロハとの買い物帰りに貰った、手作りのスティック型チョコレート。一本だけ「跡」が残っている。"
+            "NameVi": "Sô cô la que thủ công của Iroha",
+            "DescriptionVi": "Một thanh sô cô la thủ công được tặng cho tôi trên đường đi về nhà với Iroha. Chỉ còn lại một \"dấu ấn\"."
         },
         {
             "Key": 902334212,
-            "NameVi": "忍術研究部のバッジ型チョコレート",
-            "DescriptionVi": "ミチルが用意してくれた、オーダーメイドのチョコレート。忍術研究部の仲間を大切に思う気持ちが込められている。その慌ただしい過程もまた、味の一つかもしれない。"
+            "NameVi": "Sô cô la hình huy hiệu của Câu lạc bộ nghiên cứu Ninjutsu",
+            "DescriptionVi": "Sô cô la tự làm do Michiru chuẩn bị. Chúng tràn ngập tình cảm quan tâm của cô ấy dành cho các thành viên của Ninjutsu. Quá trình bận rộn cũng có thể là một trong những yếu tố ảnh hưởng đến độ ngọt."
         },
         {
             "Key": 813659355,
-            "NameVi": "チョコを用いたキャロットケーキ",
-            "DescriptionVi": "ミヤコがチョコレートを使って作ったキャロットケーキ。甘いものはウサギにとって良くないかもしれないが、仲間や先生にとっては喜ばしいものになり得る。"
+            "NameVi": "Bánh cà rốt với sô cô la",
+            "DescriptionVi": "Miyako làm bánh cà rốt này với sô cô la. Thức ăn ngọt có thể không tốt cho thỏ nhưng lại có thể là niềm vui cho bạn bè và giáo viên của chúng."
         },
         {
             "Key": 490342082,
-            "NameVi": "チョコレートスモア",
-            "DescriptionVi": "モエが作ったチョコレートスモア。甘いマシュマロの上にチョコレートを載せたもので、そのカロリーはまさに破滅的。"
+            "NameVi": "Chocolate S'mores",
+            "DescriptionVi": "Chocolate S'mores tự làm của Moe. Những viên kẹo dẻo ngọt ngào được phủ sô cô la, và hàm lượng calo của chúng hết sức thảm khốc (quá ngọt không tốt cho sức khoẻ)."
         },
         {
             "Key": 1288390774,
-            "NameVi": "補給品のチョコレートキャラメル",
-            "DescriptionVi": "サキが用意してくれたチョコレートキャラメル。夜間の見張りを行う哨兵たちが、眠気覚ましに食べる一品である。サキ本人曰く、特にバレンタインデーとは関係の無いプレゼントだとのこと。"
+            "NameVi": "Sô cô la caramel",
+            "DescriptionVi": "Sô cô la caramel do Saki chuẩn bị. Những người lính gác đêm ăn chúng để đánh thức giấc ngủ. Theo Saki, đây là một món quà không liên quan gì đến Ngày lễ tình nhân."
         },
         {
             "Key": 1222376462,
-            "NameVi": "チョコレートバーク",
-            "DescriptionVi": "ミユが手作りしたチョコレートバーク。補給品のチョコレートと、採取した果物から作ったらしい。ひとかけらずつ大事に食べよう。"
+            "NameVi": "Kẹo chocolate vỏ cây",
+            "DescriptionVi": "Sô cô la vỏ cây được làm thủ công bởi Miyu. Nó được làm từ nguồn sô cô la cung cấp và trái cây được thu thập từ thị trường. Hãy ăn cẩn thận, từng miếng một."
         },
         {
             "Key": 4196510691,
-            "NameVi": "チョコレートインク",
-            "DescriptionVi": "ノアの甘い悪戯心が込められたチョコレート。ペン先に馴染まないため、文字を書くのには向かないが、心からの気持ちを伝えたい時には最適なインクである。"
+            "NameVi": "Mực sô cô la",
+            "DescriptionVi": "Sô cô la với tinh thần tinh nghịch ngọt ngào của Noa. Mặc dù loại mực này không thích hợp để viết vì nó không thích ứng với ngòi bút, nhưng nó rất lý tưởng khi bạn muốn truyền đạt cảm xúc chân thành của mình."
         },
         {
             "Key": 70201916,
-            "NameVi": "特別功労勲章チョコレート",
-            "DescriptionVi": "マリナがチェリョンカの目標生産量を達成し、褒美としてチェリノから受け取った勲章。原材料がチョコレートのため食べたら無くなってしまうが、その努力と名誉はいつまでも記憶に残るはず。"
+            "NameVi": "Sô cô la huy chương phục vụ xuất sắc",
+            "DescriptionVi": "Một huy chương mà Marina nhận được từ Cherino như một phần thưởng cho việc đạt được mục tiêu sản xuất cheronka. Vì nguyên liệu là sô cô la nên ăn xong sẽ hết nhưng công sức và sự trân trọng thì sẽ được ghi nhớ mãi mãi."
         },
         {
             "Key": 967689799,
@@ -3424,133 +3424,133 @@
         },
         {
             "Key": 3442222452,
-            "NameVi": "ヒヨコ型のチョコレート",
-            "DescriptionVi": "バレンタインにミネがくれた、可愛らしいチョコレート。あくまでも医療品らしいが、高級感もあり綺麗な包装に包まれている。"
+            "NameVi": "Sô cô la hình gà con",
+            "DescriptionVi": "Những viên sô cô la đáng yêu này được Mine tặng cho tôi vào ngày lễ tình nhân. Chúng rõ ràng chỉ là vật tư y tế, nhưng chúng được bọc trong bao bì sang trọng, đẹp đẽ."
         },
         {
             "Key": 18239407,
-            "NameVi": "ドライグレープフルーツのチョコがけ",
+            "NameVi": "Bưởi sấy sô cô la",
             "DescriptionVi": "アユムが普段から食べている、身体に良さそうなおやつ。乾燥させたグレープフルーツに、チョコレートがコーティングがされており、疲労回復についてはともかく味はとても美味しい。"
         },
         {
             "Key": 2168007634,
             "NameVi": "Vé lựa chọn ghi chú kỹ thuật ngẫu nhiên cho người mới bắt đầu",
-            "DescriptionVi": "Một vé có thể đổi lấy một ghi chú kỹ thuật ngẫu nhiên cho người mới bắt đầu"
+            "DescriptionVi": "Một vé có thể đổi lấy một ghi chú kỹ thuật ngẫu nhiên cho người mới bắt đầu."
         },
         {
             "Key": 957898555,
             "NameVi": "Vé lựa chọn ghi chú kỹ thuật thông thường ngẫu nhiên",
-            "DescriptionVi": "Một vé có thể đổi lấy một ghi chú kỹ thuật thông thường ngẫu nhiên"
+            "DescriptionVi": "Một vé có thể đổi lấy một ghi chú kỹ thuật thông thường ngẫu nhiên."
         },
         {
             "Key": 2977883904,
             "NameVi": "Vé lựa chọn ghi chú kỹ thuật nâng cao ngẫu nhiên",
-            "DescriptionVi": "Một vé có thể đổi lấy một ghi chú kỹ thuật nâng cao ngẫu nhiên"
+            "DescriptionVi": "Một vé có thể đổi lấy một ghi chú kỹ thuật nâng cao ngẫu nhiên."
         },
         {
             "Key": 1466385333,
             "NameVi": "Vé lựa chọn ghi chú kỹ thuật cao cấp ngẫu nhiên",
-            "DescriptionVi": "Một vé có thể đổi lấy một ghi chú kỹ thuật cao cấp ngẫu nhiên"
+            "DescriptionVi": "Một vé có thể đổi lấy một ghi chú kỹ thuật cao cấp ngẫu nhiên."
         },
         {
             "Key": 4166452772,
-            "NameVi": "Vé lựa chọn ngẫu nhiên Blu-ray chiến thuật cho người mới bắt đầu",
-            "DescriptionVi": "Một vé có thể đổi lấy một đĩa Blu-ray huấn luyện chiến thuật ngẫu nhiên cho người mới bắt đầu"
+            "NameVi": "Hộp lựa chọn ngẫu nhiên Blu-ray chiến thuật cho người mới bắt đầu",
+            "DescriptionVi": "Một hộp có thể đổi lấy một đĩa Blu-ray huấn luyện chiến thuật ngẫu nhiên cho người mới bắt đầu."
         },
         {
             "Key": 749003887,
-            "NameVi": "Vé lựa chọn ngẫu nhiên Blu-ray chiến thuật thông thường",
-            "DescriptionVi": "Một vé có thể đổi lấy một đĩa Blu-ray huấn luyện chiến thuật thông thường ngẫu nhiên"
+            "NameVi": "Hộp lựa chọn ngẫu nhiên Blu-ray chiến thuật thông thường",
+            "DescriptionVi": "Một hộp có thể đổi lấy một đĩa Blu-ray huấn luyện chiến thuật thông thường ngẫu nhiên."
         },
         {
             "Key": 1755243054,
-            "NameVi": "Vé lựa chọn ngẫu nhiên Blu-ray chiến thuật nâng cao",
-            "DescriptionVi": "Một vé có thể đổi lấy một đĩa Blu-ray huấn luyện chiến thuật nâng cao ngẫu nhiên"
+            "NameVi": "Hộp lựa chọn ngẫu nhiên Blu-ray chiến thuật nâng cao",
+            "DescriptionVi": "Một hộp có thể đổi lấy một đĩa Blu-ray huấn luyện chiến thuật nâng cao ngẫu nhiên."
         },
         {
             "Key": 2424945429,
-            "NameVi": "Vé lựa chọn ngẫu nhiên Blu-ray chiến thuật cao cấp",
-            "DescriptionVi": "Một vé có thể đổi lấy một đĩa Blu-ray huấn luyện chiến thuật cao cấp ngẫu nhiên"
+            "NameVi": "Hộp lựa chọn ngẫu nhiên Blu-ray chiến thuật cao cấp",
+            "DescriptionVi": "Một hộp có thể đổi lấy một đĩa Blu-ray huấn luyện chiến thuật cao cấp ngẫu nhiên."
         },
         {
             "Key": 1860452532,
-            "NameVi": "Vé lựa chọn cổ vật ngẫu nhiên I",
-            "DescriptionVi": "Một vé có thể đổi lấy một cổ vật ngẫu nhiên"
+            "NameVi": "Hộp lựa chọn cổ vật ngẫu nhiên I",
+            "DescriptionVi": "Một hộp có thể đổi lấy một cổ vật ngẫu nhiên."
         },
         {
             "Key": 1674194127,
-            "NameVi": "Vé lựa chọn cổ vật ngẫu nhiên II",
-            "DescriptionVi": "Một vé có thể đổi lấy một cổ vật ngẫu nhiên"
+            "NameVi": "Hộp lựa chọn cổ vật ngẫu nhiên II",
+            "DescriptionVi": "Một hộp có thể đổi lấy một cổ vật ngẫu nhiên."
         },
         {
             "Key": 2758696636,
-            "NameVi": "Vé lựa chọn cổ vật ngẫu nhiên III",
-            "DescriptionVi": "Một vé có thể đổi lấy một cổ vật ngẫu nhiên"
+            "NameVi": "Hộp lựa chọn cổ vật ngẫu nhiên III",
+            "DescriptionVi": "Một hộp có thể đổi lấy một cổ vật ngẫu nhiên."
         },
         {
             "Key": 3256836126,
-            "NameVi": "Vé lựa chọn cổ vật ngẫu nhiên IV",
-            "DescriptionVi": "Một vé có thể đổi lấy một cổ vật ngẫu nhiên"
+            "NameVi": "Hộp lựa chọn cổ vật ngẫu nhiên IV",
+            "DescriptionVi": "Một hộp có thể đổi lấy một cổ vật ngẫu nhiên."
         },
         {
             "Key": 3767770369,
-            "NameVi": "Vé lựa chọn ngẫu nhiên đồ nội thất cho người mới bắt đầu",
-            "DescriptionVi": "Một vé có thể đổi lấy nội thất ngẫu nhiên cho người mới bắt đầu"
+            "NameVi": "Hộp lựa chọn ngẫu nhiên đồ nội thất khởi đầu",
+            "DescriptionVi": "Một hộp có thể đổi lấy ngẫu nhiên đồ nội thất khởi đầu bất kỳ."
         },
         {
             "Key": 66543757,
-            "NameVi": "Vé lựa chọn ngẫu nhiên đồ nội thất thuộc chủ đề Momo Friends",
-            "DescriptionVi": "Một vé có thể đổi lấy nội thất ngẫu nhiên theo chủ đề Momo Friends"
+            "NameVi": "Hộp lựa chọn ngẫu nhiên đồ nội thất thuộc chủ đề Momo Friends",
+            "DescriptionVi": "Một hộp có thể đổi lấy đồ nội thất ngẫu nhiên theo chủ đề Momo Friends."
         },
         {
             "Key": 2561255049,
-            "NameVi": "Vé lựa chọn ngẫu nhiên đồ nội thất thuộc chủ đề Jellies Arcade",
-            "DescriptionVi": "Một vé có thể đổi lấy nội thất ngẫu nhiên theo chủ đề Jellies Arcade"
+            "NameVi": "Hộp lựa chọn ngẫu nhiên đồ nội thất thuộc chủ đề Jellies Arcade",
+            "DescriptionVi": "Một hộp có thể đổi lấy đồ nội thất ngẫu nhiên theo chủ đề Jellies Arcade."
         },
         {
             "Key": 1819691305,
-            "NameVi": "Vé lựa chọn ngẫu nhiên đồ nội thất thuộc chủ đề ngày lễ tình nhân",
-            "DescriptionVi": "Một vé có thể đổi lấy nội thất ngẫu nhiên theo chủ đề ngày lễ tình nhân"
+            "NameVi": "Hộp lựa chọn ngẫu nhiên đồ nội thất thuộc chủ đề ngày lễ tình nhân",
+            "DescriptionVi": "Một hộp có thể đổi lấy đồ nội thất ngẫu nhiên theo chủ đề ngày lễ tình nhân."
         },
         {
             "Key": 3544971105,
-            "NameVi": "Vé lựa chọn ngẫu nhiên đồ nội thất thuộc chủ đề khu nghỉ dưỡng mùa hè",
-            "DescriptionVi": "Một vé có thể đổi lấy nội thất ngẫu nhiên theo chủ đề khu nghỉ dưỡng mùa hè"
+            "NameVi": "Hộp lựa chọn ngẫu nhiên đồ nội thất thuộc chủ đề mùa hè",
+            "DescriptionVi": "Một hộp có thể đổi lấy đồ nội thất ngẫu nhiên theo chủ đề mùa hè."
         },
         {
             "Key": 1723918290,
-            "NameVi": "Vé lựa chọn ngẫu nhiên đồ nội thất thuộc chủ đề Halloween",
-            "DescriptionVi": "Một vé có thể đổi lấy nội thất ngẫu nhiên theo chủ đề Halloween"
+            "NameVi": "Hộp lựa chọn ngẫu nhiên đồ nội thất thuộc chủ đề Halloween",
+            "DescriptionVi": "Một hộp có thể đổi lấy đồ nội thất ngẫu nhiên theo chủ đề Halloween."
         },
         {
             "Key": 1591789006,
-            "NameVi": "Vé lựa chọn ngẫu nhiên đồ nội thất thuộc chủ đề khu nghỉ dưỡng suối nước nóng truyền thống",
-            "DescriptionVi": "Một vé có thể đổi lấy nội thất ngẫu nhiên theo chủ đề khu nghỉ dưỡng suối nước nóng truyền thống"
+            "NameVi": "Hộp lựa chọn ngẫu nhiên đồ nội thất thuộc chủ đề khu nghỉ dưỡng suối nước nóng truyền thống",
+            "DescriptionVi": "Một hộp có thể đổi lấy đồ nội thất ngẫu nhiên theo chủ đề khu nghỉ dưỡng suối nước nóng truyền thống."
         },
         {
             "Key": 1958057664,
-            "NameVi": "Vé lựa chọn ngẫu nhiên đồ nội thất thuộc chủ đề năm mới",
-            "DescriptionVi": "Một vé có thể đổi lấy nội thất ngẫu nhiên theo chủ đề năm mới"
+            "NameVi": "Hộp lựa chọn ngẫu nhiên đồ nội thất thuộc chủ đề năm mới",
+            "DescriptionVi": "Một hộp có thể đổi lấy đồ nội thất ngẫu nhiên theo chủ đề năm mới."
         },
         {
             "Key": 1035722354,
-            "NameVi": "Vé lựa chọn ngẫu nhiên nội thất khu cắm trại quân đội",
-            "DescriptionVi": "Một vé có thể đổi lấy Nội thất cắm trại quân sự dựa trên xác suất đã đặt."
+            "NameVi": "Hộp lựa chọn ngẫu nhiên đồ nội thất thuộc chủ đề quân sự",
+            "DescriptionVi": "Một hộp có thể đổi lấy đồ nội thất ngẫu nhiên theo chủ đề quân sự."
         },
         {
             "Key": 2810545914,
-            "NameVi": "ランダム式・ビーチサイドシリーズ",
-            "DescriptionVi": "ビーチサイドシリーズの家具の中から、一つをランダムで獲得することができる。"
+            "NameVi": "Hộp lựa chọn ngẫu nhiên đồ nội thất thuộc chủ đề bãi biển",
+            "DescriptionVi": "Một hộp có thể đổi lấy đồ nội thất ngẫu nhiên theo chủ đề bãi biển."
         },
         {
             "Key": 3857069895,
-            "NameVi": "大運動会シリーズ抽選ボックス",
-            "DescriptionVi": "使用時、大運動会シリーズの家具の中から、一つを同じ確率で獲得することができる抽選ボックス。"
+            "NameVi": "Hộp lựa chọn ngẫu nhiên đồ nội thất thuộc chủ đề thể thao",
+            "DescriptionVi": "Một hộp có thể đổi lấy đồ nội thất ngẫu nhiên theo chủ đề thể thao."
         },
         {
             "Key": 591912416,
-            "NameVi": "アビドス教室シリーズ抽選ボックス",
-            "DescriptionVi": "使用時、アビドス教室シリーズの家具の中から、一つを同じ確率で獲得することができる抽選ボックス。"
+            "NameVi": "Hộp lựa chọn ngẫu nhiên đồ nội thất thuộc chủ đề lớp học Abydos",
+            "DescriptionVi": "Một hộp có thể đổi lấy đồ nội thất ngẫu nhiên theo chủ đề lớp học Abydos."
         },
         {
             "Key": 2688710420,
