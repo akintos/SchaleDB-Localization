@@ -26,13 +26,73 @@
                 ]
             ],
             "DescriptionJp": "敵4人に対して、攻撃力の<?1>分のダメージ",
+            "ParametersJp": [
+                [
+                    "200%",
+                    "200%",
+                    "200%",
+                    "200%",
+                    "200%",
+                    "400%"
+                ]
+            ],
             "DescriptionKr": "적 4인에게 공격력 <?1> 대미지",
+            "ParametersKr": [
+                [
+                    "200%",
+                    "200%",
+                    "200%",
+                    "200%",
+                    "200%",
+                    "400%"
+                ]
+            ],
             "DescriptionTh": "สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรู 4 เป้าหมาย",
+            "ParametersTh": [
+                [
+                    "200%",
+                    "200%",
+                    "200%",
+                    "200%",
+                    "200%",
+                    "400%"
+                ]
+            ],
             "DescriptionTw": "對4名敵人造成攻擊力<?1>傷害",
+            "ParametersTw": [
+                [
+                    "200%",
+                    "200%",
+                    "200%",
+                    "200%",
+                    "200%",
+                    "400%"
+                ]
+            ],
             "NameCn": "正义之焰",
             "DescriptionCn": "对4名敌方单位造成攻击力<?1>的伤害",
+            "ParametersCn": [
+                [
+                    "200%",
+                    "200%",
+                    "200%",
+                    "200%",
+                    "200%",
+                    "400%"
+                ]
+            ],
             "NameVi": "Biển lửa dữ dội",
-            "DescriptionVi": "Gây <?1> sát thương lên 4 kẻ địch."
+            "DescriptionVi": "Gây <?1> sát thương lên 4 kẻ địch.",
+            "ParametersVi": [
+                [
+                    "200%",
+                    "200%",
+                    "200%",
+                    "200%",
+                    "200%",
+                    "400%"
+                ]
+            ]
         },
         {
             "Id": "BinahExSkill03",
@@ -48,8 +108,6 @@
         },
         {
             "Id": "BinahInsanePassive01",
-            "NameEn": "Raging Sandstorm",
-            "NameTh": "พายุทรายเกรี้ยวกราด",
             "DescriptionEn": "Decreases all enemies' <d:HIT> by 20% and <d:Stability> by 50%. This debuff cannot be removed.",
             "DescriptionJp": "全ての敵に対して、<d:HIT>を20%減少、<d:Stability>を50%減少",
             "DescriptionKr": "모든 적에게 <d:HIT> 20% 감소, <d:Stability> 50% 감소",
@@ -160,7 +218,6 @@
         },
         {
             "Id": "ShiroEx01",
-            "NameEn": "Dun-Dun-Dun! (Shiro)",
             "DescriptionEn": "Places bombs that explode after a short while and deal <?1> damage to enemies in a circular area. Damage and number of bombs placed increases as Shiro's ATG gauge increases.<?2>",
             "ParametersEn": [
                 [
@@ -237,7 +294,25 @@
                     "\nเมื่อถูกระเบิดน้ำแข็งโจมตี จะลด<d:MoveSpeed> 80% (เป็นเวลา 40 วินาที)"
                 ]
             ],
-            "DescriptionTw": "對敵人造成攻擊力<?1>傷害\nATG越高造成的傷害越猛烈。",
+            "DescriptionTw": "對敵人造成攻擊力<?1>傷害\nATG越高造成的傷害越猛烈。<?2>",
+            "ParametersTw": [
+                [
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "900%"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\n被部分炸彈攻擊時，移動速度80%(40秒內)"
+                ]
+            ],
             "NameCn": "咚！咚！咚！！(白)",
             "DescriptionCn": "落下炸弹，每个炸弹能对其周围圆形范围内的敌方单位造成攻击力<?1>的伤害\n造成的伤害随ATG提升而提升<?2>",
             "ParametersCn": [
@@ -281,7 +356,7 @@
         },
         {
             "Id": "ShiroEx04",
-            "DescriptionEn": "Summons a rolling bomb that deals <?1> damage to enemies in a straight line.\nThe bomb deals 300% damage to obstacles in its path. If an obstacle is hit but not destroyed, the bomb will bounce in the opposite direction towards Shiro, filling her groggy gauge by <?3>.<?2>",
+            "DescriptionEn": "Summons a rolling bomb that deals <?1> damage to enemies in a straight line.\nThe bomb deals 300% damage to obstacles in its path. If an obstacle is hit but not destroyed, the bomb will bounce in the opposite direction, filling Shiro's groggy gauge by <?3>.<?2>",
             "ParametersEn": [
                 [
                     "600%",
@@ -297,7 +372,7 @@
                     "",
                     "",
                     "",
-                    "\nIf an enemy with decreased <d:MoveSpeed> is hit, deals an additional <b>600,000</b> damage.\nIf Shiro is hit, also increases her <d:DamagedRatio> by 50% for 40s."
+                    "\nIf an enemy with decreased <d:MoveSpeed> is hit, deals an additional <b>600,000</b> damage.\nIf Shiro is hit, also increases <d:DamagedRatio> by 50% for 40s."
                 ],
                 [
                     "43,000",
@@ -373,7 +448,25 @@
                     "4,000,000 หน่วย"
                 ]
             ],
-            "DescriptionTw": "召喚可造成攻擊力<?1>傷害的炸彈。\n對掩蔽物造成攻擊力300%傷害後，如果掩蔽物沒被破壞會往反方向濺出。",
+            "DescriptionTw": "召喚能造成攻擊力<?1>傷害的炸彈\n對隱蔽物造成攻擊力300%的傷害，若隱蔽物未被破壞，則會彈回給白。<?2>",
+            "ParametersTw": [
+                [
+                    "600%",
+                    "600%",
+                    "600%",
+                    "600%",
+                    "600%",
+                    "1500%"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\n移動速度有被減少的敵人會受到600000的追加傷害\n白自己被攻擊時，受到的傷害量增加50%(40秒內)"
+                ]
+            ],
             "NameCn": "滚起来吧！(白)",
             "DescriptionCn": "召唤滚球，对路径上的敌方单位造成攻击力<?1>的伤害\n对掩体造成攻击力300%的伤害，掩体受到攻击后未损坏则将滚球弹回白，令其虚弱量表填充<?3><?2>",
             "ParametersCn": [
@@ -433,7 +526,7 @@
         },
         {
             "Id": "KuroEx01",
-            "DescriptionEn": "Summons theme park rides that deals <?1> damage to enemies in a straight line.\nIf Kuro is hit by this attack herself, fills Kuro's groggy gauge by <?3>.<?2>",
+            "DescriptionEn": "Summons theme park rides that deals <?1> damage to enemies in a straight line. Damage increases as Kuro's ATG gauge increases.\nIf Kuro is hit by this attack, fills Kuro's groggy gauge by <?3>.<?2>",
             "ParametersEn": [
                 [
                     "400%",
@@ -525,7 +618,25 @@
                     "4,000,000 หน่วย"
                 ]
             ],
-            "DescriptionTw": "對敵人造成攻擊力<?1>傷害\nATG越高造成的傷害越猛烈。",
+            "DescriptionTw": "對敵人造成攻擊力<?1>傷害\nATG越高造成的傷害越猛烈。<?2>",
+            "ParametersTw": [
+                [
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "400%",
+                    "500%"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\n移動速度有被減少的敵人會受到600000的追加傷害\n黑自己被攻擊時，受到的傷害量增加50%(40秒內)"
+                ]
+            ],
             "NameCn": "突进！！！(黑)",
             "DescriptionCn": "召唤公园游乐设施，对直线范围内击中的第1名敌方单位造成攻击力<?1>的伤害\n造成的伤害随ATG提升而提升<?2>",
             "ParametersCn": [
@@ -577,13 +688,11 @@
         },
         {
             "Id": "KuroInasneEx10",
-            "NameEn": "Apathy Syndrome (Kuro)",
-            "NameTh": "เฉื่อยชาไร้ความรู้สึก (คุโระ)",
             "DescriptionEn": "Deals 100% damage to enemies and decreases their <d:MoveSpeed> by 80% for 40s.",
             "DescriptionJp": "敵に対して、攻撃力の100%分のダメージ\nさらにその敵の<d:MoveSpeed>を80%減少（40秒間）",
             "DescriptionKr": "적에게 공격력 100% 대미지\n<d:MoveSpeed> 80%감소(40초간)",
             "DescriptionTh": "สร้างความเสียหาย 100% ของค่าโจมตีให้กับศัตรู\nลด<d:MoveSpeed> 80% (เป็นเวลา 40 วินาที)",
-            "DescriptionTw": null,
+            "DescriptionTw": "對敵人造成攻擊力100%的傷害\n<d:MoveSpeed>減少80%(40秒內)",
             "NameCn": "冷漠无情",
             "DescriptionCn": "对敌方单位造成攻击力100%的伤害\n<d:MoveSpeed>降低80%(持续40秒)",
             "NameVi": "Sự thờ ơ",
@@ -591,13 +700,11 @@
         },
         {
             "Id": "ShiroKuroPassive01",
-            "NameEn": "Horror of Slumpia",
-            "NameTh": "ความน่าสะพรึงกลัวของสลัมเพีย",
             "DescriptionEn": "Decreases all enemies' <d:HealEffectiveness> by 80%. This debuff cannot be removed.",
             "DescriptionJp": "全ての敵の<d:HealEffectiveness>率を80%減少",
             "DescriptionKr": "모든 적 <d:HealEffectiveness> 80% 감소",
             "DescriptionTh": "ลด<d:HealEffectiveness>ของศัตรูทั้งหมด 80% เอฟเฟคนี้ไม่สามารถถูกลบล้างได้",
-            "DescriptionTw": null,
+            "DescriptionTw": "所有敵人得到的恢復效果強化率減少80%",
             "NameCn": "史兰皮亚的恐惧",
             "DescriptionCn": "所有敌方单位<d:HealEffectiveness>降低80%",
             "NameVi": "Nỗi kinh hoàng của Slumpia",
@@ -665,7 +772,18 @@
                     "\nเพิ่ม<b:HealEffectiveness> <b>3,000</b> ให้กับศัตรูที่ถูกสาป (เป็นเวลา 10 วินาที)"
                 ]
             ],
-            "DescriptionTw": "賦予1名敵人<d:Hieronymus>，\n<d:Hieronymus>會造成攻擊力20%的持續傷害，10秒後爆炸， \n對圓形範圍內的敵人造成攻擊力325%的傷害後消失不見。\n受<d:Hieronymus>對象的體力為100%時，<d:Hieronymus>會立即消失。",
+            "DescriptionTw": "賦予1名敵人<d:Hieronymus>，\n<d:Hieronymus>會造成攻擊力20%的持續傷害，10秒後爆炸， \n對圓形範圍內的敵人造成攻擊力325%的傷害後消失不見。\n受<d:Hieronymus>對象的體力為100%時，<d:Hieronymus>會立即消失。<?1>",
+            "ParametersTw": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\n額外<d:Hieronymus>對象遭受的恢復效果強化率增強3000。（10秒間）",
+                    "\n額外<d:Hieronymus>對象遭受的恢復效果強化率增強3000。（10秒間）"
+                ]
+            ],
             "NameCn": "圣经武加大译本",
             "DescriptionCn": "对1名敌方单位施加<d:Hieronymus>状态(持续10秒)\n<d:Hieronymus>将对其造成攻击力20%的持续伤害\n在10秒内未能解除该状态时，对该目标及其周围圆形范围内的敌方单位造成攻击力325%的伤害\n被施加<d:Hieronymus>的目标生命值为100%或回复至100%时该状态将自动解除<?1>",
             "ParametersCn": [
@@ -791,7 +909,27 @@
                     "\nหาก ATG เต็ม ศัตรูเป้าหมายทั้งหมดจะ<s:Immortal> (เป็นเวลา 10 วินาที)\nสร้างความเสียหาย 1000% ของค่า HP สูงสุดให้กับศัตรูทั้งหมด\nเพิ่ม<b:HealEffectiveness>ให้กับศัตรู <b>2,000</b> (เป็นเวลา 10 วินาที)"
                 ]
             ],
-            "DescriptionTw": "每10秒對所有敵人造成攻擊力<?1>的傷害\nATG充滿時，對所有敵人造成最大體力1000%的傷害。",
+            "DescriptionTw": "每10秒對所有敵人造成攻擊力<?1>的傷害<?2>",
+            "ParametersTw": [
+                [
+                    "40%",
+                    "40%",
+                    "40%",
+                    "40%",
+                    "40%",
+                    "30%",
+                    "30%"
+                ],
+                [
+                    "\nATG充滿時，對所有敵人造成最大體力1000%的傷害。",
+                    "\nATG充滿時，對所有敵人造成最大體力1000%的傷害。",
+                    "\nATG充滿時，對所有敵人造成最大體力1000%的傷害。",
+                    "\nATG充滿時，對所有敵人造成最大體力1000%的傷害。",
+                    "\nATG充滿時，對所有敵人造成最大體力1000%的傷害。",
+                    "\nATG已滿時，對所有敵對對象<s:Immortal>（10秒間）\n額外造成最大體力1000%的傷害，\n受到的恢復效果強化率增加2000。（10秒間）",
+                    "\nATG已滿時，對所有敵對對象<s:Immortal>（10秒間）\n額外造成最大體力1000%的傷害，\n受到的恢復效果強化率增加2000。（10秒間）"
+                ]
+            ],
             "NameCn": "沙漠苦行",
             "DescriptionCn": "每10秒对所有敌方单位造成攻击力<?1>的伤害<?2>",
             "ParametersCn": [
@@ -928,8 +1066,6 @@
         },
         {
             "Id": "HieronymusInsanePassive02",
-            "NameEn": "Unholy Light (Relic)",
-            "NameTh": "แสงชั่วร้าย (เรลิก)",
             "DescriptionEn": "When the violet relic's HP reaches 0%, increases the <b:ATK> <?1>of all Striker and Special students by <b>25%</b> but decreases their <d:HealEffectiveness> by <b>7,000</b>. Also decreases Hieronymus's <d:DEF> by <b>1,500</b>.\nFollowing this, students inflicted with <d:Hieronymus> will have their <b:HealEffectiveness> increased by a further <b>4,000</b> for 10s.\nThe violet relic cannot be targeted by normal attacks or basic skills.",
             "ParametersEn": [
                 [
@@ -1070,13 +1206,11 @@
         },
         {
             "Id": "KaitenFxMk0InsaneExSkill05",
-            "NameEn": "Infinite Cycle - Mega Egg Overcharge",
-            "NameTh": "แข้งไข่หวานโอเวอร์ชารจ์ไม่ยั้ง",
             "DescriptionEn": "<b>Feet (yellow)</b>: Increases <b:ATK> by <b>4,000</b> for 30s.",
             "DescriptionJp": "足（イエロー）：<b:ATK>を4000増加（30秒間）",
             "DescriptionKr": "다리(옐로): 자신 <b:ATK> 4000 증가 (30초간)",
             "DescriptionTh": "ขา (เยลโล่ว): เพิ่ม<b:ATK> <b>4,000</b> (เป็นเวลา 30 วินาที)",
-            "DescriptionTw": null,
+            "DescriptionTw": "腿部(黃)：自身<b:ATK>增加4000 (30秒內)",
             "NameCn": "无限回转・超级过充蛋头",
             "DescriptionCn": "足(黄)：<b:ATK>提升4000(持续30秒)",
             "NameVi": "Quá tải vô tận",
@@ -1160,7 +1294,17 @@
                     "3,500,000"
                 ]
             ],
-            "DescriptionTw": "每20秒依序啟動右手臂(粉紅色)、胸部(紅色)、左手臂(綠色)。\n右手臂(粉紅色)：攻擊力增加50%\n胸部(紅色)：用Ex技能攻擊時，使對象昏厥(5秒內)\n左手臂(綠色)：防禦力增加1000\n啟動部位時，如受到一定以上的傷害，該部位將會被破壞，且無法再次啟動。\n無法使用被破壞部位的技能。",
+            "DescriptionTw": "每20秒依序啟動右手臂(粉紅色)、胸部(紅色)、左手臂(綠色)。\n右手臂(粉紅色)：攻擊力增加50%\n胸部(紅色)：用Ex技能攻擊時，使對象昏厥(5秒內)\n左手臂(綠色)：防禦力增加1000<?1>\n各部位啟用時，如有造成一定傷害以上時，各部位會被破壞並無法再啟用。\n不使用破壞部位的技能。",
+            "ParametersTw": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "，用Ex技能攻擊時，對象得到的恢復效果強化率減少80%(30秒內)"
+                ]
+            ],
             "NameCn": "无限回转的火热之心",
             "DescriptionCn": "KAITEN FX Mk.0每20秒以右臂(粉)、胸部(红)、左臂(绿)的顺序依次启用躯体部件\n右臂(粉)：<b:ATK>提升50%\n胸部(红)：使用EX技能攻击时，对目标施加<c:Stunned>状态(持续5秒)\n左臂(绿)：<b:DEF>提升1000<?1>\n躯体部件启用期间受到超过<?2>的伤害则将破坏该部件，并填满自身的虚弱量表\n被破坏的部件本场战斗无法再启用，且无法再使用与其相关的EX技能",
             "ParametersCn": [
@@ -1265,7 +1409,17 @@
                     "\nหากเอฟเฟคนี้ไม่ถูกลบล้างจนหมดระยะเวลาของเอฟเฟค สร้างความเสียหาย 250% ของค่าโจมตีให้กับศัตรูในพื้นที่รูปทรงกรวย"
                 ]
             ],
-            "DescriptionTw": "對1名敵人造成等同90%攻擊力的持續傷害（10秒內）\n<d:DEF>減少9999（60秒內）",
+            "DescriptionTw": "對1名敵人造成等同90%攻擊力的持續傷害（10秒內）\n<d:DEF>減少9999（60秒內）<?1>",
+            "ParametersTw": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\n技能結束時，若防禦力減少效果尚未消失，可對扇形範圍造成攻擊力250%傷害"
+                ]
+            ],
             "NameCn": "白热眼光",
             "DescriptionCn": "对1名敌方单位造成攻击90%的持续伤害(持续10秒)/\n<d:DEF>降低9999(持续60秒)",
             "ParametersCn": [
@@ -1381,7 +1535,17 @@
                     "\nเมื่อลูกสมุนบิ๊กเพโรโร่เรืองแสงล้มลง สร้างความเสียหาย 200,000 ให้กับลูกสมุนบิ๊กเพโรโร่ตัวอื่นในรัศมี"
                 ]
             ],
-            "DescriptionTw": "以100%所受傷害召喚傳送給佩洛洛吉拉的巨大佩洛洛士兵\n巨大佩洛洛士兵的體力低於50%時將自動倒地。",
+            "DescriptionTw": "以100%所受傷害召喚傳送給佩洛洛吉拉的巨大佩洛洛士兵\n巨大佩洛洛士兵的體力低於50%時將自動倒地。<?1>",
+            "ParametersTw": [
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "\n閃亮巨大佩洛洛士兵倒下時，會對圓形範圍內的佩洛洛造成傷害。"
+                ]
+            ],
             "NameCn": "佩洛洛召唤",
             "DescriptionCn": "召唤佩洛洛<?1>\n佩洛洛<?1>拥有<s:Immortal>状态且能将受到的伤害以100%的倍率同样作用于佩洛洛基拉\n生命值低于50%时被施加<c:Stunned>状态且不再被我方主动攻击<?2>\n佩洛洛免疫其他群控状态",
             "ParametersCn": [
@@ -1489,8 +1653,6 @@
         },
         {
             "Id": "HODEx01",
-            "NameEn": "Type I Destruction",
-            "NameTh": "การทำลายล้าง รูปแบบ I",
             "DescriptionEn": "Deals 150% damage to enemies in a circular area<?1>.",
             "ParametersEn": [
                 [
@@ -1535,7 +1697,17 @@
                     " 3 ครั้ง โดยแต่ละครั้งรัศมีจะขยายขึ้นเรื่อยๆ"
                 ]
             ],
-            "DescriptionTw": "對圓形範圍內敵人造成150%的傷害",
+            "DescriptionTw": "<?1>",
+            "ParametersTw": [
+                [
+                    "對圓形範圍內的敵人造成攻擊力150%的傷害",
+                    "對圓形範圍內的敵人造成攻擊力150%的傷害",
+                    "對圓形範圍內的敵人造成攻擊力150%的傷害",
+                    "對圓形範圍內的敵人造成攻擊力150%的傷害",
+                    "對圓形範圍內的敵人造成攻擊力150%的傷害",
+                    "圓形範圍逐漸擴大，共爆炸3次對敵人造成攻擊力150%傷害"
+                ]
+            ],
             "NameCn": "摧毁模式 I",
             "DescriptionCn": "对<?1>攻击力150%的伤害",
             "ParametersCn": [
@@ -1563,8 +1735,6 @@
         },
         {
             "Id": "HODEx02",
-            "NameEn": "Type II Destruction",
-            "NameTh": "การทำลายล้าง รูปแบบ II",
             "DescriptionEn": "Deals 200% damage to enemies in a straight line.",
             "DescriptionJp": "直線範囲内の敵に対して、攻撃力の200%分のダメージ",
             "DescriptionKr": "직선 범위 내 적에게 공격력 200% 만큼 대미지",
@@ -1577,8 +1747,6 @@
         },
         {
             "Id": "HODEx03",
-            "NameEn": "Generate Invader Pillar",
-            "NameTh": "สร้างเสากัดกร่อน",
             "DescriptionEn": "Summons <?1> decreasing the <d:CostRegen> of enemies by <b>350</b> in a circular area around it (effect does not stack multiple times) and forcing nearby defense turrets to attack enemies instead of Hod. The tower's area of effect expands every 15s.\nWhen Erosion Towers summoned by Hod are defeated, decreases Hod's ATG gauge by 50% and fills Hod's groggy gauge by 25%.",
             "ParametersEn": [
                 [
@@ -1603,7 +1771,7 @@
                     " 2 ต้น"
                 ]
             ],
-            "DescriptionTw": null,
+            "DescriptionTw": "召喚侵蝕之塔。侵蝕之塔會在每15秒擴展侵蝕範圍。\n進入侵蝕範圍內的敵人會減少350<d:CostRegen>。進入侵蝕範圍內的防禦砲塔會攻擊我軍。",
             "NameCn": "侵蚀之柱生成",
             "DescriptionCn": "生成<?1>能令其周围一定圆形范围内的敌方单位<d:CostRegen>降低<b>350</b>(效果无法叠加)\n侵蚀范围每15秒扩大1级，",
             "ParametersCn": [
@@ -1631,13 +1799,11 @@
         },
         {
             "Id": "HODEx04",
-            "NameEn": "Energy Overload",
-            "NameTh": "โอเวอร์โหลดเอเนอร์จี้",
             "DescriptionEn": "Deals 150% damage to all enemies. If Hod's HP is less than 50%, deals 300% damage and destroys all defense turrets.",
             "DescriptionJp": "敵全体に対して、攻撃力の150%分のダメージ\nホドのHPが50%以下の場合は、敵全体に対して攻撃力の300%分のダメージ、さらにフィールドターレットを全て破壊します。",
             "DescriptionKr": "적 전체에게 공격력 150% 만큼 대미지\n호드의 체력이 50% 이하일 경우 적 전체에게 공격력 300% 만큼 대미지,방어 포탑 모두 파괴",
             "DescriptionTh": "สร้างความเสียหาย 150% ของค่าโจมตีให้กับศัตรูทั้งหมด\nเมื่อ HP ของ Hod ต่ำกว่า 50% จะสร้างความเสียหาย 300% ของค่าโจมตีให้กับศัตรูทั้งหมดและทำลายป้อมปืนคุ้มกันทั้งหมด",
-            "DescriptionTw": null,
+            "DescriptionTw": "對所有敵人造成攻擊力150%的傷害\n霍德的體力在50%以下石，可對所有敵人造成攻擊力300%的傷害，防禦砲塔全部破壞",
             "NameCn": "能量过载",
             "DescriptionCn": "对全体敌方单位造成攻击力150%的伤害\nHod的生命值低于50%时，对全体敌方单位造成攻击力300%的伤害并摧毁所有炮台",
             "NameVi": "Năng lượng quá tải",
@@ -1645,13 +1811,11 @@
         },
         {
             "Id": "HODEx05",
-            "NameEn": "Brilliant Glory",
-            "NameTh": "เกียรติยศอันรุ่งโรจน์",
             "DescriptionEn": "Deals 740% damage to all enemies and increases Hod's <b:ATK> by 50% until the end of battle. Effect stacks up to 99 times.",
             "DescriptionJp": "敵全体に対して、攻撃力の740%分のダメージ\nExスキル「栄光の輝き」を使用する毎に、ホドの<b:ATK>を50%増加（最大で99回分まで効果が重複）",
             "DescriptionKr": "적 전체에게 공격력 740% 대미지\n영광의 빛 스킬 사용 시 마다 호드의 <b:ATK> 50% 증가 (최대 99회 까지 중첩)",
             "DescriptionTh": "สร้างความเสียหาย 740% ของค่าโจมตีให้กับศัตรู\nเพิ่ม<b:ATK>ของ Hod 50% ทุกครั้งที่ใช้สกิลแสงแห่งเกียรติยศ (ซ้อนทับสูงสุด 99 ครั้ง)",
-            "DescriptionTw": null,
+            "DescriptionTw": "對所有敵人造成攻擊力740%的傷害\n每次使用榮耀之光技能時，霍德的攻擊力增加50%(最多可堆疊99次)",
             "NameCn": "荣耀光辉",
             "DescriptionCn": "对所有敌方单位造成攻击力740%的伤害/\n<b:ATK>增加50%(持续至本场战斗结束)(至多叠加99层)",
             "NameVi": "Ánh sáng vinh quang",
@@ -1659,8 +1823,6 @@
         },
         {
             "Id": "HODPassive01",
-            "NameEn": "Hidden Glory",
-            "NameTh": "เบื้องหลังแห่งเกียรติยศ",
             "DescriptionEn": "Hod and all summoned Erosion Towers are immune to the effects of Crowd Control. However, Crowd Control abilities will fill their circular <b>CC gauge</b> proportional to the duration of the effect that would've been inflicted.<?2>\nOnce the CC gauge reaches a total equivalent to <?1> of Crowd Control duration, inflicts the following effects:\n<b>Hod</b>: Increases <d:DamagedRatio> by 300% for 30s, decreases Hod's ATG gauge by 50% and fills Hod's groggy gauge by 25%.\n<b>Erosion Tower</b>: Increases <d:DamagedRatio> by 300% for 30s and reduces the tower's area of effect by 1 stage.",
             "ParametersEn": [
                 [
@@ -1737,7 +1899,25 @@
                     " ยิ่งเรามีประสิทธิภาพกดขี่สูงเท่าไหร่, เอฟเฟกต์กดขี่ที่ใช้ก็จะยิ่งเพิ่มเกจพิเศษมากขึ้นไปด้วย"
                 ]
             ],
-            "DescriptionTw": null,
+            "DescriptionTw": "霍德、侵蝕之塔雖然不會受到群控效果，但是時間會累積<?2>\n霍德：累積<?1>時受到的傷害量增加300%(30秒內)，格羅基量表增加、ATG減少\n侵蝕之塔：累積<?1>時，受到的傷害量增加300%(30秒內)，侵蝕範圍減少1階段",
+            "ParametersTw": [
+                [
+                    "6秒",
+                    "7秒",
+                    "8秒",
+                    "9秒",
+                    "10秒",
+                    "15秒"
+                ],
+                [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "（如果群控強化力越高，時間適用越多。）"
+                ]
+            ],
             "NameCn": "荣耀之耻",
             "DescriptionCn": "Hod和侵蚀之柱免疫群控状态，但对其造成的群控持续时间将等量累计至其群控量表<?2>\n群控量表累计满<?1>后，造成以下效果\nHod：<d:DamagedRatio>提升300%(持续30秒)，虚弱量表填充25%，ATG降低50%\n侵蚀之柱：<d:DamagedRatio>提升300%(持续30秒)，侵蚀范围降低1级",
             "ParametersCn": [
@@ -1781,13 +1961,11 @@
         },
         {
             "Id": "HODPassive02",
-            "NameEn": "In The Shadow of Honor",
-            "NameTh": "ใต้เงาแห่งเกียรติยศ",
             "DescriptionEn": "Hod and all summoned Erosion Towers have 400% increased Crit RES.\nErosion Towers are also immune to the effects of <d:ConcentratedTarget>.",
             "DescriptionJp": "ホドとインベイドピラーの会心抵抗値を400%増加。\nインベイドピラーは<d:ConcentratedTarget>を無効化します。",
             "DescriptionKr": "호드, 침식타워의 치명 저항력이 400% 증가합니다.\n침식타워는 <d:ConcentratedTarget> 효과에 면역입니다.",
             "DescriptionTh": "Hod และเสากัดกร่อนจะมีค่าต้านทานคริเพิ่ม 400%\nเสากัดกร่อนจะไม่ได้รับผลจากเอฟเฟกต์<d:ConcentratedTarget>",
-            "DescriptionTw": null,
+            "DescriptionTw": "使霍德、侵蝕之塔的暴擊抵抗力增加400%。\n侵蝕之塔對<d:ConcentratedTarget>效果免疫。",
             "NameCn": "荣光之影",
             "DescriptionCn": "Hod和侵蚀之柱的基础暴击抵抗率提升400%(提升至500)\n侵蚀之柱对<d:ConcentratedTarget>状态免疫",
             "NameVi": "Cái bóng của danh dự",
@@ -2005,7 +2183,43 @@
                 ]
             ],
             "DescriptionJp": "<b:Shield>効果がある場合、ゴズが与える全てのダメージを<?1>減少/\n<d:HealEffectiveness>率を<?2>減少",
+            "ParametersJp": [
+                [
+                    "75%",
+                    "75%",
+                    "75%",
+                    "75%",
+                    "75%",
+                    "50%"
+                ],
+                [
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "90%"
+                ]
+            ],
             "DescriptionKr": "<b:Shield>이 있을 경우 고즈가 입히는 모든 피해가 <?1> 감소합니다./\n<d:HealEffectiveness>이 <?2> 감소합니다.",
+            "ParametersKr": [
+                [
+                    "75%",
+                    "75%",
+                    "75%",
+                    "75%",
+                    "75%",
+                    "50%"
+                ],
+                [
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "90%"
+                ]
+            ],
             "DescriptionTh": "ลดความเสียหายของ Goz ที่ทำต่อเป้าหมายที่มี<b:Shield>ลง <?1>/\nลด<d:HealEffectiveness>ของศัตรูทั้งหมด <?2> เอฟเฟคนี้ไม่สามารถถูกลบล้างได้",
             "ParametersTh": [
                 [
@@ -2069,8 +2283,6 @@
         },
         {
             "Id": "WakamoSwimsuit01Ex01",
-            "NameEn": "Secret Flower Divination",
-            "NameTh": "ลิขิตแห่งบุปผาสีลับแล",
             "DescriptionEn": "Deals 150% damage to one enemy <b>five</b> times plus a final hit that deals 300% damage. Each hit also inflicts <c:Stunned> for 5s.",
             "DescriptionJp": "ATGの値がMAXの場合、スキルを使用\n攻撃ごとに攻撃力の150%分のダメージと<c:Stunned>を付与（5秒間）\n最後の攻撃で攻撃力の300%分のダメージと<c:Stunned>を付与（5秒間）",
             "DescriptionKr": "ATG가 가득 찰 경우 스킬 사용\n매 사격마다 공격력 150% 대미지와 <c:Stunned>(5초간)/ 마지막 사격으로 공격력 300% 대미지와 <c:Stunned>(5초간)",
@@ -2083,8 +2295,6 @@
         },
         {
             "Id": "WakamoSwimsuit01Ex02",
-            "NameEn": "Heartbreak Shot",
-            "NameTh": "กระสุนแห่งความโหยหา",
             "DescriptionEn": "Deals 750% damage to enemies in a straight line.",
             "DescriptionJp": "ATGの値がMAXの場合、スキルを使用\n直線範囲内の敵に対して、攻撃力の750%分のダメージ",
             "DescriptionKr": "ATG가 가득 찰 경우 스킬 사용\n직선 범위 내 적에게 공격력 750% 대미지",
@@ -2097,8 +2307,6 @@
         },
         {
             "Id": "WakamoSwimsuit01Ex03",
-            "NameEn": "Howitzer",
-            "NameTh": "กระสุนปืนครก",
             "DescriptionEn": "Launches a missile that targets the furthest enemy away and deals 750% damage on contact. The missile can be blocked by other students, summons or cover.",
             "DescriptionJp": "ATGの値がMAXの場合、スキルを使用\n対象を追跡するミサイルを発射し、攻撃力の750%分のダメージ\n（ミサイルは他の生徒、召喚物、遮蔽物によって遮られることがあります）",
             "DescriptionKr": "ATG가 가득 찰 경우 스킬 사용\n대상을 추적하는 미사일을 발사하여 공격력 750% 대미지를 입힌다.\n(미사일은 다른 학생, 소환물, 엄폐물에 의해 가로막힐 수 있습니다.)",
@@ -2111,8 +2319,6 @@
         },
         {
             "Id": "WakamoSwimsuit01Ex05",
-            "NameEn": "Just For You",
-            "NameTh": "เพื่อนายท่านแต่เพียงผู้เดียว",
             "DescriptionEn": "Every 60s, gains one level of the following effect (max. level 3). Increases <b:ATK> by 30%/60%/90%, <b:CriticalChance> by 35%/70%/105% and ATG Recovery by 15%/30%/80%, but increases <d:DamagedRatio> by 10%/20%/50% at level <b>1</b>/<b>2</b>/<b>3</b>.",
             "DescriptionJp": "60秒毎に、以下の効果を自身にすべて適用（計3段階）\n<b:ATK>：30%/60%/90%増加\n<b:CriticalChance>：35%/70%/105%増加\n<d:DamagedRatio>：10%/20%/50%増加\nATG回復速度：15%/30%/80%増加",
             "DescriptionKr": "60초마다 아래의 효과를 자신에게 모두 적용 (총 3단계)\n<b:ATK> : 30%/60%/90% 만큼 증가\n<b:CriticalChance>: 35%/70%/105% 만큼 증가\n<d:DamagedRatio>: 10%/20%/50% 만큼 증가 \nATG 회복속도: 15%/30%/80% 만큼 증가",
@@ -2125,8 +2331,6 @@
         },
         {
             "Id": "WakamoSwimsuit01Passive01",
-            "NameEn": "No One Gets In My Way",
-            "NameTh": "กำจัดผู้รบกวน",
             "DescriptionEn": "Wakamo's EX skills will additionally inflict one stack of <s:SuddenDeath> to the target.\nIf the target accumulates 5 stacks, they will be dealt damage equal to 1000% of their maximum HP.",
             "DescriptionJp": "ワカモのスキルで攻撃された対象は<s:SuddenDeath>状態になる。\n<s:SuddenDeath>が5枚貯まると、該当の対象は最大HPの1000%分のダメージが適用されます。",
             "DescriptionKr": "와카모의 스킬에 피격된 대상은 <s:SuddenDeath> 생성된다.\n<s:SuddenDeath> 5개가 되면 해당 대상은 최대 생명력의 1000% 대미지를 받습니다.",
@@ -2139,8 +2343,6 @@
         },
         {
             "Id": "WakamoHoverCraftEx01",
-            "NameEn": "Twin Cannons",
-            "NameTh": "ปืนใหญ่คู่",
             "DescriptionEn": "Deals 70% damage to up to 8 enemies.",
             "DescriptionJp": "最大で敵8人に対して、順番にそれぞれ攻撃力の70%分のダメージ",
             "DescriptionKr": "적 최대 8인에게 번갈아가며 사격하여 각각 공격력 70% 대미지",
@@ -2153,8 +2355,6 @@
         },
         {
             "Id": "WakamoHoverCraftEx02",
-            "NameEn": "Blaze Rocket",
-            "NameTh": "เบลซ ร็อคเก็ต",
             "DescriptionEn": "Deals 250% damage to up to 2 enemies.",
             "DescriptionJp": "最大で敵2人に対して、順番にそれぞれ攻撃力の250%分のダメージ",
             "DescriptionKr": "적 최대 2인에게 번갈아가며 사격하여 각각 공격력 250% 대미지",
@@ -2167,8 +2367,6 @@
         },
         {
             "Id": "WakamoHoverCraftEx03",
-            "NameEn": "When it comes to this...!",
-            "NameTh": "ถ้ามาถึงจุดนี้ล่ะก็...!",
             "DescriptionEn": "When ATG is full, the hovercraft enters Missile Frenzy mode and begins targeting the resort. During Missile Frenzy, the hovercraft is <s:Immortal>.\nAfter Missile Frenzy ends, fills the hovercraft's groggy gauge to the maximum. While the hovercraft is groggy, increases <d:DamagedRatio> by 200% and decreases <d:CriticalChanceResistPoint> by 100%. If the resort is destroyed, the battle is immediately lost.",
             "DescriptionJp": "ATGの値がMAXの場合、リゾートを破壊するためにミサイル暴走モードに突入\nリゾートが破壊されると敗北します。\nミサイル暴走モード中、ホバークラフトは<s:Immortal>になります。\nミサイル暴走モードが終了すると、ホバークラフトに故障が発生し、グロッキー状態になります。\nグロッキー状態の間、被ダメージ量が200%増加/<d:CriticalChanceResistPoint>が100%減少",
             "DescriptionKr": "ATG가 가득 찰 경우 리조트를 파괴하기 위해 미사일 폭주 모드에 돌입\n리조트가 파괴되면 전투에서 패배합니다.\n미사일 폭주 모드 중 호버크래프트는 <s:Immortal> 상태가 됩니다.\n미사일 폭주 모드가 종료되면 호버크래프트에 고장이 발생해 그로기 상태가 됩니다.\n그로기 중에는 <d:DamagedRatio> 200% 만큼 증가 / <d:CriticalChanceResistPoint> 수치 100% 만큼 감소",
@@ -2181,8 +2379,6 @@
         },
         {
             "Id": "WakamoHoverCraftPassive01",
-            "NameEn": "Ampoule Missile",
-            "NameTh": "มิสไซล์หลอดแก้ว",
             "DescriptionEn": "Deals 450% damage to enemies in a circular area. If this missile is destroyed, increases all students' <b:ATK> by <b>400</b>.",
             "DescriptionJp": "円形範囲内の敵に対して、攻撃力の450%分のダメージ\nこのミサイルを破壊すると、敵のストライカー、スペシャル生徒全体に対して<b:ATK>が400増加",
             "DescriptionKr": "원형 범위의 적에게 공격력 450% 대미지\n미사일을 파괴하면 스트라이커, 스페셜 학생 전체에게 <b:ATK> 400 만큼 증가",
@@ -2195,8 +2391,6 @@
         },
         {
             "Id": "WakamoHoverCraftPassive02",
-            "NameEn": "Shark Missile",
-            "NameTh": "ชาร์ค มิสไซล์",
             "DescriptionEn": "Deals 450% damage to enemies in a circular area. If this missile is destroyed, deals <b>999,999</b> to all other missiles in a circular area.",
             "DescriptionJp": "円形範囲内の敵に対して、攻撃力の450%分のダメージ\nこのミサイルを破壊すると円形範囲内のミサイル全体に対して、999999のダメージ",
             "DescriptionKr": "원형 범위의 적에게 공격력 450% 대미지\n미사일을 파괴하면 원형 범위 내 미사일 전체에게 999999 대미지",
@@ -2209,8 +2403,6 @@
         },
         {
             "Id": "WakamoHoverCraftPassive03",
-            "NameEn": "Black Missile",
-            "NameTh": "มิสไซล์ดำ",
             "DescriptionEn": "Deals 1000% damage to enemies in a circular area. If this missile is destroyed, deals 400% damage to all other missiles in a circular area.",
             "DescriptionJp": "円形範囲内の敵に対して、攻撃力の1000%分のダメージ\nこのミサイルを破壊すると円形範囲内のミサイル全体に対して、攻撃力の400%分のダメージ",
             "DescriptionKr": "원형 범위의 적에게 공격력 1000% 대미지\n미사일을 파괴하면 원형 범위 내 미사일 전체에게 공격력 400% 대미지",
@@ -2223,8 +2415,6 @@
         },
         {
             "Id": "WakamoHoverCraftPassive04",
-            "NameEn": "Helmet Gang's Handmade Missile",
-            "NameTh": "มิสไซล์แฮนด์เมดของแก๊งหมวกกันน็อค",
             "DescriptionEn": "Deals 450% damage to enemies in a circular area. If this missile is destroyed, deals 400% damage to all other missiles in a circular area.",
             "DescriptionJp": "円形範囲内の敵に対して、攻撃力の450%分のダメージ\nこのミサイルを破壊すると円形範囲内のミサイル全体に対して、攻撃力の400%分のダメージ",
             "DescriptionKr": "원형 범위의 적에게 공격력 450% 대미지\n미사일을 파괴하면 원형 범위 내 미사일 전체에게 공격력 400% 대미지",
