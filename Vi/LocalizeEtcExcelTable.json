@@ -4420,7 +4420,7 @@
         {
             "Key": 3588838649,
             "NameVi": "Ghế trắng bãi biển",
-            "DescriptionVi": "Những chiếc ghế trắng làm dịu đi cái nóng mùa hè. Ngồi một lúc và ngắm cảnh biển sẽ cảm nhận được cơn gió mát thổi qua."
+            "DescriptionVi": "Những chiếc ghế trắng làm dịu đi cái nóng mùa hè. Ngồi một lúc và ngắm cảnh biển sẽ cảm nhận được cơn gió mát thổi qua.\n\n<b>\"Khoan! Hình như chiếc ghế này... trông rất quen. Có khi nào chính là <a href=\"https://www.youtube.com/shorts/6XpcG2EtJ_8\">nó</a>.</b>\""
         },
         {
             "Key": 3397039462,
@@ -4604,153 +4604,153 @@
         },
         {
             "Key": 832984722,
-            "NameVi": "エナジードリンクバスケット",
-            "DescriptionVi": "冷たい氷とともに備え付けられてたエナジードリンクのバスケット。一口で活気を取り戻すことができる。"
+            "NameVi": "Giỏ nước tăng lực",
+            "DescriptionVi": "Một giỏ nước tăng lực với đá lạnh. Một ngụm có thể khiến bạn có sức mạnh trở lại."
         },
         {
             "Key": 3592043563,
-            "NameVi": "大運動会のバスケットゴールポスト",
-            "DescriptionVi": "シンプルなデザインのバスケットゴールポスト。選手じゃなくても一度はダンクシュートを決めてみたくなる！"
+            "NameVi": "Lưới ghi bàn bóng rổ của Đại hội thể thao",
+            "DescriptionVi": "Cột ghi bàn bóng rổ với thiết kế đơn giản. Bạn không cần phải là một người chơi giỏi để ghi vào một quả!"
         },
         {
             "Key": 1973452569,
-            "NameVi": "玉入れカゴ・イエロー",
-            "DescriptionVi": "イエロートーンのかわいい玉入れカゴ。色とりどりのボールを投げ入れてみよう！"
+            "NameVi": "Rổ thả bóng màu vàng",
+            "DescriptionVi": "Giỏ bóng màu vàng dễ thương. Hãy ném vài quả bóng đầy màu sắc vào rổ nào!"
         },
         {
             "Key": 3526747408,
-            "NameVi": "玉入れカゴ・ブルー",
-            "DescriptionVi": "ブルートーンのかわいい玉入れカゴ。色とりどりのボールを投げ入れてみよう！"
+            "NameVi": "Rổ thả bóng màu xanh",
+            "DescriptionVi": "Giỏ bóng màu xanh biển dễ thương. Hãy ném vài quả bóng đầy màu sắc vào rổ nào!"
         },
         {
             "Key": 820798347,
-            "NameVi": "玉入れカゴ・スカイブルー",
-            "DescriptionVi": "ライトブルートーンのかわいい玉入れカゴ。色とりどりのボールを投げ入れてみよう！"
+            "NameVi": "Giỏ bóng màu xanh dương",
+            "DescriptionVi": "Giỏ bóng màu dương dễ thương. Hãy ném vài quả bóng đầy màu sắc vào rổ nào!"
         },
         {
             "Key": 2398625876,
-            "NameVi": "大運動会の審判席",
-            "DescriptionVi": "試合を見守る審判席。誰よりも早く状況を把握できる。"
+            "NameVi": "Ghế trọng tài của Đại hội thể thao",
+            "DescriptionVi": "Ghế dành cho trọng tài để theo dõi trận đấu. Ngồi trên chiếc ghế này, bạn có thể nắm bắt tình hình trước bất kỳ ai khác."
         },
         {
             "Key": 4051838828,
-            "NameVi": "大運動会のネット",
-            "DescriptionVi": "丈夫な素材で作られたネット。試合の緊張感あふれるラリーはこのネットで行われる。"
+            "NameVi": "Lưới ngăn cách",
+            "DescriptionVi": "Lưới làm bằng chất liệu chắc chắn. Những trận đấu căng thẳng được chơi chia ra bởi chiếc lưới này."
         },
         {
             "Key": 3620318852,
-            "NameVi": "大運動会の木の床",
-            "DescriptionVi": "丈夫に作られた木の床。摩擦力が高く、滑ることは少ない。"
+            "NameVi": "Sàn gỗ thể thao",
+            "DescriptionVi": "Sàn gỗ bền đẹp. Độ ma sát cao và ít bị trượt."
         },
         {
             "Key": 1998183698,
-            "NameVi": "大運動会のペロロフラッグ装飾",
-            "DescriptionVi": "かわいいペロロがチアリーディングしてくれるフラッグの装飾。可愛さと応援を一度に！"
+            "NameVi": "Cờ trang trí Peroro",
+            "DescriptionVi": "Cờ trang trí Peroro cổ vũ dễ thương. Sự dễ thương và cổ vũ đều được thực hiện cùng một lúc!"
         },
         {
             "Key": 2904276420,
-            "NameVi": "大運動会の応援フラッグ装飾",
-            "DescriptionVi": "見ていると力が湧いてくる応援フラッグの装飾。鮮やかな色が情熱を燃やしてくれる。"
+            "NameVi": "Cờ cổ vũ trang trí",
+            "DescriptionVi": "Cờ cổ vũ mang lại cho bạn sức mạnh khi bạn nhìn thấy chúng. Những màu sắc tươi sáng cháy với niềm đam mê."
         },
         {
             "Key": 114040411,
-            "NameVi": "大運動会の壁紙",
-            "DescriptionVi": "ライトベージュの壁紙。大運動会を輝かせる器具とよく合っている。"
+            "NameVi": "Tường trang trí cho Đại hội thể thao",
+            "DescriptionVi": "Giấy dán tường màu be nhạt. Nó rất phù hợp với đồ đạc làm cho ngày sân lớn tỏa sáng."
         },
         {
             "Key": 832633492,
-            "NameVi": "大運動会の背景",
-            "DescriptionVi": "大運動会を引き立ててくれる背景。大運動会の活気が伝わってくるようだ。"
+            "NameVi": "Nền Đại hội thể thao",
+            "DescriptionVi": "Khung nền dành cho một sự kiện thể thao lớn. Nó dường như truyền đạt sự sống động của một Đại hội thể thao."
         },
         {
             "Key": 3818682926,
-            "NameVi": "大運動会の立看板",
-            "DescriptionVi": "見る人の目を引く大運動会の立て看板。興味がなかった生徒もいつの間にか足を止めている。"
+            "NameVi": "Bảng hiệu đứng Đại hội thể thao",
+            "DescriptionVi": "Một bảng hiệu cho một sự kiện thể thao lớn thu hút sự chú ý của tất cả những ai nhìn thấy nó. Ngay cả những sinh viên không quan tâm đến sự kiện này cũng dừng lại trước khi họ biết điều đó."
         },
         {
             "Key": 4084185733,
-            "NameVi": "大運動会の折りたたみ椅子",
-            "DescriptionVi": "頑丈な鉄製の折り畳みチェア。普段は折りたたんで保管できるため、収納性にも優れている。"
+            "NameVi": "Ghế gấp gọn",
+            "DescriptionVi": "Ghế gấp làm bằng thép chắc chắn. Thường gấp lại để cất gọn dễ dàng."
         },
         {
             "Key": 3719677986,
-            "NameVi": "大運動会の跳び箱",
-            "DescriptionVi": "誰だって跳びたくなる跳び箱。爽やかな色合いは大運動会にピッタリ。"
+            "NameVi": "Tobibako",
+            "DescriptionVi": "Dụng cụ giáo dục thể chất của Đại hội thể thao. Bạn phải giang chân rộng ra nếu muốn nhảy qua nó."
         },
         {
             "Key": 2320061101,
-            "NameVi": "大運動会のパン食い競走用スタンド",
-            "DescriptionVi": "おいしいドーナッツがずらりと並んでいるパン食い競走用のスタンド。美食家の生徒なら競技に参加したいかも？"
+            "NameVi": "Cột treo cho cuộc thi ăn bánh mì",
+            "DescriptionVi": "Một giá treo cho cuộc thi ăn bánh mì với nhiều loại bánh rán thơm ngon. Nếu bạn là một sinh viên sành ăn, bạn có thể muốn tham gia cuộc thi.\n\n<b>\"Bản thân tôi cũng không thể tưởng tượng được thứ này thực sự tồn tại.\"</b>"
         },
         {
             "Key": 523248880,
-            "NameVi": "大運動会の休憩テント",
-            "DescriptionVi": "心地よい休息を提供するテント。試合に疲れた体をしばらく休めるのに最適だ。"
+            "NameVi": "Lều nghỉ ngơi",
+            "DescriptionVi": "Một chiếc lều dựng lên làm khu vực nghỉ ngơi, đem lại sự thoải mái và xua tan sự mệt mỏi khỏi cơ thể của bạn."
         },
         {
             "Key": 2216160600,
-            "NameVi": "大運動会の応援スタンド",
-            "DescriptionVi": "応援するのにうってつけのスタンド。競技中の生徒を応援する熱気でいっぱいだ。"
+            "NameVi": "Khán đài cổ vũ",
+            "DescriptionVi": "Các khán đài là nơi hoàn hảo để cổ vũ và tràn ngập sự hào hứng cổ vũ cho các thí sinh thi đấu."
         },
         {
             "Key": 2711187349,
-            "NameVi": "大運動会の器具保管箱",
-            "DescriptionVi": "様々な競技の小物が保管されている保管箱。人気の種目は早めに接近しなければならない！"
+            "NameVi": "Hộp lưu trữ trang bị thể thao",
+            "DescriptionVi": "Nơi lưu giữ các vật phẩm nhỏ từ các cuộc thi khác nhau."
         },
         {
             "Key": 4186446994,
-            "NameVi": "大運動会のランチテーブル",
-            "DescriptionVi": "大運動会の華であるランチ用のテーブル。午前の反省会をし、逆転優勝を狙うための作戦会議に使える。"
+            "NameVi": "Bàn ăn trưa",
+            "DescriptionVi": "Một bàn ăn trưa với bình hoa được sử dụng trong các sự kiện thể thao lớn. Nó có thể được sử dụng cho một cuộc họp chiến lược để xem xét các sự kiện của buổi sáng và hướng tới một chiến thắng khó chịu."
         },
         {
             "Key": 3249630751,
-            "NameVi": "大運動会のトロフィー陳列台",
-            "DescriptionVi": "栄光あるトロフィーが並んだ大運動会のトロフィー陳列台。大運動会に参加する生徒たちの目標であり夢が詰まっている。"
+            "NameVi": "Kệ đứng trưng bày cúp",
+            "DescriptionVi": "Kệ đứng trưng bày cúp của Đại hội thể thao, được xếp với những chiếc cúp vinh quang. Đây là mục tiêu và là ước mơ của các thí sinh tham gia."
         },
         {
             "Key": 1270765820,
-            "NameVi": "大運動会の入場ゲート",
-            "DescriptionVi": "華やかな大運動会の開幕を知らせる入場ゲート。入った瞬間から熱気が感じられる。"
+            "NameVi": "Cổng vào Đại hội thể thao",
+            "DescriptionVi": "Cổng vào báo hiệu sự bắt đầu của một sự kiện thể thao ngoạn mục. Bạn có thể cảm nhận được sự phấn khích ngay từ khi bước vào."
         },
         {
             "Key": 607571213,
-            "NameVi": "アビドス教室の黒板",
-            "DescriptionVi": "キレイに片付けられている黒板。なにかちょっと落書きしたくなる。"
+            "NameVi": "Bảng đen lớp học",
+            "DescriptionVi": "Một chiếc bảng đen được cất gọn gàng.\n\n<b>\"Hay là mình nên vẽ thứ gì lên đấy cho đẹp nhỉ?\"</b>"
         },
         {
             "Key": 1585717654,
-            "NameVi": "アビドス教室の生徒用ロッカー",
-            "DescriptionVi": "アビドスの生徒に与えられるロッカー。内部を飾るのは各自の自由。"
+            "NameVi": "Tủ đựng đồ của học sinh Abydos",
+            "DescriptionVi": "Tủ khóa được trao cho học sinh Abydos. Mỗi học sinh được tự do trang trí bên trong tuỳ theo sở thích."
         },
         {
             "Key": 1946673948,
-            "NameVi": "アビドス教室の収納ケース",
-            "DescriptionVi": "教室に必要なものを収納できる収納ケース。色の配分が可愛い。"
+            "NameVi": "Tủ cất đồ",
+            "DescriptionVi": "Dùng trong trường hợp cất giữ đồ cho nhu cầu lớp học. Tủ được phối màu dễ thương."
         },
         {
             "Key": 1608437119,
-            "NameVi": "アビドス教室の椅子",
-            "DescriptionVi": "すっきりした外観が印象的な教室の椅子。机を少し移せば友達と並んで座ることができる。"
+            "NameVi": "Ghế lớp học",
+            "DescriptionVi": "Ghế lớp học sạch sẽ, gọn gàng. Nếu bạn di chuyển ghế của mình một chút, bạn có thể ngồi cạnh bạn bè của mình."
         },
         {
             "Key": 2332133708,
-            "NameVi": "アビドス教室の壁掛け時計",
-            "DescriptionVi": "すっきりとしたデザインの壁掛け時計。ランチタイムが始る前の1分1秒を争う生徒たちにとって重要なもの。"
+            "NameVi": "Đồng hồ treo tường phòng học",
+            "DescriptionVi": "Một chiếc đồng hồ treo tường được thiết kế gọn gàng. Điều thú vị là sinh viên luôn hóng từng phút giây để mong đến giờ ăn trưa hoặc ra về."
         },
         {
             "Key": 2029098150,
-            "NameVi": "アビドス教室のお弁当が置かれた机",
-            "DescriptionVi": "誰かの温かい気持ちのこもったお弁当が置かれた机。食事の時間はまだ遠い。"
+            "NameVi": "Bàn ăn với hộp cơm trưa",
+            "DescriptionVi": "Một cái bàn với hộp cơm chứa đầy hơi ấm của ai đó. Giờ ăn vẫn còn xa lắm."
         },
         {
             "Key": 2742545103,
-            "NameVi": "アビドス教室の床",
-            "DescriptionVi": "ベージュ色が印象的な教室の床。滑りにくい仕様で安全だ。"
+            "NameVi": "Sàn phòng học",
+            "DescriptionVi": "Màu be của sàn phòng học rất ấn tượng. Nó an toàn và không trơn trượt."
         },
         {
             "Key": 2333504969,
-            "NameVi": "アビドス教室の廊下パーテーション",
-            "DescriptionVi": "スペースを効率的に分けられる教室のパーテーション。楽しい状況を演出できる。"
+            "NameVi": "Vách ngăn hành lang trong phòng học",
+            "DescriptionVi": "Vách ngăn phòng học phân chia không gian hiệu quả. Có thể tạo ra các tình huống vui nhộn."
         },
         {
             "Key": 3598923842,
