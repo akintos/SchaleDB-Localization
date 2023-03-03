@@ -3158,7 +3158,7 @@
                 "Tw": "遭受的傷害量增加",
                 "Cn": "全局承伤倍率提升",
                 "Vi": "Sát thương phải chịu tăng",
-                "Kr": "받는 대미지량 감소"
+                "Kr": "받는 대미지량 증가"
             },
             "Debuff_DamageRatio": {
                 "En": "Damage Dealt Down",
@@ -4304,7 +4304,7 @@
             "TypeDamage": {
                 "En": "Increases when dealt {0} damage.",
                 "Jp": "{0}ダメージを受けると増加する。",
-                "Kr": "{0} 데미지를 입으면 증가.",
+                "Kr": "{0} 대미지를 입으면 증가.",
                 "Th": "เพิ่มเมื่อได้รับความเสียหาย {0}",
                 "Tw": "受到{0}傷害時增加。",
                 "Cn": "受到{0}伤害时提升",
@@ -6710,7 +6710,7 @@
             "home_features_list": {
                 "En": "<li>Full information on all students and their skills, summons and vehicles.</li><li>Calculation feature that can display a student's stats under any configuration of level, equipment and buffs, and calculate skill damage and healing against a configurable target enemy.</li><li>Complete Items, Equipment and Furniture database.</li><li>Reward drops, maps and detailed enemy information for all Campaign, Event Quest, Challenge and Daily stages.</li><li>Stats and Skill information for Total Assault bosses and Joint Firing Drill events.</li><li>View the chances of possible items received from crafting nodes.</li>",
                 "Jp": "<li>すべての生徒とそのスキル、召喚物ならびに搭乗物に関する詳細な情報。</li><li>レベル、装備、バフのあらゆる組み合わせに対応した網羅的なステータス計算機能および様々な敵設定に対応したスキルダメージ量と回復量の計算機能。</li><li>アイテム、装備、家具に関する完全なデータベース。</li><li>すべての任務、イベントクエスト、チャレンジ、デイリーステージに関する獲得報酬、マップ、敵の詳細な情報。</li><li>総力戦ボスと合同火力演習に関するステータスとスキルの情報</li><li>各製造ノードから入手可能なアイテムの入手確率。</li>",
-                "Kr": "<li>학생들의 능력치, 스킬, 소환물에 대한 모든 정보.</li><li>학생의 레벨, 장비, 버프에 따른 능력치와, 특정 적에 대한 공격과 스킬의 치유/데미지량 계산 기능.</li><li>아이템, 장비, 가구의 데이터베이스.</li><li>스테이지, 이벤트, 챌린지의 보상, 지도, 적 정보.</li><li>총력전 보스의 능력치와 스킬 정보와 종합전술시험 이벤트 정보.</li><li>제조 노드의 등장 확률과 획득 가능한 보상 정보.</li>",
+                "Kr": "<li>학생들의 능력치, 스킬, 소환물에 대한 모든 정보.</li><li>학생의 레벨, 장비, 버프에 따른 능력치와, 특정 적에 대한 공격과 스킬의 치유/대미지량 계산 기능.</li><li>아이템, 장비, 가구의 데이터베이스.</li><li>스테이지, 이벤트, 챌린지의 보상, 지도, 적 정보.</li><li>총력전 보스의 능력치와 스킬 정보와 종합전술시험 이벤트 정보.</li><li>제조 노드의 등장 확률과 획득 가능한 보상 정보.</li>",
                 "Th": "<li>ข้อมูลของนักเรียนและสกิลทุกคน รวมไปถึงยานพาหนะ, วัตถุอัญเชิญและวัตถุกำบังอย่างครบถ้วน</li><li>หน้าต่างคำนวนค่าสถานะต่างๆ ของนักเรียนภายใต้เงื่อนไขทุกรูปแบบไม่ว่าจะเป็นจำนวนดาว, เลเวล, อุปกรณ์สวมใส่หรือบัพจากสกิลต่างๆ</li><li>ลิสของไอเทม, อุปกรณ์สวมใส่และเฟอร์นิเจอร์อย่างครบถ้วน</li><li>รางวัลที่ได้รับ, แผนที่และข้อมูลของศัตรูแบบละเอียดสำหรับทุกภารกิจหลัก, เควสอีเวนท์, ชาเลนจ์และด่านเควสรายวัน</li><li>ค่าสถานะและข้อมูลสกิลสำหรับอีเวนท์เรดบอสและการสอบประมวลผล</li><li>ดูตารางและอัตราการได้รับไอเทมต่างๆ จากการคราฟไอเทม</li>",
                 "Tw": "<li>有關全體學生和技能，包含召喚單位與載具單位的完整信息。</li><li>全面的數據計算，可以顯示學生在任何星級、等級、裝備和技能的增益效果下的面板數據。</li><li>完整的物品、裝備和傢俱數據庫。</li><li>所有關卡的獎勵掉落、地圖和詳細的敵人信息。</li><li>總力戰BOSS與綜合戰術考試的數據與技能信息。</li><li>查看從合成節點可能獲取物品的幾率。</li>",
                 "Cn": "<li>全体学生及其技能、召唤物、战术支援载具的完整信息</li><li>全面的数据计算，可以显示学生在任意星级、等级、装备、技能和增益状态下的面板数据</li><li>完整的物品、装备和家具数据库</li><li>所有关卡的掉落奖励、地图和详细的敌人信息</li><li>总力战BOSS与合同火力演习的数据及技能信息</li><li>查看从制造节点可能获取物品的概率</li>",
