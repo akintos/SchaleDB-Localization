@@ -555,7 +555,7 @@
         {
             "SkillId": 10004500,
             "NameCn": "无所遁形",
-            "DescriptionCn": "攻击时，对没有掩体掩护的敌方单位造成攻击力<?1>的追加伤害",
+            "DescriptionCn": "攻击时，对未处于<b>掩体掩护状态</b>的敌方单位造成攻击力<?1>的追加伤害",
             "ParametersCn": [
                 [
                     "2.7%",
@@ -781,7 +781,7 @@
         {
             "SkillId": 10006500,
             "NameCn": "风纪委员的魄力",
-            "DescriptionCn": "在非掩体掩护状态下攻击时，对敌方单位造成攻击力<?1>的追加伤害",
+            "DescriptionCn": "自身在非<b>掩体掩护状态</b>下攻击时，对敌方单位造成攻击力<?1>的追加伤害",
             "ParametersCn": [
                 [
                     "22.6%",
@@ -1345,7 +1345,7 @@
         {
             "SkillId": 10011200,
             "NameCn": "坏孩子在哪里？",
-            "DescriptionCn": "将<s:FormChange>倍率提升至153%，<b:Range>提升24.4%，<b:CriticalChance>提升<?1>，<d:AttackSpeed>降低18.8%(持续30秒)",
+            "DescriptionCn": "将<s:FormChange>倍率提升至153%并优先锁定<b>攻击力</b>最高的敌方单位，<b:Range>提升24.4%，<b:CriticalChance>提升<?1>，<d:AttackSpeed>降低18.8%(持续30秒)",
             "ParametersCn": [
                 [
                     "26.3%",
@@ -1364,7 +1364,7 @@
         {
             "SkillId": 10011300,
             "NameCn": "大家，集中注意！",
-            "DescriptionCn": "战斗开始时，获得<?1>技能费用(每场战斗仅触发1次)",
+            "DescriptionCn": "战斗开始时，获得<?1>技能COST(每场战斗仅触发1次)",
             "ParametersCn": [
                 [
                     "2",
@@ -1509,7 +1509,7 @@
         {
             "SkillId": 10012500,
             "NameCn": "绷紧神经",
-            "DescriptionCn": "未拥有群控状态时，<b:DEF>提升<?1>",
+            "DescriptionCn": "自身未拥有<b>群控状态</b>时，<b:DEF>提升<?1>",
             "ParametersCn": [
                 [
                     "13.4%",
@@ -3103,7 +3103,7 @@
         {
             "SkillId": 16001200,
             "NameCn": "出击！",
-            "DescriptionCn": "令自身向指定方向移动一段距离，期间<b:Dodge>提升43.4%/\n<b:AttackSpeed>提升<?1>(持续30秒)",
+            "DescriptionCn": "令自身向指定方向移动一段距离，期间<b:Dodge>提升43.4%/\n随后<b:AttackSpeed>提升<?1>(持续30秒)",
             "ParametersCn": [
                 [
                     "30.2%",
@@ -3210,7 +3210,7 @@
         {
             "SkillId": 16002200,
             "NameCn": "未知框",
-            "DescriptionCn": "令圆形范围内的4名我方单位移动到指定位置，随后赋予治愈力<?1>的<b:Shield>",
+            "DescriptionCn": "令圆形范围内的至多4名我方单位移动到指定位置，随后赋予治愈力<?1>的<b:Shield>",
             "ParametersCn": [
                 [
                     "175%",
@@ -3347,7 +3347,7 @@
         },
         {
             "SkillId": 16003300,
-            "NameCn": "自卫团的底力",
+            "NameCn": "自卫队的毅力",
             "DescriptionCn": "每25秒对1名敌方单位造成攻击力<?1>的伤害",
             "ParametersCn": [
                 [
@@ -3385,7 +3385,7 @@
         },
         {
             "SkillId": 16003500,
-            "NameCn": "自卫团的猛袭",
+            "NameCn": "自卫队的猛袭",
             "DescriptionCn": "攻击时，对拥有<b>群控状态</b>的敌方单位造成攻击力<?1>的追加伤害",
             "ParametersCn": [
                 [
@@ -3435,7 +3435,7 @@
         },
         {
             "SkillId": 16003350,
-            "NameCn": "自卫团的毅力+",
+            "NameCn": "自卫队的毅力+",
             "DescriptionCn": "每25秒对1名敌方单位造成攻击力<?1>的伤害/\n并施加<c:Stunned>状态(持续3秒)",
             "ParametersCn": [
                 [
@@ -4026,7 +4026,7 @@
         {
             "SkillId": 23001200,
             "NameCn": "供餐时间到！",
-            "DescriptionCn": "令圆形范围内的4名我方单位移动到指定位置，随后回复治愈力<?1>的生命值",
+            "DescriptionCn": "令圆形范围内的至多4名我方单位移动到指定位置，随后回复治愈力<?1>的生命值",
             "ParametersCn": [
                 [
                     "109%",
@@ -4270,7 +4270,7 @@
         },
         {
             "SkillId": 23003300,
-            "NameCn": "破坏作业：计划A",
+            "NameCn": "破坏作业：方案A",
             "DescriptionCn": "每30秒令1名敌方单位<d:HealEffectiveness>降低<?1>(持续15秒)",
             "ParametersCn": [
                 [
@@ -4289,7 +4289,7 @@
         },
         {
             "SkillId": 23003400,
-            "NameCn": "武装强化：计划B",
+            "NameCn": "武装强化：方案B",
             "DescriptionCn": "<b:CriticalChance>提升<?1>",
             "ParametersCn": [
                 [
@@ -4327,7 +4327,7 @@
         },
         {
             "SkillId": 23003450,
-            "NameCn": "武装强化：计划B+",
+            "NameCn": "武装强化：方案B+",
             "DescriptionCn": "<b:CriticalChance>提升<?1>/\n<b:CriticalChance>提升<?2>",
             "ParametersCn": [
                 [
@@ -4358,7 +4358,7 @@
         },
         {
             "SkillId": 23003350,
-            "NameCn": "破坏作业：计划A+",
+            "NameCn": "破坏作业：方案A+",
             "DescriptionCn": "每30秒令1名敌方单位<d:HealEffectiveness>降低<?1>(持续25秒)",
             "ParametersCn": [
                 [
@@ -4837,7 +4837,7 @@
         {
             "SkillId": 26002200,
             "NameCn": "茱莉的料理时间！",
-            "DescriptionCn": "令圆形范围内的4名敌方单位移动到指定位置，随后施加攻击力<?1>的<d:Poison>状态(持续20秒)",
+            "DescriptionCn": "令圆形范围内的至多4名敌方单位移动到指定位置，随后施加攻击力<?1>的<d:Poison>状态(持续20秒)",
             "ParametersCn": [
                 [
                     "58.9%",
@@ -5670,7 +5670,7 @@
         {
             "SkillId": 10015200,
             "NameCn": "世界的 法则 将要崩溃！",
-            "DescriptionCn": "对直线范围内的敌方单位造成攻击力<?1>的伤害\n基于<s:EnergyBatteryHalf>充能阶段将伤害提升至<b>1.5/2倍</b>/\n发射后，<s:EnergyBatteryHalf>充能将清零",
+            "DescriptionCn": "对直线范围内的敌方单位造成攻击力<?1>的伤害\n基于<s:EnergyBatteryHalf>充能阶段将伤害提升至<b>1.5/2倍</b>/\n发射后，<s:EnergyBatteryHalf>充能清零",
             "ParametersCn": [
                 [
                     "311%",
@@ -5689,7 +5689,7 @@
         {
             "SkillId": 10015300,
             "NameCn": "光呀！",
-            "DescriptionCn": "每25秒，<b:CriticalChance>提升<?1>(持续20秒)/\n<s:EnergyBatteryHalf>充能提升1阶段(至多提升2阶段)",
+            "DescriptionCn": "每25秒，<b:CriticalChance>提升<?1>(持续20秒)/\n<s:EnergyBatteryHalf>充能提升1阶段(至多提升至2阶段)",
             "ParametersCn": [
                 [
                     "17%",
@@ -8088,7 +8088,7 @@
         {
             "SkillId": 10026200,
             "NameCn": "给我站住！",
-            "DescriptionCn": "移动到指定位置，随后赋予自身治愈力<?1>的<b:Shield>(持续20秒)/\n对圆形范围内的敌方单位造成攻击力<?2>的伤害<?3>",
+            "DescriptionCn": "移动到指定位置，随后赋予自身治愈力<?1>的<b:Shield>(持续20秒)/\n对自身周围圆形范围内的敌方单位造成攻击力<?2>的伤害<?3>",
             "ParametersCn": [
                 [
                     "276%",
@@ -8469,7 +8469,7 @@
         {
             "SkillId": 10028350,
             "NameCn": "给我嗨起来！+",
-            "DescriptionCn": "每35秒，<b:ATK>提升<?1>(持续23秒)/\n获得<?2>技能费用",
+            "DescriptionCn": "每35秒，<b:ATK>提升<?1>(持续23秒)/\n获得<?2>技能COST",
             "ParametersCn": [
                 [
                     "25.1%",
@@ -8864,7 +8864,7 @@
         {
             "SkillId": 20008300,
             "NameCn": "补给计划B",
-            "DescriptionCn": "每45秒令1名我方单位回复治愈力<?1>的生命值",
+            "DescriptionCn": "每45秒令1名<b>当前生命值百分比</b>最低的我方单位回复治愈力<?1>的生命值",
             "ParametersCn": [
                 [
                     "129%",
@@ -9412,6 +9412,49 @@
             ]
         },
         {
+            "SkillId": 40007300,
+            "NameCn" : "我带来了一些料理！",
+            "DescriptionCn": "和香(温泉)每3秒对自身周围圆形范围内1名<b>当前生命值百分比</b>最低的我方单位投掷零食(持续32秒)\n<b>温泉馒头</b>：回复治愈力<?1>的生命值\n<b>谷物棒</b>：回复治愈力<?2>的生命值\n<b>牛奶</b>：回复治愈力<?3>的生命值",
+            "ParametersCn": [
+                [
+                    "20.3%",
+                    "23.3%",
+                    "29.4%",
+                    "32.5%",
+                    "38.6%",
+                    "41.6%",
+                    "47.7%",
+                    "50.7%",
+                    "56.8%",
+                    "59.9%"
+                ],
+                [
+                    "24.8%",
+                    "28.5%",
+                    "36%",
+                    "39.7%",
+                    "47.1%",
+                    "50.8%",
+                    "58.3%",
+                    "62%",
+                    "69.5%",
+                    "73.2%"
+                ],
+                [
+                    "29.3%",
+                    "33.7%",
+                    "42.5%",
+                    "46.9%",
+                    "55.7%",
+                    "60.1%",
+                    "68.9%",
+                    "73.3%",
+                    "82.1%",
+                    "86.5%"
+                ]
+            ]
+        },
+        {
             "SkillId": 20010300,
             "NameCn": "女将的待客之道",
             "DescriptionCn": "每25秒令1名<b>当前生命值百分比</b>最低的我方单位<b:HealEffectiveness>提升<?1>(持续20秒)",
@@ -9502,7 +9545,7 @@
         {
             "SkillId": 10031200,
             "NameCn": "冷硬派羽子板射击",
-            "DescriptionCn": "使用该技能时，每持有1个<s:Misdeed>则获得<?1>技能费用(<s:Misdeed>持有数将清零)\n对1名敌方单位打出羽毛毽，造成攻击力<?2>的伤害/\n目标周围存在其他敌方单位时，羽毛毽将继续弹跳至该单位并对其造成同样的伤害(至多弹跳11次)",
+            "DescriptionCn": "使用该技能时，每持有1个<s:Misdeed>则获得<?1>技能COST(<s:Misdeed>持有数将清零)\n对1名敌方单位打出羽毛毽，造成攻击力<?2>的伤害/\n目标周围存在其他敌方单位时，羽毛毽将继续弹跳至该单位并对其造成同样的伤害(至多弹跳11次)",
             "ParametersCn": [
                 [
                     "0.5",
@@ -11588,7 +11631,7 @@
         {
             "SkillId": 10041200,
             "NameCn": "虚无的世界",
-            "DescriptionCn": "对7个圆形范围内的敌方单位每<b>4秒</b>造成攻击力<?1>的持续伤害(持续48秒)\n(使用EX技能时，清除上一次EX攻击残余的攻击效果)",
+            "DescriptionCn": "对7个圆形范围内的敌方单位每<b>4秒</b>各造成攻击力<?1>的持续伤害(持续48秒)\n(使用EX技能时，清除上一次EX攻击残余的攻击效果)",
             "ParametersCn": [
                 [
                     "7.5%",
@@ -12776,7 +12819,7 @@
         {
             "SkillId": 10047200,
             "NameCn": "夏日海边，发～热～",
-            "DescriptionCn": "对至多3名敌方单位发射共3颗榴弹，对目标及其周围圆形范围内的敌方单位造成攻击力<?1>的伤害，\n并施加<c:Stunned>状态(持续<?2>)/\n目标已拥有群控状态时，改为：\n对目标造成攻击力<?3>的伤害，\n并施加<c:Stunned>状态(持续<?4>)",
+            "DescriptionCn": "锁定至多3名敌方单位发射共3颗榴弹，对目标及其周围圆形范围内的敌方单位造成攻击力<?1>的伤害，\n并施加<c:Stunned>状态(持续<?2>)/\n目标已拥有群控状态时，改为：\n对目标造成攻击力<?3>的伤害，\n并施加<c:Stunned>状态(持续<?4>)",
             "ParametersCn": [
                 [
                     "232%",
@@ -14097,7 +14140,7 @@
         {
             "SkillId": 16011200,
             "NameCn": "意志如钢的穿甲射击",
-            "DescriptionCn": "对1名敌方单位造成攻击力<?1>的伤害/\n可额外消耗2技能费用，每1技能费用提升30%的伤害\n(费用增减基于EX技能基础费用计算)",
+            "DescriptionCn": "对1名敌方单位造成攻击力<?1>的伤害/\n可额外消耗2技能COST，每1技能COST提升30%的伤害\n(费用增减基于EX技能基础费用计算)",
             "ParametersCn": [
                 [
                     "452%",
