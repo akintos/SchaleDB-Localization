@@ -46,7 +46,6 @@ Certain enemies in the game such as additional enemies in Total Assault or other
 | Language | Contributor(s) |
 | --- | --- |
 | English (En) | lonqie |
-| Japanese (Jp) | Gedanke1918 |
 | Korean (Kr) | akintos |
 | Thai (Th) | TKRotund |
 | Traditional Chinese (Tw) |  |

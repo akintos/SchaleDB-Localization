@@ -8637,13 +8637,61 @@
             "NameEn": "Tricky Variables",
             "DescriptionEn": "Randomly throws one of three bombs that deal a different amount of damage to enemies in a circular area, depending on the bomb chosen.\n<b>Bullet Bomb</b>: <?1> damage.\n<b>Electric Field Bomb</b>: <?2> damage.\n<b>Explosive Bomb</b>: <?3> damage.",
             "ParametersEn": [
+                [
+                    "233%",
+                    "268%",
+                    "339%",
+                    "374%",
+                    "444%",
+                    "479%",
+                    "549%",
+                    "584%",
+                    "654%",
+                    "689%"
+                ],
+                [
+                    "221%",
+                    "255%",
+                    "321%",
+                    "354%",
+                    "421%",
+                    "454%",
+                    "521%",
+                    "554%",
+                    "620%",
+                    "654%"
+                ],
+                [
+                    "209%",
+                    "241%",
+                    "304%",
+                    "335%",
+                    "398%",
+                    "429%",
+                    "492%",
+                    "524%",
+                    "587%",
+                    "618%"
+                ]
             ]
         },
         {
             "SkillId": 10063300,
             "NameEn": "Did You Think You're Alone!?",
-            "DescriptionEn": "Every ??s, deals <?1> damage to one enemy that ricochets and deals the same damage to up to two nearby enemies. Koyuki reloads immediately after activation.",
+            "DescriptionEn": "Every 30s, deals <?1> damage to one enemy that ricochets and deals the same damage to up to two nearby enemies. Koyuki reloads immediately after activation.",
             "ParametersEn": [
+                [
+                    "202%",
+                    "212%",
+                    "223%",
+                    "263%",
+                    "273%",
+                    "283%",
+                    "324%",
+                    "334%",
+                    "344%",
+                    "385%"
+                ]
             ]
         },
         {
@@ -8668,15 +8716,75 @@
         {
             "SkillId": 10063500,
             "NameEn": "Chaos Theory",
-            "DescriptionEn": "When Koyuki activates her EX Skill, increases her <b:ATK> by a different amount depending on the bomb chosen.\n<b>Bullet Bomb</b>: <?1> for ??s.\n<b>Electric Field Bomb</b>: <?2> for ??s.\n<b>Explosive Bomb</b>: <?3> for ??s.",
+            "DescriptionEn": "When Koyuki activates her EX Skill, increases her <b:ATK> by a different amount depending on the bomb chosen.\n<b>Bullet Bomb</b>: <?1> for 40s.\n<b>Electric Field Bomb</b>: <?2> for 40s.\n<b>Explosive Bomb</b>: <?3> for 40s.",
             "ParametersEn": [
+                [
+                    "15.3%",
+                    "16.1%",
+                    "16.8%",
+                    "19.9%",
+                    "20.6%",
+                    "21.4%",
+                    "24.5%",
+                    "25.2%",
+                    "26%",
+                    "29.1%"
+                ],
+                [
+                    "14.5%",
+                    "15.2%",
+                    "15.9%",
+                    "18.8%",
+                    "19.6%",
+                    "20.3%",
+                    "23.2%",
+                    "23.9%",
+                    "24.6%",
+                    "27.5%"
+                ],
+                [
+                    "13.7%",
+                    "14.4%",
+                    "15%",
+                    "17.8%",
+                    "18.5%",
+                    "19.2%",
+                    "21.9%",
+                    "22.6%",
+                    "23.3%",
+                    "26%"
+                ]
             ]
         },
         {
             "SkillId": 10063450,
             "NameEn": "Do You Believe in Miracles?+",
-            "DescriptionEn": "",
+            "DescriptionEn": "Increases <b:ATK> by <?1> plus a further <?2>.",
             "ParametersEn": [
+                [
+                    "417",
+                    "438",
+                    "459",
+                    "542",
+                    "563",
+                    "583",
+                    "667",
+                    "688",
+                    "708",
+                    "792"
+                ],
+                [
+                    "14%",
+                    "14.7%",
+                    "15.4%",
+                    "18.2%",
+                    "18.9%",
+                    "19.6%",
+                    "22.4%",
+                    "23.1%",
+                    "23.8%",
+                    "26.6%"
+                ]
             ]
         }
     ]

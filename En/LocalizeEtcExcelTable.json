@@ -12,6 +12,12 @@
             "DescriptionEn": "A ticket to participate in a specific Allied Operation."
         },
         {
+            "Key": 1938314993,
+            "Force": true,
+            "NameEn": "Allied Operation Ticket ψ",
+            "DescriptionEn": "A ticket to participate in a specific Allied Operation."
+        },
+        {
             "Key": 1912394354,
             "NameEn": "Advanced Tactical Training Blu-ray (Arius)"
         },
@@ -704,6 +710,10 @@
         {
             "Key": 2103729980,
             "NameEn": "Toki"
+        },
+        {
+            "Key": 59110222,
+            "NameEn": "Koyuki"
         },
         {
             "Key": 1311123432,

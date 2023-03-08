@@ -533,6 +533,10 @@
             "NameVi": "Nagisa"
         },
         {
+            "Key": 59110222,
+            "NameVi": "コユキ"
+        },
+        {
             "Key": 1684631727,
             "NameVi": "Mảnh đá then hoa",
             "DescriptionVi": "Cần có một mảnh đá then hoa để vận hành Phòng chế tạo."
@@ -1876,6 +1880,11 @@
             "Key": 969375987,
             "NameVi": "Eleph của Toki",
             "DescriptionVi": "Eleph huyền bí của Toki."
+        },
+        {
+            "Key": 1138582435,
+            "NameVi": "コユキの神名文字",
+            "DescriptionVi": "コユキの神秘が詰まった神名文字。"
         },
         {
             "Key": 1228759114,
@@ -6135,6 +6144,11 @@
         {
             "Key": 795253347,
             "NameVi": "連合作戦チケットω",
+            "DescriptionVi": "特定の連合作戦に挑戦できるチケット。"
+        },
+        {
+            "Key": 1938314993,
+            "NameVi": "連合作戦チケットψ",
             "DescriptionVi": "特定の連合作戦に挑戦できるチケット。"
         },
         {
