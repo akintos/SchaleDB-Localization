@@ -1402,6 +1402,10 @@
                 "En": "Atra-Hasis' Ark Conquest",
                 "Cn": "阿特拉哈西斯方舟占领战",
                 "Vi": "Cuộc chinh phục rương của Atra-Hasis"
+            },
+            "823": {
+                "ScenarioKey": 87079962,
+                "En": "Phrenapates' Decisive Battle"
             }
         },
         "StageType": {

@@ -2424,6 +2424,62 @@
             "DescriptionCn": "对圆形范围内的敌方单位造成该导弹攻击力450%的伤害\n该导弹被摧毁时，对其周围圆形范围内的其它导弹造成攻击力400%的伤害",
             "NameVi": "Tên lửa tự chế của hội Giang hồ mũ BH",
             "DescriptionVi": "Gây 450% sát thương lên kẻ địch trong một khu vực hình tròn. Nếu tên lửa này bị phá huỷ, gây 400% sát thương lên các tên lửa khác trong một khu vực hình tròn."
+        },
+        {
+            "Id": "EN0002Ex01",
+            "NameEn": "Summon Drone: Firepower Support",
+            "DescriptionEn": "Deals 800% damage to one enemy.",
+            "DescriptionJp": "敵1人に対して、攻撃力の800%分のダメージ",
+            "DescriptionKr": "적 1인에게 공격력 800% 대미지"
+        },
+        {
+            "Id": "EN0002Ex02",
+            "NameEn": "Riding Grenade",
+            "DescriptionEn": "Deals 350% damage to one enemy and 550% damage to enemies in a circular area.",
+            "DescriptionJp": "敵1人に対して、攻撃力の350%分のダメージ/\n円形範囲内の敵に対して、攻撃力の550%分のダメージ",
+            "DescriptionKr": "적 1인에게 공격력 350% 대미지/\n원형범위 내의 적에게 공격력 550% 대미지"
+        },
+        {
+            "Id": "EN0002Ex03",
+            "NameEn": "Strategic Suppression",
+            "DescriptionEn": "Deals 650% damage to enemies in a fan-shaped area and inflicts <c:Stunned> for 1.5s.",
+            "DescriptionJp": "扇形範囲内の敵に対して、攻撃力の650%分のダメージ\n気絶状態を付与（1.5秒間）",
+            "DescriptionKr": "부채꼴범위 내의 적에게 공격력 650% 대미지\n기절 (1.5초간)"
+        },
+        {
+            "Id": "EN0002Ex04",
+            "NameEn": "Punishment Time",
+            "DescriptionEn": "Deals 400% damage to enemies in a fan-shaped area.",
+            "DescriptionJp": "扇形範囲内の敵に対して、攻撃力の400%分のダメージ",
+            "DescriptionKr": "부채꼴범위 내의 적에게 공격력 400% 대미지"
+        },
+        {
+            "Id": "EN0002Ex05",
+            "NameEn": "Hindrance",
+            "DescriptionEn": "Deals 250% guaranteed critical damage to all enemies.",
+            "DescriptionJp": "敵全体に対して攻撃力の250%分の確定会心ダメージ",
+            "DescriptionKr": "적 전체에게 공격력 250% 확정 치명 대미지"
+        },
+        {
+            "Id": "EN0002Ex06A",
+            "NameEn": "Color's Echo - Alpha",
+            "DescriptionEn": "Shiroko*Terror and Phrenapates simulataneously use their skills.\n<b>Shiroko*Terror</b>: Deals 2500% damage to enemies in a straight line.\n<b>Phrenapates</b>: Deals 6000% damage to enemies in a circular area.\nDuring this skill, CC effects inflicted will fill Phrenapates' circular CC gauge proportional to the duration of the effect. When the gauge reaches an amount equivalent to 4.5s, interrupts Phrenapates skill and increases the <b:ATK> of all enemies by 100% for 17s.",
+            "DescriptionJp": "シロコ＊テラーとプレナパテスが同時にスキル使用\nシロコ＊テラー：直線範囲内の敵に対して、攻撃力の2500%分のダメージ\nプレナパテス：円環範囲内の敵に対して、攻撃力の6000%分のダメージ\nスキル使用中、プレナパテスにCC状態ゲージ生成。CC状態4.5秒分累積時、プレナパテスのスキルが中断され、敵全体の攻撃力を100%増加（17秒間）",
+            "DescriptionKr": "시로코 테러와 프레나파테스가 동시에 스킬을 사용\n시로코 테러: 직선범위 내의 적에게 공격력 2500% 대미지\n프레나파테스: 도넛범위 내의 적에게 공격력 6000% 대미지\n스킬 사용 중 프레나파테스에게 군중제어 게이지 생성. 군중제어 효과 4.5초 누적 시 프레나파테스 스킬이 중단되고, 적 전체의 공격력 100% 증가(17초간)"
+        },
+        {
+            "Id": "EN0002Ex06B",
+            "NameEn": "Color's Echo - Beta",
+            "DescriptionEn": "Shiroko*Terror and Phrenapates simulataneously use their skills.\n<b>Shiroko*Terror</b>: Deals 2500% damage to enemies in a circular area.\n<b>Phrenapates</b>: Deals 2500% damage to enemies in a straight line.\nDuring this skill, CC effects inflicted will fill Phrenapates' circular CC gauge proportional to the duration of the effect. When the gauge reaches an amount equivalent to 4.5s, interrupts Phrenapates skill and increases the <b:ATK> of all enemies by 100% for 17s.",
+            "DescriptionJp": "シロコ＊テラーとプレナパテスが同時にスキル使用\nシロコ＊テラー：円環範囲内の敵に対して、攻撃力の2500%分のダメージ\nプレナパテス：直線範囲内の敵に対して、攻撃力の2500%分のダメージ\nスキル使用中、プレナパテスにCC状態ゲージ生成。CC状態4.5秒分累積時、プレナパテスのスキルが中断され、敵全体の攻撃力を100%増加（17秒間）",
+            "DescriptionKr": "시로코 테러와 프레나파테스가 동시에 스킬을 사용\n시로코 테러: 도넛범위 내의 적에게 공격력 2500% 대미지\n프레나파테스: 직선범위 내의 적에게 공격력 2500% 대미지\n스킬 사용 중 프레나파테스에게 군중제어 게이지 생성. 군중제어 효과 4.5초 누적 시 프레나파테스 스킬이 중단되고, 적 전체의 공격력 100% 증가(17초간)"
+        },
+        {
+            "Id": "EN0002Ex07",
+            "NameEn": "Atra-Hasis' Ark Defense System",
+            "DescriptionEn": "Phrenapates uses all the energy of the Atra-Hasis' Ark to fire at the enemy, dealing damage to all enemies equal to 1000% of their Max HP.",
+            "DescriptionJp": "プレナパテスが「アトラ・ハシースの箱舟」の全てのエネルギーを相手に発射する。\n敵全体に対して、対象のHPの1000%分のダメージ",
+            "DescriptionKr": "프레나파테스가 아트라하시스의 방주의 모든 에너지를 상대에게 발사한다.\n적 전체에게 대상의 최대 체력 1000% 대미지"
         }
     ]
 }
