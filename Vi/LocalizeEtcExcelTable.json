@@ -534,7 +534,7 @@
         },
         {
             "Key": 59110222,
-            "NameVi": "コユキ"
+            "NameVi": "Koyuki"
         },
         {
             "Key": 1684631727,
@@ -1883,8 +1883,8 @@
         },
         {
             "Key": 1138582435,
-            "NameVi": "コユキの神名文字",
-            "DescriptionVi": "コユキの神秘が詰まった神名文字。"
+            "NameVi": "Eleph của Koyuki",
+            "DescriptionVi": "Eleph huyền bí của Koyuki."
         },
         {
             "Key": 1228759114,
@@ -2363,23 +2363,23 @@
         },
         {
             "Key": 886310733,
-            "NameVi": "Gehenna Supply Box",
-            "DescriptionVi": "Supplies prepared by the Prefect Team before summer boot camp.\nThey'll help you train! Don't worry, they're all winners!"
+            "NameVi": "Hộp tiếp tế Gehenna",
+            "DescriptionVi": "Đồ dùng do Perfect Team chuẩn bị trước trại hè.\nHọ sẽ giúp bạn đào tạo! Đừng lo lắng, tất cả họ đều là người kiên trì!"
         },
         {
             "Key": 2668075095,
-            "NameVi": "GRS Grilled Corn",
-            "DescriptionVi": "Grilled corn prepared by the Gourmet Research Society.\nCurated to the tastes of its members—tastiness not guaranteed!"
+            "NameVi": "Ngô nướng GRS",
+            "DescriptionVi": "Ngô nướng do Hội nghiên cứu người sành ăn (GRS) chuẩn bị.\nĐược tuyển chọn theo sở thích của các thành viên — độ ngon không được đảm bảo!"
         },
         {
             "Key": 1254096944,
-            "NameVi": "Thug Summer Shades",
-            "DescriptionVi": "Seized by the Prefect Team from a troublemaker at the beach.\nSigns of a helpless struggle remain."
+            "NameVi": "Kính râm của kẻ du côn mùa hè",
+            "DescriptionVi": "Bị Perfect Team tịch thu từ một kẻ gây rối ở bãi biển.\nDấu hiệu của một cuộc đấu tranh bất lực vẫn còn."
         },
         {
             "Key": 104149602,
-            "NameVi": "Splashy Helmet",
-            "DescriptionVi": "Seized by the Prefect Team from a Splashy Helmet Gang hoodlum in the beachside slums.\nSigns of a futile struggle remain."
+            "NameVi": "Mũ bảo hiểm lấp lánh",
+            "DescriptionVi": "Bị Perfect Team tịch thu từ một tên lưu manh của Băng đảng Mũ BH lấp lánh trong khu ổ chuột bên bờ biển.\nDấu hiệu của một cuộc đấu tranh bất lực vẫn còn."
         },
         {
             "Key": 2553698243,
@@ -2388,18 +2388,18 @@
         },
         {
             "Key": 1847672830,
-            "NameVi": "Turtle Mushroom",
-            "DescriptionVi": "An exotic mushroom that grows naturally throughout the Shanhaijing district. Contrary to how it looks, its firm texture and great taste make it a delicacy. "
+            "NameVi": "Nấm rùa",
+            "DescriptionVi": "Một loại nấm kỳ lạ mọc tự nhiên khắp quận Shanhaijing. Trái ngược với vẻ ngoài của nó, kết cấu chắc và hương vị tuyệt vời khiến nó trở thành một món ngon."
         },
         {
             "Key": 357098688,
-            "NameVi": "Black Bamboo Shoot",
-            "DescriptionVi": "Black bamboo shoots growing in the gardens of Genryumon. Difficult to obtain due to strict management of Genryumon officers."
+            "NameVi": "Măng đen",
+            "DescriptionVi": "Măng đen mọc trong vườn Genryumon. Khó có được do quản lý nghiêm ngặt của các sĩ quan Genryumon."
         },
         {
             "Key": 3708418519,
-            "NameVi": "Ginseng Doll",
-            "DescriptionVi": "A human-shaped root herb found deep in the mountains of Shanhaijing. It's said to have effects that prolong your life or make you younger."
+            "NameVi": "Búp bê nhân sâm",
+            "DescriptionVi": "Một loại thảo mộc có rễ hình người được tìm thấy sâu trong vùng núi Shanhaijing. Nó được cho là có tác dụng kéo dài tuổi thọ của bạn hoặc khiến bạn trẻ hơn."
         },
         {
             "Key": 3320765287,
@@ -4429,7 +4429,7 @@
         {
             "Key": 3588838649,
             "NameVi": "Ghế trắng bãi biển",
-            "DescriptionVi": "Những chiếc ghế trắng làm dịu đi cái nóng mùa hè. Ngồi một lúc và ngắm cảnh biển sẽ cảm nhận được cơn gió mát thổi qua.\n\n<b>\"Khoan! Hình như chiếc ghế này... trông rất quen. Có khi nào chính là <a href=\"https://www.youtube.com/shorts/6XpcG2EtJ_8\">nó</a>.</b>\""
+            "DescriptionVi": "Những chiếc ghế trắng làm dịu đi cái nóng mùa hè. Ngồi một lúc và ngắm cảnh biển sẽ cảm nhận được cơn gió mát thổi qua.\n\n&lt;b&gt;&quot;Khoan! Hình như chiếc ghế này... trông rất quen. Có khi nào chính là &lt;a href=&quot;https://www.youtube.com/shorts/6XpcG2EtJ_8&quot; target=&quot;_blank&quot;&gt;nó&lt;/a&gt;.&quot;&lt;/b&gt;"
         },
         {
             "Key": 3397039462,
@@ -4689,7 +4689,7 @@
         {
             "Key": 2320061101,
             "NameVi": "Cột treo cho cuộc thi ăn bánh mì",
-            "DescriptionVi": "Một giá treo cho cuộc thi ăn bánh mì với nhiều loại bánh rán thơm ngon. Nếu bạn là một sinh viên sành ăn, bạn có thể muốn tham gia cuộc thi.\n\n<b>\"Bản thân tôi cũng không thể tưởng tượng được thứ này thực sự tồn tại.\"</b>"
+            "DescriptionVi": "Một giá treo cho cuộc thi ăn bánh mì với nhiều loại bánh rán thơm ngon. Nếu bạn là một sinh viên sành ăn, bạn có thể muốn tham gia cuộc thi.\n\n&lt;b&gt;&quot;Bản thân tôi cũng không thể tưởng tượng được thứ này thực sự tồn tại.&quot;&lt;/b&gt;"
         },
         {
             "Key": 523248880,
@@ -4724,7 +4724,7 @@
         {
             "Key": 607571213,
             "NameVi": "Bảng đen lớp học",
-            "DescriptionVi": "Một chiếc bảng đen được cất gọn gàng.\n\n<b>\"Hay là mình nên vẽ thứ gì lên đấy cho đẹp nhỉ?\"</b>"
+            "DescriptionVi": "Một chiếc bảng đen được cất gọn gàng.\n\n&lt;b&gt;&quot;Hay là mình nên vẽ thứ gì lên đấy cho đẹp nhỉ?&quot;&lt;/b&gt;"
         },
         {
             "Key": 1585717654,
