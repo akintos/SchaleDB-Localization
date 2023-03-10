@@ -1,0 +1,119 @@
+{
+    "DataList": [
+        {
+            "Key": 983164925,
+            "Force": true,
+            "DescriptionKr": "아군의 <d:AttackSpeed>가 75% 감소합니다."
+        },
+        {
+            "Key": 3257931121,
+            "Force": true,
+            "DescriptionKr": "적의 <b:Dodge>가 1000% 증가합니다."
+        },
+        {
+            "Key": 2503860611,
+            "Force": true,
+            "DescriptionKr": "아군의 <d:DEF>이 90% 감소합니다."
+        },
+        {
+            "Key": 3301214750,
+            "Force": true,
+            "DescriptionKr": "적 퇴치 시 해당 위치를 중심으로 원형 범위 내의 아군에게 <b>100%</b> 대미지를 줍니다."
+        },
+        {
+            "Key": 648270201,
+            "Force": true,
+            "DescriptionKr": "SR 무기를 사용하는 아군 스트라이커의 <d:ATK>이 90% 감소합니다."
+        },
+        {
+            "Key": 2856565282,
+            "Force": true,
+            "DescriptionKr": "적의 <b:HIT>가 <b>1,500</b> 증가합니다."
+        },
+        {
+            "Key": 1949095289,
+            "Force": true,
+            "DescriptionKr": "아군의 <b:CriticalChance>가 <b>2,000</b> 증가합니다."
+        },
+        {
+            "Key": 1428571194,
+            "Force": true,
+            "DescriptionKr": "EX 스킬 사용 시 아군의 <d:CostRegen>이 <b>60</b> 감소합니다. 효과는 전투가 끝날 대까지 지속됩니다."
+        },
+        {
+            "Key": 3009801818,
+            "Force": true,
+            "DescriptionKr": "MT, AR 무기를 사용하는 아군 학생의 <d:ATK>이 90% 감소합니다."
+        },
+        {
+            "Key": 2490399639,
+            "Force": true,
+            "DescriptionKr": "적들의 <b:MAXHP>이 <b>100,000</b> 증가합니다. 군중제어 효과가 적중할 때 마다 추가로 <b>120,000</b> 대미지를 받습니다."
+        },
+        {
+            "Key": 719379007,
+            "Force": true,
+            "DescriptionKr": "허수아비는 1초마다 최대 체력의 2%의 대미지를 받습니다."
+        },
+        {
+            "Key": 773473613,
+            "Force": true,
+            "DescriptionKr": "팀에 서포터, 어태커, 탱커, 힐러, T.S 가 모두 한명 이상 편성할 경우 아군 전체의 <b:CostRegen>이 <b>700</b> 증가합니다."
+        },
+        {
+            "Key": 3091509634,
+            "Force": true,
+            "DescriptionKr": "부대에 학생을 <b>1/2/3/4</b>명만 편성할 경우, 모든 학생의 <b:ATK>이 300%/150%/100%/50% 증가하고 <b:CostRegen>이 <b>3,500/2,450/1,400/1,050</b> 증가합니다."
+        },
+        {
+            "Key": 3334829467,
+            "Force": true,
+            "DescriptionKr": "적이 1초마다 최대 체력의 1.5% 를 회복합니다."
+        },
+        {
+            "Key": 2045771535,
+            "Force": true,
+            "DescriptionKr": "아군에게 적용된 이로운 효과가 즉시 사라집니다.\n(강화 스킬 효과, 스페셜 캐릭터의 서브 스킬 효과 및 해제 불가능한 효과는 사라지지 않습니다)"
+        },
+        {
+            "Key": 1582447562,
+            "Force": true,
+            "DescriptionKr": "적의 <b:Penetration> 수치가 <b>2,000</b> 증가합니다"
+        },
+        {
+            "Key": 4033973365,
+            "Force": true,
+            "DescriptionKr": "T.S 클래스 학생의 <b:ATK>이 300% 증가합니다.\nAR 무기를 사용하는 아군 학생의 <b:ATK>이 300% 증가합니다.\n(두 효과는 중첩되지 않습니다.)"
+        },
+        {
+            "Key": 328739473,
+            "Force": true,
+            "DescriptionKr": "적을 처치할 때마다 <d:ATK>이 5% 감소합니다 (최대 <b>50</b>회 중첩).\n회복 효과를 받으면 공격력 감소 효과 중첩을 5회 제거합니다."
+        },
+        {
+            "Key": 3427259164,
+            "Force": true,
+            "DescriptionKr": "SR, MG 무기를 사용하는 아군 학생의 <d:ATK>이 90% 감소합니다."
+        },
+        {
+            "Key": 3153525398,
+            "Force": true,
+            "DescriptionKr": "허수아비는 일정 시간마다 상태가 변화합니다.\n<b>디버프 상태</b>: 허수아비에 회복 효과를 주면 아군 학생에게 <b>10,000</b> 대미지를 가합니다 (방어력으로 감소되며 회피 가능). 허수아비는 <d:HealedLimit> 상태가 되어 받는 회복 효과가 <b>1</b>로 고정됩니다.<b>통상 상태</b>: 회복 효과가 적용됩니다."
+        },
+        {
+            "Key": 3902330525,
+            "Force": true,
+            "DescriptionKr": "적 사망 시 해당 위치에 화염 지대가 생성되어 20초 동안 매 초 <b>100%</b>의 대미지를 가합니다."
+        },
+        {
+            "Key": 3239764743,
+            "Force": true,
+            "DescriptionKr": "적의 <b:CriticalChanceResistPoint> 수치가 <b>700</b> 증가합니다."
+        },
+        {
+            "Key": 1246791085,
+            "Force": true,
+            "DescriptionKr": "적이 <d:Burn>, <d:Chill>, <d:Poison>, <d:Cheerleading> 효과가 적용되거나 그로 인한 대미지를 받을 때마다 추가로 <b>70,000</b> 대미지를 받습니다.\n적의 <b:MAXHP>이 150% 증가합니다."
+        }
+    ]
+}
